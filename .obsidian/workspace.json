@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "30c45f89c74d68c8",
+        "id": "ff07854631ca5fcc",
         "type": "tabs",
         "children": [
           {
-            "id": "94304e46cc79c11c",
+            "id": "fc8c519bab54df8f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -128,13 +136,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "798f55b4478c2a8e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,11 +163,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94304e46cc79c11c",
+  "active": "fc8c519bab54df8f",
   "lastOpenFiles": [
+    "README.md",
+    "personal",
+    "Welcome.md",
     "moclojer/teste.md",
     "2024-08-12.md",
-    "Welcome.md",
     "moclojer",
     "bcc"
   ]

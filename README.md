@@ -1,0 +1,1 @@
+My personal notetaking repo, private, for much longer, I hope.
