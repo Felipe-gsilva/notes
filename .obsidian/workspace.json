@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/Aula 5.md",
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/Aula 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eefc29d57e17d8d7",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/Aula 5.md",
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/Aula 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/Aula 5.md",
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/Aula 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/Aula 5.md"
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/Aula 4.md"
               }
             }
           },
@@ -167,6 +168,14 @@
   },
   "active": "72c01cc14326efe5",
   "lastOpenFiles": [
+    "bcc/4° Semestre/Probabilidade e Estatística/Aula 4.md~",
+    "ToDo kanban.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/Aula 4.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/Projeto.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/Probabilidade e Estatística.md",
+    "bcc/4° Semestre/ED 2/Aula 4.md",
+    "bcc/4° Semestre/ED 2/Aula 3.md",
+    "bcc/4° Semestre/Cálculo numérico/Aula 5.md",
     "bcc/3° Semestre/AC/CPU.md",
     "bcc/3° Semestre/AC/Ciclo de instrução – O retorno.md",
     "bcc/4° Semestre/4° Semestre.md",
@@ -175,7 +184,6 @@
     "bcc/3° Semestre/AC/GPU.md",
     "bcc/3° Semestre/AC/Dispositivos de E-S.md",
     "bcc/3° Semestre/AC/Aritmética Computacional.md",
-    "bcc/4° Semestre/Cálculo numérico/Aula 5.md",
     "Untitled.canvas",
     "bcc/4° Semestre/Cálculo numérico/Aula 5.md~",
     "README.md",
@@ -188,13 +196,6 @@
     "personal/Web Dev/Laravel/Config.md",
     "personal/Web Dev/Laravel/Request Lifecycle/Routing.md",
     "personal/Web Dev/Laravel/Request Lifecycle/Request Lifecycle.md",
-    "personal/Web Dev/VUE.JS - rendering but faster (lazy asf).md",
-    "personal/Web Dev/REACT (cause I already know it).md",
-    "personal/Web Dev/PHP.md",
-    "personal/Web Dev/Node.js.md",
-    "personal/Web Dev/JS (NOOOOOOOOOOOOOOOOOOOOOOOOooOoooooooo).md",
-    "personal/Web Dev/Helix and Refx.md",
-    "personal/Web Dev/Docker.md",
     "indiveri2015.pdf",
     "fnbot-16-1041108.pdf",
     "1705.06963v1.pdf",

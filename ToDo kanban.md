@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] documentar componentes (pra bemmmm depois)
 - [ ] 4 exercícios por dia - lista calculo
 - [ ] ERROR- conta cria um mock pela primeira vez
+- [ ] Exercícios C
 
 
 ## in progress
