@@ -5,11 +5,7 @@ DLP (data level paralelism)
 - Arquiteturas Vetoriais
 - SIMD para multimídia (SPDO – Simultaneous Parallel Data Operation);
 - GPU (Graphical Processing Unit).
-
-  
-
 ---
-
 # Arquitetura vetorial
 
 coleta dados da memória, coloca em arquivos em registradores sequenciais e os trata com uma instrução apenas, retornando a memória após o tratamento.

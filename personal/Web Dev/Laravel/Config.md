@@ -5,8 +5,6 @@ All config is set on `config` dir. Every option is documented.
 
 You can get a quick overview of your application's configuration, drivers, and environment via the `about` Artisan command:
 
-  
-
 ```Shell
 php artisan about
 ```
@@ -23,17 +21,17 @@ The `.env` file is read in `env` function, so you might, as well, set an `.env.e
 
 # Environment Var Types
 
-|   |   |
-|---|---|
-|`.env` Value|`env()` Value|
-|true|(bool) true|
-|(true)|(bool) true|
-|false|(bool) false|
-|(false)|(bool) false|
-|empty|(string) ''|
-|(empty)|(string) ''|
-|null|(null) null|
-|(null)|(null) null|
+|              |               |
+| ------------ | ------------- |
+| `.env` Value | `env()` Value |
+| true         | (bool) true   |
+| (true)       | (bool) true   |
+| false        | (bool) false  |
+| (false)      | (bool) false  |
+| empty        | (string) ''   |
+| (empty)      | (string) ''   |
+| null         | (null) null   |
+| (null)       | (null) null   |
 
 If you need to define an environment variable with a value that  
 contains spaces, you may do so by enclosing the value in double quotes:  
@@ -41,15 +39,11 @@ contains spaces, you may do so by enclosing the value in double quotes:
 > [!important]  
 > APP_NAME="My Application"  
 
-  
-
 # Retrieving Env Config
 
 All of the variables listed in the `.env` file will be loaded into the `$_ENV` PHP super-global.
 
 `env` function args (’arg1’, false).
-
-  
 
 ## Curr Env
 
@@ -64,8 +58,6 @@ if (App::environment('local')) {
 ## ENCRYPT ENVIRONMENT
 
 # **// TODO**
-
-  
 
 # Acessing config values
 

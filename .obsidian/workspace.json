@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "53ba201e2d515b51",
+        "id": "c12087a7fcf064c6",
         "type": "tabs",
         "children": [
           {
-            "id": "b3d7ac64db03ba64",
+            "id": "72c01cc14326efe5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/Real Development techs/Java/Basic.md",
+                "file": "bcc/4° Semestre/Cálculo numérico/Aula 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/Real Development techs/Java/Basic.md",
+                "file": "bcc/4° Semestre/Cálculo numérico/Aula 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/Real Development techs/Java/Basic.md",
+                "file": "bcc/4° Semestre/Cálculo numérico/Aula 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/Real Development techs/Java/Basic.md"
+                "file": "bcc/4° Semestre/Cálculo numérico/Aula 5.md"
               }
             }
           },
@@ -165,37 +165,39 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b3d7ac64db03ba64",
+  "active": "72c01cc14326efe5",
   "lastOpenFiles": [
-    "personal/Real Development techs/Rust/Rust.md",
-    "personal/Real Development techs/Rust/Raylib.md",
-    "personal/Web Dev/Clojure (a savior on this trash web world).md",
-    "personal/Real Development techs/Real Development techs.md",
-    "bcc/BCC.md",
-    "moclojer/teste.md",
-    "personal/Lista de Desejos.md",
-    "ToDo.md",
-    "ToDo/Todo List/Vulkan Engine.md",
-    "personal/home lab.md",
-    "ToDo kanban.md",
-    "personal/Game Dev/Vulkan Engine/Vulkan Engine.md",
-    "ToDo/Todo List/yaml history.md",
-    "ToDo/Todo List/documentar componentes (pra bemmmm depois).md",
-    "ToDo/Todo List/ERROR- conta cria um mock pela primeira vez.md",
-    "ToDo/Todo List/Home Lab/Home Lab.md",
-    "ToDo/Todo List/4 exercícios por dia - lista calculo.md",
-    "bcc/4° Semestre/Cálculo numérico/Cálculo numérico.md",
-    "bcc/4° Semestre/Cálculo numérico/Aula 4.md",
-    "bcc/4° Semestre/Cálculo numérico/Aula 3.md",
-    "bcc/3° Semestre/Trabalho ED1.md",
+    "bcc/3° Semestre/AC/CPU.md",
+    "bcc/3° Semestre/AC/Ciclo de instrução – O retorno.md",
+    "bcc/4° Semestre/4° Semestre.md",
+    "personal/Web Dev/Web Dev.md",
+    "bcc/3° Semestre/AC/Paralelismo em nível de dados.md",
+    "bcc/3° Semestre/AC/GPU.md",
+    "bcc/3° Semestre/AC/Dispositivos de E-S.md",
+    "bcc/3° Semestre/AC/Aritmética Computacional.md",
+    "bcc/4° Semestre/Cálculo numérico/Aula 5.md",
+    "Untitled.canvas",
+    "bcc/4° Semestre/Cálculo numérico/Aula 5.md~",
+    "README.md",
+    "personal/Web Dev/Untitled.md",
+    "().md",
+    "Localização de zeros.md",
+    "2024-08-12.md",
+    "personal/Web Dev/Laravel/Facades.md",
+    "personal/Web Dev/Laravel/Directory structure.md",
+    "personal/Web Dev/Laravel/Config.md",
+    "personal/Web Dev/Laravel/Request Lifecycle/Routing.md",
+    "personal/Web Dev/Laravel/Request Lifecycle/Request Lifecycle.md",
+    "personal/Web Dev/VUE.JS - rendering but faster (lazy asf).md",
+    "personal/Web Dev/REACT (cause I already know it).md",
+    "personal/Web Dev/PHP.md",
+    "personal/Web Dev/Node.js.md",
+    "personal/Web Dev/JS (NOOOOOOOOOOOOOOOOOOOOOOOOooOoooooooo).md",
+    "personal/Web Dev/Helix and Refx.md",
+    "personal/Web Dev/Docker.md",
     "indiveri2015.pdf",
     "fnbot-16-1041108.pdf",
     "1705.06963v1.pdf",
-    "bcc/3° Semestre/3° Semestre.md",
-    "personal/Real Development techs/C++/C++.md",
-    "personal/Game Dev/Game Dev.md",
-    "personal/Game Dev/Vulkan Engine/Audio Handler.md",
-    "personal/vulkan4noobs/vulkan4noobs.md",
     "Untitled.png",
     "santos.png",
     "NeuronFlow_DATE2020.pdf",
@@ -211,7 +213,6 @@
     "bcc/3° Semestre/AC/Memórias/Cache",
     "bcc/3° Semestre/Trabalho AC/Pesquisa Renão",
     "bcc/3° Semestre/Trabalho AC/Pesquisa do BERNARDO PAI",
-    "bcc/3° Semestre/Trabalho AC/Pesquisa do Chupas",
-    "bcc/3° Semestre/Trabalho AC/Pesquisas do Gutias"
+    "bcc/3° Semestre/Trabalho AC/Pesquisa do Chupas"
   ]
 }

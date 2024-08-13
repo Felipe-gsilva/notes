@@ -22,7 +22,6 @@ CPU controla o módulo
 
 Há a espera da execução do módulo, ou seja, pausa da CPU
 
-  
 
 ## Interrupção
 

@@ -1,19 +1,13 @@
 É um processador vetorial pica pra caramba
-
-  
-
 # Programação em GPU
 
 permitir uso da gpu simultaneamente a cpu e otimziar ao máximo os seus processamentos
-
-  
 
 → CUDA (nvidia)
 
 → OpenCL
 
 ---
-
 # CUDA
 
 o compilador utiliza-se de threads CUDA, reunidos em blocos de 32 unidades, ou seja, é uma execução SIMD multithreaded
@@ -22,8 +16,6 @@ o compilador utiliza-se de threads CUDA, reunidos em blocos de 32 unidades, ou s
 - Scatter-Gather
 - Mask Registers
 - muitos arquivos de registradores
-
-  
 
 ## Isa da GPU NVIDIA
 
