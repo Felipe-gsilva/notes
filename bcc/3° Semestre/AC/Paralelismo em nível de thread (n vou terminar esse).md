@@ -1,0 +1,1 @@
+MMID → (Multiple Instruction Multiple Data);

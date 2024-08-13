@@ -1,5 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "calendar"
+  "calendar",
+  "obsidian-importer",
+  "obsidian-kanban"
 ]

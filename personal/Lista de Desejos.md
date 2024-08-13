@@ -1,0 +1,4 @@
+- celular da silva
+- hub usb 3.0
+- cadeira
+- teclado pro note

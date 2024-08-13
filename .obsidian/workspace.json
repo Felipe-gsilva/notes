@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff07854631ca5fcc",
+        "id": "53ba201e2d515b51",
         "type": "tabs",
         "children": [
           {
-            "id": "fc8c519bab54df8f",
+            "id": "b3d7ac64db03ba64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "personal/Real Development techs/Java/Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "personal/Real Development techs/Java/Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "personal/Real Development techs/Java/Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "personal/Real Development techs/Java/Basic.md"
               }
             }
           },
@@ -160,17 +160,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fc8c519bab54df8f",
+  "active": "b3d7ac64db03ba64",
   "lastOpenFiles": [
-    "README.md",
-    "personal",
-    "Welcome.md",
+    "personal/Real Development techs/Rust/Rust.md",
+    "personal/Real Development techs/Rust/Raylib.md",
+    "personal/Web Dev/Clojure (a savior on this trash web world).md",
+    "personal/Real Development techs/Real Development techs.md",
+    "bcc/BCC.md",
     "moclojer/teste.md",
-    "2024-08-12.md",
-    "moclojer",
-    "bcc"
+    "personal/Lista de Desejos.md",
+    "ToDo.md",
+    "ToDo/Todo List/Vulkan Engine.md",
+    "personal/home lab.md",
+    "ToDo kanban.md",
+    "personal/Game Dev/Vulkan Engine/Vulkan Engine.md",
+    "ToDo/Todo List/yaml history.md",
+    "ToDo/Todo List/documentar componentes (pra bemmmm depois).md",
+    "ToDo/Todo List/ERROR- conta cria um mock pela primeira vez.md",
+    "ToDo/Todo List/Home Lab/Home Lab.md",
+    "ToDo/Todo List/4 exercícios por dia - lista calculo.md",
+    "bcc/4° Semestre/Cálculo numérico/Cálculo numérico.md",
+    "bcc/4° Semestre/Cálculo numérico/Aula 4.md",
+    "bcc/4° Semestre/Cálculo numérico/Aula 3.md",
+    "bcc/3° Semestre/Trabalho ED1.md",
+    "indiveri2015.pdf",
+    "fnbot-16-1041108.pdf",
+    "1705.06963v1.pdf",
+    "bcc/3° Semestre/3° Semestre.md",
+    "personal/Real Development techs/C++/C++.md",
+    "personal/Game Dev/Game Dev.md",
+    "personal/Game Dev/Vulkan Engine/Audio Handler.md",
+    "personal/vulkan4noobs/vulkan4noobs.md",
+    "Untitled.png",
+    "santos.png",
+    "NeuronFlow_DATE2020.pdf",
+    "Untitled 14.png",
+    "white-cat.jpeg",
+    "Untitled 1.png",
+    "Untitled 1 7.png",
+    "Untitled 2 3.png",
+    "Untitled 1 6.png",
+    "Untitled 13.png",
+    "Untitled 1 5.png",
+    "bcc/3° Semestre/AC/Memórias/Memoria Interna",
+    "bcc/3° Semestre/AC/Memórias/Cache",
+    "bcc/3° Semestre/Trabalho AC/Pesquisa Renão",
+    "bcc/3° Semestre/Trabalho AC/Pesquisa do BERNARDO PAI",
+    "bcc/3° Semestre/Trabalho AC/Pesquisa do Chupas",
+    "bcc/3° Semestre/Trabalho AC/Pesquisas do Gutias"
   ]
 }

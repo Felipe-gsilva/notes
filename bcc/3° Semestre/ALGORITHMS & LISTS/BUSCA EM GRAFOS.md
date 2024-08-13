@@ -1,0 +1,1 @@
+dijkstra, kruskal, prim , belmann-ford, floyd-warshall, A*
