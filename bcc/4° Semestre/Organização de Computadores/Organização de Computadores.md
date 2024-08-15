@@ -1,3 +1,1 @@
-  
-
 [https://ia801605.us.archive.org/32/items/tanenbaum-organizacao-estruturada-de-computadores-6a/Tanenbaum - Organização Estruturada de Computadores - 6a.pdf](https://ia801605.us.archive.org/32/items/tanenbaum-organizacao-estruturada-de-computadores-6a/Tanenbaum - Organização Estruturada de Computadores - 6a.pdf)

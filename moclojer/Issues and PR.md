@@ -6,4 +6,4 @@
 
 [https://github.com/moclojer/moclojer-app/issues/279](https://github.com/moclojer/moclojer-app/issues/279)
 
-\#x→ design system foss
+\# → design system foss

@@ -11,11 +11,7 @@
 - ISA
 - hardware
 - registers and mem
-
-  
-
 ---
-
 # conceitos básicos
 
 assembly → forma de representar textualmente um o conjunto de instruções de uma máquina
@@ -28,7 +24,6 @@ assembler → montador, traduz o assembly para lang de maquina
 assembly n é portável
 
   
-
 # compilador x interpretador x montador
 
 compilador → traduz código-fonte para código de máquina
@@ -40,8 +35,6 @@ montador → traduz direto, só q rápidão
   
 
 usos: bios, kernel, embarcados, iot e etc.
-
-  
 
 # registradores
 

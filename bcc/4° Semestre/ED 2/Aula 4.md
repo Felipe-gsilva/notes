@@ -1,4 +1,3 @@
-
 disclaimer: arquivo de índices contém todos os índices que referenciam registros dentro dos arquivos de dados.
 # Index
 Fornece mecanismos para localizar informações. É representado por vetores (maps, nesse caso) que contém as #keys e os campos de referencia. Deve-se criar uma chave primária para acesso à um campo ou guardar a referência ao seu endereço (apenas em runtime).
@@ -28,6 +27,9 @@ Fornece mecanismos para localizar informações. É representado por vetores (ma
 ### Solução de repetição chave secundária
 - associar uma lista de tamanho fixo a cada chave secundária (salvar repetição)
 - lista invertidas -> salvar uma lista com as chaves secundárias e garantir a repetição desta associando a posição da próxima repetição, salvando em outro arquivo de índices esta repetição.
+
+**Carregamento e reescrita**, carregue o arquivo de index na memória em um estrutura simples.
+- indice denso e esparço
 # Associação do índice ao endereço físico
 - em indices primários 
 	- binding -> criado no momento que um arquivo é criado.
@@ -35,3 +37,10 @@ Fornece mecanismos para localizar informações. É representado por vetores (ma
 	- late binding
 	
 
+
+# Tipo de indice
+
+| Tipo                       | Arquivo de index | Arquivo de Dados | Melhora do desempenho |
+| -------------------------- | ---------------- | ---------------- | --------------------- |
+| primário<br>chave primária | busca binaria    | busca binaria    | discreta              |
+| secundário                 | busca binaria    | busca linear     | significativa         |

@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## ToDo
 
+- [ ] Atividade Calculo numerico @{2024-08-23}
 - [ ] documentar componentes (pra bemmmm depois)
 - [ ] 4 exercícios por dia - lista calculo
 - [ ] ERROR- conta cria um mock pela primeira vez
@@ -14,11 +15,13 @@ kanban-plugin: board
 
 ## in progress
 
-- [ ] yaml history
+- [ ] desgin system base @{2024-08-19}
+- [ ] Tests on clj-rq
 
 
 ## Done
 
+- [ ] yaml history @{2024-08-19}
 
 
 ## future projects

@@ -24,8 +24,7 @@ PAS →
 
 CN →
 
-Lab →
-
+Lab:
 - P1
 - P2
 - artigo/relatório

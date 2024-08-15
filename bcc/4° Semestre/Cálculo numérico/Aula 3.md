@@ -9,9 +9,7 @@ com $M\in [M_{min}, M_{max}]$﻿ inteiro $d_1 $﻿ ≠ 0
 $x = f_x .10^q+g_x .10^{q-t}$﻿
 
 $0.1 \leq |f_x| \lt 1 , 0.1 \leq |g_x| <1$﻿
-
   
-
 Para calcular o erro na aproximação por truncamento, calculamos primeiro o erro absoluto:
 
 $|EAx| = |f_x .10^q+g_x .10^{q-t}-f_x.10^q|$﻿
@@ -19,8 +17,6 @@ $|EAx| = |f_x .10^q+g_x .10^{q-t}-f_x.10^q|$﻿
 portanto,
 
 ==$|EAx| < 10^{q-t}$==﻿
-
-  
 
 No caso do erro relativo, temos:
 
@@ -34,8 +30,6 @@ No arredondamento, temos:
 
 $x = [\binom{f_x.10^q, se |g_x| <0.5}{f_x.10^q+10^{q-t}, se |g_x| \geq0.5}]$﻿
 
-  
-
 $|EAx| = |f_x *10^q+g_x *10^{q-t}-f_x*10^q|$﻿
 
 $|EAx| < \frac12*10^{q-t}$﻿
@@ -48,7 +42,6 @@ $|ERx| = |\frac{EAx}{x}| = \frac{|EAx|}{|x|}$﻿
 
 $|ERx| < \frac{0.5*10^{q-t}}{|f_x*10^q|} = \frac{0.5*10^{-t}}{f_x} \lt 0.5*10^{1-t} $﻿
 
-  
 
 2° caso) $|g_x| \geq 0,5$﻿
 
@@ -61,12 +54,10 @@ $|EAx| = |g_x-1|*10^{q-t}$﻿
 como $|g_x| \geq 0,5 =>|g_x-1|\geq 0.5$﻿
 
   
-
 então, podemos dizer que o erro absoluto é:
 
 ==$|EAx| \leq 0.5* 10^{q-t}$==﻿
 
-  
 
 Olhando então, o erro relativo,
 
@@ -77,10 +68,7 @@ portanto, o erro é estimado como:
 ==$|ERx| < 0.5*10^{1-t}$==﻿
 
 ---
-
 # Operações com Aritméticos que pertencem a S$[10,t,M_{min}, M_{max}]$
-
-  
 
 Dados x e y quaisquer, para realizar operações em S$[10,t,M_{min}, M_{max}x]$, supondo que x e y pertençam a S, devemos:
 
@@ -96,7 +84,6 @@ y = 75.7099,
 
 calcular x+y, x-y, x.y, x/y, no sistema $S[10, 3, -10, 10]$﻿
 
-  
 
 Solução:
 
@@ -190,7 +177,7 @@ $(EA_x)(EAy)\~= 0$﻿ ⇒
 
   
 
-$EA_{x-y}\~= \~xEA_~x+ỹEA_x$﻿
+$EA_{x-y}\~{=} \~xEA_~x+ỹEA_x$﻿
 
 ### Erro Relativo
 

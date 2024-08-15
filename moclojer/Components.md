@@ -119,8 +119,6 @@ you can set all the other component which one or many component(s) depends on by
 
 as you can see, we are using the com`componet/using` record, which declares to the compiler this :key will require another component as dependency.
 
-  
-
 # Actual Lifecycle
 
 the lifecycle of each component can be set by a start and a stop function
@@ -147,7 +145,6 @@ our server is the by this couple of fn’s (almost)
 
 we use a atom to handle our system the entire lifecycle of the server, since a atom imutable (but kindof mutates lol)
 
-  
 
 # Defining a entry point for the aplication
 

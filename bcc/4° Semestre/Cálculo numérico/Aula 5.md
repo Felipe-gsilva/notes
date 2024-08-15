@@ -8,8 +8,7 @@ $f(x) = 0$
  Um numero real (ou complexo) $\xi$ é um zero da função $f(x)$ ou uma raiz da equação $f(x) = 0$, ou ainda, uma *solução* de $f(x) = 0$, se $f(\xi) = 0$ 
 - estamos interessados somente em raízes reais. Deixaremos o caso complexo de fora.
 
-# Técnicas
-## Interpretação Gráfica
+# Interpretação Gráfica
 > ex. no caderno...
 
 Graficamente, um zero de $f(x)$ é um ponto que corresponde à intersecção do gráfico de $f(x)$ com o eixo $x$ .
@@ -20,7 +19,7 @@ O Método de obtenção de raízes aproximadas consiste em 2 fases:
 - 1) localização dos zeros
 - 2) refinamento dos zeros
 
-## Fase 1 - Localização de zeros
+# Fase 1 - Localização de zeros
 Precisaremos do Teorema A:
 - seja $f(x)$ uma função contínua no intervalo $[ a, b]$. Se $f(a) . f(b) \lt 0$, então existe $\xi \in (a,b)$  , tal que $f(\xi) =0$ . Basicamente, se f(a) tem sinal inverso a f(b), então, $f(\xi) <0$.
 	- esse teorema garante que existam raízes, mas não determina quantas.
