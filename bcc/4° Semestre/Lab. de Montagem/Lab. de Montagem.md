@@ -12,6 +12,6 @@ seminário - 20%
 
 ---
 
-[[bcc/4° Semestre/Lab. de Montagem/aula 1]]
+[[1- Conceitos]]
 
-[[bcc/4° Semestre/Lab. de Montagem/Aula 2|Aula 2]]
+[[2 - Arquitetura e Funcionamento de Microcontroladores|2 - Arquitetura e Funcionamento de Microcontroladores]]

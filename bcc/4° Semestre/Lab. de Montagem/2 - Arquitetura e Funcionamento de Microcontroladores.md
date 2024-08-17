@@ -1,4 +1,3 @@
-# Arquitetura e Funcionamento de Microcontroladores
 
 - sistemas embarcados → utilizados em ampla gama de dispositivos e setores. Em essência, eles são soluções criadas para desempenhar tarefas especificas em tempo real.
 

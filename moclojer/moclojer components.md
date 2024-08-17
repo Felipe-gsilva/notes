@@ -1,8 +1,12 @@
-https://github.com/moclojer/components
+# Components explained
+On this file, we are adding a brief explanation about our component structure. To simplify even more, you can watch [Stuart's Sierra](TODO) explanation. With the background built, you can later come here and complete your journey with our own component explanation.
 
-# config
 
-;; TODO
+## core
+The core component is the one responsible for defining all of the constructors our component system needs, but, as you can see, we are not yet declaring the component dependencies. This is set on fly.
+
+## config
+The config component is responsible for granting our entire api config is correctly built, being by the default configuration or any passed into it. It encapsulates any state we can use in our application, for default the dev environment.
 
 needs a input of a config.edn (extensible data notation) as the one below:
 
@@ -12,75 +16,38 @@ needs a input of a config.edn (extensible data notation) as the one below:
                 :default :dev
                 :prod :prod}
  :release "1.0.0"
- :supabase-api-key \#or [\#env SUPABASE_API_KEY ""]
- :supabase-url \#or [\#env SUPABASE_URL "https://"]
- :supabase-jwt-secret \#or [\#env SUPABASE_JWT_SECRET ""]
- :moclojer {:config-path \#profile {:default "resources/moclojer.yml"
-                                   :prod "moclojer.yml"}
-            :join? \#profile {:default false
-                             :dev false
-                             :prod true}}
- :storage {:access-key-id \#or [\#env AWS_ACCESS_KEY_ID "foo"]
-           :secret-access-key \#or [\#env AWS_SECRET_ACCESS_KEY "bar"]
-           :region \#or [\#env AWS_REGION "us-east-1"]
-           :protocol \#profile {:dev :http
-                               :default :http
-                               :prod :https}
-           :port \#profile {:dev 4566}
-           :host \#profile {:dev "localhost"
-                           :default "localhost"
-                           :prod "sfo3.digitaloceanspaces.com"}}
- :sentry {:env \#profile {:dev "dev"
-                         :prod "prod"
-                         :default "prod"}
-          :dsn \#or [\#env SENTRY_AUTH_TOKEN "foobar"]}
- :cloud-providers
- {:digital-ocean {:base-url "https://api.digitalocean.com/v2"
-                  :token \#or [\#env DO_TOKEN "foobar"]
-                  :app-id ""}
-  :cloudflare {:base-url "https://api.cloudflare.com/client/v4"
-               :token \#or [\#env CF_TOKEN "foobar"]
-               :zone-id ""
-               :record-content "goldfish-app-zq7eo.ondigitalocean.app"}
-  :max-verification-attempts 20
-  :verification-timeout-ms 3000}
- :mq {:uri \#or [\#env REDIS_URL "redis://localhost:6379"]}
- :database {:dbtype "postgres"
-            :jdbc-url \#or [\#env DATABASE_URL "postgresql://localhost:5432/postgres?user=postgres&password=postgres"]}
- :migration-dir "back/migrations"}
+ {...}
 ```
 
-this config file sets some basic info of the project
+## database
+The database component is capable of connecting our database, wherever it is located, to the application. It means this component states changes depending on how your infrastructure is desgined. -- TODO
 
-- database type, url and migration dir
-- cloudfare info
-- digital ocean info
-- storage component info
-- sentry component info
-- supabase (firebase poor edition)
+## db-utils
+To guarantee specific input and to parse our raw passed argument from database component, db-utils comes in handy. It's now used to fix some input differences and building the correct URI either for the database either for each query the dabase will receive.
 
-# core
+## http
+The http component handle http requests TODO
 
-stores all the constructors for the components, making it easier to access and comprehend
+## migrations
+Migration componets are responsible for confing and stablishing the database migration, preventing the programmer to change the database directly aand promoting a automatic config. This component API is capable of building the database config based on a config path and have some essential basic db functions.
 
-# database
+to make a migration, you can use some of the pre selected words (create up down migrate-until-just-before init migrate rollback pending-list) and using a config.edn. This example below works on some of our repos:
 
-# db_utils
 
-# http
+```sh
 
-# logs
+clj -M:migratus back/config.edn "create" 
 
-# migrations
+```
 
-# moclojer
+## mq
+Responsible for wrapping our clj-rq repo into our application. To understand clj-rq better, read our offical [docs](http://github.com/moclojer/clj-rq/README.md)
 
-# mq
+## router
 
-# router
+## sentry
 
-# sentry
+## storage
 
-# storage
+## webserver
 
-# webserver

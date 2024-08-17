@@ -1,0 +1,7 @@
+I could have some ideais on how to impl this on the app side, firstly
+
+1) Make the buffer update itself (to be saved) everytime a prefix, maybe <Ctrl-s> as usual, was pressed. To make things simplier for the user, the save button, if clicked,  should save the data into the Mock table, followed, then, by the mock history. So we could do some less updates on the yaml history table, letting the most part going to the mock, only.
+2) Another option was to simply add a backup button, which I kind of dislike, because it would just add a layer of complexity, since the user wouldn't actually know the difference between saving his job and storing it at the history table.
+3) Maybe to wait on a specific cooldown to add a mock to the history. Something like grabbing the time the save event was created and comparing it to the last time a mock history was saved, using a time threshold to allow or not a update.
+
+About this sql idea, it should work pretty nicely, but I'd like to ask some time to understand it better. It seems pretty nice to add this hook and make all the process straight foward, since it would take, probably, less lines of code and be very accurate. My concern about all of this options is not to use much more resources than we actually need. 

@@ -7,7 +7,6 @@ subdivide em 2 conjuntos, um ordenado o outro não
 o algoritmo acaba quando o Vetor A[1..n] contém valores originais, mas ordenados.
 
 ---
-
 # Testes
 
 - provando um algoritmo fácil
@@ -26,9 +25,7 @@ para o insertion sort, um invariante correto, seria:
 - manutenção: se ele for verdadeiro antes, permanecerá verdadeiro antes da próxima iteração
 - término: e após, mostra que o algoritmo está correto
 
-  
-
-se o invariante for válido, o algoritmo também estará
+> se o invariante for válido, o algoritmo também estará
 
 ---
 

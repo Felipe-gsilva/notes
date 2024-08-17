@@ -63,7 +63,7 @@ n números. Suponha ainda que um programador médio (Mario) implemente a ordena�
 por intercalação utilizando uma linguagem de alto nível com um compilador ineficiente  
 (Java), sendo que o código resultante totaliza 50n log n instruções. Para ordenar 10  
 milhões de números, o computador A leva:  
-2(107)2  
+$2(107)2$
 1010 = 20000  
 segundos (+ de 5,5h), o computador B leva  
 5 ⋅ 107 log 107  

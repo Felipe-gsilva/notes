@@ -10,13 +10,13 @@ kanban-plugin: board
 - [ ] documentar componentes (pra bemmmm depois)
 - [ ] 4 exercícios por dia - lista calculo
 - [ ] ERROR- conta cria um mock pela primeira vez
-- [ ] Exercícios C
 
 
 ## in progress
 
 - [ ] desgin system base @{2024-08-19}
 - [ ] Tests on clj-rq
+- [ ] Exercícios C
 
 
 ## Done

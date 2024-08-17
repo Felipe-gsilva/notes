@@ -1,5 +1,4 @@
-# Fase 2 - Refinamento dos Resultados
-Fase 1 -> [[bcc/4° Semestre/Cálculo numérico/Aula 5]]
+Fase 1 -> [[5 - Solução de equações não lineares por métodos numérico]]
 > Refinamento de zeros de funções através de métodos iterativos
 
 ## Métodos

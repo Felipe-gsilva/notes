@@ -9,7 +9,6 @@ HDD é organizado em
 - trilhas: organizados em setores
 - cilindro: conjunto de trilhas em diferentes discos
 
-  
 
 Seeking → movimento de posicionar a cabeça de R/W sobre a trilha/setor
 

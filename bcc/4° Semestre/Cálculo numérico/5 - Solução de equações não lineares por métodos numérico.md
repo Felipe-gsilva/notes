@@ -1,5 +1,3 @@
-# Solução de equações não lineares por métodos numéricos
-
 - vamos ver métodos numéricos p/ resolver equações do tipo
 $f(x) = 0$ 
 - onde $f:[a,b]$ reais é uma continua derivável em (a,b)
@@ -27,7 +25,7 @@ Precisaremos do Teorema A:
 	- a escolha ideal de um intervalo é aquele que contempla menos raízes (preferencialmente uma) contido em si. Lembre-se que $f(a) . f(b) \lt 0$  
 	- derivada não muda de sinal, idealmente
 
-==def: Sejam $f(x)$ e $f'(x)$ contínuos em $[a,b]$ ; Se $f(a) . f(b) \lt 0$  e $f'(x)$ não altera seu sinal em $(a,b)$, então existe um único zero de $f(x)$ em $[a,b]$
+> def: Sejam $f(x)$ e $f'(x)$ contínuos em $[a,b]$ ; Se $f(a) . f(b) \lt 0$  e $f'(x)$ não altera seu sinal em $(a,b)$, então existe um único zero de $f(x)$ em $[a,b]$
 
 ## Outros métodos ferozes de verificação dos 0 da função
 a partir de $f(x) = 0$,1 podemos obter uma equação do tipo 
