@@ -1,7 +1,8 @@
 ## 1.1 Conversão do sistema binário para decimal
-- Dado um número natural $\beta$, um numero $x$ é escrito na base $\beta$ se $x = a_{n}\beta^n + a_{n-1} \beta^{n-1}+ ... + a_{0} \beta^{0}$ . Usamo então a notação $x = (a_{n}a_{n-1}...a_{1}a_{0})_\beta$(polinômio avaliado em $\beta$).
+- Dado um número natural $\beta$, um numero $x$ é escrito na base $\beta$ se $x = a_{n}\beta^n + a_{n-1} \beta^{n-1}+ ... + a_{0} \beta^{0}$ 
+	- Usamos então a notação $x = (a_{n}a_{n-1}...a_{1}a_{0})_\beta$(polinômio avaliado em $\beta$).
 - Na base 2, se $x = (d_{k}d_{k-1}...d_{1}d_{0})_{2}$, então $x =d_{k}2^{k}+d_{k-1}2^{k-1} +...+ d_{1}2^{1} + d_{0}2^{0}$ .
-- Podemo simplificar a conversão de binário para decimal, colocando a "base" em evidência (no caso, 2).
+- Podemos simplificar a conversão de binário para decimal, colocando a "base" em evidência (no caso, 2).
 - **Exemplo:** $x = 1\cdot2^{4} + 0\cdot2^{3} + 1\cdot2^{2}+1\cdot2^{1}+1\cdot2^{0}$ -> $x = 2\cdot(2\cdot(2\cdot(1\cdot2^{1}+0)+1)+1)+1$
 	- De 15 para 8 operações necessárias
 	- $a_{4}$: primeiro dígito (1 no exemplo)
@@ -21,7 +22,7 @@ $A_{0}$: número $x$ na base 10
 ### Algoritmo: 
 $k = 0$
 Enquanto $N_{k} \neq 0$
-$N_{K+1}$ = $\lfloor\frac{N_{k}}{2}\rfloor$
+	$N_{K+1}$ = $\lfloor\frac{N_{k}}{2}\rfloor$
 $a_{k} = N_{k} - 2 \times N_{k+1}$
 
 ## 1.3 Representação de números fracionários

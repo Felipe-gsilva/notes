@@ -1,3 +1,4 @@
+# Truncamento
 seja S$[10, t, M_{min}, M_{max}﻿]$ um sistema de aritmética de ponto flutuante de de t dígitios. Então todo número em S é forma:
 
 $-+ 0. d_1.d_2 ...d_t.10^M$﻿
@@ -24,6 +25,7 @@ $|ERx| = \frac{|EAx|}{|f_x.10^q|} = \frac{10^{q-t}}{|f_x.10^q|}$﻿
 
 $|ER_x| < \frac{10^{-t}}{0.1} <{10^{1-t}}$
 
+# Arredondamento
 No arredondamento, temos:
 
 $x = [\binom{f_x.10^q, se |g_x| <0.5}{f_x.10^q+10^{q-t}, se |g_x| \geq0.5}]$﻿
