@@ -11,6 +11,7 @@ Cole
 Comprimento
 CISC
 Como
+Convers
 Quantidade
 de
 depende
@@ -52,6 +53,8 @@ dizer
 desse
 dentro
 duas
+decimal
+divis
 trabalho
 tomada
 tipos
@@ -138,6 +141,9 @@ erro
 estimativa
 estimado
 erros
+escrito
+evid
+exemplo
 aplica
 acaso
 assint
@@ -191,6 +197,8 @@ aproxima
 absoluto
 arredondamento
 am
+avaliado
+algarismo
 Se
 Somat
 Start
@@ -255,6 +263,9 @@ contendo
 calcular
 calculamos
 comparado
+convers
+colocando
+chamado
 xima
 para
 pior
@@ -300,6 +311,8 @@ primeiro
 percebe
 pertencem
 perten
+polin
+parte
 qualquer
 que
 quina
@@ -314,6 +327,7 @@ quais
 qual
 quanto
 quaisquer
+quociente
 ocorr
 ou
 outra
@@ -352,6 +366,10 @@ na
 nicos
 normalmente
 necess
+natural
+numero
+nota
+novamente
 for
 fun
 float
@@ -373,6 +391,7 @@ facilitar
 fonte
 flutuante
 fa
+fracion
 se
 sendo
 ser
@@ -418,6 +437,7 @@ suporta
 somente
 supondo
 supor
+significativo
 melhor
 medida
 mem
@@ -447,6 +467,9 @@ mudando
 menores
 mero
 metade
+mio
+meros
+mantissa
 buscamos
 baseada
 base
@@ -461,6 +484,7 @@ basearemos
 bn
 banco
 bits
+bin
 uma
 um
 unvisited
@@ -493,6 +517,7 @@ recursos
 registrador
 relativo
 rela
+resto
 hardware
 heuristic
 highlights
@@ -530,12 +555,15 @@ RISC
 Registradores
 Reoperar
 Relativo
+Representa
 Devemos
 Definition
 Drawing
 Decompress
 Data
 Dados
+Dado
+De
 vel
 vale
 valores
@@ -589,6 +617,7 @@ incomum
 interpreta
 imediatos
 indireto
+isolando
 Teremos
 The
 This
@@ -605,6 +634,8 @@ Pode
 Pior
 Para
 PAS
+Podemo
+Podemos
 with
 which
 when
@@ -614,6 +645,8 @@ guarantee
 globais
 grande
 gitios
+gito
+gitos
 Heuristic
 Approaches
 An
@@ -623,10 +656,12 @@ Algumas
 Aritm
 Adi
 Absoluto
+Algoritmo
 Nearest
 Neighbor
 No
 Nesse
+Na
 Issues
 It
 Invariante
@@ -661,6 +696,7 @@ Exemplo
 Estimando
 Erro
 Ent
+Enquanto
 Key
 KKKKK
 Vetor
@@ -675,3 +711,5 @@ LOKO
 Lab
 Logo
 Lembrando
+Usamo
+Um

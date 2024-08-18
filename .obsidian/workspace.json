@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e5cfbfb14af18ad",
+        "id": "ee0165eb025809a7",
         "type": "tabs",
         "children": [
           {
-            "id": "8368cb3be0eda5c3",
+            "id": "62a566f0c5ddc070",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/3 - Erros de arredondamento e truncamento.md",
+                "file": "bcc/4° Semestre/Cálculo numérico/1 - Representação numérica e análise de erros.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/3 - Erros de arredondamento e truncamento.md",
+                "file": "bcc/4° Semestre/Cálculo numérico/1 - Representação numérica e análise de erros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/3 - Erros de arredondamento e truncamento.md",
+                "file": "bcc/4° Semestre/Cálculo numérico/1 - Representação numérica e análise de erros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/3 - Erros de arredondamento e truncamento.md"
+                "file": "bcc/4° Semestre/Cálculo numérico/1 - Representação numérica e análise de erros.md"
               }
             }
           },
@@ -158,44 +158,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-importer:Open Importer": false,
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8368cb3be0eda5c3",
+  "active": "62a566f0c5ddc070",
   "lastOpenFiles": [
-    "bcc/4° Semestre/Cálculo numérico/1 - Mudança de base.md",
-    "bcc/4° Semestre/Lab. de Montagem/Aula 3.md",
-    "bcc/BCC.md",
-    "Excalidraw/Drawing 2024-08-16 17.27.58.excalidraw.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Aula 3.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Aula 2.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Extra 1.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Untitled.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Aula 1.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/Probabilidade e Estatística.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/Aula 5.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/Aula 4.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/Aula 3.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/1 - Conceitos.md",
-    "bcc/4° Semestre/Organização de Computadores/Aula 3.md",
-    "bcc/4° Semestre/Lab. de Montagem/Lab. de Montagem.md",
-    "bcc/4° Semestre/Lab. de Montagem/2 - Arquitetura e Funcionamento de Microcontroladores.md",
-    "bcc/4° Semestre/Lab. de Montagem/1- Conceitos.md",
-    "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
-    "bcc/4° Semestre/Cálculo numérico/5 - Solução de equações não lineares por métodos numérico.md",
-    "bcc/4° Semestre/Cálculo numérico/3 - Erros de arredondamento e truncamento.md",
-    "bcc/4° Semestre/Cálculo numérico/Cálculo numérico.md",
-    "bcc/4° Semestre/ED 2/4fun/4fun.md",
-    "bcc/4° Semestre/ED 2/4fun/huffman.md",
-    "bcc/4° Semestre/ED 2/4fun",
-    "bcc/4° Semestre/ED 2/Aula 2.md",
-    "bcc/4° Semestre/ED 2/Aula 4.md",
-    "Excalidraw",
+    "bcc/4° Semestre/Cálculo numérico/2 - Algoritmo (Dec - Bin) (fracionários).md",
+    "bcc/4° Semestre/Cálculo numérico/1 - Representação numérica e análise de erros.md",
     "Untitled",
+    "Excalidraw/Drawing 2024-08-17 13.43.29.excalidraw.md",
+    "Excalidraw",
+    "bcc/4° Semestre/4° Semestre.md",
+    "Cálculo numérico.md",
+    "bcc/4° Semestre/Cálculo numérico/5 - Solução de equações não lineares por métodos numérico.md",
+    "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
+    "bcc/4° Semestre/Cálculo numérico/3 - Erros de arredondamento e truncamento.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/Aula 5.md",
+    "bcc/4° Semestre/ED 2/4fun/huffman.md",
+    "bcc/4° Semestre/ED 2/4fun/4fun.md",
+    "bcc/4° Semestre/ED 2/4fun",
+    "Excalidraw/Drawing 2024-08-15 14.34.48.excalidraw.md",
+    "ToDo kanban.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/Aula 4.md",
+    "bcc/4° Semestre/ED 2/Aula 5.md",
+    "bcc/4° Semestre/ED 2/Aula 2.md",
+    "bcc/4° Semestre/ED 2/4fun.md",
+    "bcc/4° Semestre/ED 2/Aula 3.md",
+    "Excalidraw/Drawing 2024-08-15 10.47.57.excalidraw.md",
+    "bcc/4° Semestre/ED 2/Aula 4.md",
+    "[[Aula.md",
+    "bcc/4° Semestre/Cálculo numérico/Aula 6.md",
+    "bcc/4° Semestre/Cálculo numérico/Aula 5.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/Probabilidade e Estatística.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/Projeto.md",
     "images",
     "images/Pasted image 20240814174741.png",
     "bcc/4° Semestre/Organização de Computadores",
