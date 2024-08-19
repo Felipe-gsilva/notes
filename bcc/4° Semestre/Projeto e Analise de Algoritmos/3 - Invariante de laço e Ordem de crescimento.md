@@ -60,10 +60,7 @@ ver quantas vezes ele executará para cada linha no código * quantidade de temp
 são independentes de hardware já.
 
   
-
 - n° de instruções + acesso a dados
-
-  
 
 ### Custos
 
@@ -72,7 +69,6 @@ comparação → 1
 aritmética → 1
 
 for 2n + 1 → 2n → n de custo ou O(n)
-
   
 
 Calcularemos T(n) para a ordenação de inserção

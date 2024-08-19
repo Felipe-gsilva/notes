@@ -1,4 +1,3 @@
-# Complexidade
 
 Quantidade de trabalho depende da entrada/”estados” da aplicação e da estrutura de dados.
 
