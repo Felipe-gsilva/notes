@@ -1,4 +1,3 @@
-# Hashing
 #hash #keys #index
 # Tabela hash
 - é uma estrutura de dados que permite acesso rápido e eficiente com base em uma chave.

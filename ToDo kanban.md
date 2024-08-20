@@ -15,7 +15,7 @@ kanban-plugin: board
 ## in progress
 
 - [ ] desgin system base @{2024-08-19}
-- [ ] 4 exercícios por dia - lista calculo
+- [ ] 4 exercícios por dia - lista calculo @{2024-08-25}
 
 
 ## provas
@@ -47,6 +47,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":true,"date-display-format":"DD-MM-YYYY","link-date-to-daily-note":false,"show-relative-date":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":true,"date-display-format":"DD-MM-YYYY","link-date-to-daily-note":false,"show-relative-date":true,"inline-metadata-position":"body"}
 ```
 %%
