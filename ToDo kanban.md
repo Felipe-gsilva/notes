@@ -6,22 +6,28 @@ kanban-plugin: board
 
 ## ToDo
 
+- [ ] [[Montar um caso real - probabilidade e estatistica]]
+	@{2024-08-22}
 - [ ] Atividade Calculo numerico @{2024-08-23}
-- [ ] documentar componentes (pra bemmmm depois)
-- [ ] 4 exercícios por dia - lista calculo
-- [ ] ERROR- conta cria um mock pela primeira vez
+- [ ] Exercício PAA @{2024-08-26}
 
 
 ## in progress
 
 - [ ] desgin system base @{2024-08-19}
-- [ ] Tests on clj-rq
+- [ ] 4 exercícios por dia - lista calculo
+
+
+## provas
+
+- [ ] Prova Cálculo Numérico @{2024-09-17}
+
+
+## backlog
+
 - [ ] Exercícios C
-
-
-## Done
-
-- [ ] yaml history @{2024-08-19}
+- [ ] ERROR- conta cria um mock pela primeira vez
+- [ ] documentar componentes (pra bemmmm depois)
 
 
 ## future projects
@@ -30,10 +36,17 @@ kanban-plugin: board
 - [ ] [[home lab]]
 
 
+## Done
+
+**Complete**
+- [x] yaml history @{2024-08-19}
+- [x] Tests on clj-rq
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":true,"date-display-format":"DD-MM-YYYY","link-date-to-daily-note":false,"show-relative-date":true}
 ```
 %%

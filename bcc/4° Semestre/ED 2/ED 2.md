@@ -1,3 +1,3 @@
-[[bcc/4° Semestre/ED 2/Aula 2|Aula 2]]
+[[2 - Armazenamento secundário|2 - Armazenamento secundário]]
 
-[[bcc/4° Semestre/ED 2/Aula 3|Aula 3]]
+[[3 - Organização de arquivos|3 - Organização de arquivos]]

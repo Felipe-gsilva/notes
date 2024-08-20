@@ -1,4 +1,3 @@
-# Probabilidades
 
 Probabilidade é um numero real no intervalo de 0 a 1 que é utilizado para exprimir a chance de ocorrência de determinado evento.
 
