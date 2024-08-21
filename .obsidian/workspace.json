@@ -11,20 +11,11 @@
             "id": "d991f517183cf25f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ToDo kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/Montar um caso real - probabilidade e estatística.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDo kanban.md",
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/Montar um caso real - probabilidade e estatística.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDo kanban.md",
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/Montar um caso real - probabilidade e estatística.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDo kanban.md"
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/Montar um caso real - probabilidade e estatística.md"
               }
             }
           },
@@ -176,17 +167,17 @@
   },
   "active": "d991f517183cf25f",
   "lastOpenFiles": [
-    "README.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/Montar um caso real - probabilidade e estatistica.md",
-    "bcc/4° Semestre/Organização de Computadores/3 - mem.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/Probabilidade e Estatística.md",
+    "ToDo kanban.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/Montar um caso real - probabilidade e estatística.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/6.1- Matriz de Confusão.md",
     "bcc/4° Semestre/ED 2/6 - Árvore Trie.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/6 - Probabilidade Condicional.md",
+    "README.md",
+    "bcc/4° Semestre/Organização de Computadores/3 - mem.md",
     "bcc/4° Semestre/ED 2/5 - Hashing.md",
     "bcc/4° Semestre/ED 2/4 - Index.md",
     "bcc/4° Semestre/Probabilidade e Estatística/1 - Conceitos.md",
-    "ToDo kanban.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/6.1- Matriz de Confusão.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/6 - Probabilidade Condicional.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/Probabilidade e Estatística.md",
     "bcc/4° Semestre/Probabilidade e Estatística/5 - Definições.md",
     "bcc/4° Semestre/Probabilidade e Estatística/3 - só no caderno.md",
     "bcc/4° Semestre/Probabilidade e Estatística/Aula 3.md",

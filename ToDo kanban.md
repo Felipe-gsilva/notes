@@ -6,21 +6,19 @@ kanban-plugin: board
 
 ## ToDo
 
-- [ ] [[Montar um caso real - probabilidade e estatistica]]
-	@{2024-08-22}
-- [ ] Atividade Calculo numerico @{2024-08-23}
+- [ ] 4 exercícios por dia - lista calculo @{2024-08-25}
 - [ ] Exercício PAA @{2024-08-26}
 
 
 ## in progress
 
-- [ ] desgin system base @{2024-08-19}
-- [ ] 4 exercícios por dia - lista calculo @{2024-08-25}
+- [ ] Atividade Calculo numerico @{2024-08-23}
 
 
 ## provas
 
 - [ ] Prova Cálculo Numérico @{2024-09-17}
+- [ ] P2 Cálculo Numérico @{2024-11-19}
 
 
 ## backlog
@@ -30,17 +28,20 @@ kanban-plugin: board
 - [ ] documentar componentes (pra bemmmm depois)
 
 
+## Done
+
+**Complete**
+- [x] desgin system base @{2024-08-19}
+- [x] yaml history @{2024-08-19}
+- [x] [[Montar um caso real - probabilidade e estatística]]
+	@{2024-08-22}
+- [x] Tests on clj-rq
+
+
 ## future projects
 
 - [ ] [[personal/Game Dev/Vulkan Engine/Vulkan Engine|Vulkan Engine]]
 - [ ] [[home lab]]
-
-
-## Done
-
-**Complete**
-- [x] yaml history @{2024-08-19}
-- [x] Tests on clj-rq
 
 
 
