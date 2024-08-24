@@ -8,11 +8,12 @@ kanban-plugin: board
 
 - [ ] 4 exercícios por dia - lista calculo @{2024-08-25}
 - [ ] Exercício PAA @{2024-08-26}
+- [ ] Atividade assembly @{2024-09-06}
 
 
 ## in progress
 
-- [ ] Atividade Calculo numerico @{2024-08-23}
+- [ ] desgin system base @{2024-08-19}
 
 
 ## provas
@@ -31,7 +32,7 @@ kanban-plugin: board
 ## Done
 
 **Complete**
-- [x] desgin system base @{2024-08-19}
+- [x] Atividade Calculo numerico @{2024-08-23}
 - [x] yaml history @{2024-08-19}
 - [x] [[Montar um caso real - probabilidade e estatística]]
 	@{2024-08-22}

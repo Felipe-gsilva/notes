@@ -115,7 +115,7 @@ column_names = [
     'Proline'
 ]
 
-# Carregar o arquivo wine.data
+# Carregar o arquivo de dados
 data = pd.read_csv('wine.data', header=None, names=column_names)
 
 # Selecionar apenas as colunas 'Alcohol' e 'Proline' para características
@@ -145,7 +145,10 @@ print("\nRelatório de Classificação:")
 print(classification_report(y_test, predictions))
 ```
 
-Foi utilizado (sem conhecimento prévio) algumas funções prontas de python para a realização deste teste. Pode-se notar que foi utilizado uma regressão logistica para prever os resultados do modelo. Na regressão logística, uma transformação logit é aplicada à chance, isto é, a probabilidade de sucesso dividida pela probabilidade de fracasso. .
+Foi utilizado algumas funções prontas de python para a realização deste teste. Pode-se notar que foi utilizado uma regressão logistica para prever os resultados do modelo. Na regressão logística, uma transformação logit é aplicada à chance, isto é, a probabilidade de sucesso dividida pela probabilidade de fracasso. .
+
+Change de acontecer / chance de não acontecer
+quanto mais perto de 1 é que vai acontecer, mais perto de 0 é que não vai.
 
 # Avaliação
 
@@ -164,10 +167,12 @@ Neste caso aqui, foram utilizados as 3 colunas possíveis do dataset, dispostas 
 Os métodos de avaliação utilizados foram gerados automaticamente pelo código 
 `classification_report(y_test, predictions)`, baseado na coluna de "Classes" (Resultados Reais) e no que foi predito. Dos tipos de classificação gerados, vimos apenas o da precisão.
 
-| Classe | Precisão | Recall | F1-Score | Suporte |
-|--------|----------|--------|----------|---------|
-| 1      | 0.95     | 1.00   | 0.97     | 19      |
-| 2      | 0.86     | 0.90   | 0.88     | 21      |
-| 3      | 0.83     | 0.71   | 0.77     | 14      |
-| **Média** | 0.88     | 0.87   | 0.88     | 54      |
-| **Ponderada** | 0.89     | 0.89   | 0.89     | 54      |
+Acurácia: 0.89
+
+| Classe        | Precisão | Especificadade | F1-Score |
+| ------------- | -------- | -------------- | -------- |
+| 1             | 0.95     | 1.00           | 0.97     |
+| 2             | 0.86     | 0.90           | 0.88     |
+| 3             | 0.83     | 0.71           | 0.77     |
+| **Média**     | 0.88     | 0.87           | 0.88     |
+| **Ponderada** | 0.89     | 0.89           | 0.89     |

@@ -4,18 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "a2701a692793d5bd",
+        "id": "1d196662428d0a82",
         "type": "tabs",
         "children": [
           {
-            "id": "d991f517183cf25f",
+            "id": "6fc4d331d4994ae3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "bcc/4° Semestre/Probabilidade e Estatística/Montar um caso real - probabilidade e estatística.md",
-                "mode": "source",
-                "source": false
+                "file": "ToDo kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/Probabilidade e Estatística/Montar um caso real - probabilidade e estatística.md",
+                "file": "ToDo kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/Probabilidade e Estatística/Montar um caso real - probabilidade e estatística.md",
+                "file": "ToDo kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/Probabilidade e Estatística/Montar um caso real - probabilidade e estatística.md"
+                "file": "ToDo kanban.md"
               }
             }
           },
@@ -165,15 +174,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d991f517183cf25f",
+  "active": "798f55b4478c2a8e",
   "lastOpenFiles": [
-    "bcc/4° Semestre/Probabilidade e Estatística/Probabilidade e Estatística.md",
+    "bcc/4° Semestre/Lab. de Montagem/4 - Simulação de Linguagem Assembly x86 para 8086.md",
+    "bcc/4° Semestre/Lab. de Montagem/2 - Arquitetura e Funcionamento de Microcontroladores.md",
+    "bcc/4° Semestre/Lab. de Montagem/3 - Instruction Set Architecture.md",
+    "bcc/4° Semestre/Lab. de Montagem/Lab. de Montagem.md",
+    "bcc/4° Semestre/Lab. de Montagem/1 - Conceitos.md",
+    "[[RISC.md",
     "ToDo kanban.md",
     "bcc/4° Semestre/Probabilidade e Estatística/Montar um caso real - probabilidade e estatística.md",
+    "bcc/4° Semestre/Cálculo numérico/8 - Método de Newton-Raphson.md",
+    "bcc/4° Semestre/Cálculo numérico/5 - Solução de equações não lineares por métodos numérico.md",
+    "bcc/4° Semestre/Cálculo numérico/7 - Método do Ponto Fixo (MPF).md",
+    "README.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/Probabilidade e Estatística.md",
     "bcc/4° Semestre/Probabilidade e Estatística/6.1- Matriz de Confusão.md",
     "bcc/4° Semestre/ED 2/6 - Árvore Trie.md",
     "bcc/4° Semestre/Probabilidade e Estatística/6 - Probabilidade Condicional.md",
-    "README.md",
     "bcc/4° Semestre/Organização de Computadores/3 - mem.md",
     "bcc/4° Semestre/ED 2/5 - Hashing.md",
     "bcc/4° Semestre/ED 2/4 - Index.md",
@@ -184,15 +202,6 @@
     "bcc/4° Semestre/Probabilidade e Estatística/3 - Probabilidades.md",
     "Excalidraw/Drawing 2024-08-20 11.29.11.excalidraw.md",
     "Excalidraw/Drawing 2024-08-17 13.43.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-20 11.20.28.excalidraw.md",
-    "bcc/4° Semestre/ED 2/3 - Organização de arquivos.md",
-    "bcc/4° Semestre/ED 2/2 - Armazenamento secundário.md",
-    "bcc/4° Semestre/Cálculo numérico/7 - Método do Ponto Fixo (MPF).md",
-    "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
-    "bcc/4° Semestre/ED 2/ED 2.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/5 - Notações.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/4 - Divisão e Conquista.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/1 - Conceitos Básicos.md",
     "bcc/4° Semestre/ED 2/4fun",
     "Excalidraw",
     "Untitled",
