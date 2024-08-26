@@ -312,6 +312,10 @@ difere
 divididos
 deles
 dedicados
+definidos
+discretas
+dificilmente
+diminuindo
 trabalho
 tomada
 tipos
@@ -441,6 +445,8 @@ tH
 tron
 tentam
 transmiss
+tempos
+ticamente
 entrada
 estados
 estrutura
@@ -600,6 +606,7 @@ eg
 eUnm
 enxerga
 evidentemente
+errado
 aplica
 acaso
 assint
@@ -766,6 +773,9 @@ ae
 agulha
 absurdo
 armazenamento
+aplic
+afirmar
+aplicado
 Se
 Somat
 Start
@@ -1047,6 +1057,11 @@ ci
 cb
 cin
 cilindros
+come
+conforme
+colocar
+caracterizar
+compat
 xima
 ximo
 xi
@@ -1287,6 +1302,11 @@ pRe
 pL
 pZ
 paralelas
+pertencer
+positiva
+parecida
+procurando
+percebemos
 qualquer
 que
 quina
@@ -1433,6 +1453,7 @@ oO
 oq
 oT
 oY
+omega
 ncia
 nesse
 ndice
@@ -1500,6 +1521,9 @@ nW
 ng
 nS
 nD
+naturais
+negativos
+nem
 for
 fun
 float
@@ -1605,6 +1629,7 @@ fG
 fe
 fH
 fj
+fixa
 se
 sendo
 ser
@@ -1765,6 +1790,8 @@ sO
 suas
 seekings
 saida
+superiormente
+suficientemente
 melhor
 medida
 mem
@@ -1884,6 +1911,7 @@ mtS
 mS
 mO
 mec
+multiplicar
 buscamos
 baseada
 base
@@ -2208,6 +2236,7 @@ ha
 hK
 htV
 hyperref
+houver
 linguagem
 lculo
 leva
@@ -2312,6 +2341,8 @@ ltwH
 lh
 localizado
 lentos
+limita
+limitado
 Modelo
 Move
 Melhor
@@ -2727,6 +2758,8 @@ im
 iin
 ix
 internas
+igualdade
+injusto
 Teremos
 The
 This
@@ -3233,6 +3266,7 @@ IYafXyoP
 IMd
 IqPL
 IQ
+Isso
 yield
 yaml
 yd
@@ -3813,6 +3847,7 @@ BH
 BE
 BS
 Bun
+Bem
 juntar
 jeito
 jump
@@ -3843,6 +3878,7 @@ jIi
 jLu
 jvY
 jr
+justo
 kanban
 keys
 kernel
