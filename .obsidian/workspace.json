@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1d196662428d0a82",
+        "id": "3ec6df6f8692ff46",
         "type": "tabs",
         "children": [
           {
-            "id": "6fc4d331d4994ae3",
+            "id": "b9115e261ae4c211",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "ToDo kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,6 +36,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "6a2e3f59c5cd4241",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -78,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.51103591918945
+    "width": 227.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "eefc29d57e17d8d7",
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDo kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDo kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,16 +127,6 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ToDo kanban.md"
-              }
-            }
-          },
-          {
-            "id": "6a2e3f59c5cd4241",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           },
@@ -155,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,54 +158,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "798f55b4478c2a8e",
+  "active": "b9115e261ae4c211",
   "lastOpenFiles": [
-    "bcc/4° Semestre/Lab. de Montagem/4 - Simulação de Linguagem Assembly x86 para 8086.md",
-    "bcc/4° Semestre/Lab. de Montagem/2 - Arquitetura e Funcionamento de Microcontroladores.md",
-    "bcc/4° Semestre/Lab. de Montagem/3 - Instruction Set Architecture.md",
-    "bcc/4° Semestre/Lab. de Montagem/Lab. de Montagem.md",
-    "bcc/4° Semestre/Lab. de Montagem/1 - Conceitos.md",
-    "[[RISC.md",
+    "pairing.md",
     "ToDo kanban.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/Montar um caso real - probabilidade e estatística.md",
-    "bcc/4° Semestre/Cálculo numérico/8 - Método de Newton-Raphson.md",
-    "bcc/4° Semestre/Cálculo numérico/5 - Solução de equações não lineares por métodos numérico.md",
-    "bcc/4° Semestre/Cálculo numérico/7 - Método do Ponto Fixo (MPF).md",
-    "README.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/Probabilidade e Estatística.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/6.1- Matriz de Confusão.md",
+    "bcc/4° Semestre/ED 2/Exercícios.md",
     "bcc/4° Semestre/ED 2/6 - Árvore Trie.md",
+    "dist/lista1.pdf",
+    "Excalidraw/Exercícios PAA - draw.md",
+    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Exercicios PAA.md",
+    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Projeto e Analise de Algoritmos.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/Montar um caso real - probabilidade e estatística.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/6.1- Matriz de Confusão.md",
     "bcc/4° Semestre/Probabilidade e Estatística/6 - Probabilidade Condicional.md",
-    "bcc/4° Semestre/Organização de Computadores/3 - mem.md",
-    "bcc/4° Semestre/ED 2/5 - Hashing.md",
-    "bcc/4° Semestre/ED 2/4 - Index.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/1 - Conceitos.md",
     "bcc/4° Semestre/Probabilidade e Estatística/5 - Definições.md",
     "bcc/4° Semestre/Probabilidade e Estatística/3 - só no caderno.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/Aula 3.md",
     "bcc/4° Semestre/Probabilidade e Estatística/3 - Probabilidades.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/1 - Conceitos.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/Probabilidade e Estatística.md",
     "Excalidraw/Drawing 2024-08-20 11.29.11.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-17 13.43.29.excalidraw.md",
+    "bcc/4° Semestre/ED 2/4 - Index.md",
+    "bcc/4° Semestre/ED 2/2 - Armazenamento secundário.md",
+    "bcc/4° Semestre/Cálculo numérico/3 - Erros de arredondamento e truncamento.md",
+    "bcc/4° Semestre/Cálculo numérico/5 - Solução de equações não lineares por métodos numérico.md",
+    "bcc/4° Semestre/Cálculo numérico/Exercícios CN.md",
+    "bcc/4° Semestre/Cálculo numérico/8 - Método de Newton-Raphson.md",
+    "Excalidraw/Drawing 2024-08-24 17.52.25.excalidraw.md",
+    "bcc/4° Semestre/Cálculo numérico/7 - Método do Ponto Fixo (MPF).md",
+    "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
+    "bcc/4° Semestre/Cálculo numérico/2 - Algoritmo (Dec - Bin) (fracionários).md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "dist/Pasted image 20240824084649.png",
+    "dist/PrimeiraListaExerc-CalcNum.pdf",
+    "dist",
     "bcc/4° Semestre/ED 2/4fun",
     "Excalidraw",
-    "Untitled",
     "images",
     "images/Pasted image 20240814174741.png",
     "bcc/4° Semestre/Organização de Computadores",
     "bcc/4° Semestre/Probabilidade e Estatística/Aula 4.md~",
     "Untitled.canvas",
-    "bcc/4° Semestre/Cálculo numérico/Aula 5.md~",
-    "indiveri2015.pdf",
-    "fnbot-16-1041108.pdf",
-    "1705.06963v1.pdf",
     "Untitled.png",
     "santos.png",
     "Untitled 14.png",
     "white-cat.jpeg",
     "Untitled 1.png",
     "Untitled 1 7.png",
-    "Untitled 2 3.png",
-    "Untitled 1 6.png",
-    "Untitled 13.png"
+    "Untitled 2 3.png"
   ]
 }

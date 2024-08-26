@@ -176,7 +176,7 @@ $(EA_{x})(EA_y)= 0$﻿ ⇒
 
   
 
-$EA_{x-y}\~{=} \~xEA_~x+ỹEA_x$﻿
+$EA_{x-y}{=} \~xEA_~x+ỹEA_x$﻿
 
 ### Erro Relativo
 

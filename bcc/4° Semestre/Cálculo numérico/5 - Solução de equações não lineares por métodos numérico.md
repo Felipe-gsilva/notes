@@ -50,3 +50,4 @@ ex:  considere a função:
 | $f(x)$ | 0.67 | -0.32 | 0.5 | 1.32 | 0.32 | -2.23 |
 | sinal  | +    | -     | +   | +    | +    | -     |
 sabemos que durante as mudanças de sinais, tem raízes em determinados intervalos
+

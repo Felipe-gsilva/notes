@@ -38,4 +38,3 @@ através da árvore de recorrência:
 
 ## $= \Theta(n\log n)$
 
-
