@@ -5,6 +5,7 @@ Um polinômio de grau n é uma expressão da forma
 com $a_{n}\neq 0$ e os $a_{i}$ são números reais.
 
 # Teorema Fundamental da Álgebra.
+
 Seja $n\geq P_{n}(x)$ um polinômio de grau n. Então $P_{n}(x)$ tenha exatamente $n$ raízes (zeros da função), podendo ser reais ou complexos, desde que cada zero seja contado com a multiplicidade.
 Dizemos que um zero $\xi$ de $P_{n}(x)$ tem multiplicidade $k \ (1 \leq k \leq n)$  se $P_{n(\xi)}=0,\ P_{n}'(\xi), \ P_{n}^{n}(\xi) = 0, \ .., \ P_{n}^{k-1}(\xi) = 0$ e $P_{n}^{k}(\xi) \neq 0$
 
@@ -13,14 +14,14 @@ Sejam $P_{n}(x) = a_{0}+ a_{1}x^{1}+ a_{n}x^{n}$
 
 1. se $\xi_{1}, \xi_{2}, \xi_3$  são zeros, então: $P_{n}=a_{n}(x-\xi_{1})(x-\xi_{2})(x-\xi_{3})$
 	>$P_{n}(x) = \prod^{i=1}_{n} (x-\xi_{i})$ 
-2. se $\xi$	é um zero de $P_{n}(x)$ então $P_{n}(x)$ é divisivel por $x - \xi$.
+2. se $\xi$	é um zero de $P_{n}(x)$ então $P_{n}(x)$ é divisível por $x - \xi$.
 	1.  isto é, existe um $Q_{n-1}(x)$ polinômio de grau n - 1 tal que 
 	 $$P_{n}(x) = (x-\xi)Q_{n-1}(x)$$
 3. se $y$ é um numero real que não é zero de $P_{n}(x)$ , então existe um polinômio  $Q_{n-1}(x)$  e numero $b_{0}\neq 0$ tal que:
  $$ P_{n}(x) = (x-y)Q_{n-1}(x) + b_{0}$$
 sendo $b_0$ o resto da divisão por $x-y$ e $b_{0}= P_{n}(y)$.
 
-
+---
 # Localização de zeros de polinômios
 ## 1. Regra do Sinal do Descartes
 Dado um $P_{n}(x)$ com coeficientes reais, o **número de zeros positivos** $p$ desse polinômio não excede o numero de **variações** **de** **sinal** $v$  dos coeficientes. Mais ainda, $v-p$ é positivo e par.

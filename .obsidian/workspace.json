@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "1d248d940eda54c2",
+        "id": "4912e3b8dc9eec5d",
         "type": "tabs",
         "children": [
           {
-            "id": "d9cb961847dc6ce2",
+            "id": "16450b5fadc60276",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pairing.md",
+                "file": "bcc/4° Semestre/Cálculo numérico/7 - Método do Ponto Fixo (MPF).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d6900ec6d7f64952",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2f62e7f834d668e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bcc/4° Semestre/Cálculo numérico/Algoritmos.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.51103591918945,
-    "collapsed": true
+    "width": 204.50043487548828
   },
   "right": {
     "id": "eefc29d57e17d8d7",
@@ -94,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pairing.md",
+                "file": "bcc/4° Semestre/Cálculo numérico/7 - Método do Ponto Fixo (MPF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pairing.md",
+                "file": "bcc/4° Semestre/Cálculo numérico/7 - Método do Ponto Fixo (MPF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pairing.md"
+                "file": "bcc/4° Semestre/Cálculo numérico/7 - Método do Ponto Fixo (MPF).md"
               }
             }
           },
@@ -166,35 +183,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d9cb961847dc6ce2",
+  "active": "16450b5fadc60276",
   "lastOpenFiles": [
-    "bcc/4° Semestre/ED 2/Exercícios.md",
-    "bcc/4° Semestre/ED 2/8 - Hashing extensível.md",
-    "Excalidraw/Exercícios Aula 8.md",
-    "Excalidraw/hashing expansivel.md",
-    "bcc/4° Semestre/Cálculo numérico/9 - Equações Polinomias.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/5 - Notações.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/6 -.md",
-    "pairing.md",
-    "ToDo kanban.md",
-    "bcc/4° Semestre/ED 2/6 - Árvore Trie.md",
-    "dist/lista1.pdf",
-    "Excalidraw/Exercícios PAA - draw.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Exercicios PAA.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Projeto e Analise de Algoritmos.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/Montar um caso real - probabilidade e estatística.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/6.1- Matriz de Confusão.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/6 - Probabilidade Condicional.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/5 - Definições.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/3 - só no caderno.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/3 - Probabilidades.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/1 - Conceitos.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/Probabilidade e Estatística.md",
-    "Excalidraw/Drawing 2024-08-20 11.29.11.excalidraw.md",
-    "bcc/4° Semestre/ED 2/4 - Index.md",
-    "bcc/4° Semestre/ED 2/2 - Armazenamento secundário.md",
-    "bcc/4° Semestre/Cálculo numérico/3 - Erros de arredondamento e truncamento.md",
+    "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
+    "bcc/4° Semestre/Cálculo numérico/7 - Método do Ponto Fixo (MPF).md",
+    "bcc/4° Semestre/Cálculo numérico/8 - Método de Newton-Raphson.md",
     "bcc/4° Semestre/Cálculo numérico/5 - Solução de equações não lineares por métodos numérico.md",
+    "bcc/4° Semestre/Cálculo numérico/3 - Erros de arredondamento e truncamento.md",
+    "bcc/4° Semestre/Cálculo numérico/Algoritmos.md",
+    "bcc/4° Semestre/Cálculo numérico/2 - Algoritmo (Dec - Bin) (fracionários).md",
+    "bcc/4° Semestre/Cálculo numérico/1 - Representação numérica e análise de erros.md",
+    "ToDo kanban.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/8 - Variáveis Aleatórias.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/Probabilidade e Estatística.md",
+    "Excalidraw/B-TREE ex2.md",
+    "bcc/4° Semestre/ED 2/10 - B-TREE pt.2 algs.md",
+    "bcc/4° Semestre/ED 2/9 - B-TREE.md",
+    "bcc/4° Semestre/ED 2/ED 2.md",
+    "personal/Real Development techs/C++/SDL2/SDL2.md",
+    "Excalidraw/B-TREE example.md",
+    "bcc/4° Semestre/Cálculo numérico/11 - Sistemas Lineares.md",
+    "Excalidraw/Drawing 2024-09-03 08.15.53.excalidraw.md",
+    "bcc/4° Semestre/Cálculo numérico/10 - Sequência (ou cadeia) de Sturm.md",
+    "bcc/4° Semestre/Cálculo numérico/9 - Equações Polinomias.md",
+    "pairing.md",
+    "dist/Pasted Image 20240829143833_223.png",
+    "dist/Pasted Image 20240830144821_032.png",
+    "bcc/4° Semestre/Projeto e Analise de Algoritmos/2 - Complexidade.md",
+    "bcc/4° Semestre/Projeto e Analise de Algoritmos/6 - Recorrências.md",
+    "bcc/4° Semestre/Projeto e Analise de Algoritmos/5 - Notações.md",
+    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Projeto e Analise de Algoritmos.md",
+    "dist/File Structures (Michael J. Folk, Bill Zoellick) (Z-Library).pdf",
+    "dist/lista1.pdf",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -206,14 +226,11 @@
     "images",
     "images/Pasted image 20240814174741.png",
     "bcc/4° Semestre/Organização de Computadores",
-    "bcc/4° Semestre/Probabilidade e Estatística/Aula 4.md~",
     "Untitled.canvas",
     "Untitled.png",
     "santos.png",
     "Untitled 14.png",
     "white-cat.jpeg",
-    "Untitled 1.png",
-    "Untitled 1 7.png",
-    "Untitled 2 3.png"
+    "Untitled 1.png"
   ]
 }

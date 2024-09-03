@@ -4,41 +4,48 @@ kanban-plugin: board
 
 ---
 
-## ToDo
-
-- [ ] Tests for frontend @{2024-08-28}
-- [ ] Estudar para a olimpiada @{2024-08-31}
-- [ ] Atividade assembly @{2024-09-06}
-
-
 ## in progress
 
-- [ ] desgin system base @{2024-08-19}
+- [ ] documentar componentes (components) (pra bemmmm depois)
 - [ ] 4 exercícios por dia - lista calculo @{2024-09-01}
-- [ ] Lista 1 em C - ED2 @{2024-08-31}
+
+
+## ToDo
+
+- [ ] Documento para a vó com dados @{2024-09-03}
+- [ ] Atividade assembly @{2024-09-06}
+- [ ] Lista 1 em C - ED2 @{2024-09-15}
 
 
 ## provas
 
 - [ ] Prova Cálculo Numérico @{2024-09-17}
+- [ ] P1 Organização @{2024-09-18}
+- [ ] P1 probabilidade @{2024-09-19}
+- [ ] P1 Projeto e análise de algoritmos @{2024-09-23}
+- [ ] Modelo Trabalho - probabilidade @{2024-10-03}
+- [ ] Trabalho Organização @{2024-10-30}
+- [ ] P2 Organização @{2024-10-23}
 - [ ] P2 Cálculo Numérico @{2024-11-19}
-
-
-## backlog
-
-- [ ] ERROR- conta cria um mock pela primeira vez
-- [ ] documentar componentes (pra bemmmm depois)
 
 
 ## Done
 
 **Complete**
+- [x] Tests for frontend @{2024-09-06}
+- [x] Estudar para a olimpiada @{2024-08-31}
+- [x] desgin system base @{2024-09-06}
 - [x] Exercício PAA @{2024-08-26}
 - [x] Atividade Calculo numerico @{2024-08-23}
 - [x] yaml history @{2024-08-19}
 - [x] [[Montar um caso real - probabilidade e estatística]]
 	@{2024-08-22}
 - [x] Tests on clj-rq
+
+
+## backlog
+
+- [ ] ERROR- conta cria um mock pela primeira vez
 
 
 ## future projects

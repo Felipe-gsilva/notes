@@ -45,7 +45,7 @@ EA_{x} = x - x'
 $$
 ou:
 $$
-\vert EA_{x} \vert = \vert x - x' \vert
+\vert EA_{x} \vert = \vert x - x' \vert 
 $$
 - O erro absoluto não leva em consideração o "tamanho" dos números
 

@@ -3,11 +3,11 @@ Familia de processadores da intel. É importante ver o **asm** especificamente n
 
 ## Registradores 
 
-- EAX - Acumulador (Usado em operações aritméticas)
+- EAX - Acumulador (Usado em **operações aritméticas**)
 - ECX - Contador (Usado em loops)
 - EDX - Registrador de Dados (Usado em I/O, multiplicações e divisões)
 - EBX - Base (usado para apontar referências no segmento de dados).
-- ESP - Stack Pointer
+- ESP - Stack Pointer (pilha)
 - EBP - Apontador da base do frame
 - ESI - Indice da fonte de dados a copiar (SOURCE INDEX)
 - EDI - Indice do destino de dados.
@@ -63,7 +63,6 @@ RET -> usada para retornar o valor das operações feitas na sub-rotina.
 ```assembly
 RET RENAN
 ```
-
 
 ## Laços 
 ### for

@@ -24,3 +24,24 @@ Seja $R_{0}$ um número fracionário positivo na base decimal, e seja $(0.d_{1}d
 Esse processo termina quando:
 1. $j$ atingir o número de dígitos binários desejados
 2. $R_{j} = 0$
+
+# Erro e Aproximações
+
+## truncamento
+_absoluto_
+$|EAx| = |f_x .10^q+g_x .10^{q-t}-f_x.10^q|$﻿
+==$|EAx| < 10^{q-t}$==﻿
+
+_relativo_
+$|ERx| = |\frac{EAx}{x}| = \frac{|EAx|}{|x|}$﻿
+$|ER_x| < \frac{10^{-t}}{0.1} <{10^{1-t}}$
+
+## arredondamento
+_absoluto_
+$x = \lbrace\binom{f_x.10^q, se |g_x| <0.5}{f_x.10^q+10^{q-t}, se |g_x| \geq0.5}$﻿
+$|EAx| < \frac{1}{2} \times 10^{q-t}$﻿
+
+_relativo_
+$|ERx| = \frac{|EAx|}{|x|}<\frac{0.5*10^{q-t}}{f_x*10^q+10^{q-t}}$﻿
+==$|ERx| < 0.5*10^{1-t}$==﻿
+

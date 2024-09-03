@@ -1,3 +1,10 @@
-[[2 - Armazenamento secundário|2 - Armazenamento secundário]]
+[[2 - Armazenamento secundário]]
+[[3 - Organização de arquivos]]
+[[4 - Index]]
+[[5 - Hashing]]
+[[6 - Árvore Trie]]
+[[8 - Hashing extensível]]
+[[9 - B-TREE]]
+[[10 - B-TREE pt.2 algs]]
 
-[[3 - Organização de arquivos|3 - Organização de arquivos]]
+![[File Structures (Michael J. Folk, Bill Zoellick) (Z-Library).pdf]]

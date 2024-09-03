@@ -1,7 +1,7 @@
 # Truncamento
-seja S$[10, t, M_{min}, M_{max}﻿]$ um sistema de aritmética de ponto flutuante de de t dígitios. Então todo número em S é forma:
+seja S$[10, t, M_{min}, M_{max}﻿]$ um sistema de aritmética de ponto flutuante de $t$ dígitos. Então todo número em $S$ é forma:
 
-$-+ 0. d_1.d_2 ...d_t.10^M$﻿
+$\pm0. d_1.d_2 ...d_t.10^M$﻿
 
 com $M\in [M_{min}, M_{max}]$﻿ inteiro $d_x1$﻿ ≠ 0
 
@@ -82,8 +82,7 @@ x = 3.7945 e
 
 y = 75.7099,
 
-calcular x+y, x-y, x.y, x/y, no sistema $S[10, 3, -10, 10]$﻿
-
+calcular $x+y, x-y, x.y, x/y$, no sistema $S[10, 3, -10, 10]$﻿
 
 Solução:
 
@@ -96,13 +95,11 @@ $0.757099*10¹$﻿⇒
 
 y = $0.757*10²$﻿
 
-  
 
 ⇒ $x + y = 0.379*10¹ +0.757*10^{2}$﻿
 
 = $0.7949*10² = 0.794*10²$﻿
 
-  
 
 faça as outras ai…
 
