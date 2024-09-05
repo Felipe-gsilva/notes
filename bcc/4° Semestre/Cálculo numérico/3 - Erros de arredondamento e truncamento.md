@@ -161,8 +161,6 @@ $x = x_a +EA_x$﻿
 
 $y = y_a +EA_y$﻿
 
-  
-
 $x * y= x_a +EA_x*y = y_a +EA_y$﻿ ⇒
 
 $x_a*y_a+xEA_x+y*EA_y+(EA_x)(EA_y)$﻿

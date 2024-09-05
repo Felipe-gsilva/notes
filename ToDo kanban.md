@@ -6,15 +6,14 @@ kanban-plugin: board
 
 ## in progress
 
-- [ ] documentar componentes (components) (pra bemmmm depois)
 - [ ] 4 exercícios por dia - lista calculo @{2024-09-01}
 
 
 ## ToDo
 
-- [ ] Documento para a vó com dados @{2024-09-03}
-- [ ] Atividade assembly @{2024-09-06}
 - [ ] Lista 1 em C - ED2 @{2024-09-15}
+- [ ] documentar componentes (components) (pra bemmmm depois)
+- [ ] Atividade Probabilidade - modelo binomial?
 
 
 ## provas
@@ -32,6 +31,8 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] Atividade assembly @{2024-09-06}
+- [x] Documento para a vó com dados @{2024-09-03}
 - [x] Tests for frontend @{2024-09-06}
 - [x] Estudar para a olimpiada @{2024-08-31}
 - [x] desgin system base @{2024-09-06}

@@ -19,7 +19,7 @@ O Método de obtenção de raízes aproximadas consiste em 2 fases:
 
 # Fase 1 - Localização de zeros
 Precisaremos do Teorema A:
-- seja $f(x)$ uma função contínua no intervalo $[ a, b]$. Se $f(a) . f(b) \lt 0$, então existe $\xi \in (a,b)$  , tal que $f(\xi) =0$ . Basicamente, se f(a) tem sinal inverso a f(b), então, $f(\xi) <0$.
+- seja $f(x)$ uma função contínua no intervalo $[ a, b]$. Se $f(a) . f(b) \lt 0$, então existe $\xi \in (a,b)$  , tal que $f(\xi) =0$ . Basicamente, se f(a) tem sinal inverso a f(b), então, $f(\xi) = 0$.
 	- esse teorema garante que existam raízes, mas não determina quantas.
 		- exemplo no caderno
 	- a escolha ideal de um intervalo é aquele que contempla menos raízes (preferencialmente uma) contido em si. Lembre-se que $f(a) . f(b) \lt 0$  
@@ -49,5 +49,5 @@ ex:  considere a função:
 | ------ | ---- | ----- | --- | ---- | ---- | ----- |
 | $f(x)$ | 0.67 | -0.32 | 0.5 | 1.32 | 0.32 | -2.23 |
 | sinal  | +    | -     | +   | +    | +    | -     |
-sabemos que durante as mudanças de sinais, tem raízes em determinados intervalos
+sabemos que durante as mudanças de sinais, tem raízes em determinados intervalos.
 

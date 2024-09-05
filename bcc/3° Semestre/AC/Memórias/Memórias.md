@@ -1,14 +1,14 @@
 # Definição
 
-|CARACTERISTICAS|||||
-|---|---|---|---|---|
-|Localização|Na CPU|Interna ao circuito integrado|Externa ao circuito integrado||
-|Capacidade de armazenamento|Tamanho de uma palavra|Numero de Palavras|||
-|Unidade de transferência|Palavra (tamanho do barramento)|Bloco (muitas palavras)|||
-|Método de acesso|Sequencial|Direto|Aleatório|Associativo|
-|Desempenho|Tempo de acesso|Tempo de ciclo|Taxa de transferência||
-|Tipo físico|Semicondutor|Magnético|Óptico|Magneto-óptico|
-|Detalhes físicos|Volátil/não volátil|Volátil/não volátil|||
+| CARACTERISTICAS             |                                 |                               |                               |                |
+| --------------------------- | ------------------------------- | ----------------------------- | ----------------------------- | -------------- |
+| Localização                 | Na CPU                          | Interna ao circuito integrado | Externa ao circuito integrado |                |
+| Capacidade de armazenamento | Tamanho de uma palavra          | Numero de Palavras            |                               |                |
+| Unidade de transferência    | Palavra (tamanho do barramento) | Bloco (muitas palavras)       |                               |                |
+| Método de acesso            | Sequencial                      | Direto                        | Aleatório                     | Associativo    |
+| Desempenho                  | Tempo de acesso                 | Tempo de ciclo                | Taxa de transferência         |                |
+| Tipo físico                 | Semicondutor                    | Magnético                     | Óptico                        | Magneto-óptico |
+| Detalhes físicos            | Volátil/não volátil             | Volátil/não volátil           |                               |                |
 
 ## Métodos de acesso
 
@@ -22,17 +22,11 @@
     
     - Esse recurso usa a capacidade de acessar todos os espacos da memoria (igual ao aleatorio) mas o faz simultaneamente, resultando em uma comparacao parcial da palavra procurada com as palavras na memoria. Isso implica em procurar pelo conteudo, nao pelo endereco da memoria.
     
-      
-    
-
 ## Desempenho
 
 - Tempo de acesso: Tempo entre apresentar o endereco (ou requisicao) e o respectivo dados valido.
 - Tempo de clock de memoria: Tempo de acesso + qualquer atraso entre o proximo acesso
 - Taxa de transferencia: velocidade de transferencia
 
-  
-
 [[Cache]]
-
 [[Memoria Interna]]

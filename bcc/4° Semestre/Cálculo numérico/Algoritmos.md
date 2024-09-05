@@ -45,3 +45,32 @@ _relativo_
 $|ERx| = \frac{|EAx|}{|x|}<\frac{0.5*10^{q-t}}{f_x*10^q+10^{q-t}}$﻿
 ==$|ERx| < 0.5*10^{1-t}$==﻿
 
+# Erros nas operações dentro do sistema S
+
+## Adição
+## Subtração
+## Multiplicação
+## Divisão
+---
+# Soluções de equações não lineares
+
+# Localização de zeros
+Métodos para encontrar intervalos onde há um ou mais zeros da função.
+
+1. Teorema A1
+> def: Sejam $f(x)$ e $f'(x)$ contínuos em $[a,b]$ ; Se $f(a) . f(b) \lt 0$  e $f'(x)$ não altera seu sinal em $(a,b)$, então existe um único zero de $f(x)$ em $[a,b]$
+
+2. intersecção de h(x) e g(x) 
+a partir de $f(x) = 0$ podemos obter uma equação do tipo 
+- $h(x) = g(x)$
+onde h(x) e g(x) são mais simples que f(x).
+
+ex: $f(x) = \sin(x) -e^{-\frac{-x}{4}}$   
+- podemos reescrever a equação $f(x) = 0$ como $\sin(x) -e^{-\frac{-x}{4}} = 0$, portanto: 
+	- $\sin(x) -e^{-\frac{-x}{4}} =0$ = - $\sin(x) = e^{-\frac{-x}{4}}$    
+	$g(x)	 = \sin(x)$ e $h(x) = e^{-\frac{-x}{4}}$
+- ou seja, os 0 de $f(x)$ são os pontos de intersecção entre os novos gráficos  $h(x)$ e $g(x)$
+
+3. tabelamento
+
+# Refinamento de zeros

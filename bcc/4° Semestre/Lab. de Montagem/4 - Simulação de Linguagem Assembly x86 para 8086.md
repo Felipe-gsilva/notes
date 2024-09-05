@@ -3,14 +3,14 @@ Familia de processadores da intel. É importante ver o **asm** especificamente n
 
 ## Registradores 
 
-- EAX - Acumulador (Usado em **operações aritméticas**)
-- ECX - Contador (Usado em loops)
-- EDX - Registrador de Dados (Usado em I/O, multiplicações e divisões)
-- EBX - Base (usado para apontar referências no segmento de dados).
-- ESP - Stack Pointer (pilha)
-- EBP - Apontador da base do frame
-- ESI - Indice da fonte de dados a copiar (SOURCE INDEX)
-- EDI - Indice do destino de dados.
+- AX - Acumulador (Usado em **operações aritméticas**)
+- CX - Contador (Usado em loops)
+- DX - Registrador de Dados (Usado em I/O, multiplicações e divisões)
+- BX - Base (usado para apontar referências no segmento de dados).
+- SP - Stack Pointer (pilha)
+- BP - Apontador da base do frame
+- SI - Indice da fonte de dados a copiar (SOURCE INDEX)
+- DI - Indice do destino de dados.
 
 > são dividos em 6 segmentos
 

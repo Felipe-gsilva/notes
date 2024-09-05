@@ -1,10 +1,10 @@
 ## Memórias de 1 bit
 
-A aplicação de memórias na arquitetura convencional é de extrema importância devido a manipulação de dados no computador. Para criar memória de 1 bit precisamos de um circuito que se “lembre” de valores de entrada anteriores. Por ser de 1 bit esse componente alcança uma velocidade muito maior do que as de mais capacidade. Tal circuito pode ser construído com base de duas portas NOR:
+A aplicação de memórias na arquitetura convencional são de extrema importância devido a manipulação de dados no computador. Para criar memória de 1 bit precisamos de um circuito que se “lembre” de valores de entrada anteriores. Por ser de 1 bit esse componente alcança uma velocidade muito maior do que as de mais capacidade. Tal circuito pode ser construído com base de duas portas NOR:
 
 Por se basear em portas lógicas sua funcionalidade pode ser baseada na tabela verdade. 
 
-Muitas vezes é conveniente impedir de o latch mude de estado, para isso o latch é modificado criando um latch RS. Outra variação é o latch D que armazena o próprio clock.
+Muitas vezes é conveniente impedir que o latch mude de estado, para isso o latch é modificado criando um latch RS. Outra variação é o latch D que armazena o próprio clock.
 
 ## Flip-flops
 

@@ -1,6 +1,6 @@
 [[Projeto e Analise de Algoritmos]]
 
-[[Cá]]
+[[Cálculo Numérico]]
 
 [[ED 2]]
 

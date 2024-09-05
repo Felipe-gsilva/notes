@@ -1,11 +1,11 @@
-|   |   |   |
-|---|---|---|
-|RAM|Volatil|Acesso aleatorio|
-|ROM|Nao Volatil|Read-only|
-|PROM|Nao Volatil|Read-only (programavel uma vez|
-|EPROM|Nao Volatil|Read-only (programavel e apagavel|
-|EEPROM|Nao Volatil|Read-only (apagavel eletricamente|
-|Flash|Nao Volatil||
+|        |             |                                   |
+| ------ | ----------- | --------------------------------- |
+| RAM    | Volatil     | Acesso aleatorio                  |
+| ROM    | Nao Volatil | Read-only                         |
+| PROM   | Nao Volatil | Read-only (programavel uma vez    |
+| EPROM  | Nao Volatil | Read-only (programavel e apagavel |
+| EEPROM | Nao Volatil | Read-only (apagavel eletricamente |
+| Flash  | Nao Volatil |                                   |
 
 ## Dynamic Random Access Memory (DRAM)
 

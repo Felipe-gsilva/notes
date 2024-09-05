@@ -4,7 +4,7 @@ PT 1
 
 [[Memórias]]
 
-[[Dispositivos de E-S]]
+[[Entrada e Saída]]
 
 [[SO]]
 

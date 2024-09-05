@@ -5,8 +5,8 @@ FS -> segmento com mais dados
 GS -> ainda mais dados
 SS -> Segmento de pilha (stack)
 
+---
 é possśivel dividir registrador entre a parte alta e baixa, os quais representam metade.
-
 ## exemplos
 MOV AX 25
 MOV BX 4
@@ -16,28 +16,21 @@ DX pode ser uma memória temporária
 
 ## Divisão
 O AX armazena o dividendo e o divisor é armazenado em outro registrador, como BX
-
 ## SI
 é usado como um índice para operações de leitura em uma fonte de dados
 (SOURCE INDEX) -> um indice que pode ser usado para percorrer vetores/cadeias de caracteres
 ## SP 
 mantém o endereço do topo da pilha
-
-
 # ASCII
 PrintNumber:
 	mov ah, 02h
 	mov dl, al
 	add dl, '0'
 	ret
-	
-
 # Algoritmo de ordenação
 ```asm
 .MODEL SMALL
-
-.STACH 100h
-
+.STACK 100h
 .DATA 
 	vetor DB 5, 3, 8, 1, 2, 9, 4, 7, 6 ; define byte (0 a max)
 	n EQU 9 ; define uma constante 

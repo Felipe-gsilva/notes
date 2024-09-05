@@ -1,4 +1,4 @@
-Fase 1 -> [[5 - Solução de equações não lineares por métodos numérico]]
+Fase 1 -> [[5 - Solução de equações não lineares por métodos numéricos]]
 > Refinamento de zeros de funções através de métodos iterativos
 
 ## Métodos
@@ -48,7 +48,7 @@ $|x_2 - \xi| < \frac{b_0 - a_0)|}{2³}$
 
 Logo, na iteração n, temos:
 
-$|x_n - \xi| < \frac{b_0 - a_0)|}{2^{n+1}}$
+$|x_n - \xi| < \frac{|b_0 - a_0|}{2^{n+1}}$
 
 Quando $n \implies 0$ 
 a sequencia também tende a 0.
@@ -66,7 +66,7 @@ Aplicando o logaritmo natural $\ln$:
 $n > -1 + \frac{\ln{\frac{|b_0-a_0}{\epsilon}}}{\ln2}$
 
 Logo $n$ é o menor inteiro maior que $\frac{\ln{\frac{|b_0-a_0}{\epsilon}}}{\ln2}$
-$n = \lfloor \frac{\ln{\frac{|b_0-a_0}{\epsilon}}}{\ln2}\rfloor$, numero fixo de iterações necessárias para achar a precisão
+$n = \lfloor \frac{\ln{\frac{|b_0-a_{0}|}{\epsilon}}}{\ln2}\rfloor$, numero fixo de iterações necessárias para achar a precisão
 
 ## Algoritmo (bisseção)
 $f.[a,b] \implies R, \xi \in [a,b]$
