@@ -6,11 +6,13 @@ kanban-plugin: board
 
 ## in progress
 
-- [ ] 4 exercícios por dia - lista calculo @{2024-09-01}
+- [ ] ler capitulo 3 e 4 organização de computadores@{2024-09-06}
+- [ ] 4 exercícios por dia - lista calculo @{2024-09-07}
 
 
 ## ToDo
 
+- [ ] File Header wish hashing on c
 - [ ] Lista 1 em C - ED2 @{2024-09-15}
 - [ ] documentar componentes (components) (pra bemmmm depois)
 - [ ] Atividade Probabilidade - modelo binomial?

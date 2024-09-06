@@ -1,55 +1,83 @@
-## Memórias de 1 bit
+# Portas e álgebra booleana
+![[Pasted image 20240906081026.png]]
 
-A aplicação de memórias na arquitetura convencional são de extrema importância devido a manipulação de dados no computador. Para criar memória de 1 bit precisamos de um circuito que se “lembre” de valores de entrada anteriores. Por ser de 1 bit esse componente alcança uma velocidade muito maior do que as de mais capacidade. Tal circuito pode ser construído com base de duas portas NOR:
+Usaremos tabelas verdade baseadas na álgebra booleana.
 
-Por se basear em portas lógicas sua funcionalidade pode ser baseada na tabela verdade. 
+O objetivo é criar um circuito que faz um cálculo da maneira mais efetiva possível, ou seja, tem a menor quantidade de portas e a mesma precisão.
 
-Muitas vezes é conveniente impedir que o latch mude de estado, para isso o latch é modificado criando um latch RS. Outra variação é o latch D que armazena o próprio clock.
+![[Pasted image 20240906081353.png]]
 
-## Flip-flops
+## Circuitos integrados
+Os componentes lógicos são agora distribuídos dentro de ICs/chips, que são um pedaço de silicio que compreende portas lógicas.
+Tipos comuns de pacotes de circuito integrado, incluindo um pacote dual-in-line, ou DIP, PGA e LGA.
 
-Nessa variante a transição de estado não ocorre quando o clock é 1 mas quando há transição de 0 para 1 ou vice-versa. Um flip-flop deve estar bem sincronizado com o clock para o funcionamento correto.
+![[Pasted image 20240906081703.png]]
 
-## Registradores
+## Circuitos combinatórios
+Aplicações digitais exigem muitas entradas e muitas saídas. 
+_decodificador_: circuito que toma um número de n bits como entrada e o usa para selecionar (isto é, definir em 1) exatamente uma das 2n linhas de saída.
 
-Um registrador é como um cluster de flip-flops sendo capaz de armazenar mais bits. Os registradores podem variar de tamanho conforme a aplicação de maior número de flip-flops, com a existência de flip-flops de 8, 16, 32 e 64 bits. 
+_comparador_:  que compara duas palavras de entrada. 
 
-O uso de flip-flops não é tão simples assim uma vez que devido a sincronização dos flip-flops com o clock e também pela baixa capacidade de armazenamento desses componentes com o ganho de velocidade. 
+_meio somador_: calcula o bit de soma e o de transporte 
 
-## RAMs e ROMs
+![[Pasted image 20240906082604.png]]
 
-### RAM
+## clock
+clock é um circuito que emite pulsos em um determinado intervalo de tempo preciso. Serve para sincronizar o sistema computacional.
 
-RAMs podem ser divididas em dois grupos:
+## Memória de 1 bit
+conhecido como latch, são "memórias" que "lembram" dos valores de entradas anteriores.
+![[Pasted image 20240906084733.png]]
 
-- Static RAM (S-RAM), que tem a construção semelhante ao flip-flop D básico. Normalmente aplicado em memórias caches e sendo mais rápidas que as dinâmicas.
-- Dynamic RAM (D-RAM) que não utiliza flip-flops, sendo um arranjo de células, cada uma contendo um transistor e um pequeno capacitor. É o modelo que compramos para montar computadores.
+_latch SR_: permite a alteração ou não da memória com uma entrada de clock e 2 portas and (uma negada)
 
-### ROM
+![[Pasted image 20240906084908.png]]
 
-A Read Only Memory ou ROM nasceu da necessidade de armazenar dados mesmo quando a energia é cortada do sistema, atualmente ele abriga em todas as máquinas sendo uma memória mais lenta.
 
-## Chips de CPU
+_flip-flop_: transição de estado ocorre na borda ascendente ou descendente.
 
-Cada chip tem um conjunto de pinos dos quais realizam comunicação entre a CPU e o exterior da unidade. Eles podem ser agrupados em:
+_flip-flop D_: transição de estado ocorre na borda ascendente ou descendente, mas com um clock para determinar quando ou não mudar.
 
-- Controle de Barramento
-- Interrupções
-- Arbitragem de Barramento
-- Sinalização de coprocessador
-- Estado
+# Registrador
+um registrador tem flip-flops ligados com a intenção de garantir entrada, saida e armazenamento. Neste exemplo são 8 bits:
 
-## Barramentos do Computador
+![[Pasted image 20240906085302.png]]
 
-Barramentos podem ser divididos em duas categorias dependendo do seu clock:
+# RAMs e ROMs
 
-- Barramento Síncrono - tem uma linha comandada por um oscilador de cristal e todas as atividades do barramento tomam um número inteiro de ciclos denominados ciclos de barramento.
-- Barramento Assíncrono - não tem clock mestre. Ciclo de barramentos podem ter largura requerida e não é o mesmo entre todos os pares de dispositivos.
+_RAMs_ podem ser:
+- static: construidas com circuitos similares ao flip-flop D 
+- dynamic: um arranjo com células que contém um transistor e um capacitor.
 
-### Arbitragem do Barramento
+_ROMs_: memórias que não podem ser apagadas.
 
-É necessário algum mecanismo de arbitragem para evitar o caos de informações no barramento. Assim se vários níveis de prioridade o árbitro concede somente ao de prioridade mais alta. Esses mecanismos podem ser centralizados ou descentralizados. O arbitro centralizado é gerido por um mecanismo separado que recebe informações e o descentralizado não tem esse mecanismo sendo mais difícil de ser gerido. 
+# Chip de CPU
+toda cpu é dividida em pinos de comunicação que são agrupados da seguinte maneira:
+1. Controle de barramento.
+2. Interrupções.
+3. Arbitragem de barramento.
+4. Sinalização de coprocessador.
+5. Estado.
+6. Diversos.
 
-## Interface PIO
+# Barramento
+barramentos podem ser síncronos e assíncronos.
+- os síncronos tem sua linha baseada na oscilação de um oscilador de cristal, que sincroniza o clock geral da máquina.
 
-Interface Parallel Input/Output, podem ser selecionada como verdadeiro dispositivo E/S ou parte da memória. Atualmente está em desuso por causa da evolução do USB. Ela possuía memória própria sendo mais complicada de gerenciar.
+## arbitragem do barramento
+são métodos para manter o controle de quem é mestre do barramento com determinada prioridade.
+podem ser **centralizados** ou **descentralizados**
+
+![[Pasted image 20240906090940.png]]
+
+
+## exemplos de barramento
+_PCI (e PCIe)_ -> utiliza um árbitro de barramento centralizado. 
+![[Pasted image 20240906091136.png]]
+
+![[Pasted image 20240906091221.png]]
+
+_USB_:  é um root hub que é ligado ao barramento principal, ligando os dispositivos E/S ao central.
+
+_PIO_: paralel input/output, geralmente usadas em sistemas embutidos para entrada/saida de dados paralela.

@@ -11,11 +11,9 @@
             "id": "aad216465b22fa66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
-                "mode": "source",
-                "source": false
+                "file": "dist/Pasted image 20240906081026.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
+                "file": "dist/Pasted image 20240906081026.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
+                "file": "dist/Pasted image 20240906081026.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md"
+                "file": "dist/Pasted image 20240906081026.png"
               }
             }
           },
@@ -165,9 +163,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aad216465b22fa66",
+  "active": "de500f91cf917545",
   "lastOpenFiles": [
+    "dist/Pasted image 20240906081353.png",
+    "dist/Pasted image 20240906082604.png",
+    "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md",
+    "dist/Pasted image 20240906091221.png",
+    "dist/Pasted image 20240906091136.png",
+    "dist/Pasted image 20240906090940.png",
+    "dist/Pasted image 20240906085302.png",
+    "dist/Pasted image 20240906084908.png",
+    "dist/Pasted image 20240906084733.png",
+    "dist/Pasted image 20240906081703.png",
+    "dist/Pasted image 20240906081026.png",
+    "bcc/4° Semestre/Organização de Computadores/2 - Organização de sistemas de computadores.md",
     "ToDo kanban.md",
+    "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
     "bcc/4° Semestre/Probabilidade e Estatística/9 - Modelos Probabilísticos para v.a discretas.md",
     "bcc/4° Semestre/Lab. de Montagem/default notes.md",
     "bcc/4° Semestre/Lab. de Montagem/4 - Simulação de Linguagem Assembly x86 para 8086.md",
@@ -177,9 +188,6 @@
     "bcc/4° Semestre/Cálculo numérico/Exercícios CN.md",
     "bcc/4° Semestre/Cálculo numérico/3 - Erros de arredondamento e truncamento.md",
     "bcc/4° Semestre/Cálculo numérico/1 - Representação numérica e análise de erros.md",
-    "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md",
-    "bcc/4° Semestre/Organização de Computadores/2 - Organização de sistemas de computadores.md",
-    "dist/Pasted image 20240904111043.png",
     "bcc/3° Semestre/AC/Entrada e Saída.md",
     "bcc/4° Semestre/Organização de Computadores/Organização de Computadores.md",
     "bcc/4° Semestre/4° Semestre.md",
@@ -192,26 +200,15 @@
     "bcc/3° Semestre/AC/Paralelismo em nível de dados.md",
     "bcc/3° Semestre/AC/Paralelismo em nível de instrução.md",
     "bcc/3° Semestre/AC/Paralelismo em nível de thread (n vou terminar esse).md",
-    "bcc/3° Semestre/AC/RISC X CISC.md",
-    "bcc/3° Semestre/AC/SO.md",
-    "dist/Pasted image 20240904104532.png",
-    "dist/Pasted image 20240904103651.png",
-    "dist/Pasted image 20240904081817.png",
-    "dist/Pasted image 20240904081408.png",
-    "dist/Pasted Image 20240829143833_223.png",
-    "dist/Pasted Image 20240830144821_032.png",
     "dist/File Structures (Michael J. Folk, Bill Zoellick) (Z-Library).pdf",
     "dist/lista1.pdf",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "dist/Pasted image 20240824084649.png",
     "dist/PrimeiraListaExerc-CalcNum.pdf",
     "dist",
     "bcc/4° Semestre/ED 2/4fun",
     "Excalidraw",
     "images",
-    "images/Pasted image 20240814174741.png",
     "bcc/4° Semestre/Organização de Computadores",
     "Untitled.canvas"
   ]
