@@ -23,8 +23,7 @@ $|ERx| = |\frac{EAx}{x}| = \frac{|EAx|}{|x|}$﻿
 
 $|ERx| = \frac{|EAx|}{|f_x.10^q|} = \frac{10^{q-t}}{|f_x.10^q|}$﻿
 
-$|ER_x| < \frac{10^{-t}}{0.1} <{10^{1-t}}$
-
+$|ER_x| < {10^{1-t}}$
 # Arredondamento
 No arredondamento, temos:
 

@@ -13,7 +13,7 @@ $a_{k} = N_{k} - 2 \times N_{k+1}$
 # Mantissa Binário -> decimal
 $A_{n+1}= 0$
 Para $k = n, n-1, ..., 2, 1$:
-$A_{k} = \frac{(b_{k}+A_{k+1})}{2}$
+$A_{k} = \frac{(d_{k}+A_{k+1})}{2}$
 
 # Mantissa Decimal -> Binário
 Seja $R_{0}$ um número fracionário positivo na base decimal, e seja $(0.d_{1}d_{2}...)_{2}$ sua representação na base 2. Então:
