@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5086555480957
+    "width": 278.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "eefc29d57e17d8d7",
@@ -165,7 +166,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8365ae156727ae47",
+  "active": "798f55b4478c2a8e",
   "lastOpenFiles": [
     "bcc/4° Semestre/Cálculo numérico/Cálculo Numérico.md",
     "bcc/4° Semestre/Cálculo numérico/Exercícios CN.md",
