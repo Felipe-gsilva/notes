@@ -5,6 +5,6 @@
 [[6 - Refinamento dos Resultados]]
 [[7 - Método do Ponto Fixo (MPF)]]
 [[8 - Método de Newton-Raphson]]
-[[9 - Equações Polinomias]]
+[[9 - Equações Polinomiais]]
 [[10 - Sequência (ou cadeia) de Sturm]]
 [[11 - Sistemas Lineares]]

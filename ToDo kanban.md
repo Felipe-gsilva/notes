@@ -7,7 +7,6 @@ kanban-plugin: board
 ## in progress
 
 - [ ] ler capitulo 3 e 4 organização de computadores@{2024-09-06}
-- [ ] 4 exercícios por dia - lista calculo @{2024-09-07}
 
 
 ## ToDo
@@ -33,6 +32,7 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] 4 exercícios por dia - lista calculo @{2024-09-07}
 - [x] Atividade assembly @{2024-09-06}
 - [x] Documento para a vó com dados @{2024-09-03}
 - [x] Tests for frontend @{2024-09-06}
