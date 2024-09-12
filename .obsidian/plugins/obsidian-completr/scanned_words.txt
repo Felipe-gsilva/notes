@@ -148,6 +148,7 @@ CCf
 Cc
 CUE
 CCBmmm
+Conflicts
 Quantidade
 Quest
 Qualquer
@@ -484,6 +485,8 @@ dg
 dge
 dW
 dN
+deleted
+desired
 trabalho
 tomada
 tipos
@@ -683,6 +686,7 @@ tpv
 tK
 tvvZZZzy
 tN
+them
 entrada
 estados
 estrutura
@@ -936,6 +940,7 @@ ekaa
 eks
 edx
 eTDDLTTsc
+every
 aplica
 acaso
 assint
@@ -1206,6 +1211,9 @@ aWDJRr
 aN
 akg
 acc
+automatically
+available
+above
 Se
 Somat
 Start
@@ -1335,6 +1343,7 @@ SX
 SK
 SffVan
 SZZZL
+Source
 complexidade
 como
 caso
@@ -1672,6 +1681,10 @@ cllm
 cV
 cu
 ckg
+commit
+commands
+conflicted
+conflicts
 xima
 ximo
 xi
@@ -2256,6 +2269,8 @@ oll
 ojh
 oin
 oth
+obsidian
+occurrence
 ncia
 nesse
 ndice
@@ -2520,6 +2535,9 @@ ffd
 fk
 fdl
 fJR
+followed
+files
+following
 se
 sendo
 ser
@@ -2765,6 +2783,7 @@ sGZN
 sz
 svr
 srt
+strongly
 melhor
 medida
 mem
@@ -3083,6 +3102,9 @@ byx
 bB
 blK
 bNaKK
+before
+below
+blocks
 uma
 um
 unvisited
@@ -3178,6 +3200,7 @@ ug
 uus
 uu
 urrd
+using
 representa
 rica
 requisitos
@@ -3390,6 +3413,9 @@ re
 rvv
 rKK
 rNO
+resolve
+recommend
+replace
 hardware
 heuristic
 highlights
@@ -3649,6 +3675,7 @@ lvNv
 lTdD
 lkm
 lkk
+listed
 Modelo
 Move
 Melhor
@@ -4127,6 +4154,7 @@ vO
 vT
 vM
 vNp
+viewing
 idealizaremos
 instru
 inteiros
@@ -4580,6 +4608,7 @@ PRR
 PTXp
 PH
 PTd
+Please
 with
 which
 when
@@ -4663,6 +4692,7 @@ wPh
 wJJzg
 waJimm
 wptNj
+workspace
 given
 growth
 guarantee
@@ -4977,6 +5007,7 @@ APoa
 AEn
 APo
 AW
+Additional
 Nearest
 Neighbor
 No
@@ -5053,6 +5084,7 @@ NS
 NG
 NHKI
 NIJ
+Not
 Issues
 It
 Invariante
@@ -5157,6 +5189,7 @@ IJH
 IBR
 IFZ
 IhH
+Instructions
 yield
 yaml
 yd
@@ -6181,6 +6214,7 @@ jrrqQ
 jk
 ju
 jM
+json
 kanban
 keys
 kernel

@@ -34,8 +34,6 @@ Questões: Portabilidade, Legibilidade. Facilidade de manipulação, desempenho�
 - na pesquisa em RAM, usamos o _**número de comparações**_ efetuadas para definir o mair rápido
 - no acesso a _discos_ o melhor a se fazer é comparar o _**número de acesso**_
 
-  
-
 ## Acesso direto
 
 bom para velocidade, mas paia para uso de memória, ou seja, toda operação altera um senão todos os índices separados
@@ -77,9 +75,6 @@ ou seja, um arquivo torna-se um objeto auto-descrito
 
 - compactação
 - compressão
-
-  
-
 # Compressão de dados
 
 ### Técnicas de compressão
@@ -94,9 +89,6 @@ ou seja, um arquivo torna-se um objeto auto-descrito
 - código de tamanho fixo
     - ex: ASCII
 - compressão de dados “analógicos” costumam ser irreversíveis.
-
-  
-
 # Compactação
 
 encontrar regiões sem dados e reaproveitá-las, visto que a exclusão de registros geram espaços vazios.
@@ -109,8 +101,6 @@ encontrar regiões sem dados e reaproveitá-las, visto que a exclusão de regist
     - em registros variáveis
         - salvar a posição exata em que foi liberado espaço
 
-  
-
 # Estratégias de alocação
 
 - first-fit → onde couber primeiro
@@ -120,7 +110,5 @@ encontrar regiões sem dados e reaproveitá-las, visto que a exclusão de regist
     - gera fragmentação externa
 - worst-fit → o maior espaço disponível
     - sempre inserir o maior espaço disponível na LD
-
-  
 
 # Keysorting

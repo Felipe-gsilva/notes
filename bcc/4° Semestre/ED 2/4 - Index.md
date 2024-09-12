@@ -35,8 +35,6 @@ Fornece mecanismos para localizar informações. É representado por vetores (ma
 	- binding -> criado no momento que um arquivo é criado.
 - em índices secundários
 	- late binding
-	
-
 
 # Tipo de indice
 
