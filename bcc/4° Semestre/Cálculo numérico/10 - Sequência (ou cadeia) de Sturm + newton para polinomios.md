@@ -16,7 +16,7 @@ Sejam $-\infty \leq \alpha \leq \beta \leq +\infty$ . Se $P_{n}(\alpha)\neq 0$ e
 exemplo no caderno:
 ```functionplot
 ---
-title: x³ + x² - x + 1
+title: func
 xLabel: x
 yLabel: y
 bounds: [-10,10,-10,10]
@@ -24,6 +24,8 @@ disableZoom: false
 grid: true
 ---
 f(x) = x^3 + x^2 - x + 1
+g(x) = 3x^2 + 2x - 1 
+h(x) = (8/9)x - 10/9
 
 ```
 
@@ -72,3 +74,4 @@ para cada $x_{k}$ obtido na sequencia -> $P_{n}(x_{k})$ e $P'_{n}(x_{k})$
 - $y = x_k, b_n = n, c_n = b_n$
 # $\implies x_{k+1}= x_{k}- \frac{b_{0}}{c_{0}}$
 Se temos uma precisão $\epsilon > 0$, então, em cada, passo, devemos verificar se  $|x_{k+1} - x_{k}| = |-\frac{b_{0}}{c_{1}}| < \epsilon$ e repetimos o processo para $y = x_k+1$
+
