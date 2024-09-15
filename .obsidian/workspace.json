@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/Algoritmos.md",
+                "file": "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5086555480957,
-    "collapsed": true
+    "width": 278.5086555480957
   },
   "right": {
     "id": "eefc29d57e17d8d7",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/Algoritmos.md",
+                "file": "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/Algoritmos.md",
+                "file": "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/Algoritmos.md"
+                "file": "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md"
               }
             }
           },
@@ -166,12 +165,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "798f55b4478c2a8e",
+  "active": "8365ae156727ae47",
   "lastOpenFiles": [
+    "bcc/4° Semestre/Cálculo numérico/8 - Método de Newton-Raphson.md",
+    "bcc/4° Semestre/Cálculo numérico/Algoritmos.md",
     "bcc/4° Semestre/Cálculo numérico/Cálculo Numérico.md",
     "bcc/4° Semestre/Cálculo numérico/Exercícios CN.md",
     "Excalidraw/Exercícios CN - draw.md",
-    "bcc/4° Semestre/Cálculo numérico/Algoritmos.md",
     "bcc/4° Semestre/Cálculo numérico/3 - Erros de arredondamento e truncamento.md",
     "ToDo kanban.md",
     "bcc/4° Semestre/ED 2/3 - Organização de arquivos.md",
@@ -203,7 +203,6 @@
     "bcc/4° Semestre/Probabilidade e Estatística/Probabilidade e Estatística.md",
     "bcc/4° Semestre/Probabilidade e Estatística/Projeto.md",
     "bcc/3° Semestre/AC/Memórias/Memoria Interna/Memoria Interna.md",
-    "bcc/3° Semestre/AC/Ciclo de instrução – O retorno.md",
     "dist/File Structures (Michael J. Folk, Bill Zoellick) (Z-Library).pdf",
     "dist/lista1.pdf",
     "Excalidraw/Scripts/Downloaded",

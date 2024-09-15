@@ -148,6 +148,8 @@ CCf
 Cc
 CUE
 CCBmmm
+Circuitos
+Chip
 Quantidade
 Quest
 Qualquer
@@ -484,6 +486,9 @@ dg
 dge
 dW
 dN
+dual
+decodificador
+descendente
 trabalho
 tomada
 tipos
@@ -683,6 +688,8 @@ tpv
 tK
 tvvZZZzy
 tN
+tabelas
+transporte
 entrada
 estados
 estrutura
@@ -936,6 +943,10 @@ ekaa
 eks
 edx
 eTDDLTTsc
+efetiva
+exigem
+emite
+embutidos
 aplica
 acaso
 assint
@@ -1207,6 +1218,9 @@ aN
 akg
 acc
 atividade
+agora
+ascendente
+apagadas
 Se
 Somat
 Start
@@ -1336,6 +1350,7 @@ SX
 SK
 SffVan
 SZZZL
+Serve
 complexidade
 como
 caso
@@ -1673,6 +1688,14 @@ cllm
 cV
 cu
 ckg
+chips
+compreende
+combinat
+comparador
+calcula
+construidas
+circuitos
+central
 xima
 ximo
 xi
@@ -2037,6 +2060,10 @@ ppp
 pU
 pptpvr
 pu
+pacotes
+pacote
+pulsos
+paralel
 qualquer
 que
 quina
@@ -2128,6 +2155,7 @@ qrr
 qZ
 qwwE
 qpDar
+quem
 ocorr
 ou
 outra
@@ -2257,6 +2285,7 @@ oll
 ojh
 oin
 oth
+oscila
 ncia
 nesse
 ndice
@@ -2367,6 +2396,8 @@ nVv
 nmi
 njj
 nw
+negada
+ncronos
 for
 fun
 float
@@ -2766,6 +2797,12 @@ sGZN
 sz
 svr
 srt
+silicio
+selecionar
+somador
+sincronizar
+static
+similares
 melhor
 medida
 mem
@@ -2962,6 +2999,7 @@ mD
 mZ
 mXoem
 mc
+mudar
 buscamos
 baseada
 base
@@ -3084,6 +3122,9 @@ byx
 bB
 blK
 bNaKK
+booleana
+baseadas
+borda
 uma
 um
 unvisited
@@ -3391,6 +3432,7 @@ re
 rvv
 rKK
 rNO
+root
 hardware
 heuristic
 highlights
@@ -3474,6 +3516,7 @@ hki
 hoKH
 haaagk
 hhl
+hub
 linguagem
 lculo
 leva
@@ -3650,6 +3693,9 @@ lvNv
 lTdD
 lkm
 lkk
+lembram
+ligados
+ligando
 Modelo
 Move
 Melhor
@@ -4004,6 +4050,8 @@ DGE
 Dk
 Druuquu
 DKK
+DIP
+Diversos
 vel
 vale
 valores
@@ -4329,6 +4377,8 @@ irB
 iok
 iiJ
 inj
+integrados
+incluindo
 Teremos
 The
 This
@@ -4581,6 +4631,9 @@ PRR
 PTXp
 PH
 PTd
+Portas
+PGA
+PCIe
 with
 which
 when
@@ -4785,6 +4838,7 @@ gaS
 gNv
 gNg
 ghh
+geralmente
 Heuristic
 Hashing
 HDD
@@ -5158,6 +5212,7 @@ IJH
 IBR
 IFZ
 IhH
+ICs
 yield
 yaml
 yd
@@ -5963,6 +6018,7 @@ LLLL
 Lttr
 Lxc
 Lk
+LGA
 Usamos
 Um
 Usando
@@ -6034,6 +6090,7 @@ UooosS
 UUV
 UWV
 UO
+Usaremos
 Buscamos
 BA
 Buffering
