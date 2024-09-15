@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7ddb81c0c541fc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -165,8 +178,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8365ae156727ae47",
+  "active": "f7ddb81c0c541fc2",
   "lastOpenFiles": [
+    "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md",
+    "conflict-files-obsidian-git.md",
+    "dist/Pasted image 20240911111746.png",
+    "dist/Pasted image 20240911111717.png",
+    "dist/Pasted image 20240911111645.png",
+    "dist/Pasted image 20240911110835.png",
+    "bcc/4° Semestre/Organização de Computadores/4 - microarquitetura.md",
+    "bcc/4° Semestre/Cálculo numérico/9 - Equações Polinomiais.md",
+    "bcc/4° Semestre/Cálculo numérico/10 - Sequência (ou cadeia) de Sturm + newton para polinomios.md",
+    "Pasted image 20240915131848.png",
     "bcc/4° Semestre/Cálculo numérico/8 - Método de Newton-Raphson.md",
     "bcc/4° Semestre/Cálculo numérico/Algoritmos.md",
     "bcc/4° Semestre/Cálculo numérico/Cálculo Numérico.md",
@@ -180,14 +203,8 @@
     "dist/Pasted image 20240906081026.png",
     "dist/Pasted image 20240906081353.png",
     "dist/Pasted image 20240906082604.png",
-    "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md",
     "dist/Pasted image 20240906091221.png",
     "dist/Pasted image 20240906091136.png",
-    "dist/Pasted image 20240906090940.png",
-    "dist/Pasted image 20240906085302.png",
-    "dist/Pasted image 20240906084908.png",
-    "dist/Pasted image 20240906084733.png",
-    "dist/Pasted image 20240906081703.png",
     "bcc/4° Semestre/Organização de Computadores/2 - Organização de sistemas de computadores.md",
     "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
     "bcc/4° Semestre/Probabilidade e Estatística/9 - Modelos Probabilísticos para v.a discretas.md",
@@ -199,10 +216,6 @@
     "bcc/4° Semestre/Cálculo numérico/1 - Representação numérica e análise de erros.md",
     "bcc/3° Semestre/AC/Entrada e Saída.md",
     "bcc/4° Semestre/Organização de Computadores/Organização de Computadores.md",
-    "bcc/4° Semestre/4° Semestre.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/Probabilidade e Estatística.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/Projeto.md",
-    "bcc/3° Semestre/AC/Memórias/Memoria Interna/Memoria Interna.md",
     "dist/File Structures (Michael J. Folk, Bill Zoellick) (Z-Library).pdf",
     "dist/lista1.pdf",
     "Excalidraw/Scripts/Downloaded",

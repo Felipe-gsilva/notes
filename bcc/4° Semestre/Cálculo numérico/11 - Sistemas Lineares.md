@@ -5,7 +5,7 @@
 	 - Obs: $P_{i,j}$ é inversível e $P^{-1} = P_{ij}$ 
 
 2. Matriz elementar que multiplica linhas por um numero $\alpha \neq 0$
-	- A matriz $D_{i}(\alpha)$ , obtida substituindo $\delta_{ii} = 1$  por $\alpha$ na $I_n$, quando multiplicada à esquerdam multiplica a linha inteira.
+	- A matriz $D_{i}(\alpha)$ , obtida substituindo $\delta_{ii} = 1$  por $\alpha$ na $I_n$, quando multiplicada à esquerda multiplica a linha inteira.
 	- Obs: $D_{i}(a)^{-1} = D_{i}(a^{-1})$
 	
 3. Matriz elementar que multiplica linha i por $\alpha \neq 0$ e adiciona à linha j

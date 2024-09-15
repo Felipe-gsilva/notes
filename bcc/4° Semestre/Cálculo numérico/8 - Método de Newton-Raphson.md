@@ -20,6 +20,9 @@ a sequência numérica do método de Newton será:
 
 Se escolhermos um $x_{0}$ próximo a $\xi$, ele convergirá.
 
+## Critério de parada
+$x_{k+1}- x_{k} < \xi$
+
 ---
 # Interpretação Geométrica
 

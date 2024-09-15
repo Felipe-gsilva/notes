@@ -168,9 +168,8 @@ podemos supor, portanto que
 
 $(EA_{x})(EA_y)= 0$﻿ ⇒
 
-  
 
-$EA_{x-y}{=} \~xEA_~x+ỹEA_x$﻿
+$EA_{x-y}{=} \bar xEA_{\bar x}+\bar yEA_x$﻿
 
 ### Erro Relativo
 

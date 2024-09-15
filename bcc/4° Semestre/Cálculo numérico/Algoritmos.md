@@ -48,9 +48,21 @@ $|ERx| = \frac{|EAx|}{|x|}<\frac{0.5*10^{q-t}}{f_x*10^q+10^{q-t}}$﻿
 # Erros nas operações dentro do sistema S
 
 ## Adição
+$EA_{x+y} = EA _x +EA_y$
+
+
 ## Subtração
 ## Multiplicação
+absoluto
+![[Pasted image 20240911110835.png]]
+
+relativo:
+![[Pasted image 20240911111645.png]]
 ## Divisão
+absoluto:
+ ![[Pasted image 20240911111717.png]]
+relativo:
+ ![[Pasted image 20240911111746.png]]
 ---
 # Soluções de equações não lineares
 
