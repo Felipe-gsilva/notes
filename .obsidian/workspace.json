@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "845dae66d9ef6d31",
+        "id": "973ac43d7e7f3d7b",
         "type": "tabs",
         "children": [
           {
-            "id": "0e75f0f0c36ea379",
+            "id": "4abb4ac37fa4b983",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/10 - Sequência (ou cadeia) de Sturm + newton para polinomios.md",
+                "file": "bcc/4° Semestre/Organização de Computadores/4 - microarquitetura.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5026054382324
+    "width": 292.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "eefc29d57e17d8d7",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/10 - Sequência (ou cadeia) de Sturm + newton para polinomios.md",
+                "file": "bcc/4° Semestre/Organização de Computadores/4 - microarquitetura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/10 - Sequência (ou cadeia) de Sturm + newton para polinomios.md",
+                "file": "bcc/4° Semestre/Organização de Computadores/4 - microarquitetura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/10 - Sequência (ou cadeia) de Sturm + newton para polinomios.md"
+                "file": "bcc/4° Semestre/Organização de Computadores/4 - microarquitetura.md"
               }
             }
           },
@@ -162,17 +163,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e75f0f0c36ea379",
+  "active": "4abb4ac37fa4b983",
   "lastOpenFiles": [
+    "Pasted image 20240915131848.png",
     "bcc/4° Semestre/Cálculo numérico/9 - Equações Polinomiais.md",
+    "bcc/4° Semestre/Organização de Computadores/4 - microarquitetura.md",
+    "bcc/4° Semestre/Cálculo numérico/11 - Sistemas Lineares.md",
+    "bcc/4° Semestre/Cálculo numérico/10 - Sequência (ou cadeia) de Sturm + newton para polinomios.md",
+    "Excalidraw/Briot-Houfini-Horner.md",
     "bcc/4° Semestre/Cálculo numérico/5 - Solução de equações não lineares por métodos numéricos.md",
     "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
     "bcc/4° Semestre/Cálculo numérico/7 - Método do Ponto Fixo (MPF).md",
-    "bcc/4° Semestre/Cálculo numérico/10 - Sequência (ou cadeia) de Sturm + newton para polinomios.md",
-    "bcc/4° Semestre/Cálculo numérico/11 - Sistemas Lineares.md",
     "bcc/4° Semestre/Cálculo numérico/8 - Método de Newton-Raphson.md",
     "bcc/4° Semestre/Cálculo numérico/3 - Erros de arredondamento e truncamento.md",
     "conflict-files-obsidian-git.md",
@@ -206,9 +211,6 @@
     "bcc/4° Semestre/Projeto e Analise de Algoritmos/6 - Recorrências.md",
     "bcc/4° Semestre/Projeto e Analise de Algoritmos/5 - Notações.md",
     "bcc/4° Semestre/Projeto e Analise de Algoritmos/4 - Divisão e Conquista.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/3 - Invariante de laço e Ordem de crescimento.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/2 - Complexidade.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/1 - Conceitos Básicos.md",
     "Untitled",
     "Excalidraw",
     "bcc/4° Semestre/ED 2/4fun",

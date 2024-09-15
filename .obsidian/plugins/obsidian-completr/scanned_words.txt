@@ -149,6 +149,8 @@ Cc
 CUE
 CCBmmm
 Conflicts
+Caminho
+Counter
 Quantidade
 Quest
 Qualquer
@@ -487,6 +489,9 @@ dW
 dN
 deleted
 desired
+depend
+divide
+dependem
 trabalho
 tomada
 tipos
@@ -941,6 +946,12 @@ eks
 edx
 eTDDLTTsc
 every
+existencia
+evita
+emiss
+especulativa
+executadas
+exce
 aplica
 acaso
 assint
@@ -1214,6 +1225,12 @@ acc
 automatically
 available
 above
+acess
+abordagens
+altamente
+acelerando
+alocando
+aumentando
 Se
 Somat
 Start
@@ -1344,6 +1361,8 @@ SK
 SffVan
 SZZZL
 Source
+Sobrepor
+Simplificar
 complexidade
 como
 caso
@@ -1685,6 +1704,12 @@ commit
 commands
 conflicted
 conflicts
+comprimento
+conhecidas
+cinco
+curto
+criam
+causar
 xima
 ximo
 xi
@@ -2049,6 +2074,10 @@ ppp
 pU
 pptpvr
 pu
+produzir
+projeto
+pipelinizada
+pipelining
 qualquer
 que
 quina
@@ -2271,6 +2300,7 @@ oin
 oth
 obsidian
 occurrence
+otimizar
 ncia
 nesse
 ndice
@@ -2538,6 +2568,8 @@ fJR
 followed
 files
 following
+futuras
+futura
 se
 sendo
 ser
@@ -2784,6 +2816,12 @@ sz
 svr
 srt
 strongly
+sequenciador
+sicas
+sobreposi
+sete
+seguem
+slots
 melhor
 medida
 mem
@@ -2980,6 +3018,10 @@ mD
 mZ
 mXoem
 mc
+microprograma
+microinstru
+modernas
+mapeados
 buscamos
 baseada
 base
@@ -3105,6 +3147,7 @@ bNaKK
 before
 below
 blocks
+buscado
 uma
 um
 unvisited
@@ -3201,6 +3244,8 @@ uus
 uu
 urrd
 using
+utilizam
+utilizadas
 representa
 rica
 requisitos
@@ -3416,6 +3461,8 @@ rNO
 resolve
 recommend
 replace
+registra
+recentemente
 hardware
 heuristic
 highlights
@@ -3499,6 +3546,8 @@ hki
 hoKH
 haaagk
 hhl
+habilita
+hist
 linguagem
 lculo
 leva
@@ -3676,6 +3725,8 @@ lTdD
 lkm
 lkk
 listed
+lidar
+lidas
 Modelo
 Move
 Melhor
@@ -3784,6 +3835,9 @@ MMo
 MKN
 MVF
 Ma
+Microarquitetura
+Melhoria
+Mic
 RAM
 Reindexa
 Repeat
@@ -3905,6 +3959,8 @@ RRJJJFF
 RRB
 REFE
 Ridd
+Reduzir
+Renomea
 Devemos
 Definition
 Drawing
@@ -4356,6 +4412,8 @@ irB
 iok
 iiJ
 inj
+invoca
+incluem
 Teremos
 The
 This
@@ -4609,6 +4667,8 @@ PTXp
 PH
 PTd
 Please
+Program
+Pipeline
 with
 which
 when
@@ -4814,6 +4874,7 @@ gaS
 gNv
 gNg
 ghh
+gios
 Heuristic
 Hashing
 HDD
@@ -5008,6 +5069,7 @@ AEn
 APo
 AW
 Additional
+Associativa
 Nearest
 Neighbor
 No
@@ -5329,6 +5391,7 @@ OEYy
 OGO
 OooJR
 OMM
+Operandos
 Exhaustive
 Enumerate
 Exerc
@@ -5469,6 +5532,9 @@ Esc
 EMM
 EB
 ERB
+Encurtar
+Esta
+Especulativa
 Key
 KKKKK
 Keysorting
@@ -5828,6 +5894,7 @@ FA
 FM
 FG
 FgN
+Fora
 Geraldo
 GwR
 GIbey
