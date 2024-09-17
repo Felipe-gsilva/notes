@@ -13,7 +13,7 @@ _máquina virtual:_ simula um ambiente onde um outro sistema é utilizado. Digam
 _máquina multinível:_
 nível/máquina virtual indicam o mesmo conceito. A ideia é que um computador possa simular e utilizar diversas linguagens durante sua vida útil, tornando a abstração cada vez maior sem perder o desempenho. Como pode ser visto abaixo:
 
-	nivel 5 -> linguanges auto nível
+	nivel 5 -> linguanges alto nível
 	nivel 4 -> assembly
 	nivel 3 -> SO
 	nivel 2 -> ISA

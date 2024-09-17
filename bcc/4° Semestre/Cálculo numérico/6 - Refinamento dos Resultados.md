@@ -9,7 +9,7 @@ Fase 1 -> [[5 - Solução de equações não lineares por métodos numéricos]]
 ### Critério de parada e precisão
 Momento em que pararemos a sequência, ou seja, o quão próximo estaremos do zero função. Desta forma, temos 2 definições:
 - critério de parada: é um teste utilizado para verificar se o resultado ou aproximação com a **precisão** desejada foi alcançado.
-- precisão: $\~x é uma aproximação de $\xi$ com precisão épsilon $\epsilon > 0$ se:
+- precisão: $\bar x$ é uma aproximação de $\xi$ com precisão épsilon $\epsilon > 0$ se:
 	- $(i) |x-\xi| < \epsilon$ ou
 	- $(ii) |f(x)| < \epsilon$
 > **$\epsilon$** ( é um termo, em geral, muito pequeno	
@@ -74,7 +74,7 @@ $f.[a,b] \implies R, \xi \in [a,b]$
 $a_0 = a, b_0 = b$
 $k=0$
 $x_k = \frac{a_k+b_k}{2}$
-$n = \lfloor \frac{\ln{\frac{|b_0-a_0}{\epsilon}}}{\ln2}\rfloor$, n
+$n = \lceil \frac{\ln{\frac{|b_0-a_0}{\epsilon}}}{\ln2}\rceil$
 
 Para $k=0, 1, 2...$
 

@@ -1,21 +1,29 @@
 # Numero Inteiro binário -> decimal
+> começando da  direita pra esquerda, multiplicar sempre o numero atual por 2 e somar com o próximo digito
+
 $x = (d_{k}d_{k-1}...d_{1}d_{0})_{2}$, $d_{k} \in [0,1]$
 $A_{k} = d_{k}$
 $A_{i} = 2 \times A_{i+1} + d_{i}$ para $i = k-1, ..., 0$
 $A_{0}$: número $x$ na base 10
 
 # Decimal -> Binário
+> dividir o numero inteiro por 2, pegar o floor e o resto da divisão (0 ou 1) vai pro resultado (de forma inversa 1° numero obtido é o ultimo do resultado)
+
 $k = 0$
 Enquanto $N_{k} \neq 0$
 	$N_{K+1}$ = $\lfloor\frac{N_{k}}{2}\rfloor$
 $a_{k} = N_{k} - 2 \times N_{k+1}$
 
 # Mantissa Binário -> decimal
+> dividir o menos significativo por 2 somado com o próximo digito ($\frac{valor atual + proximo digito}{2}$)
+
 $A_{n+1}= 0$
 Para $k = n, n-1, ..., 2, 1$:
 $A_{k} = \frac{(d_{k}+A_{k+1})}{2}$
 
 # Mantissa Decimal -> Binário
+> multiplicar o valor atual por 2 e guardar o valor inteiro da multiplicação (colocando na ordem que aparece)
+
 Seja $R_{0}$ um número fracionário positivo na base decimal, e seja $(0.d_{1}d_{2}...)_{2}$ sua representação na base 2. Então:
 1. Para j = 1, 2 ,3, ... :
 	1. $r_{j} = 2 \times R_{J-1}$
@@ -26,7 +34,7 @@ Esse processo termina quando:
 2. $R_{j} = 0$
 
 # Erro e Aproximações
-
+> erro é a diferença da aproximação com o valor real. ($x - \bar{x}$)
 ## truncamento
 _absoluto_
 $|EAx| = |f_x .10^q+g_x .10^{q-t}-f_x.10^q|$﻿
