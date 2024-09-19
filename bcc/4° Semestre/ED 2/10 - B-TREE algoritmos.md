@@ -109,3 +109,52 @@ int insert (CURRENT_RRN, KEY, PROMO_KEY, PROMO_RIGHT_CHILD) {
 	return PROMOTION;
 }
 ```
+## split
+representa o tratamento de overflow causado por uma nova página
+```c
+void split(P_B_kEY, P_B_RRN, PAGE, PROMO_KEY, PROMO_R_CHILD, NEWPAGE) {
+	// cria uma nova página (NEWPAGE)
+	new_page();
+	// distribui as chaves entre page e newpage
+	int mid = (int)ORDER/2;
+	// determina qual chave e qual RRN serão promovidos
+	/*
+		PROMO_KEY;
+		PROMO_R_CHILD;
+	*/ 
+}
+```
+## procedimento driver 
+rotina inicializadora e de tratamento da raiz
+- abre ou cria o arquivo de indice (arvore-b)
+- identifica ou cria a página da raiz
+- lê chaves para serem armazenadas na b-tree e chama insert de forma apropriada
+- cria uma nova raiz quando insert particiona a raiz atual
+
+```c
+void procedure() {
+	if arquivo com árvore-b existe {
+		abrir arquivo
+	}
+	else criar arquivo e colocar a primeira chave na raiz
+	// recupere RRN da pagina raiz e armazene em root
+	// leia uma chave e armazene em key
+	while key existe {
+		if(insert(ROOT, KEY, PROMO_R_CHILD, PROMO__KEY) == PROMOTION){
+			crie uma nova raiz (com a promo key), l_child=root atual, r_child=promo_r_child
+			faça root igual ao rrn da novaa pagina raiz
+		}
+		leia a proxima chave e armazene em key
+	}
+	escreva no arquivo a ultima raiz
+	feche o arquivo
+}
+```
+# Propriedades
+- todas as folhas estão no mesmo nível
+- toda página, exceto a raiz tem no minimo [m/2] descendentes
+- uma página n folha que possui k filhos tem k-1 chaves
+
+complexidade da árvore:
+$N+1 \geq 2 x \lceil \frac{m}{2}\rceil^{d-1} \implies d \leq 1 + \log_{\lceil \frac{m}{2}\rceil}((N+1)/2)$
+# remoção

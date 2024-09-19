@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bcc/4° Semestre/Organização de Computadores/1 - Introdução.md",
+                "file": "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/Organização de Computadores/1 - Introdução.md",
+                "file": "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/Organização de Computadores/1 - Introdução.md",
+                "file": "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/Organização de Computadores/1 - Introdução.md"
+                "file": "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md"
               }
             }
           },
@@ -168,10 +168,16 @@
   },
   "active": "671c5cc75a08770c",
   "lastOpenFiles": [
+    "bcc/4° Semestre/Cálculo numérico/12 - Pivoteamento Parcial.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/9 - Modelos Probabilísticos para v.a discretas.md",
     "bcc/4° Semestre/Organização de Computadores/4 - microarquitetura.md",
-    "bcc/4° Semestre/Organização de Computadores/1 - Introdução.md",
+    "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md",
     "bcc/4° Semestre/Organização de Computadores/2 - Organização de sistemas de computadores.md",
-    "bcc/4° Semestre/ED 2/10 - B-TREE pt.2 algs.md",
+    "bcc/4° Semestre/Organização de Computadores/1 - Introdução.md",
+    "ToDo kanban.md",
+    "bcc/4° Semestre/Organização de Computadores/notas.md",
+    "bcc/3° Semestre/AC/Paralelismo em nível de instrução.md",
+    "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md",
     "bcc/4° Semestre/ED 2/9 - B-TREE.md",
     "Excalidraw/B-TREE ex2.md",
     "bcc/4° Semestre/Cálculo numérico/9 - Equações Polinomiais.md",
@@ -181,7 +187,6 @@
     "bcc/4° Semestre/Cálculo numérico/5 - Solução de equações não lineares por métodos numéricos.md",
     "bcc/4° Semestre/Cálculo numérico/3 - Erros de arredondamento e truncamento.md",
     "bcc/4° Semestre/Cálculo numérico/Algoritmos.md",
-    "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md",
     "conflict-files-obsidian-git.md",
     "dist/Pasted image 20240911111746.png",
     "dist/Pasted image 20240911111717.png",
@@ -192,18 +197,13 @@
     "bcc/4° Semestre/Cálculo numérico/Cálculo Numérico.md",
     "bcc/4° Semestre/Cálculo numérico/Exercícios CN.md",
     "Excalidraw/Exercícios CN - draw.md",
-    "ToDo kanban.md",
     "bcc/4° Semestre/ED 2/3 - Organização de arquivos.md",
     "bcc/4° Semestre/ED 2/4 - Index.md",
-    "bcc/4° Semestre/ED 2/2 - Armazenamento secundário.md",
     "dist/Pasted image 20240906081026.png",
     "dist/Pasted image 20240906081353.png",
     "dist/Pasted image 20240906082604.png",
     "dist/Pasted image 20240906091221.png",
     "dist/Pasted image 20240906091136.png",
-    "bcc/4° Semestre/Probabilidade e Estatística/9 - Modelos Probabilísticos para v.a discretas.md",
-    "bcc/4° Semestre/Lab. de Montagem/default notes.md",
-    "bcc/4° Semestre/Lab. de Montagem/4 - Simulação de Linguagem Assembly x86 para 8086.md",
     "dist/File Structures (Michael J. Folk, Bill Zoellick) (Z-Library).pdf",
     "dist/lista1.pdf",
     "Excalidraw/Scripts/Downloaded",

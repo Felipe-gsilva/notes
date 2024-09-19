@@ -8,7 +8,7 @@ O objetivo é criar um circuito que faz um cálculo da maneira mais efetiva poss
 ![[Pasted image 20240906081353.png]]
 
 ## Circuitos integrados
-Os componentes lógicos são agora distribuídos dentro de ICs/chips, que são um pedaço de silicio que compreende portas lógicas.
+Os componentes lógicos são agora distribuídos dentro de chips, que são um pedaço de silício que compreende portas lógicas.
 Tipos comuns de pacotes de circuito integrado, incluindo um pacote dual-in-line, ou DIP, PGA e LGA.
 
 ![[Pasted image 20240906081703.png]]
@@ -51,7 +51,6 @@ _RAMs_ podem ser:
 - dynamic: um arranjo com células que contém um transistor e um capacitor.
 
 _ROMs_: memórias que não podem ser apagadas.
-
 # Chip de CPU
 toda cpu é dividida em pinos de comunicação que são agrupados da seguinte maneira:
 1. Controle de barramento.
@@ -60,7 +59,6 @@ toda cpu é dividida em pinos de comunicação que são agrupados da seguinte ma
 4. Sinalização de coprocessador.
 5. Estado.
 6. Diversos.
-
 # Barramento
 barramentos podem ser síncronos e assíncronos.
 - os síncronos tem sua linha baseada na oscilação de um oscilador de cristal, que sincroniza o clock geral da máquina.
@@ -70,7 +68,6 @@ são métodos para manter o controle de quem é mestre do barramento com determi
 podem ser **centralizados** ou **descentralizados**
 
 ![[Pasted image 20240906090940.png]]
-
 
 ## exemplos de barramento
 _PCI (e PCIe)_ -> utiliza um árbitro de barramento centralizado. 

@@ -5,6 +5,6 @@
 [[6 - Árvore Trie]]
 [[8 - Hashing extensível]]
 [[9 - B-TREE]]
-[[10 - B-TREE pt.2 algs]]
+[[10 - B-TREE algoritmos]]
 
 ![[File Structures (Michael J. Folk, Bill Zoellick) (Z-Library).pdf]]

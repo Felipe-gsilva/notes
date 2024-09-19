@@ -6,22 +6,15 @@ pipeline busca sobrepor operações da instrução de forma paralela, tornando c
 
 ---
 
-  
-
 Os processadores usam uma pipeline pra sobrepor instruções. → ILP – Instruction Level Parallelism;
 
 Existem 2 tipos de ILP, assistido por hardware e por software.
 
-  
-
 Em geral, tende-se a utilizar mais ILPs em pontos com loops, visto que a execução do próximo loop pode ser prevista de acordo com o atual, admitindo poucos erros.
-
-  
 
 ## Dependência
 
 de dados, de controle e de nome. Assim sendo, a ordem que os dados podem ser calculados precisa ser adequada, limitando o paralelismo a fim de evitar hazards
-
   
 
 Dep. de nome/recurso → mesmo registrador ou local de memória sendo “usado ao mesmo tempo”
@@ -66,7 +59,6 @@ Dep. de dados → mesmo dado sendo compartilhado
         - Previsão de desvio.
 
 ---
-
 # Compilação na ILP
 
 instruções dependentes entre si podem ser espalhadas entre os ciclos de clock, ou seja, inserções de latencia (ou delay slot), promovendo a _previsão de desvio_.
@@ -77,8 +69,6 @@ uma marcação de 2 bits na instrução, como forma de acrescer informações so
 
 - Globais; ou
 - Locais
-
-  
 
 ---
 

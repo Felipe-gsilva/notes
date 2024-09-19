@@ -501,6 +501,7 @@ divide
 dependem
 disso
 deveria
+dog
 trabalho
 tomada
 tipos
@@ -2351,6 +2352,7 @@ oscila
 obsidian
 occurrence
 otimizar
+origin
 ncia
 nesse
 ndice
@@ -2623,6 +2625,7 @@ files
 following
 futuras
 futura
+fetch
 se
 sendo
 ser
@@ -2884,6 +2887,7 @@ slots
 substituir
 supomos
 step
+sil
 melhor
 medida
 mem
@@ -3085,6 +3089,7 @@ modernas
 mapeados
 melhorar
 mover
+main
 buscamos
 baseada
 base
@@ -4497,6 +4502,7 @@ incluindo
 invoca
 incluem
 inferiores
+instruction
 Teremos
 The
 This
@@ -4841,6 +4847,7 @@ waJimm
 wptNj
 words
 workspace
+watch
 given
 growth
 guarantee
@@ -5042,6 +5049,7 @@ Hh
 HBR
 Hhlb
 HMJ
+HEAD
 Approaches
 An
 Arquitetura
@@ -5346,6 +5354,7 @@ IFZ
 IhH
 ICs
 Instructions
+IFU
 yield
 yaml
 yd

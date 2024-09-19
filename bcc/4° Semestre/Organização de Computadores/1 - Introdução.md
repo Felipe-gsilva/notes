@@ -29,9 +29,9 @@ nível/máquina virtual indicam o mesmo conceito. A ideia é que um computador p
 5. Instruções para manipular cadeias de caracteres.
 6. cálculos para vetores (indexação e endereçamento indireto).
 7. Características para permitir que os programas fossem movidos na memória
-8. Sistemas de interrupção que avisavam o computador tão logo uma operação de entrada ou saída estivesse concluída.
+8. Sistemas de interrupção que avisavam o computador tão logo uma operação de entrada ou saída estivesse concluída.(watch dog)
 
-_Microcontroladores_: gerenciam dispositivos simples, normalmente só podendo ter o nivel ISA e máquina 
+_Microcontroladores_: gerenciam dispositivos simples, normalmente só podendo ter o nível ISA e máquina 
 _PC_: desktop e notebook.
 _Server_: centenas de GB's e alta capacidade de trabalho em rede.
 _Cluster_: vários servidores conectados com alta velocidade. 
