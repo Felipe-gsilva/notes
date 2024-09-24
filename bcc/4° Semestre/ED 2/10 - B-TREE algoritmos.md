@@ -158,3 +158,36 @@ void procedure() {
 complexidade da árvore:
 $N+1 \geq 2 x \lceil \frac{m}{2}\rceil^{d-1} \implies d \leq 1 + \log_{\lceil \frac{m}{2}\rceil}((N+1)/2)$
 # remoção
+eliminação 
+caso 1: eliminar uma chave de uma página folha. 
+- Solução, chave é retirada e os registros internos à página são reorganizados.
+
+caso 2: uma chave fora da folha
+- trocar com a sua sucessora imediata (menor da direita ou maior da direita) que está numa folha, deleta o que foi pra folha, e deixe o sucessor imediato na pagina de cima
+
+caso 3: eliminação causa underflow e podemos redistribuir
+- solução redistribuição
+- procura-se uma página irmã que contenha mais chaves do que o minimo (se existir, redistribuiremos)
+- juntamos as 2 páginas, escolhemos a chave mediana da junção e distribuimos metade pra cada, promovendo essa chave mediana e colocando a chave do pai trocada com a mediana
+
+caso 4: ocorre underflow e a redistribuição não pode ser aplicada
+- não existem chaves suficientes nos irmãos. 
+- solução: concatenação
+	- combina-se o conteudo das 2 páginas.
+	- combinamos as 2 páginas, pegamos o maior deste nova e o promovemos
+
+caso 5: underflow no pai, como consequencia da concatenação
+- solução: underflow se propaga pra cima. Temos então, que concatenar recursivamente quando possível
+
+caso 6: quando o underflow ocorre na raíz (raiz < 1 chave)
+- concatenar os nós filhos
+## passos
+1. se a chave não estiver numa folha, troque-a com a sua sucessora imediata
+2. elimine a chave da folha
+3. se a página continuar com o número mínimo de chaves, fim.
+4. se a página tem uma chave a menos q (m/2) -1, verificamos as páginas irmãs a esquerda e depois da direta
+	1.  se uma delas tiver mais q o numero minimo de chaves, redistribua
+	2. se não, concatene com a página e a chave separadora do pai
+5. se ocorreu concatenação aplique os passos de 3 a 6
+6. se a ultima chave da raiz for removida, alterar a raiz e a altura diminui
+![[B_TREE_REMOVAL]]

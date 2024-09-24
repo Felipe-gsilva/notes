@@ -6,8 +6,7 @@ $$P(A\cap B)= P(A\backslash B)\ P(B)$$
 
 > basicamente, é a probabilidade de algo ocorrer baseado em outro algo que tem sua própria probabilidade
 
-sintaxe: P(A\M) -> lido como: probabilidade de A acontecer se B -> P de A se M;
-
+sintaxe: P(A \ M) -> lido como: probabilidade de A acontecer se B -> P de A se M;
 # Exemplos
 
 |          | M   | F   | Total |
