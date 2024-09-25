@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md",
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/8 - Variáveis Aleatórias.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a0f7d1c25705b513",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/B_TREE_REMOVAL.md"
               }
             }
           }
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md",
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/8 - Variáveis Aleatórias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md",
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/8 - Variáveis Aleatórias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md"
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/8 - Variáveis Aleatórias.md"
               }
             }
           },
@@ -168,8 +178,8 @@
   },
   "active": "671c5cc75a08770c",
   "lastOpenFiles": [
-    "Excalidraw/B_TREE_REMOVAL.md",
     "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md",
+    "Excalidraw/B_TREE_REMOVAL.md",
     "bcc/4° Semestre/Cálculo numérico/14 - Métodos Iterativos de solução de sistemas.md",
     "bcc/4° Semestre/Cálculo numérico/13 - Fatoração LU com pivoteamento parcial.md",
     "bcc/4° Semestre/Cálculo numérico/Cálculo Numérico.md",
