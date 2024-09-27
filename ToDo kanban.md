@@ -33,12 +33,7 @@ kanban-plugin: board
 - [x] Atividade Probabilidade - modelo binomial?
 - [x] atividade calculo numerico @{2024-09-17}
 - [x] ler capitulo 3 e 4 organização de computadores@{2024-09-06}
-	=======
 - [x] 4 exercícios por dia - lista calculo @{2024-09-07}
-	<<<<<<< HEAD
-	=======
-- [x] ler capitulo 3 e 4 organização de computadores@{2024-09-06}
-
 
 ## backlog
 
