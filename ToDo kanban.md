@@ -1,8 +1,11 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## in progress
+
 - [ ] [[file-system-in-c]]
 - [ ] File Header wish hashing on c
 
@@ -14,12 +17,12 @@ kanban-plugin: board
 
 ## provas
 
-- [ ] P1 probabilidade @{2024-09-19}
-- [ ] P1 Projeto e análise de algoritmos @{2024-09-23}
 - [ ] Modelo Trabalho - probabilidade @{2024-10-03}
 - [ ] Trabalho Organização @{2024-10-30}
 - [ ] P2 Organização @{2024-10-23}
 - [ ] P2 Cálculo Numérico @{2024-11-19}
+
+
 ## Done
 
 **Complete**
@@ -36,14 +39,20 @@ kanban-plugin: board
 - [x] ler capitulo 3 e 4 organização de computadores@{2024-09-06}
 - [x] ler capitulo 3 e 4 organização de computadores@{2024-09-06}
 - [x] 4 exercícios por dia - lista calculo @{2024-09-07}
+
+
 ## backlog
 
 - [ ] ERROR- conta cria um mock pela primeira vez
+
 
 ## future projects
 
 - [ ] [[personal/Game Dev/Vulkan Engine/Vulkan Engine|Vulkan Engine]]
 - [ ] [[home lab]]
+
+
+
 
 %% kanban:settings
 ```

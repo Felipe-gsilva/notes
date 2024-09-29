@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "927ffe97ff0dd86d",
+        "id": "daf015b11b5c4690",
         "type": "tabs",
         "children": [
           {
-            "id": "a5e773f5a9eed46c",
+            "id": "671c5cc75a08770c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "ToDo kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
             }
           }
         ]
@@ -36,6 +49,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "6a2e3f59c5cd4241",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -65,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5026054382324,
-    "collapsed": true
+    "width": 278.5086555480957
   },
   "right": {
     "id": "eefc29d57e17d8d7",
@@ -82,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ToDo kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ToDo kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,15 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "6a2e3f59c5cd4241",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
+              "state": {
+                "file": "ToDo kanban.md"
+              }
             }
           },
           {
@@ -139,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -147,65 +163,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5e773f5a9eed46c",
+  "active": "798f55b4478c2a8e",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Untitled Kanban.md",
-    "bcc/4° Semestre/ED 2/Exercícios.md",
-    "bcc/4° Semestre/ED 2/ED 2.md",
-    "bcc/4° Semestre/ED 2/topicos.md",
     "dist/lista2.pdf",
-    "personal/file-system-in-c.md",
-    "ToDo kanban.md",
-    "personal/Lista de Desejos.md",
     "conflict-files-obsidian-git.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/10 - qui-quadrado.md",
+    "ToDo kanban.md",
+    "personal/file-system-in-c.md",
+    "personal/Real Development techs/Java/9 -Events.md",
+    "personal/Real Development techs/Java/8 - Graphical User Interface.md",
+    "personal/Real Development techs/Java/7 - Generics and Collection.md",
+    "personal/Real Development techs/Java/6 - Files, Streams and Serial Objects.md",
+    "personal/Real Development techs/Java/5 - Exceptions.md",
+    "personal/Real Development techs/Java/4 - Interfaces and Abstract classes.md",
+    "personal/Real Development techs/Java/3 - Garbage Collector and dumb details.md",
+    "personal/Real Development techs/Java/2 - Inheritance and polymorphism.md",
+    "personal/Real Development techs/Java/1 - Basic.md",
+    "dist/Lista de exercícios 1.pdf",
+    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Exercícios.md",
+    "bcc/4° Semestre/ED 2/Exercícios.md",
     "bcc/4° Semestre/Lab. de Montagem/lerletras.asm",
-    "bcc/4° Semestre/Cálculo numérico/Untitled.md",
+    "bcc/4° Semestre/ED 2/3 - Organização de arquivos.md",
+    "bcc/4° Semestre/ED 2/2 - Armazenamento secundário.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/6 - Probabilidade Condicional.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/5 - Definições.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/10 - qui-quadrado.md",
     "bcc/4° Semestre/Cálculo numérico/14 - Métodos Iterativos de solução de sistemas.md",
     "bcc/4° Semestre/Cálculo numérico/13 - Fatoração LU com pivoteamento parcial.md",
-    "Excalidraw/B_TREE_REMOVAL.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/4 - Divisão e Conquista.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Projeto e Analise de Algoritmos.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Exercicios PAA.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Exercícios.md",
-    "personal/Game Dev/Game Dev.md",
-    "personal/Game Dev/Kind of hotline miami bullshit.md",
-    "personal/Game Dev/Godot/Godot.md",
-    "personal/Real Development techs/Rust/Rust.md",
-    "personal/Game Dev/Godot/Pipeline.md",
-    "personal/Game Dev/Godot/Tests.md",
-    "personal/Real Development techs/C++/SDL2/SDL2.md",
-    "personal/Game Dev/Vulkan Engine/Vulkan Engine.md",
-    "cs-4th-semester/ed2/exercio-aula-4/main.c",
-    "cs-4th-semester/ed2/exercio-aula-4/main",
-    "cs-4th-semester/ed2/exercio-aula-4/dados.txt",
-    "cs-4th-semester/ed2/exercio-aula-4/indices.txt",
-    "cs-4th-semester/ed2/exercio-aula-4/dados",
-    "cs-4th-semester/ed2/exercio-aula-3/file.c",
-    "cs-4th-semester/ed2/exercio-aula-3/arquivo.txt",
-    "cs-4th-semester/ed2/exercicios-33-43/compile_commands.json",
-    "dist/Pasted image 20240915131848.png",
-    "Pasted image 20240915131848.png",
+    "bcc/4° Semestre/Cálculo numérico/Untitled.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/6.1- Matriz de Confusão.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/9 - Modelos Probabilísticos para v.a discretas.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/8 - Variáveis Aleatórias.md",
     "dist/Pasted image 20240911111746.png",
     "dist/Pasted image 20240911111717.png",
     "dist/Pasted image 20240911111645.png",
     "dist/Pasted image 20240911110835.png",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "dist/Pasted image 20240915131848.png",
+    "dist/Pasted image 20240906081026.png",
+    "dist/Pasted image 20240906081353.png",
+    "dist/Pasted image 20240906082604.png",
     "dist/Pasted image 20240906091221.png",
     "dist/Pasted image 20240906091136.png",
-    "dist/Pasted image 20240906090940.png"
+    "dist/File Structures (Michael J. Folk, Bill Zoellick) (Z-Library).pdf",
+    "dist/lista1.pdf",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "dist/PrimeiraListaExerc-CalcNum.pdf",
+    "dist",
+    "bcc/4° Semestre/ED 2/4fun",
+    "Excalidraw",
+    "Untitled.canvas"
   ]
 }
