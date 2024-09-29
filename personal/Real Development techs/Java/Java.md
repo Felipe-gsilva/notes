@@ -1,19 +1,9 @@
-  
-
-[[Basic]]
-
-[[GC and dumb details]]
-
-[[Inheritance and polymorphism]]
-
-[[Interfaces and Abstract classes]]
-
-[[Exceptions]]
-
-[[Files, Streams and Serial Objects]]
-
-[[Generics and Collection]]
-
-[[Graphical User Interface]]
-
-[[Events]]
+[[1 - Basic]]
+[[2 - Inheritance and polymorphism]]
+[[3 - Garbage Collector and dumb details]]
+[[4 - Interfaces and Abstract classes]]
+[[5 - Exceptions]]
+[[6 - Files, Streams and Serial Objects]]
+[[7 - Generics and Collection]]
+[[8 - Graphical User Interface]]
+[[9 -Events]]

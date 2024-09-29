@@ -24,7 +24,7 @@ Diz-se que um algoritmo é correto se, para toda instância de entrada , ele par
 saída correta (esperada).  
 Um algoritmo incorreto poderia não parar em algumas instâncias de entrada ou poderia  
 parar com uma resposta incorreta. Ao contrário do que se podeira esperar, às vezes os  
-algoritmos incorretos podem ser úteis se pudermos controlar sua taxa de erros.  
+algoritmos incorretos podem ser úteis se pudermos controlar sua taxa de erros.
 
 ## 1.3 Eficiência
 

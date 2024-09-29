@@ -76,12 +76,8 @@ Existem quatro tipos de buffered streams no Java
 Outra vantagem da classe BufferedReader é a possibilidade de leitura do arquivo linha por linha com `readLine()`
 
 - esse método pode verificar linhas completas sem a necessidade de se olhar char por char
-    
-      
-    
 
 `buffer.flush()` descarrega o buffer
-
 # Scanner
 
 A scanner can read an entry using tokens, which assumes an “ “ as separator for each token. Each returned token can be read as an specific primite type.
@@ -100,7 +96,7 @@ You can use as default the Scanner reading the [System.in](http://System.in) str
 - cli.write()
 - cli.readPassword()
 
-# ==Object Streams==
+# Object Streams
 
 Can access and store objects instead of files. Then, you can output it wherever you want.
 
@@ -108,9 +104,6 @@ Can access and store objects instead of files. Then, you can output it wherever 
     - .readObject()
 - ObjectOutputStream
     - writeObject(a)u
-
-  
-
 ## Serialization
 
 An serialized object is represented as an byte sequence and can be store in an other stream

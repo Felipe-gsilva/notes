@@ -1,5 +1,3 @@
 [[Rust]]
-
 [[Pipeline]]
-
 [[Tests]]

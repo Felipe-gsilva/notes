@@ -1,5 +1,4 @@
 [[Raylib]]
-
 # Cargo
 
 Cargo is the package manager and also a build system for rust, it works as cmake does, but in a truly fashionable way.
@@ -8,7 +7,7 @@ list cargo commands:
 
 - ==cargo build== → ./target/debug/_$_binary_$_
 - ==cargo run== → build and runs automatically
-- ==cargo new== _$_project_name_$_ → use `--help` to see details
+- ==cargo new== _project_name_ → use `--help` to see details
 - ==cargo check== → does not create an binary file, just check its possible failures.
 - ==cargo build== `==--release==` → create a /target/realese/binary with some optimizations.
 
