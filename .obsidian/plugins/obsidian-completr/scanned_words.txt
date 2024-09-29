@@ -520,6 +520,7 @@ deixe
 distribuimos
 diminui
 decomposi
+decorrente
 trabalho
 tomada
 tipos
@@ -729,6 +730,8 @@ troque
 tiver
 triangular
 tomaremos
+tentar
+tenhamos
 entrada
 estados
 estrutura
@@ -1006,6 +1009,7 @@ elimine
 etnyS
 ePUSX
 equivalentemente
+extent
 aplica
 acaso
 assint
@@ -1302,6 +1306,7 @@ aA
 agUmAi
 admite
 afirmativo
+abrindo
 Se
 Somat
 Start
@@ -1814,6 +1819,7 @@ concatenar
 continuar
 concatene
 constituida
+coletar
 xima
 ximo
 xi
@@ -2434,6 +2440,8 @@ ot
 ocorreu
 oOQBSqJU
 oVluUrs
+overhead
+ocupado
 ncia
 nesse
 ndice
@@ -2715,6 +2723,7 @@ fix
 fences
 floor
 fzHHCQ
+fscanf
 se
 sendo
 ser
@@ -3192,6 +3201,7 @@ main
 modules
 mediana
 martiz
+minimizar
 buscamos
 baseada
 base
@@ -3427,6 +3437,7 @@ ultima
 ultimo
 uplas
 uqIWFIU
+utilizamos
 representa
 rica
 requisitos
@@ -3654,6 +3665,8 @@ redistribui
 redistribuiremos
 redistribua
 removida
+reservado
+reaproveitado
 hardware
 heuristic
 highlights
@@ -3925,6 +3938,7 @@ lidar
 lidas
 logaritmo
 later
+lendo
 Modelo
 Move
 Melhor
@@ -4423,6 +4437,7 @@ vNp
 viewing
 verificamos
 vLFCOp
+via
 idealizaremos
 instru
 inteiros
@@ -4903,6 +4918,7 @@ Physical
 Priority
 Presentation
 Pivoteamento
+Perda
 with
 which
 when
@@ -5118,6 +5134,7 @@ glfw
 gia
 ginas
 gRe
+gerenciamento
 Heuristic
 Hashing
 HDD
@@ -5510,6 +5527,7 @@ Instructions
 IFU
 IufjotTK
 Iterativo
+IO
 yield
 yaml
 yd
@@ -5796,6 +5814,8 @@ Especulativa
 Explicit
 Extension
 Etapa
+Ele
+Este
 Key
 KKKKK
 Keysorting
@@ -6513,6 +6533,7 @@ BK
 BC
 Bisse
 BDUPN
+BUF
 juntar
 jeito
 jump

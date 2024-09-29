@@ -11,11 +11,20 @@
             "id": "671c5cc75a08770c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/Exercícios.md",
-                "mode": "source",
-                "source": false
+                "file": "ToDo kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -77,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5086555480957,
-    "collapsed": true
+    "width": 278.5086555480957
   },
   "right": {
     "id": "eefc29d57e17d8d7",
@@ -94,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/Exercícios.md",
+                "file": "ToDo kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/Exercícios.md",
+                "file": "ToDo kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/Exercícios.md"
+                "file": "ToDo kanban.md"
               }
             }
           },
@@ -169,6 +177,9 @@
   },
   "active": "671c5cc75a08770c",
   "lastOpenFiles": [
+    "bcc/4° Semestre/ED 2/Exercícios.md",
+    "ToDo kanban.md",
+    "bcc/4° Semestre/Lab. de Montagem/lerletras.asm",
     "bcc/4° Semestre/ED 2/3 - Organização de arquivos.md",
     "bcc/4° Semestre/ED 2/2 - Armazenamento secundário.md",
     "bcc/4° Semestre/Probabilidade e Estatística/6 - Probabilidade Condicional.md",
@@ -186,7 +197,6 @@
     "bcc/4° Semestre/Cálculo numérico/Algoritmos.md",
     "bcc/4° Semestre/Cálculo numérico/12 - Pivoteamento Parcial.md",
     "personal/Game Dev/Vulkan Engine/Vulkan Engine.md",
-    "ToDo kanban.md",
     "bcc/4° Semestre/Probabilidade e Estatística/1 - Conceitos.md",
     "bcc/4° Semestre/Probabilidade e Estatística/3 - só no caderno.md",
     "bcc/4° Semestre/Organização de Computadores/4 - microarquitetura.md",
@@ -194,7 +204,6 @@
     "bcc/4° Semestre/Organização de Computadores/2 - Organização de sistemas de computadores.md",
     "bcc/4° Semestre/Organização de Computadores/1 - Introdução.md",
     "bcc/4° Semestre/Organização de Computadores/notas.md",
-    "bcc/3° Semestre/AC/Paralelismo em nível de instrução.md",
     "dist/Pasted image 20240911111746.png",
     "dist/Pasted image 20240911111717.png",
     "dist/Pasted image 20240911111645.png",
@@ -214,7 +223,6 @@
     "bcc/4° Semestre/ED 2/4fun",
     "Excalidraw",
     "images",
-    "bcc/4° Semestre/Organização de Computadores",
     "Untitled.canvas"
   ]
 }
