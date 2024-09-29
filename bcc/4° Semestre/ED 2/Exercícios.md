@@ -28,24 +28,28 @@ os discos devem tentar ao máximo evitar fragmentação, mas a parte de armazena
 
 9 - Pode-se utilizar um bloco de tamanho definido pelo usuário. Este processo normalmente cria um overhead maior do que o overhead padrão (espaço ocupado para gerenciamento/controle de informações, não com os dados em si).
 
-10 -
+10 - podemos escrever sintaticamente no arquivo, podendo recuperar de forma logica o que tem no arquivo mesmo que não escrito pelo nosso programa. Ou seja, podemos fazer o fprintf ou simplesmente escreve em bytes e só permitir que nosso programa releia.
 
-11- 
+11- Podemos escrever campos de algumas maneiras diferentes, entre elas:
+๏ Comprimento fixo
+๏ Indicador de comprimento
+๏ Delimitadores - podemos utilizar separadores como tags (; / ou qq outra coisa)
+๏ Uso de tags (etiquetas)
 
-12 - 
+12 -  é a fragmentação quando temos cada campo com tamanho fixo e limitado. A escrita do campo independe da porção lógica o qual o é inserido. Desta forma, se tivermos um campo ou registro de tamanho fixo, naturalmente a maior parte dos valores deles não serão sempre 100% preenchidos.
 
-13 - As limitações são que o caractere utilizado para ser o delimitador deve estar fora do utilizado no campo. O delimitador pode ser uma /, mas / tem direto em texto.
+13 - As limitações são que o caractere utilizado para ser o delimitador deve estar fora do utilizado no campo. O delimitador pode ser uma /, mas / tem o tempo todo em campos. Portanto, podemos usar 
 
 14 - Depende do tamanho. Relative record number guarda o indice 
 > Byte offset = RRN * Tamanho do registro.
 
-15 - É importante criar blocos com uma determinada quantidade de structs predefinidas, dessa forma, você diminuirá a quantidade de seekings para buscar um dado, ja que devido ao **principio da localidade**, mais dados podem estar próximos...
+15 - É importante criar blocos com uma determinada quantidade de registros predefinidas, dessa forma, você diminuirá a quantidade de seekings para buscar um dado, ja que devido ao **principio da localidade**, mais dados podem estar próximos... Vale ressaltar que podemos utilizar chaves para identificar campos especificos, desta forma 
 
-16 - (64 * 3) + 10
+16 - (64 * 3) + 10 -> tamanho fixo do registro * RRN + tamanho do header record 
 
-17 - acesso rápido, memória cheia de merda. cheio de fragmentação.
+17 - Fixar o tamanho de um registro/campo permite o acesso rápido, devido a possibilidade de usarmos o RRN para acessar cada parte de um arquivo de dados. No entanto, isso acaba criando ainda mais fragmentação, visto que normalmente os dados não serão totalmente preenchidos.
 
-18 - Relative Record number
+18 - Relative Record Number, basta multiplicar 
 
 19 - 
 First Fit is fast and simple to implement, making it the most commonly used algorithm. However, it can suffer from external fragmentation, where small free partitions are left between allocated partitions.
@@ -54,7 +58,7 @@ Best Fit reduces external fragmentation by allocating processes to the smallest 
 
 Worst Fit reduces external fragmentation by leaving the largest free partition, but it can lead to inefficient use of memory.
 
-20 -  Sim, é vantajoso. A inserção pode ser feita de maneira completamente aleatória, podendo apenas ser sorted no arquivo de index.
+20 -  Sim, é vantajoso. A inserção pode ser feita de maneira completamente aleatória, podendo apenas ser ordenada no arquivo de index.
 
 21 - você pode marcar para reuso com um bit especial e/ou criar um arquivo com uma Lista de Espaços Disponíveis (LD).
 
@@ -72,3 +76,6 @@ Carla|Guimarães|Rua Riachuelo 123|Jardim America|033|720|.......... Djavan Carl
 27 - feito  
 
 28 -
+
+
+![[lista2.pdf]]
