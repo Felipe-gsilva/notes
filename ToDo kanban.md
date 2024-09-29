@@ -1,21 +1,23 @@
 ---
-
 kanban-plugin: board
-
 ---
 
 ## in progress
 
+
 - [ ] [[file-system-in-c]]
+- [ ] File Header wish hashing on c
 
 
 ## ToDo
 
+- [ ] Lista 1 em C - ED2 @{2024-09-15}
 - [ ] documentar componentes (components) (pra bemmmm depois)
 
 
 ## provas
 
+- [ ] P1 probabilidade @{2024-09-19}
 - [ ] P1 Projeto e análise de algoritmos @{2024-09-23}
 - [ ] P1 probabilidade @{2024-09-26}
 - [ ] Modelo Trabalho - probabilidade @{2024-10-03}
@@ -36,7 +38,9 @@ kanban-plugin: board
 - [x] 4 exercícios por dia - lista calculo @{2024-09-07}
 - [x] ler capitulo 3 e 4 organização de computadores@{2024-09-06}
 
-
+=======
+- [x] ler capitulo 3 e 4 organização de computadores@{2024-09-06}
+- [x] 4 exercícios por dia - lista calculo @{2024-09-07}
 ## backlog
 
 - [ ] ERROR- conta cria um mock pela primeira vez
