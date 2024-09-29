@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bcc/4° Semestre/Probabilidade e Estatística/8 - Variáveis Aleatórias.md",
+                "file": "bcc/4° Semestre/ED 2/Exercícios.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a0f7d1c25705b513",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/B_TREE_REMOVAL.md"
               }
             }
           }
@@ -87,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5086555480957
+    "width": 278.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "eefc29d57e17d8d7",
@@ -103,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/Probabilidade e Estatística/8 - Variáveis Aleatórias.md",
+                "file": "bcc/4° Semestre/ED 2/Exercícios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/Probabilidade e Estatística/8 - Variáveis Aleatórias.md",
+                "file": "bcc/4° Semestre/ED 2/Exercícios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/Probabilidade e Estatística/8 - Variáveis Aleatórias.md"
+                "file": "bcc/4° Semestre/ED 2/Exercícios.md"
               }
             }
           },
@@ -178,32 +169,32 @@
   },
   "active": "671c5cc75a08770c",
   "lastOpenFiles": [
-    "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md",
-    "Excalidraw/B_TREE_REMOVAL.md",
+    "bcc/4° Semestre/ED 2/3 - Organização de arquivos.md",
+    "bcc/4° Semestre/ED 2/2 - Armazenamento secundário.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/6 - Probabilidade Condicional.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/5 - Definições.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/10 - qui-quadrado.md",
     "bcc/4° Semestre/Cálculo numérico/14 - Métodos Iterativos de solução de sistemas.md",
     "bcc/4° Semestre/Cálculo numérico/13 - Fatoração LU com pivoteamento parcial.md",
+    "bcc/4° Semestre/Cálculo numérico/Untitled.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/6.1- Matriz de Confusão.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/9 - Modelos Probabilísticos para v.a discretas.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/8 - Variáveis Aleatórias.md",
+    "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md",
+    "Excalidraw/B_TREE_REMOVAL.md",
     "bcc/4° Semestre/Cálculo numérico/Cálculo Numérico.md",
     "bcc/4° Semestre/Cálculo numérico/Algoritmos.md",
     "bcc/4° Semestre/Cálculo numérico/12 - Pivoteamento Parcial.md",
     "personal/Game Dev/Vulkan Engine/Vulkan Engine.md",
     "ToDo kanban.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/8 - Variáveis Aleatórias.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/6 - Probabilidade Condicional.md",
     "bcc/4° Semestre/Probabilidade e Estatística/1 - Conceitos.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/6.1- Matriz de Confusão.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/5 - Definições.md",
     "bcc/4° Semestre/Probabilidade e Estatística/3 - só no caderno.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/9 - Modelos Probabilísticos para v.a discretas.md",
     "bcc/4° Semestre/Organização de Computadores/4 - microarquitetura.md",
     "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md",
     "bcc/4° Semestre/Organização de Computadores/2 - Organização de sistemas de computadores.md",
     "bcc/4° Semestre/Organização de Computadores/1 - Introdução.md",
     "bcc/4° Semestre/Organização de Computadores/notas.md",
     "bcc/3° Semestre/AC/Paralelismo em nível de instrução.md",
-    "bcc/4° Semestre/ED 2/9 - B-TREE.md",
-    "Excalidraw/B-TREE ex2.md",
-    "bcc/4° Semestre/Cálculo numérico/9 - Equações Polinomiais.md",
-    "bcc/4° Semestre/Cálculo numérico/8 - Método de Newton-Raphson.md",
     "dist/Pasted image 20240911111746.png",
     "dist/Pasted image 20240911111717.png",
     "dist/Pasted image 20240911111645.png",

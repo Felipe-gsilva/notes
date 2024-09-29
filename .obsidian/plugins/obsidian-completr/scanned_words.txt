@@ -519,6 +519,7 @@ deleta
 deixe
 distribuimos
 diminui
+decomposi
 trabalho
 tomada
 tipos
@@ -726,6 +727,8 @@ trocamos
 trocada
 troque
 tiver
+triangular
+tomaremos
 entrada
 estados
 estrutura
@@ -1002,6 +1005,7 @@ estiver
 elimine
 etnyS
 ePUSX
+equivalentemente
 aplica
 acaso
 assint
@@ -1296,6 +1300,8 @@ aplique
 altura
 aA
 agUmAi
+admite
+afirmativo
 Se
 Somat
 Start
@@ -1807,6 +1813,7 @@ consequencia
 concatenar
 continuar
 concatene
+constituida
 xima
 ximo
 xi
@@ -2193,6 +2200,7 @@ pegamos
 promovemos
 propaga
 pZN
+primeiras
 qualquer
 que
 quina
@@ -3183,6 +3191,7 @@ mover
 main
 modules
 mediana
+martiz
 buscamos
 baseada
 base
@@ -4286,6 +4295,7 @@ Dada
 Device
 DaZ
 DHL
+Decomposi
 vel
 vale
 valores
@@ -4628,6 +4638,7 @@ imediata
 imediato
 irm
 iGcSSMfH
+iterativa
 Teremos
 The
 This
@@ -5388,6 +5399,8 @@ Nos
 NULL
 NO
 NLS
+Normas
+Norma
 Issues
 It
 Invariante
@@ -5496,6 +5509,7 @@ ICs
 Instructions
 IFU
 IufjotTK
+Iterativo
 yield
 yaml
 yd
@@ -5935,6 +5949,7 @@ VVL
 Vertex
 Validation
 VJpEfNAU
+Verificar
 Java
 JE
 JZ
@@ -5999,6 +6014,7 @@ Jd
 JK
 JiYyB
 JKM
+Jacobi
 You
 YKs
 YW
@@ -6152,6 +6168,7 @@ Fragment
 Fix
 Fences
 FPhK
+Fatora
 Geraldo
 GwR
 GIbey
@@ -6326,6 +6343,7 @@ Layers
 Logical
 LUu
 LpEZEBFw
+LU
 Usamos
 Um
 Usando
