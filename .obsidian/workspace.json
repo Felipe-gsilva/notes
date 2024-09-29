@@ -11,20 +11,11 @@
             "id": "671c5cc75a08770c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ToDo kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "bcc/4° Semestre/ED 2/6 - Árvore Trie.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDo kanban.md",
+                "file": "bcc/4° Semestre/ED 2/6 - Árvore Trie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDo kanban.md",
+                "file": "bcc/4° Semestre/ED 2/6 - Árvore Trie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDo kanban.md"
+                "file": "bcc/4° Semestre/ED 2/6 - Árvore Trie.md"
               }
             }
           },
@@ -175,11 +166,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "798f55b4478c2a8e",
+  "active": "671c5cc75a08770c",
   "lastOpenFiles": [
+    "ToDo kanban.md",
     "dist/lista2.pdf",
     "conflict-files-obsidian-git.md",
-    "ToDo kanban.md",
     "personal/file-system-in-c.md",
     "personal/Real Development techs/Java/9 -Events.md",
     "personal/Real Development techs/Java/8 - Graphical User Interface.md",
@@ -222,7 +213,6 @@
     "dist/PrimeiraListaExerc-CalcNum.pdf",
     "dist",
     "bcc/4° Semestre/ED 2/4fun",
-    "Excalidraw",
     "Untitled.canvas"
   ]
 }

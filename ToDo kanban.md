@@ -7,7 +7,6 @@ kanban-plugin: board
 ## in progress
 
 - [ ] [[file-system-in-c]]
-- [ ] File Header wish hashing on c
 
 
 ## ToDo
@@ -15,7 +14,7 @@ kanban-plugin: board
 - [ ] documentar componentes (components) (pra bemmmm depois)
 
 
-## provas
+## provas e trabalhos
 
 - [ ] Modelo Trabalho - probabilidade @{2024-10-03}
 - [ ] Trabalho Organização @{2024-10-30}
