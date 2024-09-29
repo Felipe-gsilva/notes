@@ -38,6 +38,17 @@
                 }
               }
             }
+          },
+          {
+            "id": "1f969b5bf07c49a4",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "ToDo kanban.md",
+                "staged": false
+              }
+            }
           }
         ],
         "currentTab": 1
