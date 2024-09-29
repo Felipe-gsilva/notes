@@ -763,6 +763,7 @@ their
 ternary
 transform
 texture
+txt
 entrada
 estados
 estrutura
@@ -1941,6 +1942,7 @@ core
 camera
 collision
 comum
+completr
 xima
 ximo
 xi
@@ -2360,6 +2362,7 @@ problably
 project
 player
 projectile
+plugins
 qualquer
 que
 quina
@@ -3212,6 +3215,7 @@ scene
 sound
 songs
 sprites
+scanned
 melhor
 medida
 mem
@@ -5365,6 +5369,7 @@ we
 windows
 world
 window
+words
 given
 growth
 guarantee

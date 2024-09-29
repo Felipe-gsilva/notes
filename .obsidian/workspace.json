@@ -11,15 +11,36 @@
             "id": "4abb4ac37fa4b983",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "personal/file-system-in-c.md",
-                "mode": "source",
-                "source": false
+                "file": "ToDo kanban.md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "0edd59442de7b037",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "ToDo kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5026054382324,
-    "collapsed": true
+    "width": 292.5026054382324
   },
   "right": {
     "id": "eefc29d57e17d8d7",
@@ -86,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/file-system-in-c.md",
+                "file": "ToDo kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/file-system-in-c.md",
+                "file": "ToDo kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/file-system-in-c.md"
+                "file": "ToDo kanban.md"
               }
             }
           },
@@ -167,9 +187,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4abb4ac37fa4b983",
+  "active": "0edd59442de7b037",
   "lastOpenFiles": [
     "ToDo kanban.md",
+    "conflict-files-obsidian-git.md",
+    "personal/file-system-in-c.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/10 - qui-quadrado.md",
+    "bcc/4° Semestre/Lab. de Montagem/lerletras.asm",
+    "bcc/4° Semestre/Cálculo numérico/Untitled.md",
+    "bcc/4° Semestre/Cálculo numérico/14 - Métodos Iterativos de solução de sistemas.md",
+    "bcc/4° Semestre/Cálculo numérico/13 - Fatoração LU com pivoteamento parcial.md",
+    "Excalidraw/B_TREE_REMOVAL.md",
     "bcc/4° Semestre/Projeto e Analise de Algoritmos/4 - Divisão e Conquista.md",
     "bcc/4° Semestre/Projeto e Analise de Algoritmos/Projeto e Analise de Algoritmos.md",
     "bcc/4° Semestre/Projeto e Analise de Algoritmos/Exercicios PAA.md",
@@ -182,19 +210,12 @@
     "personal/Game Dev/Godot/Tests.md",
     "personal/Real Development techs/C++/SDL2/SDL2.md",
     "personal/Game Dev/Vulkan Engine/Vulkan Engine.md",
-    "personal/file-system-in-c.md",
     "README.md",
     "pairing.md",
     "bcc/4° Semestre/4° Semestre.md",
     "personal/Real Development techs/Rust/Raylib.md",
     "personal/Real Development techs/Java/8 - Graphical User Interface.md",
     "personal/Real Development techs/Java/9 -Events.md",
-    "personal/Real Development techs/Java/7 - Generics and Collection.md",
-    "personal/Real Development techs/Java/Java.md",
-    "personal/Real Development techs/Java/6 - Files, Streams and Serial Objects.md",
-    "personal/Real Development techs/Java/5 - Exceptions.md",
-    "personal/Real Development techs/Java/4 - Interfaces and Abstract classes.md",
-    "personal/Real Development techs/Java/3 - Garbage Collector and dumb details.md",
     "cs-4th-semester/ed2/exercio-aula-4/main.c",
     "cs-4th-semester/ed2/exercio-aula-4/main",
     "cs-4th-semester/ed2/exercio-aula-4/dados.txt",
@@ -204,7 +225,6 @@
     "cs-4th-semester/ed2/exercio-aula-3/arquivo.txt",
     "cs-4th-semester/ed2/exercicios-33-43/compile_commands.json",
     "cs-4th-semester/ed2/exercicios-33-43/33.h",
-    "cs-4th-semester/ed2/exercicios-33-43/33.c",
     "dist/Pasted image 20240915131848.png",
     "Pasted image 20240915131848.png",
     "dist/Pasted image 20240911111746.png",

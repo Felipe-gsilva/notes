@@ -4,7 +4,6 @@ Experimentos ou fenômenos aleatórios: quando resultados não podem ser predito
 # Espaço Amostral
 
 é um conjunto de todos os resultados possíveis de um fenômeno aleatório.
-
 Cada resultado representa um `ponto amostral`.
 
 # Eventos
