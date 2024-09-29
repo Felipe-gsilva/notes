@@ -1,5 +1,4 @@
   
-
 - [ ] Change Physical Device Priority by giving it a score
 - [ ] Vertex Shader
     - [ ] Explicit flushing on mem allocation
@@ -24,5 +23,12 @@
 - [x] Fix builder for glfw
 - [x] Cmake for Linux later on
 - [ ] cmake for windows
+- [ ]  3D object parsing
+- [ ] z-buffer
+- [ ] camera 
+- [ ] view transform
+- [ ] world gen (pairling noise problably)
+- [ ] 
+
 
 [[Audio Handler]]

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "daf015b11b5c4690",
+        "id": "973ac43d7e7f3d7b",
         "type": "tabs",
         "children": [
           {
-            "id": "671c5cc75a08770c",
+            "id": "4abb4ac37fa4b983",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md",
+                "file": "personal/file-system-in-c.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,14 +43,6 @@
             }
           },
           {
-            "id": "6a2e3f59c5cd4241",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "d08e6cec340e0c5b",
             "type": "leaf",
             "state": {
@@ -77,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5086555480957
+    "width": 292.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "eefc29d57e17d8d7",
@@ -93,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md",
+                "file": "personal/file-system-in-c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md",
+                "file": "personal/file-system-in-c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,8 +126,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md"
+                "file": "personal/file-system-in-c.md"
               }
+            }
+          },
+          {
+            "id": "6a2e3f59c5cd4241",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -146,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -154,66 +155,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-importer:Open Importer": false,
-      "canvas:Create new canvas": false,
-      "graph:Open graph view": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "671c5cc75a08770c",
+  "active": "4abb4ac37fa4b983",
   "lastOpenFiles": [
-    "bcc/4° Semestre/Cálculo numérico/12 - Pivoteamento Parcial.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/9 - Modelos Probabilísticos para v.a discretas.md",
-    "bcc/4° Semestre/Organização de Computadores/4 - microarquitetura.md",
-    "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md",
-    "bcc/4° Semestre/Organização de Computadores/2 - Organização de sistemas de computadores.md",
-    "bcc/4° Semestre/Organização de Computadores/1 - Introdução.md",
     "ToDo kanban.md",
-    "bcc/4° Semestre/Organização de Computadores/notas.md",
-    "bcc/3° Semestre/AC/Paralelismo em nível de instrução.md",
-    "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md",
-    "bcc/4° Semestre/ED 2/9 - B-TREE.md",
-    "Excalidraw/B-TREE ex2.md",
-    "bcc/4° Semestre/Cálculo numérico/9 - Equações Polinomiais.md",
-    "bcc/4° Semestre/Cálculo numérico/8 - Método de Newton-Raphson.md",
-    "bcc/4° Semestre/Cálculo numérico/7 - Método do Ponto Fixo (MPF).md",
-    "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
-    "bcc/4° Semestre/Cálculo numérico/5 - Solução de equações não lineares por métodos numéricos.md",
-    "bcc/4° Semestre/Cálculo numérico/3 - Erros de arredondamento e truncamento.md",
-    "bcc/4° Semestre/Cálculo numérico/Algoritmos.md",
-    "conflict-files-obsidian-git.md",
+    "bcc/4° Semestre/Projeto e Analise de Algoritmos/4 - Divisão e Conquista.md",
+    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Projeto e Analise de Algoritmos.md",
+    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Exercicios PAA.md",
+    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Exercícios.md",
+    "personal/Game Dev/Game Dev.md",
+    "personal/Game Dev/Kind of hotline miami bullshit.md",
+    "personal/Game Dev/Godot/Godot.md",
+    "personal/Real Development techs/Rust/Rust.md",
+    "personal/Game Dev/Godot/Pipeline.md",
+    "personal/Game Dev/Godot/Tests.md",
+    "personal/Real Development techs/C++/SDL2/SDL2.md",
+    "personal/Game Dev/Vulkan Engine/Vulkan Engine.md",
+    "personal/file-system-in-c.md",
+    "README.md",
+    "pairing.md",
+    "bcc/4° Semestre/4° Semestre.md",
+    "personal/Real Development techs/Rust/Raylib.md",
+    "personal/Real Development techs/Java/8 - Graphical User Interface.md",
+    "personal/Real Development techs/Java/9 -Events.md",
+    "personal/Real Development techs/Java/7 - Generics and Collection.md",
+    "personal/Real Development techs/Java/Java.md",
+    "personal/Real Development techs/Java/6 - Files, Streams and Serial Objects.md",
+    "personal/Real Development techs/Java/5 - Exceptions.md",
+    "personal/Real Development techs/Java/4 - Interfaces and Abstract classes.md",
+    "personal/Real Development techs/Java/3 - Garbage Collector and dumb details.md",
+    "cs-4th-semester/ed2/exercio-aula-4/main.c",
+    "cs-4th-semester/ed2/exercio-aula-4/main",
+    "cs-4th-semester/ed2/exercio-aula-4/dados.txt",
+    "cs-4th-semester/ed2/exercio-aula-4/indices.txt",
+    "cs-4th-semester/ed2/exercio-aula-4/dados",
+    "cs-4th-semester/ed2/exercio-aula-3/file.c",
+    "cs-4th-semester/ed2/exercio-aula-3/arquivo.txt",
+    "cs-4th-semester/ed2/exercicios-33-43/compile_commands.json",
+    "cs-4th-semester/ed2/exercicios-33-43/33.h",
+    "cs-4th-semester/ed2/exercicios-33-43/33.c",
+    "dist/Pasted image 20240915131848.png",
+    "Pasted image 20240915131848.png",
     "dist/Pasted image 20240911111746.png",
     "dist/Pasted image 20240911111717.png",
     "dist/Pasted image 20240911111645.png",
     "dist/Pasted image 20240911110835.png",
-    "bcc/4° Semestre/Cálculo numérico/10 - Sequência (ou cadeia) de Sturm + newton para polinomios.md",
-    "dist/Pasted image 20240915131848.png",
-    "bcc/4° Semestre/Cálculo numérico/Cálculo Numérico.md",
-    "bcc/4° Semestre/Cálculo numérico/Exercícios CN.md",
-    "Excalidraw/Exercícios CN - draw.md",
-    "bcc/4° Semestre/ED 2/3 - Organização de arquivos.md",
-    "bcc/4° Semestre/ED 2/4 - Index.md",
-    "dist/Pasted image 20240906081026.png",
-    "dist/Pasted image 20240906081353.png",
-    "dist/Pasted image 20240906082604.png",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "dist/Pasted image 20240906091221.png",
     "dist/Pasted image 20240906091136.png",
-    "dist/File Structures (Michael J. Folk, Bill Zoellick) (Z-Library).pdf",
-    "dist/lista1.pdf",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "dist/PrimeiraListaExerc-CalcNum.pdf",
-    "dist",
-    "bcc/4° Semestre/ED 2/4fun",
-    "Excalidraw",
-    "images",
-    "bcc/4° Semestre/Organização de Computadores",
+    "dist/Pasted image 20240906090940.png",
     "Untitled.canvas"
   ]
 }

@@ -35,10 +35,9 @@
 - [ ] camera movement?
     - [ ] window edges?
 
-→ sound
-
-- [ ] sound effetcts
-- [ ] songs
+- [ ] sound
+	- [ ] sound effetcts
+	- [ ] songs
 
 - [ ] different sprites
 - [ ] more enemies

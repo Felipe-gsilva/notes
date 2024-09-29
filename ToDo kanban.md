@@ -6,27 +6,18 @@ kanban-plugin: board
 
 ## in progress
 
-<<<<<<< HEAD
-- [ ] ler capitulo 3 e 4 organização de computadores@{2024-09-06}
-=======
-- [ ] File Header wish hashing on c
->>>>>>> origin/main
+- [ ] [[file-system-in-c]]
 
 
 ## ToDo
 
-- [ ] atividade calculo numerico @{2024-09-17}
-- [ ] Lista 1 em C - ED2 @{2024-09-15}
 - [ ] documentar componentes (components) (pra bemmmm depois)
-- [ ] Atividade Probabilidade - modelo binomial?
 
 
 ## provas
 
-- [ ] Prova Cálculo Numérico @{2024-09-17}
-- [ ] P1 Organização @{2024-09-18}
-- [ ] P1 probabilidade @{2024-09-19}
 - [ ] P1 Projeto e análise de algoritmos @{2024-09-23}
+- [ ] P1 probabilidade @{2024-09-26}
 - [ ] Modelo Trabalho - probabilidade @{2024-10-03}
 - [ ] Trabalho Organização @{2024-10-30}
 - [ ] P2 Organização @{2024-10-23}
@@ -36,22 +27,14 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] Lista 1 em C - ED2 @{2024-10-01}
+- [x] P1 Organização @{2024-09-18}
+- [x] Prova Cálculo Numérico @{2024-09-17}
+- [x] Atividade Probabilidade - modelo binomial?
+- [x] atividade calculo numerico @{2024-09-17}
+- [x] ler capitulo 3 e 4 organização de computadores
 - [x] 4 exercícios por dia - lista calculo @{2024-09-07}
-<<<<<<< HEAD
-=======
 - [x] ler capitulo 3 e 4 organização de computadores@{2024-09-06}
->>>>>>> origin/main
-- [x] Atividade assembly @{2024-09-06}
-- [x] Documento para a vó com dados @{2024-09-03}
-- [x] Tests for frontend @{2024-09-06}
-- [x] Estudar para a olimpiada @{2024-08-31}
-- [x] desgin system base @{2024-09-06}
-- [x] Exercício PAA @{2024-08-26}
-- [x] Atividade Calculo numerico @{2024-08-23}
-- [x] yaml history @{2024-08-19}
-- [x] [[Montar um caso real - probabilidade e estatística]]
-	@{2024-08-22}
-- [x] Tests on clj-rq
 
 
 ## backlog

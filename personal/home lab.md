@@ -1,5 +1,5 @@
 My future home lab links 
-> [!info] Arch Linux ARM  
+> [!important] Arch Linux ARM  
 > We are a port of Arch Linux, which aims for simplicity and full control to the end user.  
 > [https://archlinuxarm.org/](https://archlinuxarm.org/)  
 
@@ -11,3 +11,6 @@ My future home lab links
 > the main OpenSSH page  
 > [https://www.openssh.com/](https://www.openssh.com/)
 
+>[!important] PiHole
+>pihole - dns server
+>[pi](https://pi-hole.net/)

@@ -1,27 +1,13 @@
----
-
 ๏ Generics
-
 ๏ Classes e métodos genéricos
-
 ๏ Genéricos restritos
-
 ๏ Herança de classes genéricas
-
 ๏ Wildcards
-
 ๏ Collections
-
 ๏ Interfaces e classes de coleções
-
 ๏ Algoritmos sobre genéricos
-
 ๏ Iteradores
-
----
-
-# **VAI CAIR NA PROVA**
-
+# Tips
 ?  
 não identifica o tipo que será enviado, portanto não pode ser reusado dentro de um método, ou seja, não será posível adicionar a uma possível lista qualquer objeto do tipo desconhecido  
 
@@ -43,7 +29,6 @@ o erasure funciona como um casting durante a passagem de parâmetros, substituin
 - não é possível criar objetos de exceção com gererics
 
 ---
-
 # **Generics**
 
 - servem como templates e permitem que tipos sejam parametros na definição de classes, interfaces e métodos
