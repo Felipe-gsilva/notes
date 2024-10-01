@@ -46,7 +46,7 @@ palavra = m + r $\implies$ (qtd de bits de dados) + (qtd de bits de paridade)
 > se os bits de paridade 1 e 4 estiverem incorretos, mas 2, 8 e 16 estiverem corretos, o bit 5 (1 + 4) foi invertido.
 
 # Memória Secundária 
-[[2 - Armazenamento secundário]]
+[[1-2 - Armazenamento secundário]]
 ![[Pasted image 20240904104532.png]]
 
 

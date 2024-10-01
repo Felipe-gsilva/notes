@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "daf015b11b5c4690",
+        "id": "6fbd56d2298d1f85",
         "type": "tabs",
         "children": [
           {
-            "id": "671c5cc75a08770c",
+            "id": "5ea2c01add0b2b13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/6 - Árvore Trie.md",
+                "file": "bcc/4° Semestre/ED 2/8 - B-TREE.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/6 - Árvore Trie.md",
+                "file": "bcc/4° Semestre/ED 2/8 - B-TREE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/6 - Árvore Trie.md",
+                "file": "bcc/4° Semestre/ED 2/8 - B-TREE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/6 - Árvore Trie.md"
+                "file": "bcc/4° Semestre/ED 2/8 - B-TREE.md"
               }
             }
           },
@@ -166,36 +166,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "671c5cc75a08770c",
+  "active": "5ea2c01add0b2b13",
   "lastOpenFiles": [
-    "ToDo kanban.md",
-    "dist/lista2.pdf",
-    "conflict-files-obsidian-git.md",
-    "personal/file-system-in-c.md",
-    "personal/Real Development techs/Java/9 -Events.md",
-    "personal/Real Development techs/Java/8 - Graphical User Interface.md",
-    "personal/Real Development techs/Java/7 - Generics and Collection.md",
-    "personal/Real Development techs/Java/6 - Files, Streams and Serial Objects.md",
-    "personal/Real Development techs/Java/5 - Exceptions.md",
-    "personal/Real Development techs/Java/4 - Interfaces and Abstract classes.md",
-    "personal/Real Development techs/Java/3 - Garbage Collector and dumb details.md",
-    "personal/Real Development techs/Java/2 - Inheritance and polymorphism.md",
-    "personal/Real Development techs/Java/1 - Basic.md",
-    "dist/Lista de exercícios 1.pdf",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Exercícios.md",
+    "bcc/4° Semestre/ED 2/7 - Hashing extensível.md",
+    "Pasted image 20241001074046.png",
+    "bcc/4° Semestre/ED 2/6 - Árvore Trie.md",
+    "Excalidraw/Drawing 2024-09-30 20.11.35.excalidraw.md",
+    "bcc/4° Semestre/ED 2/8 - B-TREE.md",
     "bcc/4° Semestre/ED 2/Exercícios.md",
-    "bcc/4° Semestre/Lab. de Montagem/lerletras.asm",
+    "Pasted Image 20240930201338_149.png",
+    "Excalidraw/B_TREE_REMOVAL.md",
+    "Excalidraw/B-TREE ex2.md",
+    "Excalidraw/B-TREE example.md",
+    "Excalidraw/Briot-Houfini-Horner.md",
+    "Excalidraw/Drawing 2024-08-20 11.29.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-30 20.08.35.excalidraw.md",
+    "Excalidraw/Untitled.canvas",
+    "Excalidraw/Exercícios CN - draw.md",
+    "Excalidraw/Exercícios PAA - draw.md",
+    "Excalidraw/hashing expansivel.md",
+    "Excalidraw/briout-houfini-2.md",
+    "Excalidraw/Drawing 2024-08-24 17.52.25.excalidraw.md",
+    "bcc/4° Semestre/ED 2/ED 2.md",
+    "bcc/4° Semestre/ED 2/4fun/resumo 4 - 6.md",
+    "bcc/4° Semestre/ED 2/5 - Hashing.md",
     "bcc/4° Semestre/ED 2/3 - Organização de arquivos.md",
-    "bcc/4° Semestre/ED 2/2 - Armazenamento secundário.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/6 - Probabilidade Condicional.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/5 - Definições.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/10 - qui-quadrado.md",
-    "bcc/4° Semestre/Cálculo numérico/14 - Métodos Iterativos de solução de sistemas.md",
-    "bcc/4° Semestre/Cálculo numérico/13 - Fatoração LU com pivoteamento parcial.md",
-    "bcc/4° Semestre/Cálculo numérico/Untitled.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/6.1- Matriz de Confusão.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/9 - Modelos Probabilísticos para v.a discretas.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/8 - Variáveis Aleatórias.md",
+    "bcc/4° Semestre/ED 2/1-2 - Armazenamento secundário.md",
+    "bcc/4° Semestre/ED 2/4 - Index.md",
+    "bcc/4° Semestre/ED 2/7 - hashing.md",
+    "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md",
+    "Excalidraw/Exercícios Aula 8.md",
+    "dist/lista2.pdf",
+    "dist/Lista de exercícios 1.pdf",
+    "bcc/4° Semestre/Lab. de Montagem/lerletras.asm",
     "dist/Pasted image 20240911111746.png",
     "dist/Pasted image 20240911111717.png",
     "dist/Pasted image 20240911111645.png",
@@ -204,8 +207,6 @@
     "dist/Pasted image 20240906081026.png",
     "dist/Pasted image 20240906081353.png",
     "dist/Pasted image 20240906082604.png",
-    "dist/Pasted image 20240906091221.png",
-    "dist/Pasted image 20240906091136.png",
     "dist/File Structures (Michael J. Folk, Bill Zoellick) (Z-Library).pdf",
     "dist/lista1.pdf",
     "Excalidraw/Scripts/Downloaded",

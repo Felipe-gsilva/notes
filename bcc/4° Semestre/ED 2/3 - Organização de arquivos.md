@@ -1,4 +1,4 @@
-# Organização de Arquivos (pt1)
+# Organização de Arquivos 
 
 Stream → não precisa ser ligado a arquivos, necessariamente, são espécies de buffers
 

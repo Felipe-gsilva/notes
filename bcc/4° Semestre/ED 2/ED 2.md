@@ -1,11 +1,10 @@
-[[2 - Armazenamento secundário]]
+[[1-2 - Armazenamento secundário]]
 [[3 - Organização de arquivos]]
 [[4 - Index]]
 [[5 - Hashing]]
 [[6 - Árvore Trie]]
-[[8 - Hashing extensível]]
-[[9 - B-TREE]]
-[[10 - B-TREE algoritmos]]
+[[7 - Hashing extensível]]
+[[8 - B-TREE]]
 
 ![[File Structures (Michael J. Folk, Bill Zoellick) (Z-Library).pdf]]
 
@@ -36,3 +35,9 @@
 ๏ Arvore Trie
 ๏ Hashing Externo
 ๏ B-TREE
+- inserção
+- remoção
+- promotion
+- split
+- concatenação
+- busca

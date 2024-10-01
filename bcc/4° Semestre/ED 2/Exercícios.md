@@ -71,11 +71,47 @@ Carla|Guimarães|Rua Riachuelo 123|Jardim America|033|720|.......... Djavan Carl
 
 25 -  
 
-26 - burro.
+26 - a busca binária torna-se possível visto que nosso arquivo de índices agora possui uma ordenação, seja ela crescente ou decrescente, que permite os 2 polos de uma busca binária. Haja visto que o valor que o indice carrega pode estar relacionado seja à um valor unico (como o rrn) ou diversos como o campo Nome.
 
-27 - feito  
+27 - a ideia do out-of-date é permitir a reconstrução do arquivo de índices baseado no arquivo de dados alterado. Ele pode ter sido modificado ou estar sendo modificado, portanto em um ambiente com multiprogramação, vários programas podem querer usar aquele arquivo e isso evitará desgaste. 
 
 28 -
 
+29 - Lista invertida -> mantém em 2 arquivos separados os índices secundários e primários. Porém, com enfase nos secundários, adiciona-se uma contagem de qnts índices primários estão associados a algum índice secundário. 
+
+
+31 - a partir do índice primário?
+
+
+
 
 ![[lista2.pdf]]
+1 - Uma árvore-B possui métodos que permitem sua reestruturação durante a runtime. Nesse caso, o método principal que é capaz de "construir de baixo pra cima" é o promotion. Ele é causado quando se há um split ocasionado pelo overflow de chaves ou quando á uma concatenação quando há o underflow de chaves dentro de uma ou mais páginas.
+
+2 - A b-tree é mais eficiente que uma ABB quando olhamos para o trabalho em armazenamento secundário, visto que garante uma quantidade muito menor de acessos. Uma b-tree, em cerca de 1000 casos, precisa de aproximadamente 11. A depender da ordem da árvore-B, esse numero poderia ser reduzido, por exemplo, a 3 acessos.
+
+3 - 
+- o numero máximo de filhos = 256 filhos
+- o numero minimo de filhos ($\frac{n}{2}$) = 256/2  = 128
+- numero minimo de descendentes da raíz -> 2
+- numero minimo de descententes de uma folha -> 0
+- nro de chaves: 199
+- considerando o numero minimo de filhos como 128 -> log_127(100000) = 53? $d \leq 1 + \log_{\lceil \frac{m}{2}\rceil}(\frac{N}{2}+1)$  
+
+4- ?
+
+5 -  um nó folha tem que ter no minimo $[\frac{m}{2}-1]$ filhos, caso contrário (somente em remoções), será concatenado.
+
+6 - 
+``` c
+typedef struct Page page;
+struct page {
+    u8 RRN;
+    struct page *children; 
+    key *keys;            
+};
+```
+
+7 - a menor chave armazenada em uma árvore B está, com certeza, na parte mais à esquerda de todas as páginas, ou seja, estará no indice = 0 do ultimo nó folha a esquerda da raiz.
+
+8 -  [[]]
