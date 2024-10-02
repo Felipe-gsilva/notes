@@ -4,18 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "6fbd56d2298d1f85",
+        "id": "261bec9e468e5638",
         "type": "tabs",
         "children": [
           {
-            "id": "5ea2c01add0b2b13",
+            "id": "e9fc9cd25eb363ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/8 - B-TREE.md",
-                "mode": "source",
-                "source": false
+                "file": "ToDo kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -40,14 +49,6 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "6a2e3f59c5cd4241",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/8 - B-TREE.md",
+                "file": "ToDo kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/8 - B-TREE.md",
+                "file": "ToDo kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/ED 2/8 - B-TREE.md"
+                "file": "ToDo kanban.md"
               }
             }
           },
@@ -144,13 +145,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "6a2e3f59c5cd4241",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 435.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,15 +175,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ea2c01add0b2b13",
+  "active": "798f55b4478c2a8e",
   "lastOpenFiles": [
+    "bcc/4° Semestre/Probabilidade e Estatística/planejamento trabalho.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/Projeto.md",
+    "dist/Pasted Image 20240930201338_149.png",
+    "2024-10-02.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/11 - Variáveis Aleatórias Contínuas.md",
+    "bcc/4° Semestre/ED 2/Exercícios.md",
+    "bcc/4° Semestre/ED 2/8 - B-TREE.md",
     "bcc/4° Semestre/ED 2/7 - Hashing extensível.md",
-    "Pasted image 20241001074046.png",
+    "dist/Pasted image 20241001074046.png",
     "bcc/4° Semestre/ED 2/6 - Árvore Trie.md",
     "Excalidraw/Drawing 2024-09-30 20.11.35.excalidraw.md",
-    "bcc/4° Semestre/ED 2/8 - B-TREE.md",
-    "bcc/4° Semestre/ED 2/Exercícios.md",
-    "Pasted Image 20240930201338_149.png",
     "Excalidraw/B_TREE_REMOVAL.md",
     "Excalidraw/B-TREE ex2.md",
     "Excalidraw/B-TREE example.md",
@@ -193,9 +206,6 @@
     "bcc/4° Semestre/ED 2/3 - Organização de arquivos.md",
     "bcc/4° Semestre/ED 2/1-2 - Armazenamento secundário.md",
     "bcc/4° Semestre/ED 2/4 - Index.md",
-    "bcc/4° Semestre/ED 2/7 - hashing.md",
-    "bcc/4° Semestre/ED 2/10 - B-TREE algoritmos.md",
-    "Excalidraw/Exercícios Aula 8.md",
     "dist/lista2.pdf",
     "dist/Lista de exercícios 1.pdf",
     "bcc/4° Semestre/Lab. de Montagem/lerletras.asm",

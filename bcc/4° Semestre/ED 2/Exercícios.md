@@ -38,9 +38,9 @@ os discos devem tentar ao máximo evitar fragmentação, mas a parte de armazena
 
 12 -  é a fragmentação quando temos cada campo com tamanho fixo e limitado. A escrita do campo independe da porção lógica o qual o é inserido. Desta forma, se tivermos um campo ou registro de tamanho fixo, naturalmente a maior parte dos valores deles não serão sempre 100% preenchidos.
 
-13 - As limitações são que o caractere utilizado para ser o delimitador deve estar fora do utilizado no campo. O delimitador pode ser uma /, mas / tem o tempo todo em campos. Portanto, podemos usar 
+13 - As limitações são que o caractere utilizado para ser o delimitador deve estar fora do utilizado no campo. O delimitador pode ser uma /, mas / tem o tempo todo em campos. Portanto, podemos usar tags como $\times /$
 
-14 - Depende do tamanho. Relative record number guarda o indice 
+14 - Depende do tamanho. Relative record number guarda o indice relativo de um registro 
 > Byte offset = RRN * Tamanho do registro.
 
 15 - É importante criar blocos com uma determinada quantidade de registros predefinidas, dessa forma, você diminuirá a quantidade de seekings para buscar um dado, ja que devido ao **principio da localidade**, mais dados podem estar próximos... Vale ressaltar que podemos utilizar chaves para identificar campos especificos, desta forma 
@@ -58,11 +58,11 @@ Best Fit reduces external fragmentation by allocating processes to the smallest 
 
 Worst Fit reduces external fragmentation by leaving the largest free partition, but it can lead to inefficient use of memory.
 
-20 -  Sim, é vantajoso. A inserção pode ser feita de maneira completamente aleatória, podendo apenas ser ordenada no arquivo de index.
+20 -  Sim, é vantajoso. A inserção pode ser feita de forma não criteriosa, podendo apenas ser ordenada no arquivo de index.
 
 21 - você pode marcar para reuso com um bit especial e/ou criar um arquivo com uma Lista de Espaços Disponíveis (LD).
 
-22 - a diferença é que a fragmentação interna ocorre dentro de um registro, ou seja, campos estáticos com espaço inutilizado. A externa acontece fora, entre os structs.
+22 - a diferença é que a fragmentação interna ocorre dentro de um registro, ou seja, campos estáticos com espaço inutilizado. A externa acontece fora, entre os registros.
 
 23 -   Para salvar informações uteis para o acesso das informações contidas nele. Tipo o LD ou sla
 
@@ -71,7 +71,7 @@ Carla|Guimarães|Rua Riachuelo 123|Jardim America|033|720|.......... Djavan Carl
 
 25 -  
 
-26 - a busca binária torna-se possível visto que nosso arquivo de índices agora possui uma ordenação, seja ela crescente ou decrescente, que permite os 2 polos de uma busca binária. Haja visto que o valor que o indice carrega pode estar relacionado seja à um valor unico (como o rrn) ou diversos como o campo Nome.
+26 - a busca binária torna-se possível visto que nosso arquivo de índices agora possui uma ordenação, seja ela crescente ou decrescente, que representam os 2 limites (superior e inferior) para uma busca binária. Haja visto que o valor que o indice carrega pode estar relacionado seja à um valor unico (como o rrn) ou diversos como o campo Nome.
 
 27 - a ideia do out-of-date é permitir a reconstrução do arquivo de índices baseado no arquivo de dados alterado. Ele pode ter sido modificado ou estar sendo modificado, portanto em um ambiente com multiprogramação, vários programas podem querer usar aquele arquivo e isso evitará desgaste. 
 
@@ -91,12 +91,13 @@ Carla|Guimarães|Rua Riachuelo 123|Jardim America|033|720|.......... Djavan Carl
 2 - A b-tree é mais eficiente que uma ABB quando olhamos para o trabalho em armazenamento secundário, visto que garante uma quantidade muito menor de acessos. Uma b-tree, em cerca de 1000 casos, precisa de aproximadamente 11. A depender da ordem da árvore-B, esse numero poderia ser reduzido, por exemplo, a 3 acessos.
 
 3 - 
-- o numero máximo de filhos = 256 filhos
-- o numero minimo de filhos ($\frac{n}{2}$) = 256/2  = 128
+- o numero máximo de filhos ($m$) = 256 filhos
+- o numero minimo de filhos ($\frac{m}{2}$) = 256/2  = 128
 - numero minimo de descendentes da raíz -> 2
 - numero minimo de descententes de uma folha -> 0
 - nro de chaves: 199
-- considerando o numero minimo de filhos como 128 -> log_127(100000) = 53? $d \leq 1 + \log_{\lceil \frac{m}{2}\rceil}(\frac{N}{2}+1)$  
+- considerando o numero minimo de filhos como 128 -> $log_{127}(\frac{100000+1}{2})$ $\leq$ 3 
+> $d \leq 1 + \log_{\lceil \frac{m}{2}\rceil}(\frac{N}{2}+1)$  
 
 4- ?
 

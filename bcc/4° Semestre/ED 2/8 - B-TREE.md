@@ -29,7 +29,7 @@ A solução é uma árvore B (B-TREE).
 - Construção bottom-up
 	- folhas -> raiz
 - chaves **erradas** não são mais alocadas no no raiz. 
-- cada página (ou nó) é formada por uma sequencia ordenada de chaves e um conjunto de ponteiros. 
+- cada página (ou nó) é formada por uma sequencia ordenada de chaves e um conjunto de ponteiros para outras páginas (ou RRN's). 
 - não existe uma árvore explicita dentro de uma página
 - ordem = numero de chaves + 1
 - Os nós folhas não possuem filhos.

@@ -17,9 +17,13 @@ kanban-plugin: board
 ## provas e trabalhos
 
 - [ ] Modelo Trabalho - probabilidade @{2024-10-03}
-- [ ] Trabalho Organização @{2024-10-30}
+- [ ] Trabalho Cálculo @{2024-10-14}
 - [ ] P2 Organização @{2024-10-23}
+- [ ] Trabalho PAA @{2024-10-28}
+- [ ] Trabalho Organização @{2024-10-30}
 - [ ] P2 Cálculo Numérico @{2024-11-19}
+- [ ] Trabalho Assembly @{2024-11-22}
+- [ ] Trabalho ED2
 
 
 ## Done
