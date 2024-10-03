@@ -4,27 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "261bec9e468e5638",
+        "id": "7277aad1ac098fc4",
         "type": "tabs",
         "children": [
           {
-            "id": "e9fc9cd25eb363ff",
+            "id": "5b28d0fe17e6ed52",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ToDo kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/12 -.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -78,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5086555480957
+    "width": 278.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "eefc29d57e17d8d7",
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDo kanban.md",
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/12 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDo kanban.md",
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/12 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDo kanban.md"
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/12 -.md"
               }
             }
           },
@@ -177,6 +169,14 @@
   },
   "active": "798f55b4478c2a8e",
   "lastOpenFiles": [
+    "bcc/4° Semestre/ED 2/9 - B* and Virtual Tree.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/12 -.md",
+    "ToDo kanban.md",
+    "bcc/4° Semestre/Cálculo numérico/16 - Forma matricial do método de Gauss-Seidel.md",
+    "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
+    "bcc/4° Semestre/Cálculo numérico/5 - Solução de equações não lineares por métodos numéricos.md",
+    "bcc/4° Semestre/Cálculo numérico/15 -.md",
+    "bcc/4° Semestre/Cálculo numérico/14 - Métodos Iterativos de solução de sistemas.md",
     "bcc/4° Semestre/Probabilidade e Estatística/planejamento trabalho.md",
     "bcc/4° Semestre/Probabilidade e Estatística/Projeto.md",
     "dist/Pasted Image 20240930201338_149.png",
@@ -198,14 +198,6 @@
     "Excalidraw/Exercícios CN - draw.md",
     "Excalidraw/Exercícios PAA - draw.md",
     "Excalidraw/hashing expansivel.md",
-    "Excalidraw/briout-houfini-2.md",
-    "Excalidraw/Drawing 2024-08-24 17.52.25.excalidraw.md",
-    "bcc/4° Semestre/ED 2/ED 2.md",
-    "bcc/4° Semestre/ED 2/4fun/resumo 4 - 6.md",
-    "bcc/4° Semestre/ED 2/5 - Hashing.md",
-    "bcc/4° Semestre/ED 2/3 - Organização de arquivos.md",
-    "bcc/4° Semestre/ED 2/1-2 - Armazenamento secundário.md",
-    "bcc/4° Semestre/ED 2/4 - Index.md",
     "dist/lista2.pdf",
     "dist/Lista de exercícios 1.pdf",
     "bcc/4° Semestre/Lab. de Montagem/lerletras.asm",

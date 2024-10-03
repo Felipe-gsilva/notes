@@ -7,6 +7,8 @@ kanban-plugin: board
 ## in progress
 
 - [ ] [[file-system-in-c]]
+- [ ] Mockingbird jar
+- [ ] Bump mockingbird into moclojer
 
 
 ## ToDo
@@ -16,19 +18,20 @@ kanban-plugin: board
 
 ## provas e trabalhos
 
-- [ ] Modelo Trabalho - probabilidade @{2024-10-03}
 - [ ] Trabalho Cálculo @{2024-10-14}
 - [ ] P2 Organização @{2024-10-23}
 - [ ] Trabalho PAA @{2024-10-28}
 - [ ] Trabalho Organização @{2024-10-30}
 - [ ] P2 Cálculo Numérico @{2024-11-19}
 - [ ] Trabalho Assembly @{2024-11-22}
+- [ ] Prova Assembly @{2024-11-29}
 - [ ] Trabalho ED2
 
 
 ## Done
 
 **Complete**
+- [x] Modelo Trabalho - probabilidade @{2024-10-03}
 - [x] P1 Projeto e análise de algoritmos @{2024-09-23}
 - [x] P1 probabilidade @{2024-09-19}
 - [x] Lista 1 em C - ED2 @{2024-09-15}

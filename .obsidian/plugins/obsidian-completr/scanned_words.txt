@@ -184,6 +184,9 @@ CglIAyVw
 Coeficiente
 CzO
 Cria
+Converg
+Cauchy
+Conforme
 Quantidade
 Quest
 Qualquer
@@ -579,6 +582,9 @@ ds
 dX
 ddm
 dj
+disso
+dezenas
+destas
 trabalho
 tomada
 tipos
@@ -814,6 +820,9 @@ tLzOjCTv
 tLA
 tqi
 tendo
+tomaremos
+two
+trazer
 entrada
 estados
 estrutura
@@ -1136,6 +1145,13 @@ eW
 eJ
 explorat
 entregas
+euclidiana
+equivalentes
+equivalentemente
+exista
+escolhendo
+escrevemos
+estejam
 aplica
 acaso
 assint
@@ -1486,6 +1502,9 @@ agUmAi
 aJ
 aw
 adequadas
+aumentamos
+adiado
+acessada
 Se
 Somat
 Start
@@ -1639,6 +1658,9 @@ Sondagem
 Ssd
 Sv
 Slide
+Seidel
+Sassenfeld
+Seguindo
 complexidade
 como
 caso
@@ -2075,6 +2097,10 @@ cdp
 cF
 cB
 cS
+convergente
+convergencia
+cheias
+comporta
 xima
 ximo
 xi
@@ -2512,6 +2538,11 @@ pegamos
 promovemos
 propaga
 pZN
+psilon
+percentual
+particionar
+pa
+poucas
 qualquer
 que
 quina
@@ -2776,6 +2807,7 @@ oI
 od
 ox
 oE
+optar
 ncia
 nesse
 ndice
@@ -2907,6 +2939,9 @@ nMRgGJyl
 nibus
 nq
 nd
+norma
+normas
+nio
 for
 float
 framed
@@ -3094,6 +3129,9 @@ fguo
 fA
 fWA
 feira
+formato
+fola
+fault
 se
 sendo
 ser
@@ -3418,6 +3456,8 @@ sd
 semanas
 semana
 seriam
+substituir
+supomos
 melhor
 medida
 mem
@@ -3647,6 +3687,7 @@ mover
 mediana
 modo
 margem
+melhorar
 buscamos
 baseada
 base
@@ -3797,6 +3838,7 @@ ba
 bra
 bm
 bG
+bisse
 uma
 um
 unvisited
@@ -3912,6 +3954,7 @@ uqIWFIU
 uM
 uC
 ue
+uplas
 representa
 rica
 requisitos
@@ -4191,6 +4234,10 @@ rP
 rF
 rkW
 recomenda
+repete
+racioc
+recently
+reduz
 hardware
 heuristic
 highlights
@@ -4500,6 +4547,7 @@ lq
 lz
 lvuD
 lO
+logaritmo
 Modelo
 Move
 Melhor
@@ -4908,6 +4956,8 @@ Dv
 DJQ
 DJ
 DQN
+Daqui
+Dada
 vel
 vale
 valores
@@ -5042,6 +5092,7 @@ via
 verificamos
 vs
 vMyz
+vizinha
 idealizaremos
 instru
 inteiros
@@ -5290,6 +5341,9 @@ iur
 indiv
 ie
 ir
+induzem
+iterativa
+inas
 Teremos
 The
 This
@@ -5418,6 +5472,9 @@ Trie
 Tries
 TJ
 TA
+Todas
+TVM
+Tentativa
 Problem
 Pair
 Python
@@ -5831,6 +5888,7 @@ gd
 gl
 gnU
 gD
+guardado
 Heuristic
 Hashing
 HDD
@@ -6055,6 +6113,7 @@ Assume
 Aowcte
 AAR
 AQBL
+Aplicando
 Nearest
 Neighbor
 No
@@ -6146,6 +6205,9 @@ NO
 NLS
 Nz
 NovJ
+Normas
+Norma
+Nos
 Issues
 It
 Invariante
@@ -6270,6 +6332,7 @@ IufjotTK
 IqDsfsBH
 Iw
 IF
+Iterativo
 yield
 yaml
 yd
@@ -6855,6 +6918,7 @@ JVM
 Jornada
 Jhn
 JD
+Jacobi
 You
 YKs
 YW
@@ -7025,6 +7089,7 @@ Fv
 FFL
 FFJ
 Fonte
+Fazemos
 Geraldo
 GwR
 GIbey
@@ -7110,6 +7175,7 @@ GGYafdMz
 GNn
 Gd
 GK
+Gauss
 LM
 LOKO
 Lab
@@ -7219,6 +7285,7 @@ LpEZEBFw
 LvQny
 LHx
 Leg
+LRU
 Usamos
 Um
 Usando
@@ -7299,6 +7366,7 @@ Uniforme
 UKLU
 Ua
 UFFJ
+Utilizando
 Buscamos
 BA
 Buffering
@@ -7405,6 +7473,7 @@ Bp
 BN
 BaX
 BhQx
+Bisse
 juntar
 jeito
 jump
