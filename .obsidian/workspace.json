@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bcc/4° Semestre/Probabilidade e Estatística/12 -.md",
+                "file": "moclojer/Mockingbird.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5086555480957,
-    "collapsed": true
+    "width": 278.5086555480957
   },
   "right": {
     "id": "eefc29d57e17d8d7",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/Probabilidade e Estatística/12 -.md",
+                "file": "moclojer/Mockingbird.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/Probabilidade e Estatística/12 -.md",
+                "file": "moclojer/Mockingbird.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/Probabilidade e Estatística/12 -.md"
+                "file": "moclojer/Mockingbird.md"
               }
             }
           },
@@ -151,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 235.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +166,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "798f55b4478c2a8e",
+  "active": "5b28d0fe17e6ed52",
   "lastOpenFiles": [
+    "moclojer/Components.md",
+    "moclojer/Mockingbird.md",
+    "moclojer/moclojer components.md",
+    "moclojer/Moclojer.md",
+    "moclojer/Ideas.md",
     "bcc/4° Semestre/ED 2/9 - B* and Virtual Tree.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/12 -.md",
+    "bcc/4° Semestre/Lab. de Montagem/5 - Manipulação dos Diferentes Tipos de Registradores.md",
+    "bcc/4° Semestre/Organização de Computadores/4 - microarquitetura.md",
+    "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/10 - Teste do Qui-Quadrado.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/9 - Modelos Probabilísticos para v.a discretas.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/11 - Variáveis Aleatórias Contínuas.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/12 - Ajustando uma distribuição uniforme em uma distribuição exponencial.md",
     "ToDo kanban.md",
     "bcc/4° Semestre/Cálculo numérico/16 - Forma matricial do método de Gauss-Seidel.md",
     "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
@@ -181,23 +191,12 @@
     "bcc/4° Semestre/Probabilidade e Estatística/Projeto.md",
     "dist/Pasted Image 20240930201338_149.png",
     "2024-10-02.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/11 - Variáveis Aleatórias Contínuas.md",
     "bcc/4° Semestre/ED 2/Exercícios.md",
     "bcc/4° Semestre/ED 2/8 - B-TREE.md",
     "bcc/4° Semestre/ED 2/7 - Hashing extensível.md",
     "dist/Pasted image 20241001074046.png",
     "bcc/4° Semestre/ED 2/6 - Árvore Trie.md",
-    "Excalidraw/Drawing 2024-09-30 20.11.35.excalidraw.md",
-    "Excalidraw/B_TREE_REMOVAL.md",
-    "Excalidraw/B-TREE ex2.md",
-    "Excalidraw/B-TREE example.md",
-    "Excalidraw/Briot-Houfini-Horner.md",
-    "Excalidraw/Drawing 2024-08-20 11.29.11.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-30 20.08.35.excalidraw.md",
     "Excalidraw/Untitled.canvas",
-    "Excalidraw/Exercícios CN - draw.md",
-    "Excalidraw/Exercícios PAA - draw.md",
-    "Excalidraw/hashing expansivel.md",
     "dist/lista2.pdf",
     "dist/Lista de exercícios 1.pdf",
     "bcc/4° Semestre/Lab. de Montagem/lerletras.asm",

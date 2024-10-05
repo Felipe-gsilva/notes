@@ -4,16 +4,15 @@ kanban-plugin: board
 
 ---
 
+## ToDo
+
+
+
 ## in progress
 
 - [ ] [[file-system-in-c]]
 - [ ] Mockingbird jar
 - [ ] Bump mockingbird into moclojer
-
-
-## ToDo
-
-- [ ] documentar componentes (components) (pra bemmmm depois)
 
 
 ## provas e trabalhos
@@ -26,6 +25,12 @@ kanban-plugin: board
 - [ ] Trabalho Assembly @{2024-11-22}
 - [ ] Prova Assembly @{2024-11-29}
 - [ ] Trabalho ED2
+
+
+## backlog
+
+- [ ] documentar componentes (components) (pra bemmmm depois)
+- [ ] ERROR- conta cria um mock pela primeira vez
 
 
 ## Done
@@ -45,11 +50,6 @@ kanban-plugin: board
 - [x] ler capitulo 3 e 4 organização de computadores@{2024-09-06}
 - [x] ler capitulo 3 e 4 organização de computadores@{2024-09-06}
 - [x] 4 exercícios por dia - lista calculo @{2024-09-07}
-
-
-## backlog
-
-- [ ] ERROR- conta cria um mock pela primeira vez
 
 
 ## future projects
