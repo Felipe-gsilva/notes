@@ -6,12 +6,12 @@ kanban-plugin: board
 
 ## ToDo
 
+- [ ] test-browser-exports-shadow-cljs
 
 
 ## in progress
 
 - [ ] [[file-system-in-c]]
-- [ ] Mockingbird jar
 - [ ] Bump mockingbird into moclojer
 
 
@@ -36,6 +36,7 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] Mockingbird jar
 - [x] Modelo Trabalho - probabilidade @{2024-10-03}
 - [x] P1 Projeto e análise de algoritmos @{2024-09-23}
 - [x] P1 probabilidade @{2024-09-19}
