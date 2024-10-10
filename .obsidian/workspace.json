@@ -8,23 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b28d0fe17e6ed52",
+            "id": "39c421f4cc002f73",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ToDo kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -78,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5086555480957
+    "width": 290.51103591918945
   },
   "right": {
     "id": "eefc29d57e17d8d7",
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDo kanban.md",
+                "file": "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDo kanban.md",
+                "file": "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDo kanban.md"
+                "file": "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md"
               }
             }
           },
@@ -175,10 +166,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b28d0fe17e6ed52",
+  "active": "39c421f4cc002f73",
   "lastOpenFiles": [
-    "dist/Pasted image 20241007092524.png",
+    "bcc/4° Semestre/Cálculo numérico/16 - Forma matricial do método de Gauss-Seidel.md",
+    "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md",
+    "bcc/4° Semestre/ED 2/8 - B-TREE.md",
+    "ToDo kanban.md",
+    "bcc/4° Semestre/Projeto e Analise de Algoritmos/10 - Modelo Normal ou Curva Gaussiana.md",
     "bcc/4° Semestre/Projeto e Analise de Algoritmos/9 - Comparação Linear.md",
+    "bcc/4° Semestre/ED 2/10 - B+ Tree.md",
+    "bcc/4° Semestre/ED 2/9 - B* and Virtual Trees.md",
+    "bcc/4° Semestre/Cálculo numérico/15 - Gauss Seidel.md",
+    "bcc/4° Semestre/Cálculo numérico/Untitled.md",
+    "bcc/4° Semestre/Cálculo numérico/8 - Método de Newton-Raphson.md",
+    "bcc/4° Semestre/Cálculo numérico/5 - Solução de equações não lineares por métodos numéricos.md",
+    "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
+    "dist/Pasted image 20241007092524.png",
     "dist/Pasted image 20241007105202.png",
     "bcc/4° Semestre/Projeto e Analise de Algoritmos/8 - Heap Sort.md",
     "bcc/4° Semestre/Projeto e Analise de Algoritmos/Exercicios PAA.md",
@@ -192,21 +195,10 @@
     "moclojer/moclojer components.md",
     "moclojer/Moclojer.md",
     "moclojer/Ideas.md",
-    "bcc/4° Semestre/ED 2/9 - B* and Virtual Tree.md",
     "bcc/4° Semestre/Lab. de Montagem/5 - Manipulação dos Diferentes Tipos de Registradores.md",
     "bcc/4° Semestre/Organização de Computadores/4 - microarquitetura.md",
     "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md",
     "bcc/4° Semestre/Probabilidade e Estatística/10 - Teste do Qui-Quadrado.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/9 - Modelos Probabilísticos para v.a discretas.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/11 - Variáveis Aleatórias Contínuas.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/12 - Ajustando uma distribuição uniforme em uma distribuição exponencial.md",
-    "ToDo kanban.md",
-    "bcc/4° Semestre/Cálculo numérico/16 - Forma matricial do método de Gauss-Seidel.md",
-    "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
-    "bcc/4° Semestre/Cálculo numérico/5 - Solução de equações não lineares por métodos numéricos.md",
-    "bcc/4° Semestre/Cálculo numérico/15 -.md",
-    "bcc/4° Semestre/Cálculo numérico/14 - Métodos Iterativos de solução de sistemas.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/planejamento trabalho.md",
     "dist/Pasted Image 20240930201338_149.png",
     "dist/Pasted image 20241001074046.png",
     "Excalidraw/Untitled.canvas",

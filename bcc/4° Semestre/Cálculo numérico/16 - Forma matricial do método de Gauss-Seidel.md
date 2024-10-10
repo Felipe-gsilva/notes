@@ -66,3 +66,18 @@ $\implies \lim_{k\rightarrow\infty}\frac{e_{k+1}}{e_{k}} = \lim_{k\rightarrow\in
 Logo, ordem de convergencia do MPF é $p=1$
 
 Quando $p=1$, também dezenas que a ordem de convergência é linear.
+
+# Ordem de convergência do método de Newton
+
+Como $g'(\xi) = 0$  no método de Newton, a ordem de convergência não pode ser linear, pois $$\lim_{k\rightarrow \infty}\frac{e_{k+1}}{e_{k}}=|g'(\xi)| = 0$$
+Veremos que a ordem de convergência é p=2.
+
+# Fórmula de Taylor
+Dada $f(x)$ uma função real dada derivável até a ordem $n+1$, a fórmula de Taylor de ordem $n$ com resto de Lagrange em torno de x=q é dada por: $$f(x)=f(a)+\frac{f'(a)}{1!}(x-a)^{1}+ \frac{f''(a)}{2!}(x-a)^{2}+ \dots + \frac{f^{(n)}(a)}{n!}(x-a)^{n}+ \frac{f^{(n+1)}(c)}{(n+1)!}(x-a)^{n+1}$$
+com $c\in(x,a)$.
+
+Temos o polinômio de Taylor:
+$$P_{n}= f(x)=f(a)+\frac{f'(a)}{1!}(x-a)^{1}+  \dots + \frac{f^{(n+1)}(a)}{n!}(x-a)^{n}$$
+e o resto:
+
+$$R_{n}= \frac{f^{(n+1)}(c)}{(n+1)!}(x-a)^{n+1}$$

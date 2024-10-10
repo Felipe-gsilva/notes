@@ -200,6 +200,9 @@ Code
 Credentials
 Cleanup
 Cvw
+Curvas
+Cont
+Calculando
 Quantidade
 Quest
 Qualquer
@@ -628,6 +631,7 @@ devolve
 decis
 dV
 dB
+descemos
 trabalho
 tomada
 tipos
@@ -895,6 +899,9 @@ ty
 tZBZK
 tn
 test
+tomamos
+trico
+teses
 entrada
 estados
 estrutura
@@ -1250,6 +1257,10 @@ executamos
 executada
 eAl
 exports
+encadeada
+encontra
+embasamento
+estimar
 aplica
 acaso
 assint
@@ -1636,6 +1647,10 @@ aceita
 aZ
 ajTO
 aW
+aproximar
+ajusta
+aparenta
+abrigam
 Se
 Somat
 Start
@@ -1804,6 +1819,7 @@ Sets
 Scripts
 Security
 Secrets
+Sequence
 complexidade
 como
 caso
@@ -2291,6 +2307,11 @@ cWi
 cJ
 cje
 cw
+comb
+cartesiano
+cl
+compreendida
+contada
 xima
 ximo
 xi
@@ -2772,6 +2793,15 @@ pi
 pO
 pC
 pS
+pesos
+priori
+peso
+pelas
+pias
+percurso
+pia
+possibilita
+padroniza
 qualquer
 que
 quina
@@ -2879,6 +2909,7 @@ quality
 qX
 qJW
 qiO
+quadrados
 ocorr
 ou
 outra
@@ -3205,6 +3236,9 @@ nicier
 notes
 ns
 nez
+nimos
+nima
+normaliza
 for
 float
 framed
@@ -3783,6 +3817,12 @@ sup
 su
 sny
 sm
+suprimido
+seguida
+subimos
+sino
+ssica
+sosb
 melhor
 medida
 mem
@@ -4034,6 +4074,7 @@ mSp
 my
 mmZ
 mKJ
+manuseada
 buscamos
 baseada
 base
@@ -4202,6 +4243,7 @@ bM
 bNd
 bK
 browser
+buscada
 uma
 um
 unvisited
@@ -4330,6 +4372,7 @@ uVZu
 uR
 uUW
 uZ
+unimodal
 representa
 rica
 requisitos
@@ -4640,6 +4683,9 @@ reliability
 rE
 rT
 rX
+ranges
+reusability
+restrita
 hardware
 heuristic
 highlights
@@ -4752,6 +4798,7 @@ helix
 hq
 hm
 hrD
+hip
 linguagem
 lculo
 leva
@@ -4978,6 +5025,7 @@ lKg
 lgnU
 lmv
 lx
+liga
 Modelo
 Move
 Melhor
@@ -5270,6 +5318,7 @@ Removed
 Refinements
 RD
 RV
+Representando
 Devemos
 Definition
 Drawing
@@ -5422,6 +5471,8 @@ Documentation
 DFS
 Dijkstra
 DGY
+Discreto
+Derivada
 vel
 vale
 valores
@@ -5565,6 +5616,7 @@ vetorizada
 vJs
 vB
 vI
+vemos
 idealizaremos
 instru
 inteiros
@@ -5839,6 +5891,8 @@ information
 iP
 ikF
 iO
+inclus
+infer
 Teremos
 The
 This
@@ -6152,6 +6206,10 @@ Provided
 Prioridade
 Pv
 PQ
+Pensada
+Proporciona
+Pausa
+Parcial
 with
 which
 when
@@ -6269,6 +6327,7 @@ wL
 wWY
 wV
 wU
+weight
 given
 growth
 guarantee
@@ -7079,6 +7138,7 @@ OLi
 ON
 Oh
 Oix
+Objetivo
 Exhaustive
 Enumerate
 Exerc
@@ -7257,6 +7317,7 @@ Eng
 EXTRACT
 Er
 EiVG
+Escolhemos
 Key
 KKKKK
 Keysorting
@@ -7428,6 +7489,7 @@ Vh
 VZo
 Vv
 Vx
+Veremos
 Java
 JE
 JZ
@@ -7909,6 +7971,7 @@ LRU
 LGA
 Lifecycle
 LZ
+Lagrange
 Usamos
 Um
 Usando
@@ -8001,6 +8064,7 @@ Utilized
 UV
 UVqe
 Ury
+Utilizada
 Buscamos
 BA
 Buffering

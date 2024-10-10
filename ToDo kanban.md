@@ -7,6 +7,7 @@ kanban-plugin: board
 ## ToDo
 
 - [ ] test-browser-exports-shadow-cljs
+- [ ] opensearch dashboard
 
 
 ## in progress
@@ -17,18 +18,20 @@ kanban-plugin: board
 
 ## provas e trabalhos
 
-- [ ] Trabalho Cálculo @{2024-10-14}
 - [ ] P2 Organização @{2024-10-23}
 - [ ] Trabalho PAA @{2024-10-28}
 - [ ] Trabalho Organização @{2024-10-30}
+- [ ] Arvore-B virtual  ED2 @{2024-11-05}
+- [ ] Atividade assembly 1 @{2024-11-15}
 - [ ] P2 Cálculo Numérico @{2024-11-19}
+- [ ] atividade assembly 2 @{2024-11-22}
 - [ ] Trabalho Assembly @{2024-11-22}
 - [ ] Prova Assembly @{2024-11-29}
-- [ ] Trabalho ED2
 
 
 ## backlog
 
+- [ ] p-threads for OS classes
 - [ ] documentar componentes (components) (pra bemmmm depois)
 - [ ] ERROR- conta cria um mock pela primeira vez
 
@@ -36,6 +39,8 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] fix css file reusability - mockingbird
+- [x] Trabalho Cálculo @{2024-10-14}
 - [x] Mockingbird jar
 - [x] Modelo Trabalho - probabilidade @{2024-10-03}
 - [x] P1 Projeto e análise de algoritmos @{2024-09-23}
