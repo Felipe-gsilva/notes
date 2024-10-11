@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md",
+                "file": "bcc/4° Semestre/Lab. de Montagem/7 - Pseudo Instruções e Diretivas de Montagem.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.51103591918945
+    "width": 253.51103591918945
   },
   "right": {
     "id": "eefc29d57e17d8d7",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md",
+                "file": "bcc/4° Semestre/Lab. de Montagem/7 - Pseudo Instruções e Diretivas de Montagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md",
+                "file": "bcc/4° Semestre/Lab. de Montagem/7 - Pseudo Instruções e Diretivas de Montagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md"
+                "file": "bcc/4° Semestre/Lab. de Montagem/7 - Pseudo Instruções e Diretivas de Montagem.md"
               }
             }
           },
@@ -168,13 +168,15 @@
   },
   "active": "39c421f4cc002f73",
   "lastOpenFiles": [
-    "bcc/4° Semestre/Cálculo numérico/16 - Forma matricial do método de Gauss-Seidel.md",
-    "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md",
-    "bcc/4° Semestre/ED 2/8 - B-TREE.md",
     "ToDo kanban.md",
+    "bcc/4° Semestre/Lab. de Montagem/7 - Pseudo Instruções e Diretivas de Montagem.md",
+    "bcc/4° Semestre/ED 2/11 -.md",
+    "bcc/4° Semestre/ED 2/10 - B+ Tree.md",
+    "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md",
+    "bcc/4° Semestre/Cálculo numérico/16 - Forma matricial do método de Gauss-Seidel.md",
+    "bcc/4° Semestre/ED 2/8 - B-TREE.md",
     "bcc/4° Semestre/Projeto e Analise de Algoritmos/10 - Modelo Normal ou Curva Gaussiana.md",
     "bcc/4° Semestre/Projeto e Analise de Algoritmos/9 - Comparação Linear.md",
-    "bcc/4° Semestre/ED 2/10 - B+ Tree.md",
     "bcc/4° Semestre/ED 2/9 - B* and Virtual Trees.md",
     "bcc/4° Semestre/Cálculo numérico/15 - Gauss Seidel.md",
     "bcc/4° Semestre/Cálculo numérico/Untitled.md",
@@ -197,8 +199,6 @@
     "moclojer/Ideas.md",
     "bcc/4° Semestre/Lab. de Montagem/5 - Manipulação dos Diferentes Tipos de Registradores.md",
     "bcc/4° Semestre/Organização de Computadores/4 - microarquitetura.md",
-    "bcc/4° Semestre/Organização de Computadores/3 - nível lógico digital.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/10 - Teste do Qui-Quadrado.md",
     "dist/Pasted Image 20240930201338_149.png",
     "dist/Pasted image 20241001074046.png",
     "Excalidraw/Untitled.canvas",

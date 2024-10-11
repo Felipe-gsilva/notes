@@ -12,16 +12,16 @@ kanban-plugin: board
 
 ## in progress
 
-- [ ] [[file-system-in-c]]
+- [ ] Trabalho probabilidade
+- [ ] Trabalho PAA @{2024-10-28}
+- [ ] Arvore-B virtual  ED2 @{2024-11-05}
+- [ ] Trabalho Organização @{2024-10-30}
 - [ ] Bump mockingbird into moclojer
 
 
 ## provas e trabalhos
 
 - [ ] P2 Organização @{2024-10-23}
-- [ ] Trabalho PAA @{2024-10-28}
-- [ ] Trabalho Organização @{2024-10-30}
-- [ ] Arvore-B virtual  ED2 @{2024-11-05}
 - [ ] Atividade assembly 1 @{2024-11-15}
 - [ ] P2 Cálculo Numérico @{2024-11-19}
 - [ ] atividade assembly 2 @{2024-11-22}
@@ -60,6 +60,7 @@ kanban-plugin: board
 
 ## future projects
 
+- [ ] [[file-system-in-c]]
 - [ ] [[personal/Game Dev/Vulkan Engine/Vulkan Engine|Vulkan Engine]]
 - [ ] [[home lab]]
 

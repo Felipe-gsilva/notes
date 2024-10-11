@@ -632,6 +632,7 @@ decis
 dV
 dB
 descemos
+dashboard
 trabalho
 tomada
 tipos
@@ -902,6 +903,7 @@ test
 tomamos
 trico
 teses
+transformadas
 entrada
 estados
 estrutura
@@ -1261,6 +1263,7 @@ encadeada
 encontra
 embasamento
 estimar
+execut
 aplica
 acaso
 assint
@@ -1651,6 +1654,7 @@ aproximar
 ajusta
 aparenta
 abrigam
+ajudam
 Se
 Somat
 Start
@@ -2312,6 +2316,9 @@ cartesiano
 cl
 compreendida
 contada
+comandos
+correspondem
+consome
 xima
 ximo
 xi
@@ -2802,6 +2809,7 @@ percurso
 pia
 possibilita
 padroniza
+pseudo
 qualquer
 que
 quina
@@ -3088,6 +3096,7 @@ outdated
 oaK
 ov
 ot
+opensearch
 ncia
 nesse
 ndice
@@ -3239,6 +3248,7 @@ nez
 nimos
 nima
 normaliza
+nada
 for
 float
 framed
@@ -4373,6 +4383,7 @@ uR
 uUW
 uZ
 unimodal
+usados
 representa
 rica
 requisitos
@@ -4686,6 +4697,7 @@ rX
 ranges
 reusability
 restrita
+reconhecidas
 hardware
 heuristic
 highlights
@@ -5893,6 +5905,7 @@ ikF
 iO
 inclus
 infer
+inicializ
 Teremos
 The
 This
@@ -6210,6 +6223,7 @@ Pensada
 Proporciona
 Pausa
 Parcial
+Pseudo
 with
 which
 when
@@ -6829,6 +6843,7 @@ NFIk
 Nwjer
 Nl
 NX
+NOP
 Issues
 It
 Invariante
@@ -7318,6 +7333,7 @@ EXTRACT
 Er
 EiVG
 Escolhemos
+Elas
 Key
 KKKKK
 Keysorting
