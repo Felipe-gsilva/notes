@@ -7,6 +7,7 @@
 - da pra fazer URL requests no exeternal body
 - da pra configurar o server no XDG_CONFIG_HOME ($HOME/.config) — default/ ou no MOCLOJER_ENV
 - webhook pode ser utilizado pra triggar uma request externa enquanto se usa um endpoint, tipo usar a endpoint task | POST e consultar se ja existe primeiro com task | GET
+
 ---
 # GIT
 ## PR
@@ -18,6 +19,7 @@ or maybe → adds this and that
 
 ---
 # Component / Sierra
+
 [https://www.youtube.com/watch?v=13cmHf_kt-Q](https://www.youtube.com/watch?v=13cmHf_kt-Q)
 
 [[Components]]
@@ -31,6 +33,5 @@ pedestal → [https://github.com/pedestal/pedestal](https://github.com/pedestal/
 interceptor (reitit) → → → Handler (from http.in) → response (http.out)
 
 # Error handling
-[http://pedestal.io/pedestal/0.6/reference/error-handling.html](http://pedestal.io/pedestal/0.6/reference/error-handling.html)
 # CLJ-RQ
 redis-queue impl in clj

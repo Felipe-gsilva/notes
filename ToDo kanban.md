@@ -13,7 +13,6 @@ kanban-plugin: board
 ## in progress
 
 - [ ] Trabalho probabilidade
-- [ ] Trabalho PAA @{2024-10-28}
 - [ ] Arvore-B virtual  ED2 @{2024-11-05}
 - [ ] Trabalho Organização @{2024-10-30}
 - [ ] Bump mockingbird into moclojer
@@ -39,6 +38,7 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] Trabalho PAA @{2024-10-28}
 - [x] fix css file reusability - mockingbird
 - [x] Trabalho Cálculo @{2024-10-14}
 - [x] Mockingbird jar

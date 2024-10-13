@@ -1,5 +1,4 @@
-- celular da silva (A34)
+- celular da silva (A34/35)
 - hub usb 3.0
 - cadeira
 - camisa corinthians all black
-- caneta

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7277aad1ac098fc4",
+        "id": "02709ece854e05ae",
         "type": "tabs",
         "children": [
           {
-            "id": "39c421f4cc002f73",
+            "id": "739e0749f02b0d5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bcc/4° Semestre/Lab. de Montagem/7 - Pseudo Instruções e Diretivas de Montagem.md",
+                "file": "moclojer/Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/Lab. de Montagem/7 - Pseudo Instruções e Diretivas de Montagem.md",
+                "file": "moclojer/Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/Lab. de Montagem/7 - Pseudo Instruções e Diretivas de Montagem.md",
+                "file": "moclojer/Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/Lab. de Montagem/7 - Pseudo Instruções e Diretivas de Montagem.md"
+                "file": "moclojer/Components.md"
               }
             }
           },
@@ -166,39 +166,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39c421f4cc002f73",
+  "active": "798f55b4478c2a8e",
   "lastOpenFiles": [
-    "ToDo kanban.md",
-    "bcc/4° Semestre/Lab. de Montagem/7 - Pseudo Instruções e Diretivas de Montagem.md",
-    "bcc/4° Semestre/ED 2/11 -.md",
-    "bcc/4° Semestre/ED 2/10 - B+ Tree.md",
-    "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md",
-    "bcc/4° Semestre/Cálculo numérico/16 - Forma matricial do método de Gauss-Seidel.md",
-    "bcc/4° Semestre/ED 2/8 - B-TREE.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/10 - Modelo Normal ou Curva Gaussiana.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/9 - Comparação Linear.md",
-    "bcc/4° Semestre/ED 2/9 - B* and Virtual Trees.md",
-    "bcc/4° Semestre/Cálculo numérico/15 - Gauss Seidel.md",
-    "bcc/4° Semestre/Cálculo numérico/Untitled.md",
-    "bcc/4° Semestre/Cálculo numérico/8 - Método de Newton-Raphson.md",
-    "bcc/4° Semestre/Cálculo numérico/5 - Solução de equações não lineares por métodos numéricos.md",
-    "bcc/4° Semestre/Cálculo numérico/6 - Refinamento dos Resultados.md",
+    "moclojer/moclojer components.md",
+    "moclojer/Moclojer.md",
+    "moclojer/Mockingbird.md",
+    "moclojer/Ideas.md",
+    "moclojer/Components.md",
+    "personal/Game Dev/Kind of hotline miami bullshit.md",
+    "personal/Game Dev/Game Dev.md",
+    "personal/Game Dev/Vulkan Engine/Vulkan Engine.md",
+    "personal/Game Dev/Vulkan Engine/Audio Handler.md",
+    "personal/Real Development techs/C++/SDL2.md",
+    "personal/Real Development techs/C++/C++.md",
+    "personal/Real Development techs/Real Development techs.md",
+    "personal/Real Development techs/Rust/Rust.md",
+    "personal/Real Development techs/Rust/Raylib.md",
+    "personal/vulkan4noobs/Concepts.md",
+    "personal/vulkan4noobs/Conceitos.md",
+    "personal/vulkan4noobs/vulkan4noobs.md",
+    "personal/home lab.md",
+    "personal/file-system-in-c.md",
+    "personal/Web Dev/Web Dev.md",
+    "personal/Web Dev/VUE.JS - rendering but faster (lazy asf).md",
+    "personal/Web Dev/PHP.md",
+    "personal/Web Dev/Untitled.md",
+    "personal/Web Dev/REACT (cause I already know it).md",
+    "personal/Web Dev/Helix and Refx.md",
+    "personal/Web Dev/Node.js.md",
     "dist/Pasted image 20241007092524.png",
     "dist/Pasted image 20241007105202.png",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/8 - Heap Sort.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Exercicios PAA.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/Exercícios.md",
     "dist/Pasted image 20241007092630.png",
     "dist/Pasted image 20241007092610.png",
     "dist/Pasted image 20241007092550.png",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/7 -.md",
-    "moclojer/Mockingbird.md",
-    "moclojer/Components.md",
-    "moclojer/moclojer components.md",
-    "moclojer/Moclojer.md",
-    "moclojer/Ideas.md",
-    "bcc/4° Semestre/Lab. de Montagem/5 - Manipulação dos Diferentes Tipos de Registradores.md",
-    "bcc/4° Semestre/Organização de Computadores/4 - microarquitetura.md",
     "dist/Pasted Image 20240930201338_149.png",
     "dist/Pasted image 20241001074046.png",
     "Excalidraw/Untitled.canvas",

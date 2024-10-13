@@ -11,8 +11,6 @@ services:
       - "8000:8000"
 ```
 
-  
-
 ```Docker
 FROM docker.io/clojure:temurin-21-tools-deps-alpine
 

@@ -1,10 +1,8 @@
-
 # To Do
 ## 0.0.1 launching
 
 - npm compile fix -> webpack bundle is being generated, yet, there are some minor issues while importing the code on another react/shadow-cljs+helix project
 - target.css -> need to check if any difference has occurred in the now used file and the one from source at compile time, since for now, the css code generated from mockingbird is only copied to user project once (or when this file deleted)
-- tailwind.config.js, postcss and these other config for the users. Now, people have to manually gather the config files from our codebase and it seems kind of a frustation to copy things that do not look at first necessary
 
 ## quality of life improvements
 
