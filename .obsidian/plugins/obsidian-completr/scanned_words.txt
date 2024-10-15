@@ -656,6 +656,7 @@ declaratively
 describe
 development
 distante
+descritiva
 trabalho
 tomada
 tipos
@@ -1306,6 +1307,7 @@ efficiently
 extension
 earning
 excluidas
+estudo
 aplica
 acaso
 assint
@@ -2388,6 +2390,7 @@ chars
 comments
 cash
 continuam
+coletados
 xima
 ximo
 xi
@@ -4816,6 +4819,7 @@ rework
 reframe
 remainder
 recorremos
+realizando
 hardware
 heuristic
 highlights
@@ -6510,6 +6514,7 @@ whole
 what
 wrap
 web
+why
 given
 growth
 guarantee
