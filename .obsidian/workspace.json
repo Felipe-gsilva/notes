@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "moclojer/Components.md",
+                "file": "bcc/4° Semestre/Projeto e Analise de Algoritmos/11 - Análise Exploratória de Dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moclojer/Components.md",
+                "file": "bcc/4° Semestre/Projeto e Analise de Algoritmos/11 - Análise Exploratória de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "moclojer/Components.md",
+                "file": "bcc/4° Semestre/Projeto e Analise de Algoritmos/11 - Análise Exploratória de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moclojer/Components.md"
+                "file": "bcc/4° Semestre/Projeto e Analise de Algoritmos/11 - Análise Exploratória de Dados.md"
               }
             }
           },
@@ -168,11 +168,25 @@
   },
   "active": "798f55b4478c2a8e",
   "lastOpenFiles": [
+    "bcc/4° Semestre/Projeto e Analise de Algoritmos/10 - Modelo Normal ou Curva Gaussiana.md",
+    "bcc/4° Semestre/Projeto e Analise de Algoritmos/11 - Análise Exploratória de Dados.md",
+    "bcc/4° Semestre/ED 2/10 - B+ Tree.md",
+    "bcc/4° Semestre/ED 2/10 - B+ Tree.md~",
+    "bcc/4° Semestre/ED 2/4913",
+    "dist/Pasted image 20241015104611.png",
+    "bcc/4° Semestre/ED 2/11 -.md",
+    "bcc/4° Semestre/ED 2/4fun/resumo 4 - 6.md",
+    "bcc/4° Semestre/ED 2/4fun/huffman.md",
+    "bcc/4° Semestre/ED 2/4fun/4fun.md",
+    "bcc/4° Semestre/Cálculo numérico/18 - Ajuste de curvas não linear.md",
+    "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md",
+    "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md~",
+    "bcc/4° Semestre/Cálculo numérico/Cálculo Numérico.md",
+    "moclojer/Components.md",
     "moclojer/moclojer components.md",
     "moclojer/Moclojer.md",
     "moclojer/Mockingbird.md",
     "moclojer/Ideas.md",
-    "moclojer/Components.md",
     "personal/Game Dev/Kind of hotline miami bullshit.md",
     "personal/Game Dev/Game Dev.md",
     "personal/Game Dev/Vulkan Engine/Vulkan Engine.md",
@@ -184,16 +198,6 @@
     "personal/Real Development techs/Rust/Raylib.md",
     "personal/vulkan4noobs/Concepts.md",
     "personal/vulkan4noobs/Conceitos.md",
-    "personal/vulkan4noobs/vulkan4noobs.md",
-    "personal/home lab.md",
-    "personal/file-system-in-c.md",
-    "personal/Web Dev/Web Dev.md",
-    "personal/Web Dev/VUE.JS - rendering but faster (lazy asf).md",
-    "personal/Web Dev/PHP.md",
-    "personal/Web Dev/Untitled.md",
-    "personal/Web Dev/REACT (cause I already know it).md",
-    "personal/Web Dev/Helix and Refx.md",
-    "personal/Web Dev/Node.js.md",
     "dist/Pasted image 20241007092524.png",
     "dist/Pasted image 20241007105202.png",
     "dist/Pasted image 20241007092630.png",
@@ -207,14 +211,10 @@
     "bcc/4° Semestre/Lab. de Montagem/lerletras.asm",
     "dist/Pasted image 20240911111746.png",
     "dist/Pasted image 20240911111717.png",
-    "dist/Pasted image 20240911111645.png",
     "dist/File Structures (Michael J. Folk, Bill Zoellick) (Z-Library).pdf",
     "dist/lista1.pdf",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "dist/PrimeiraListaExerc-CalcNum.pdf",
-    "dist",
-    "bcc/4° Semestre/ED 2/4fun",
     "Untitled.canvas"
   ]
 }

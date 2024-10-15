@@ -67,5 +67,17 @@ onde $a_{ik} = \sum_{j=1}^{N}\limits g_{i}g_{k}(x_{j})$ e $b_{i} = \sum_{j=1}^{N
 
 ---
 ## Caso Contínuo
-$$I = \int^{b}_{a}[f(x) - g(x)]^{2}\times w(x) \ dx$$
+$$I = \int^{b}_{a}[f(x) - g(x)]^{2}times $$
 onde $w:[a,b]\rightarrow R$ é a função-peso.
+
+Seja $g(x) = \alpha_{1} g_{1}(x) + \alpha_{2} g_{2}(x)$
+
+$\begin{cases} a_{11} = \int^{b}_{a} g_{1}(x)^{2}dx \\a_{12}= \int^{b}_{a}g_{1}(x)g_{2}(x)dx  \\  a_{21}= a_{12} \\ a_{22} = \int^{b}_{a}g_{2}(x)^{2}dx \end{cases}$
+
+$b_{1}= \int^{b}_{a}g_{1}(x)f(x)dx$, $b_{2}= \int^{b}_{a}g_{2}(x)f(x)dx$
+
+em um sistema:
+$\begin{cases}a_{11} \alpha_{1}+a_{12}\alpha_{2} = b_{1}\\ a_{21} \alpha_{1}+a_{22}\alpha_{2} = b_{2} \end{cases}$
+
+$a_{ij}= \int^{b}_{a}g_{i}(x)g_{j}(x)dx$, $b_{i}= \int^{b}_{a}g_{i}(x)f(x)dx$
+Lembrando: $a_{ij}=a_{ji}$

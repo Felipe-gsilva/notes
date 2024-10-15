@@ -1305,6 +1305,7 @@ exponential
 efficiently
 extension
 earning
+excluidas
 aplica
 acaso
 assint
@@ -1704,6 +1705,8 @@ arr
 activated
 anything
 appears
+antecessor
+adjascentes
 Se
 Somat
 Start
@@ -2384,6 +2387,7 @@ conditional
 chars
 comments
 cash
+continuam
 xima
 ximo
 xi
@@ -2884,6 +2888,8 @@ parseInt
 paths
 pointed
 pointer
+provocar
+propagar
 qualquer
 que
 quina
@@ -4809,6 +4815,7 @@ refx
 rework
 reframe
 remainder
+recorremos
 hardware
 heuristic
 highlights
@@ -5153,6 +5160,7 @@ lx
 liga
 literally
 logic
+lineariza
 Modelo
 Move
 Melhor
@@ -6052,6 +6060,7 @@ inicializ
 immutability
 inputs
 inside
+intermedi
 Teremos
 The
 This
@@ -7519,6 +7528,7 @@ Elas
 Evaluation
 EVERY
 Exclusive
+Exclus
 Key
 KKKKK
 Keysorting
