@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "739e0749f02b0d5f",
+            "id": "d66226c3c379783d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bcc/4° Semestre/Projeto e Analise de Algoritmos/11 - Análise Exploratória de Dados.md",
+                "file": "bcc/4° Semestre/Probabilidade e Estatística/1 - Conceitos.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1 - Conceitos"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/Projeto e Analise de Algoritmos/11 - Análise Exploratória de Dados.md",
+                "file": "bcc/4° Semestre/Lab. de Montagem/2 - Arquitetura e Funcionamento de Microcontroladores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2 - Arquitetura e Funcionamento de Microcontroladores"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/Projeto e Analise de Algoritmos/11 - Análise Exploratória de Dados.md",
+                "file": "bcc/4° Semestre/Lab. de Montagem/2 - Arquitetura e Funcionamento de Microcontroladores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2 - Arquitetura e Funcionamento de Microcontroladores"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/Projeto e Analise de Algoritmos/11 - Análise Exploratória de Dados.md"
-              }
+                "file": "bcc/4° Semestre/Lab. de Montagem/2 - Arquitetura e Funcionamento de Microcontroladores.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2 - Arquitetura e Funcionamento de Microcontroladores"
             }
           },
           {
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -142,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -166,11 +186,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "798f55b4478c2a8e",
+  "active": "d66226c3c379783d",
   "lastOpenFiles": [
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/10 - Modelo Normal ou Curva Gaussiana.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/11 - Análise Exploratória de Dados.md",
+    "ToDo kanban.md",
+    "README.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/13 - Análise Exploratória de dados.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/6.1- Matriz de Confusão.md",
+    "bcc/4° Semestre/Probabilidade e Estatística/8 - Variáveis Aleatórias.md",
+    "bcc/4° Semestre/ED 2/Exercícios.md",
     "bcc/4° Semestre/ED 2/10 - B+ Tree.md",
+    "bcc/4° Semestre/ED 2/ED 2.md",
+    "bcc/4° Semestre/Cálculo numérico/19 - Regressão Linear.md",
+    "bcc/4° Semestre/Lab. de Montagem/2 - Arquitetura e Funcionamento de Microcontroladores.md",
+    "bcc/4° Semestre/Lab. de Montagem/1 - Conceitos.md",
+    "bcc/4° Semestre/Projeto e Analise de Algoritmos/11 - Análise Exploratória de Dados.md",
+    "bcc/4° Semestre/Projeto e Analise de Algoritmos/10 - Modelo Normal ou Curva Gaussiana.md",
     "bcc/4° Semestre/ED 2/10 - B+ Tree.md~",
     "bcc/4° Semestre/ED 2/4913",
     "dist/Pasted image 20241015104611.png",
@@ -188,16 +218,6 @@
     "moclojer/Mockingbird.md",
     "moclojer/Ideas.md",
     "personal/Game Dev/Kind of hotline miami bullshit.md",
-    "personal/Game Dev/Game Dev.md",
-    "personal/Game Dev/Vulkan Engine/Vulkan Engine.md",
-    "personal/Game Dev/Vulkan Engine/Audio Handler.md",
-    "personal/Real Development techs/C++/SDL2.md",
-    "personal/Real Development techs/C++/C++.md",
-    "personal/Real Development techs/Real Development techs.md",
-    "personal/Real Development techs/Rust/Rust.md",
-    "personal/Real Development techs/Rust/Raylib.md",
-    "personal/vulkan4noobs/Concepts.md",
-    "personal/vulkan4noobs/Conceitos.md",
     "dist/Pasted image 20241007092524.png",
     "dist/Pasted image 20241007105202.png",
     "dist/Pasted image 20241007092630.png",

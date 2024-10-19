@@ -4,18 +4,24 @@ kanban-plugin: board
 
 ---
 
+## Today
+
+- [ ] Auxilio
+- [ ] Arvore-B virtual  ED2 @{2024-11-05}
+
+
 ## ToDo
 
-- [ ] test-browser-exports-shadow-cljs
+- [ ] pagamento MEI @{2024-11-20}
 - [ ] opensearch dashboard
+- [ ] Bump mockingbird into moclojer
 
 
 ## in progress
 
-- [ ] Trabalho probabilidade
-- [ ] Arvore-B virtual  ED2 @{2024-11-05}
 - [ ] Trabalho Organização @{2024-10-30}
-- [ ] Bump mockingbird into moclojer
+- [ ] Trabalho Assembly @{2024-11-01}
+- [ ] Trabalho probabilidade @{2024-11-20}
 
 
 ## provas e trabalhos
@@ -24,20 +30,24 @@ kanban-plugin: board
 - [ ] Atividade assembly 1 @{2024-11-15}
 - [ ] P2 Cálculo Numérico @{2024-11-19}
 - [ ] atividade assembly 2 @{2024-11-22}
-- [ ] Trabalho Assembly @{2024-11-22}
 - [ ] Prova Assembly @{2024-11-29}
+- [ ] Árvore B+ @ sem data
 
 
 ## backlog
 
 - [ ] p-threads for OS classes
 - [ ] documentar componentes (components) (pra bemmmm depois)
-- [ ] ERROR- conta cria um mock pela primeira vez
+- [ ] ERROR - conta cria um mock pela primeira vez
 
 
 ## Done
 
 **Complete**
+- [x] Atividade assembly @{2024-10-19}
+- [x] celular
+- [x] abrir mei @{2024-10-17}
+- [x] test-browser-exports-shadow-cljs
 - [x] Trabalho PAA @{2024-10-28}
 - [x] fix css file reusability - mockingbird
 - [x] Trabalho Cálculo @{2024-10-14}
@@ -69,6 +79,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":true,"date-display-format":"DD-MM-YYYY","link-date-to-daily-note":false,"show-relative-date":true,"inline-metadata-position":"body","move-dates":true,"date-colors":[{"distance":1,"unit":"days","direction":"after","color":"rgba(247, 10, 137, 1)","isToday":true},{"distance":1,"unit":"days","direction":"after","isAfter":true,"color":"rgba(152, 10, 247, 1)"}]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"show-checkboxes":true,"date-display-format":"DD-MM-YYYY","link-date-to-daily-note":false,"show-relative-date":true,"inline-metadata-position":"body","move-dates":true,"date-colors":[{"distance":1,"unit":"days","direction":"after","color":"rgba(247, 10, 137, 1)","isToday":true},{"distance":1,"unit":"days","direction":"after","isAfter":true,"color":"rgba(152, 10, 247, 1)"}]}
 ```
 %%

@@ -281,6 +281,8 @@ Quadr
 Quadrado
 Qual
 QL
+QUARTIL
+Quartil
 de
 depende
 da
@@ -657,6 +659,8 @@ describe
 development
 distante
 descritiva
+dispers
+destaque
 trabalho
 tomada
 tipos
@@ -933,6 +937,7 @@ tables
 terminal
 tracks
 trying
+tulos
 entrada
 estados
 estrutura
@@ -1308,6 +1313,10 @@ extension
 earning
 excluidas
 estudo
+existirem
+explora
+estrat
+enviesadas
 aplica
 acaso
 assint
@@ -1709,6 +1718,9 @@ anything
 appears
 antecessor
 adjascentes
+amostra
+amostragens
+anomalias
 Se
 Somat
 Start
@@ -2391,6 +2403,10 @@ comments
 cash
 continuam
 coletados
+conclus
+censo
+contexto
+cv
 xima
 ximo
 xi
@@ -2893,6 +2909,8 @@ pointed
 pointer
 provocar
 propagar
+possibilitam
+pagamento
 qualquer
 que
 quina
@@ -3002,6 +3020,8 @@ qJW
 qiO
 quadrados
 quote
+quantis
+quantil
 ocorr
 ou
 outra
@@ -3181,6 +3201,8 @@ oaK
 ov
 ot
 opensearch
+obteoms
+observa
 ncia
 nesse
 ndice
@@ -3941,6 +3963,7 @@ send
 syntax
 styles
 studying
+sistematicamente
 melhor
 medida
 mem
@@ -4197,6 +4220,11 @@ multiple
 manda
 metadata
 mixing
+mei
+mantidos
+medidas
+maximo
+moda
 buscamos
 baseada
 base
@@ -4820,6 +4848,9 @@ reframe
 remainder
 recorremos
 realizando
+recalcular
+relativos
+registradas
 hardware
 heuristic
 highlights
@@ -5312,6 +5343,8 @@ Multi
 Metadata
 Multiplication
 Modulus
+Medidas
+MEI
 RAM
 Reindexa
 Repeat
@@ -5469,6 +5502,7 @@ Restrictions
 Refx
 Rendering
 Reactivity
+Resumo
 Devemos
 Definition
 Drawing
@@ -5633,6 +5667,8 @@ Docker
 Division
 Declarative
 DOM
+Dispers
+Delimitam
 vel
 vale
 valores
@@ -5784,6 +5820,7 @@ verify
 vkInstance
 vkGetPhysicalDeviceFeatures
 vkGetPhysicalDeviceProperties
+variabilidade
 idealizaremos
 instru
 inteiros
@@ -6065,6 +6102,9 @@ immutability
 inputs
 inside
 intermedi
+irrestrita
+interessantes
+intuito
 Teremos
 The
 This
@@ -6202,6 +6242,7 @@ TS
 TN
 Types
 TABLE
+Today
 Problem
 Pair
 Python
@@ -6678,6 +6719,8 @@ generate
 glfwInit
 glfwWindowHint
 glfwCreateWindow
+generaliza
+gia
 Heuristic
 Hashing
 HDD
@@ -6929,6 +6972,8 @@ Anonymous
 Abstraction
 AND
 Addition
+Amplitude
+Auxilio
 Nearest
 Neighbor
 No
@@ -7173,6 +7218,7 @@ Installing
 Interger
 INSERTING
 Inertia
+Identifica
 yield
 yaml
 yd
@@ -7534,6 +7580,7 @@ Evaluation
 EVERY
 Exclusive
 Exclus
+Efeito
 Key
 KKKKK
 Keysorting
@@ -7992,6 +8039,8 @@ Fz
 FB
 FXD
 Floats
+Folks
+Folk
 Geraldo
 GwR
 GIbey
@@ -8298,6 +8347,9 @@ Used
 UNIQUE
 UPDATING
 Using
+Utilizar
+Utilizamos
+Utilizaremos
 Buscamos
 BA
 Buffering

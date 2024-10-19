@@ -200,6 +200,30 @@ int main() {
 - chaves excluidas continuam nos nós intermediários;
 - remoção pode provocar underflow em um bloco
 -> concatenar os blocos com seu antecessor ou sucessor na sequência lógica.
--> redistribuir registros, movendo-os entre os blocos logicamente adjascentes.
+-> redistribuir registros, movendo-os entre os blocos logicamente adjacentes.
 
 quando há concatenação, isso pode propagar-se para os nós internos.
+
+
+# Arvore B+ com prefixo simples
+Utilizar chaves com o prefixo das strings chave
+Utilizamos o conceito de separador do tipo prefixo simples. Exemplo, se "Folks" e "Folk" existirem o separador pode ser "Folks", que difere as 2 palavras.
+
+São mantidos no index os prefixos simples, ao invés das chaves em si.
+
+### Tabela de decisão
+chave < separador -> vai pra esquerda
+chave = separador -> vai pra direita
+chave > separador -> vai pra  direita
+
+```c
+void find_sep(char *key1, char *key2, char *sep) {
+	while((*sep++ = *key2++) == *key1++);
+	*sep ='\0';
+}
+// lembrar do tamanho da string ser MAX+1
+```
+
+Efeito de **sequence set.** (não altera a chave separadora).
+
+Quando há overflow, há redistribuição e precisa-se recalcular a chave separadora;
