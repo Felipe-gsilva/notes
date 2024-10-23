@@ -938,6 +938,8 @@ terminal
 tracks
 trying
 tulos
+tima
+timo
 entrada
 estados
 estrutura
@@ -1721,6 +1723,10 @@ adjascentes
 amostra
 amostragens
 anomalias
+anivers
+algs
+aplicam
+amortizada
 Se
 Somat
 Start
@@ -3964,6 +3970,8 @@ syntax
 styles
 studying
 sistematicamente
+subdividir
+ssimo
 melhor
 medida
 mem
@@ -4851,6 +4859,7 @@ realizando
 recalcular
 relativos
 registradas
+recalcul
 hardware
 heuristic
 highlights
@@ -5026,7 +5035,6 @@ lados
 level
 lang
 low
-load
 labels
 leitura
 literal
@@ -5163,7 +5171,6 @@ lib
 library
 lifecycle
 life
-loader
 lendo
 logica
 livro
@@ -5184,7 +5191,6 @@ lines
 located
 launching
 look
-loading
 lp
 lk
 lW
@@ -6721,6 +6727,7 @@ glfwWindowHint
 glfwCreateWindow
 generaliza
 gia
+gulosos
 Heuristic
 Hashing
 HDD
@@ -7219,6 +7226,7 @@ Interger
 INSERTING
 Inertia
 Identifica
+Imp
 yield
 yaml
 yd
@@ -7581,6 +7589,7 @@ EVERY
 Exclusive
 Exclus
 Efeito
+ETAPAS
 Key
 KKKKK
 Keysorting
@@ -8142,7 +8151,6 @@ Limite
 LL
 Legibilidade
 LD
-LOAD
 Localiza
 Lembre
 Linguagem

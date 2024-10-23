@@ -6,7 +6,8 @@ kanban-plugin: board
 
 ## Today
 
-- [ ] Auxilio
+- [ ] Trabalho Organização @{2024-10-30}
+- [ ] Trabalho Assembly @{2024-11-01}
 - [ ] Arvore-B virtual  ED2 @{2024-11-05}
 
 
@@ -19,14 +20,11 @@ kanban-plugin: board
 
 ## in progress
 
-- [ ] Trabalho Organização @{2024-10-30}
-- [ ] Trabalho Assembly @{2024-11-01}
 - [ ] Trabalho probabilidade @{2024-11-20}
 
 
 ## provas e trabalhos
 
-- [ ] P2 Organização @{2024-10-23}
 - [ ] Atividade assembly 1 @{2024-11-15}
 - [ ] P2 Cálculo Numérico @{2024-11-19}
 - [ ] atividade assembly 2 @{2024-11-22}
@@ -44,6 +42,8 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] P2 Organização @{2024-10-23}
+- [x] Auxilio
 - [x] Atividade assembly @{2024-10-19}
 - [x] celular
 - [x] abrir mei @{2024-10-17}
