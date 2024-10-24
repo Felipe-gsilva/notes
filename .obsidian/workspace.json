@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d9320cb3c2177b4d",
+        "id": "e5e8c079de95f7e2",
         "type": "tabs",
         "children": [
           {
-            "id": "0ed203a667a50d29",
+            "id": "9f05ff57ad944eb0",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ToDo kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "bcc/4° Semestre/Cálculo numérico/21 - Forma de lagrange e Método das diferenças.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "ToDo kanban"
+              "icon": "lucide-file",
+              "title": "21 - Forma de lagrange e Método das diferenças"
             }
           }
         ]
@@ -196,8 +186,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ed203a667a50d29",
+  "active": "9f05ff57ad944eb0",
   "lastOpenFiles": [
+    "bcc/4° Semestre/Cálculo numérico/21 - Forma de lagrange e Método das diferenças.md",
+    "bcc/4° Semestre/Cálculo numérico/20 -.md",
+    "ToDo kanban.md",
     "bcc/4° Semestre/Organização de Computadores/8 - Arquitetura de Computadores Paralelos.md",
     "bcc/4° Semestre/Organização de Computadores/6 - Sistema operacional.md",
     "bcc/4° Semestre/Organização de Computadores/5 - Nivel arquitetura do conjunto de instruções.md",
@@ -209,7 +202,6 @@
     "bcc/4° Semestre/Probabilidade e Estatística/14 - Análise Exploratória de dados.md",
     "bcc/4° Semestre/Probabilidade e Estatística/15 - Análise Exploratória de Dados.md",
     "bcc/4° Semestre/Probabilidade e Estatística/Montar um caso real - probabilidade e estatística.md",
-    "ToDo kanban.md",
     "bcc/4° Semestre/Probabilidade e Estatística/1 - Conceitos.md",
     "README.md",
     "bcc/4° Semestre/Probabilidade e Estatística/6.1- Matriz de Confusão.md",
@@ -225,8 +217,6 @@
     "dist/Pasted image 20241015104611.png",
     "bcc/4° Semestre/ED 2/11 -.md",
     "bcc/4° Semestre/ED 2/4fun/resumo 4 - 6.md",
-    "bcc/4° Semestre/ED 2/4fun/huffman.md",
-    "bcc/4° Semestre/ED 2/4fun/4fun.md",
     "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md~",
     "dist/Pasted image 20241007092524.png",
     "dist/Pasted image 20241007105202.png",

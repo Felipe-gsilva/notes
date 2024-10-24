@@ -940,6 +940,7 @@ trying
 tulos
 tima
 timo
+tabelada
 entrada
 estados
 estrutura
@@ -3972,6 +3973,8 @@ studying
 sistematicamente
 subdividir
 ssimo
+satisfazendo
+satisfazem
 melhor
 medida
 mem
@@ -6111,6 +6114,8 @@ intermedi
 irrestrita
 interessantes
 intuito
+interpola
+interpolador
 Teremos
 The
 This
@@ -7404,6 +7409,7 @@ Oix
 Objetivo
 OR
 OPS
+ORDERM
 Exhaustive
 Enumerate
 Exerc
@@ -8050,6 +8056,7 @@ FXD
 Floats
 Folks
 Folk
+Forma
 Geraldo
 GwR
 GIbey
