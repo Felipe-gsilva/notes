@@ -1,0 +1,4 @@
+{:paths ["clojure.clj"]
+ :aliases {;; clj -M:nrepl
+           :nrepl {:extra-deps {cider/cider-nrepl {:mvn/version "0.30.0"}}
+                   :main-opts  ["-m" "nrepl.cmdline" "--middleware" "[cider.nrepl/cider-middleware]"]}}}

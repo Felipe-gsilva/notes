@@ -216,6 +216,7 @@ CONSTRAINTS
 CHECK
 CREATING
 COMPARISONS
+Conex
 Quantidade
 Quest
 Qualquer
@@ -662,6 +663,7 @@ descritiva
 dispers
 destaque
 dkj
+decomposi
 trabalho
 tomada
 tipos
@@ -942,6 +944,8 @@ tulos
 tima
 timo
 tabelada
+trocamos
+triangular
 entrada
 estados
 estrutura
@@ -1729,6 +1733,7 @@ anivers
 algs
 aplicam
 amortizada
+afirmativo
 Se
 Somat
 Start
@@ -2417,6 +2422,8 @@ censo
 contexto
 cv
 cfG
+coloque
+constituida
 xima
 ximo
 xi
@@ -2921,6 +2928,9 @@ provocar
 propagar
 possibilitam
 pagamento
+pertencentes
+pivoteamento
+primeiras
 qualquer
 que
 quina
@@ -3366,6 +3376,7 @@ nima
 normaliza
 nada
 namespace
+negra
 for
 float
 framed
@@ -3577,6 +3588,7 @@ field
 floats
 freak
 futuro
+flipping
 se
 sendo
 ser
@@ -4239,6 +4251,7 @@ mantidos
 medidas
 maximo
 moda
+martiz
 buscamos
 baseada
 base
@@ -4867,6 +4880,8 @@ recalcular
 relativos
 registradas
 recalcul
+regular
+rubro
 hardware
 heuristic
 highlights
@@ -4983,6 +4998,7 @@ hip
 happens
 happen
 hGLbqqLP
+horizontais
 linguagem
 lculo
 leva
@@ -5686,6 +5702,7 @@ Declarative
 DOM
 Dispers
 Delimitam
+Decomposi
 vel
 vale
 valores
@@ -5838,6 +5855,7 @@ vkInstance
 vkGetPhysicalDeviceFeatures
 vkGetPhysicalDeviceProperties
 variabilidade
+verticais
 idealizaremos
 instru
 inteiros
@@ -6451,6 +6469,7 @@ Preprocessor
 Prefer
 PHP
 Pra
+Pivoteamento
 with
 which
 when
@@ -7605,6 +7624,7 @@ Exclusive
 Exclus
 Efeito
 ETAPAS
+Etapa
 Key
 KKKKK
 Keysorting
@@ -7784,6 +7804,7 @@ Vue
 VkInstanceCreateInfo
 VkSurfaceKHR
 Vulkan
+Verificar
 Java
 JE
 JZ
@@ -8066,6 +8087,7 @@ Floats
 Folks
 Folk
 Forma
+Fatora
 Geraldo
 GwR
 GIbey
@@ -8274,6 +8296,7 @@ Lagrange
 Lisp
 Lists
 LIKE
+LU
 Usamos
 Um
 Usando

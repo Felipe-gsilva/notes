@@ -17,3 +17,10 @@ Essa árvore será, então, transformada em uma árvore binária na qual cada n�
 Conexões que representam chaves pertencentes ao mesmo nó de uma árvore e conexões que representam uma relação regular pai-filhos entre nós -> chamadas de **ponteiros horizontais e verticais** (ponteiros r e ponteiros d). 
 
 pode ser representado por uma **árvore rubro-negra**.
+
+
+# Operações 
+## Inserção
+flag flipping
+
+## Remoção
