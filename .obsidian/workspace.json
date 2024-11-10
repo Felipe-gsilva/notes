@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "14 - Métodos Iterativos de solução de sistemas"
             }
+          },
+          {
+            "id": "e1adef6904e986aa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19c2d566f79a66c0",
+  "active": "e1adef6904e986aa",
   "lastOpenFiles": [
     "bcc/4° Semestre/Cálculo numérico/15 - Gauss Seidel.md",
     "bcc/4° Semestre/Cálculo numérico/19 - Regressão Linear.md",
