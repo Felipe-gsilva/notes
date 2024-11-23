@@ -221,9 +221,10 @@ void find_sep(char *key1, char *key2, char *sep) {
 	while((*sep++ = *key2++) == *key1++);
 	*sep ='\0';
 }
+// key1 -> ultima chave do bloco Xi
+// key2 -> primeira chave do bloco Xi+1
 // lembrar do tamanho da string ser MAX+1
 ```
 
 Efeito de **sequence set.** (não altera a chave separadora).
-
 Quando há overflow, há redistribuição e precisa-se recalcular a chave separadora;
