@@ -661,6 +661,7 @@ distante
 descritiva
 dispers
 destaque
+decomposi
 trabalho
 tomada
 tipos
@@ -938,6 +939,9 @@ terminal
 tracks
 trying
 tulos
+trocamos
+triangular
+tambem
 entrada
 estados
 estrutura
@@ -1721,6 +1725,8 @@ adjascentes
 amostra
 amostragens
 anomalias
+afirmativo
+autenticada
 Se
 Somat
 Start
@@ -2407,6 +2413,9 @@ conclus
 censo
 contexto
 cv
+coloque
+constituida
+conseguimos
 xima
 ximo
 xi
@@ -2911,6 +2920,11 @@ provocar
 propagar
 possibilitam
 pagamento
+pivoteamento
+primeiras
+perguntas
+puxar
+passou
 qualquer
 que
 quina
@@ -3203,6 +3217,7 @@ ot
 opensearch
 obteoms
 observa
+org
 ncia
 nesse
 ndice
@@ -4225,6 +4240,8 @@ mantidos
 medidas
 maximo
 moda
+martiz
+mocks
 buscamos
 baseada
 base
@@ -4527,6 +4544,7 @@ unimodal
 usados
 useless
 unacceptable
+usuario
 representa
 rica
 requisitos
@@ -4851,6 +4869,7 @@ realizando
 recalcular
 relativos
 registradas
+recebemos
 hardware
 heuristic
 highlights
@@ -5196,6 +5215,8 @@ liga
 literally
 logic
 lineariza
+linkarmos
+linkar
 Modelo
 Move
 Melhor
@@ -5669,6 +5690,7 @@ Declarative
 DOM
 Dispers
 Delimitam
+Decomposi
 vel
 vale
 valores
@@ -6105,6 +6127,7 @@ intermedi
 irrestrita
 interessantes
 intuito
+instalacao
 Teremos
 The
 This
@@ -6432,6 +6455,7 @@ Preprocessor
 Prefer
 PHP
 Pra
+Pivoteamento
 with
 which
 when
@@ -6721,6 +6745,7 @@ glfwWindowHint
 glfwCreateWindow
 generaliza
 gia
+github
 Heuristic
 Hashing
 HDD
@@ -7581,6 +7606,7 @@ EVERY
 Exclusive
 Exclus
 Efeito
+Etapa
 Key
 KKKKK
 Keysorting
@@ -7760,6 +7786,7 @@ Vue
 VkInstanceCreateInfo
 VkSurfaceKHR
 Vulkan
+Verificar
 Java
 JE
 JZ
@@ -8041,6 +8068,7 @@ FXD
 Floats
 Folks
 Folk
+Fatora
 Geraldo
 GwR
 GIbey
@@ -8250,6 +8278,7 @@ Lagrange
 Lisp
 Lists
 LIKE
+LU
 Usamos
 Um
 Usando
