@@ -1,4 +1,4 @@
-
+- [ ] 
 Experimentos ou fenômenos aleatórios: quando resultados não podem ser preditos, mesmo que seja observado inúmeras vezes. Sujeito à influencia de fatores casuais.
 
 # Espaço Amostral

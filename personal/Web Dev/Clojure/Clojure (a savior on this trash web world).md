@@ -187,8 +187,15 @@ Interger/parseInt for example
 
 # -> e ->>
 
-- -> manda pro segundo lugar
-- ->> manda pro final
+- -> Threads the expr through the forms. Inserts x as the
+    second item in the first form, making a list of it if it is not a
+    list already. If there are more forms, inserts the first form as the
+    second item in second form, etc.
+
+- ->> Threads the expr through the forms. Inserts x as the
+    last item in the first form, making a list of it if it is not a
+    list already. If there are more forms, inserts the first form as the
+    last item in second form, etc.
 
 (-> func-1 (func-2 func-3) (func-4 func-5 func-6)) = (func-4 (func2 func-1 func-3) func-5 func-6)
 
@@ -203,6 +210,8 @@ stands for metadata, like
 ```Clojure
 (def ^Integer foo 5) ;; this is a hint which tells foo has Integer set to true
 (def ^:num foo 5)    ;; set num to true as meta data 
+
+(meta form) ;; returns the metadata of a form
 ```
 
 ---
@@ -217,3 +226,5 @@ Execution error [...]
 user=> '(1 2 3)
 (1 2 3)
 ```
+
+# Defmacro

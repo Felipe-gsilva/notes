@@ -44,7 +44,6 @@ amostra
 média
 mediana
 moda
-
 variância
 desvio padrão
 CV
