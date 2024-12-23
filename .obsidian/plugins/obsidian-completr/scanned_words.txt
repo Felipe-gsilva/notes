@@ -3218,6 +3218,7 @@ opensearch
 obteoms
 observa
 org
+obrigar
 ncia
 nesse
 ndice
@@ -3979,6 +3980,7 @@ syntax
 styles
 studying
 sistematicamente
+sync
 melhor
 medida
 mem
@@ -5045,7 +5047,6 @@ lados
 level
 lang
 low
-load
 labels
 leitura
 literal
@@ -5182,7 +5183,6 @@ lib
 library
 lifecycle
 life
-loader
 lendo
 logica
 livro
@@ -5203,7 +5203,6 @@ lines
 located
 launching
 look
-loading
 lp
 lk
 lW
@@ -5217,6 +5216,7 @@ logic
 lineariza
 linkarmos
 linkar
+loggado
 Modelo
 Move
 Melhor
@@ -6746,6 +6746,7 @@ glfwCreateWindow
 generaliza
 gia
 github
+git
 Heuristic
 Hashing
 HDD
@@ -8170,7 +8171,6 @@ Limite
 LL
 Legibilidade
 LD
-LOAD
 Localiza
 Lembre
 Linguagem
