@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "moclojer/git sync.md",
+                "file": "personal/Web Dev/Redis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git sync"
+              "title": "Redis"
             }
           }
         ]
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 228.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +189,11 @@
   },
   "active": "d66226c3c379783d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "personal/Web Dev/Web Dev.md",
+    "personal/Web Dev/Redis.md",
+    "personal/Web Dev/Helix and Refx.md",
     "moclojer/git sync.md",
+    "conflict-files-obsidian-git.md",
     "personal/Web Dev/Clojure/deps.edn",
     "personal/Web Dev/Clojure/clojure.clj",
     "personal/Web Dev/Clojure/Clojure (a savior on this trash web world).md",
@@ -216,9 +220,6 @@
     "moclojer/Moclojer.md",
     "moclojer/Mockingbird.md",
     "moclojer/Ideas.md",
-    "moclojer/Components.md",
-    "bcc/4° Semestre/Cálculo numérico/15 - Gauss Seidel.md",
-    "bcc/4° Semestre/Cálculo numérico/14 - Métodos Iterativos de solução de sistemas.md",
     "bcc/4° Semestre/ED 2/10 - B+ Tree.md~",
     "bcc/4° Semestre/ED 2/4913",
     "dist/Pasted image 20241015104611.png",

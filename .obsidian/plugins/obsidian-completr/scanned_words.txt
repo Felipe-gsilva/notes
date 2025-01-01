@@ -942,6 +942,8 @@ tulos
 trocamos
 triangular
 tambem
+trigger
+timer
 entrada
 estados
 estrutura
@@ -1321,6 +1323,7 @@ existirem
 explora
 estrat
 enviesadas
+ends
 aplica
 acaso
 assint
@@ -2416,6 +2419,7 @@ cv
 coloque
 constituida
 conseguimos
+completely
 xima
 ximo
 xi
@@ -3372,6 +3376,7 @@ nima
 normaliza
 nada
 namespace
+nosql
 for
 float
 framed
@@ -4244,6 +4249,7 @@ maximo
 moda
 martiz
 mocks
+manages
 buscamos
 baseada
 base
@@ -5217,6 +5223,8 @@ lineariza
 linkarmos
 linkar
 loggado
+lifecycles
+live
 Modelo
 Move
 Melhor
@@ -5524,6 +5532,7 @@ Refx
 Rendering
 Reactivity
 Resumo
+Redis
 Devemos
 Definition
 Drawing
@@ -6266,6 +6275,7 @@ TN
 Types
 TABLE
 Today
+TTL
 Problem
 Pair
 Python
