@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/Web Dev/Redis.md",
+                "file": "personal/Real Development techs/C/sys socket.h.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis"
+              "title": "sys socket.h"
             }
           }
         ]
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
-    "collapsed": true
+    "width": 228.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +188,14 @@
   },
   "active": "d66226c3c379783d",
   "lastOpenFiles": [
-    "personal/Web Dev/Web Dev.md",
+    "personal/Real Development techs/C/pthreads.md",
+    "personal/Real Development techs/C/sys socket.h.md",
+    "personal/Real Development techs/C",
+    "personal/home lab.md",
+    "personal/Lista de Desejos.md",
     "personal/Web Dev/Redis.md",
+    "personal/file-system-in-c.md",
+    "personal/Web Dev/Web Dev.md",
     "personal/Web Dev/Helix and Refx.md",
     "moclojer/git sync.md",
     "conflict-files-obsidian-git.md",
@@ -215,11 +220,6 @@
     "bcc/4° Semestre/ED 2/11 - Árvore 2-4.md",
     "bcc/4° Semestre/Cálculo numérico/23 - Intergração numérica.md",
     "bcc/4° Semestre/Cálculo numérico/21 - Forma de lagrange e Método das diferenças.md",
-    "Excalidraw/arvore-2-4.excalidraw.md",
-    "moclojer/moclojer components.md",
-    "moclojer/Moclojer.md",
-    "moclojer/Mockingbird.md",
-    "moclojer/Ideas.md",
     "bcc/4° Semestre/ED 2/10 - B+ Tree.md~",
     "bcc/4° Semestre/ED 2/4913",
     "dist/Pasted image 20241015104611.png",
@@ -233,7 +233,6 @@
     "dist/Pasted image 20241001074046.png",
     "Excalidraw/Untitled.canvas",
     "dist/lista2.pdf",
-    "dist/Lista de exercícios 1.pdf",
     "dist/Pasted image 20240911111746.png",
     "dist/Pasted image 20240911111717.png",
     "Untitled.canvas"
