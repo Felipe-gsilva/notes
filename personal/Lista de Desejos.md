@@ -1,4 +1,5 @@
-- celular da silva (A34/35)
 - hub usb 3.0
 - cadeira
-- camisa corinthians all black
+- camisa corinthians all black e 3 2024
+- fone
+- testeira memphis

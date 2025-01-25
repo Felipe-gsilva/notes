@@ -944,6 +944,7 @@ triangular
 tambem
 trigger
 timer
+testeira
 entrada
 estados
 estrutura
@@ -3588,6 +3589,7 @@ field
 floats
 freak
 futuro
+fone
 se
 sendo
 ser
@@ -4250,6 +4252,7 @@ moda
 martiz
 mocks
 manages
+memphis
 buscamos
 baseada
 base
