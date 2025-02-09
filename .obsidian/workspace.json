@@ -162,7 +162,11 @@
               "type": "calendar",
               "state": {},
               "icon": "lucide-file",
+<<<<<<< HEAD
+              "title": "Plugin no longer active"
+=======
               "title": "Plugin desativado"
+>>>>>>> refs/remotes/origin/main
             }
           }
         ],

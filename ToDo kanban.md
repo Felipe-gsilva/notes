@@ -4,19 +4,17 @@ kanban-plugin: board
 
 ---
 
+
+## backlog
+
 ## Today
-
-
 
 ## ToDo
 
 - [ ] p-threads for OS classes
 - [ ] documentar componentes (components) (pra bemmmm depois)
-- [ ] ERROR - conta cria um mock pela primeira vez
-
 
 ## in progress
-
 
 
 ## provas e trabalhos
@@ -29,7 +27,6 @@ kanban-plugin: board
 - [ ] [[personal/Game Dev/Vulkan Engine/Vulkan Engine|Vulkan Engine]]
 - [ ] [[home lab]]
 - [ ] [[(Game) Kind of hotline miami bullshit]]
-
 
 ## Done
 
