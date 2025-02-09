@@ -4,32 +4,8 @@ kanban-plugin: board
 
 ---
 
-## Today
-
-- [ ] Trabalho Organização @{2024-10-30}
-- [ ] Trabalho Assembly @{2024-11-01}
-- [ ] Arvore-B virtual  ED2 @{2024-11-05}
-
-
-## ToDo
-
-- [ ] pagamento MEI @{2024-11-20}
-- [ ] opensearch dashboard
-- [ ] Bump mockingbird into moclojer
-
-
-## in progress
-
-- [ ] Trabalho probabilidade @{2024-11-20}
-
-
-## provas e trabalhos
-
-- [ ] Atividade assembly 1 @{2024-11-15}
-- [ ] P2 Cálculo Numérico @{2024-11-19}
-- [ ] atividade assembly 2 @{2024-11-22}
 - [ ] Prova Assembly @{2024-11-29}
-- [ ] Árvore B+ @ sem data
+- [ ] Árvore B+ @{2024-11-27}
 
 
 ## backlog
@@ -37,7 +13,6 @@ kanban-plugin: board
 - [ ] p-threads for OS classes
 - [ ] documentar componentes (components) (pra bemmmm depois)
 - [ ] ERROR - conta cria um mock pela primeira vez
-
 
 ## Done
 
