@@ -216,7 +216,6 @@ CONSTRAINTS
 CHECK
 CREATING
 COMPARISONS
-Conex
 Quantidade
 Quest
 Qualquer
@@ -662,9 +661,7 @@ distante
 descritiva
 dispers
 destaque
-dkj
 decomposi
-dog
 trabalho
 tomada
 tipos
@@ -942,11 +939,12 @@ terminal
 tracks
 trying
 tulos
-tima
-timo
-tabelada
 trocamos
 triangular
+tambem
+trigger
+timer
+testeira
 entrada
 estados
 estrutura
@@ -1326,6 +1324,7 @@ existirem
 explora
 estrat
 enviesadas
+ends
 aplica
 acaso
 assint
@@ -1730,11 +1729,8 @@ adjascentes
 amostra
 amostragens
 anomalias
-anivers
-algs
-aplicam
-amortizada
 afirmativo
+autenticada
 Se
 Somat
 Start
@@ -1910,7 +1906,6 @@ STRING
 SEARCHING
 Subtraction
 Shift
-SgfQTDJp
 complexidade
 como
 caso
@@ -2422,9 +2417,10 @@ conclus
 censo
 contexto
 cv
-cfG
 coloque
 constituida
+conseguimos
+completely
 xima
 ximo
 xi
@@ -2929,9 +2925,11 @@ provocar
 propagar
 possibilitam
 pagamento
-pertencentes
 pivoteamento
 primeiras
+perguntas
+puxar
+passou
 qualquer
 que
 quina
@@ -3224,6 +3222,8 @@ ot
 opensearch
 obteoms
 observa
+org
+obrigar
 ncia
 nesse
 ndice
@@ -3377,7 +3377,7 @@ nima
 normaliza
 nada
 namespace
-negra
+nosql
 for
 float
 framed
@@ -3589,7 +3589,7 @@ field
 floats
 freak
 futuro
-flipping
+fone
 se
 sendo
 ser
@@ -3987,10 +3987,7 @@ syntax
 styles
 studying
 sistematicamente
-subdividir
-ssimo
-satisfazendo
-satisfazem
+sync
 melhor
 medida
 mem
@@ -4253,6 +4250,9 @@ medidas
 maximo
 moda
 martiz
+mocks
+manages
+memphis
 buscamos
 baseada
 base
@@ -4423,7 +4423,6 @@ bK
 browser
 buscada
 bunch
-bjPbZq
 uma
 um
 unvisited
@@ -4556,6 +4555,7 @@ unimodal
 usados
 useless
 unacceptable
+usuario
 representa
 rica
 requisitos
@@ -4880,9 +4880,7 @@ realizando
 recalcular
 relativos
 registradas
-recalcul
-regular
-rubro
+recebemos
 hardware
 heuristic
 highlights
@@ -4998,8 +4996,6 @@ hrD
 hip
 happens
 happen
-hGLbqqLP
-horizontais
 linguagem
 lculo
 leva
@@ -5227,7 +5223,11 @@ liga
 literally
 logic
 lineariza
-lidamos
+linkarmos
+linkar
+loggado
+lifecycles
+live
 Modelo
 Move
 Melhor
@@ -5377,8 +5377,6 @@ Multiplication
 Modulus
 Medidas
 MEI
-Mas
-MdtlKJ
 RAM
 Reindexa
 Repeat
@@ -5537,6 +5535,7 @@ Refx
 Rendering
 Reactivity
 Resumo
+Redis
 Devemos
 Definition
 Drawing
@@ -5856,7 +5855,6 @@ vkInstance
 vkGetPhysicalDeviceFeatures
 vkGetPhysicalDeviceProperties
 variabilidade
-verticais
 idealizaremos
 instru
 inteiros
@@ -6141,8 +6139,7 @@ intermedi
 irrestrita
 interessantes
 intuito
-interpola
-interpolador
+instalacao
 Teremos
 The
 This
@@ -6281,6 +6278,7 @@ TN
 Types
 TABLE
 Today
+TTL
 Problem
 Pair
 Python
@@ -6760,7 +6758,8 @@ glfwWindowHint
 glfwCreateWindow
 generaliza
 gia
-gulosos
+github
+git
 Heuristic
 Hashing
 HDD
@@ -7259,7 +7258,6 @@ Interger
 INSERTING
 Inertia
 Identifica
-Imp
 yield
 yaml
 yd
@@ -7437,8 +7435,6 @@ Oix
 Objetivo
 OR
 OPS
-ORDERM
-ORDEM
 Exhaustive
 Enumerate
 Exerc
@@ -7624,7 +7620,6 @@ EVERY
 Exclusive
 Exclus
 Efeito
-ETAPAS
 Etapa
 Key
 KKKKK
@@ -8087,7 +8082,6 @@ FXD
 Floats
 Folks
 Folk
-Forma
 Fatora
 Geraldo
 GwR
@@ -8587,7 +8581,6 @@ job
 journey
 ji
 jW
-joKbVWDx
 kanban
 keys
 kernel
@@ -8855,7 +8848,6 @@ WÖC
 WG
 Wwx
 WISE
-WRSqXX
 Zp
 ZF
 Zv

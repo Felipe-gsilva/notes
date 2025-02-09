@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a2f79c14d699a4c0",
+        "id": "0f4fa141277244fe",
         "type": "tabs",
         "children": [
           {
-            "id": "19c2d566f79a66c0",
+            "id": "227c0055b54655d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bcc/4° Semestre/Cálculo numérico/16 - Forma matricial do método de Gauss-Seidel.md",
+                "file": "moclojer/git sync.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 - Forma matricial do método de Gauss-Seidel"
-            }
-          },
-          {
-            "id": "2556debf88833bb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bcc/4° Semestre/ED 2/10 - B+ Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 - B+ Tree"
+              "title": "git sync"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -92,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.51103591918945,
-    "collapsed": true
+    "width": 253.51103591918945
   },
   "right": {
     "id": "eefc29d57e17d8d7",
@@ -178,67 +162,73 @@
               "type": "calendar",
               "state": {},
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Plugin no longer active"
+=======
+              "title": "Plugin desativado"
+>>>>>>> refs/remotes/origin/main
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 228.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "canvas:Create new canvas": false,
-      "graph:Open graph view": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "798f55b4478c2a8e",
+  "active": "7ffff159eae62eca",
   "lastOpenFiles": [
-    "bcc/4° Semestre/Cálculo numérico/18 - Ajuste de curvas não linear.md",
-    "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md",
-    "bcc/4° Semestre/Cálculo numérico/20 -.md",
-    "bcc/4° Semestre/Cálculo numérico/19 - Regressão Linear.md",
-    "bcc/4° Semestre/Organização de Computadores/1 - Introdução.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/14 - Análise Exploratória de dados.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/15 - Análise Exploratória de Dados.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/Montar um caso real - probabilidade e estatística.md",
-    "bcc/4° Semestre/Cálculo numérico/16 - Forma matricial do método de Gauss-Seidel.md",
-    "bcc/4° Semestre/Cálculo numérico/15 - Gauss Seidel.md",
-    "bcc/4° Semestre/Cálculo numérico/14 - Métodos Iterativos de solução de sistemas.md",
-    "bcc/4° Semestre/Cálculo numérico/18 - Ajuste de curvas não linear.md~",
-    "bcc/4° Semestre/Cálculo numérico/10 - Sequência (ou cadeia) de Sturm + newton para polinomios.md~",
-    "bcc/4° Semestre/Cálculo numérico/12 - Pivoteamento Parcial.md~",
-    "bcc/4° Semestre/Cálculo numérico/1 - Representação numérica e análise de erros.md~",
-    "bcc/4° Semestre/ED 2/11 - Árvore 2-4.md~",
-    "bcc/4° Semestre/Cálculo numérico/12 - Pivoteamento Parcial.md",
-    "bcc/4° Semestre/Cálculo numérico/13 - Fatoração LU com pivoteamento parcial.md",
-    "bcc/4° Semestre/ED 2/11 - Árvore 2-4.md",
-    "bcc/4° Semestre/Cálculo numérico/23 - Intergração numérica.md",
-    "Excalidraw/arvore-2-4.excalidraw.md",
-    "bcc/4° Semestre/Cálculo numérico/21 - Forma de lagrange e Método das diferenças.md",
+    "moclojer/Components.md",
+    "moclojer/trace/logs.md",
+    "personal/Web Dev/PHP.md",
+    "personal/Web Dev/Helix and Refx.md",
+    "personal/Web Dev/DATABASE (MySQL).md",
+    "personal/Game Dev/(Game) Kind of hotline miami bullshit.md",
     "ToDo kanban.md",
-    "bcc/4° Semestre/Organização de Computadores/8 - Arquitetura de Computadores Paralelos.md",
-    "bcc/4° Semestre/Organização de Computadores/6 - Sistema operacional.md",
-    "bcc/4° Semestre/Organização de Computadores/5 - Nivel arquitetura do conjunto de instruções.md",
-    "bcc/4° Semestre/Organização de Computadores/7 - Nível de linguagem de montagem.md",
+    "personal/Lista de Desejos.md",
+    "personal/Game Dev/Godot/Tests.md",
+    "personal/Game Dev/Godot/Pipeline.md",
+    "personal/Game Dev/Godot/Godot.md",
+    "README.md",
+    "personal/home lab.md",
+    "personal/Real Development techs/Real Development techs.md",
+    "personal/vulkan4noobs/Concepts.md",
+    "personal/vulkan4noobs/vulkan4noobs.md",
+    "personal/Real Development techs/C/pthreads.md",
+    "personal/Real Development techs/C/sys socket.h.md",
+    "bcc/5° Semestre/Teoria dos Grafos",
+    "bcc/5° Semestre/Engenharia de Software",
+    "bcc/5° Semestre/Bancos de Dados I",
+    "bcc/5° Semestre/Redes de Computadores",
+    "bcc/5° Semestre/Linguagens Formais e Automatos",
+    "bcc/5° Semestre/Sistemas Operacionais",
+    "bcc/5° Semestre/Sistemas Operacionais.md",
+    "bcc/5° Semestre",
+    "personal/Real Development techs/C",
+    "personal/Web Dev/Redis.md",
+    "personal/file-system-in-c.md",
+    "personal/Web Dev/Web Dev.md",
+    "moclojer/git sync.md",
+    "conflict-files-obsidian-git.md",
+    "personal/Web Dev/Clojure/deps.edn",
+    "personal/Web Dev/Clojure/clojure.clj",
+    "personal/Web Dev/Clojure/Clojure (a savior on this trash web world).md",
     "bcc/4° Semestre/Projeto e Analise de Algoritmos/11 - Técnicas avançadas de projeto e análise.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/10 - Algoritmos aleatórios.md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/9 - Comparação Linear.md",
-    "bcc/4° Semestre/Probabilidade e Estatística/13 - Modelo Normal ou Curva Gaussiana.md",
-    "bcc/4° Semestre/ED 2/10 - B+ Tree.md~",
-    "bcc/4° Semestre/ED 2/4913",
     "dist/Pasted image 20241015104611.png",
-    "bcc/4° Semestre/Cálculo numérico/17 - Ajuste de Curvas com mínimos quadrados.md~",
     "dist/Pasted image 20241007092524.png",
     "dist/Pasted image 20241007105202.png",
     "dist/Pasted image 20241007092630.png",
@@ -247,8 +237,6 @@
     "dist/Pasted Image 20240930201338_149.png",
     "dist/Pasted image 20241001074046.png",
     "Excalidraw/Untitled.canvas",
-    "dist/lista2.pdf",
-    "dist/Lista de exercícios 1.pdf",
     "dist/Pasted image 20240911111746.png",
     "dist/Pasted image 20240911111717.png",
     "Untitled.canvas"
