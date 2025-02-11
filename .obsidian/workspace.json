@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "c0a44aed097fe7ab",
+    "id": "dd09fddd69437852",
     "type": "split",
     "children": [
       {
-        "id": "0f4fa141277244fe",
+        "id": "347541497548ab77",
         "type": "tabs",
         "children": [
           {
-            "id": "227c0055b54655d7",
+            "id": "3b8fa5f4ddb60c99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "moclojer/git sync.md",
+                "file": "bcc/5° Semestre/Teoria dos Grafos/programa do curso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git sync"
+              "title": "programa do curso"
             }
           }
         ]
@@ -27,27 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c984b3596c938dd6",
+    "id": "ee470b92c9ad0637",
     "type": "split",
     "children": [
       {
-        "id": "43918cdf6c7147b4",
+        "id": "bb376486639c07b4",
         "type": "tabs",
         "children": [
           {
-            "id": "de500f91cf917545",
+            "id": "efce77ee424dd2e1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
             }
           },
           {
-            "id": "d08e6cec340e0c5b",
+            "id": "425bfdc6c222a677",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,40 +61,40 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
-            "id": "d058ce63f79e102d",
+            "id": "6b883e03e0509502",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.51103591918945
+    "width": 300
   },
   "right": {
-    "id": "eefc29d57e17d8d7",
+    "id": "08ac42aacfa8da76",
     "type": "split",
     "children": [
       {
-        "id": "28e45b95b2f250d3",
+        "id": "1f61d5056705cc2b",
         "type": "tabs",
         "children": [
           {
-            "id": "3a6e2a25ac199230",
+            "id": "3cfe84eef82d9f08",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/4° Semestre/Lab. de Montagem/2 - Arquitetura e Funcionamento de Microcontroladores.md",
+                "file": "bcc/5° Semestre/Teoria dos Grafos/programa do curso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,78 +104,69 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2 - Arquitetura e Funcionamento de Microcontroladores"
+              "title": "Links inversos para programa do curso"
             }
           },
           {
-            "id": "1f8a692905daa255",
+            "id": "f123bfc5d3b3f2cb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/4° Semestre/Lab. de Montagem/2 - Arquitetura e Funcionamento de Microcontroladores.md",
+                "file": "bcc/5° Semestre/Teoria dos Grafos/programa do curso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2 - Arquitetura e Funcionamento de Microcontroladores"
+              "title": "Links de saída para programa do curso"
             }
           },
           {
-            "id": "7ffff159eae62eca",
+            "id": "e89fe5f11b3cb9b3",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "d84a063c49447aba",
+            "id": "ea8051082cde7cc5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/4° Semestre/Lab. de Montagem/2 - Arquitetura e Funcionamento de Microcontroladores.md"
+                "file": "bcc/5° Semestre/Teoria dos Grafos/programa do curso.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2 - Arquitetura e Funcionamento de Microcontroladores"
+              "title": "Sumário de programa do curso"
             }
           },
           {
-            "id": "798f55b4478c2a8e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "6a2e3f59c5cd4241",
+            "id": "aa1d0183d9b86d16",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Plugin no longer active"
-=======
-              "title": "Plugin desativado"
->>>>>>> refs/remotes/origin/main
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,55 +182,9 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "7ffff159eae62eca",
+  "active": "3b8fa5f4ddb60c99",
   "lastOpenFiles": [
-    "moclojer/Components.md",
-    "moclojer/trace/logs.md",
-    "personal/Web Dev/PHP.md",
-    "personal/Web Dev/Helix and Refx.md",
-    "personal/Web Dev/DATABASE (MySQL).md",
-    "personal/Game Dev/(Game) Kind of hotline miami bullshit.md",
     "ToDo kanban.md",
-    "personal/Lista de Desejos.md",
-    "personal/Game Dev/Godot/Tests.md",
-    "personal/Game Dev/Godot/Pipeline.md",
-    "personal/Game Dev/Godot/Godot.md",
-    "README.md",
-    "personal/home lab.md",
-    "personal/Real Development techs/Real Development techs.md",
-    "personal/vulkan4noobs/Concepts.md",
-    "personal/vulkan4noobs/vulkan4noobs.md",
-    "personal/Real Development techs/C/pthreads.md",
-    "personal/Real Development techs/C/sys socket.h.md",
-    "bcc/5° Semestre/Teoria dos Grafos",
-    "bcc/5° Semestre/Engenharia de Software",
-    "bcc/5° Semestre/Bancos de Dados I",
-    "bcc/5° Semestre/Redes de Computadores",
-    "bcc/5° Semestre/Linguagens Formais e Automatos",
-    "bcc/5° Semestre/Sistemas Operacionais",
-    "bcc/5° Semestre/Sistemas Operacionais.md",
-    "bcc/5° Semestre",
-    "personal/Real Development techs/C",
-    "personal/Web Dev/Redis.md",
-    "personal/file-system-in-c.md",
-    "personal/Web Dev/Web Dev.md",
-    "moclojer/git sync.md",
-    "conflict-files-obsidian-git.md",
-    "personal/Web Dev/Clojure/deps.edn",
-    "personal/Web Dev/Clojure/clojure.clj",
-    "personal/Web Dev/Clojure/Clojure (a savior on this trash web world).md",
-    "bcc/4° Semestre/Projeto e Analise de Algoritmos/11 - Técnicas avançadas de projeto e análise.md",
-    "dist/Pasted image 20241015104611.png",
-    "dist/Pasted image 20241007092524.png",
-    "dist/Pasted image 20241007105202.png",
-    "dist/Pasted image 20241007092630.png",
-    "dist/Pasted image 20241007092610.png",
-    "dist/Pasted image 20241007092550.png",
-    "dist/Pasted Image 20240930201338_149.png",
-    "dist/Pasted image 20241001074046.png",
-    "Excalidraw/Untitled.canvas",
-    "dist/Pasted image 20240911111746.png",
-    "dist/Pasted image 20240911111717.png",
-    "Untitled.canvas"
+    "bcc/5° Semestre/Teoria dos Grafos/programa do curso.md"
   ]
 }

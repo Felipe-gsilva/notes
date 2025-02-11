@@ -4,21 +4,28 @@ kanban-plugin: board
 
 ---
 
-
 ## backlog
 
+
+
 ## Today
+
+
 
 ## ToDo
 
 - [ ] p-threads for OS classes
 - [ ] documentar componentes (components) (pra bemmmm depois)
 
+
 ## in progress
+
 
 
 ## provas e trabalhos
 
+- [ ] prova 1 grafos @{2025-05-07}
+- [ ] prova 2 grafos @{2025-06-13}
 
 
 ## future projects
@@ -27,6 +34,7 @@ kanban-plugin: board
 - [ ] [[personal/Game Dev/Vulkan Engine/Vulkan Engine|Vulkan Engine]]
 - [ ] [[home lab]]
 - [ ] [[(Game) Kind of hotline miami bullshit]]
+
 
 ## Done
 
