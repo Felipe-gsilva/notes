@@ -24,9 +24,11 @@ kanban-plugin: board
 
 ## provas e trabalhos
 
+- [ ] prova 1 SO @{2025-03-31}
 - [ ] prova 1 grafos @{2025-05-07}
+- [ ] prova 2 SO @{2025-05-12}
+- [ ] prova 3 SO @{2025-06-09}
 - [ ] prova 2 grafos @{2025-06-13}
-
 
 ## future projects
 
