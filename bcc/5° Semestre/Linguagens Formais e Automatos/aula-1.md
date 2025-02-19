@@ -8,7 +8,7 @@
 -> podemos denotar uma cadeia por um simbolo contido no final do alfabeto padrao, como x, w, ou z, por exemplo.
 
 - _linguagens_: um tambem conjunto definido sobre um alfabeto, o qual contem diversas combinacoes de simbolos do alfabeto.
--> podemos denotar uma linguagem por $L = {}$
+-> podemos denotar uma linguagem por $L = \{ }$
 
 ---
 ### extra: 

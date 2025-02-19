@@ -662,6 +662,7 @@ descritiva
 dispers
 destaque
 decomposi
+denotar
 trabalho
 tomada
 tipos
@@ -1731,6 +1732,8 @@ amostragens
 anomalias
 afirmativo
 autenticada
+alfabetos
+acrescimo
 Se
 Somat
 Start
@@ -2421,6 +2424,13 @@ coloque
 constituida
 conseguimos
 completely
+composicao
+cadeia
+contem
+combinacoes
+concatenacao
+comecar
+comecamos
 xima
 ximo
 xi
@@ -3988,6 +3998,9 @@ styles
 studying
 sistematicamente
 sync
+simbolos
+simbolo
+sera
 melhor
 medida
 mem
@@ -4881,6 +4894,8 @@ recalcular
 relativos
 registradas
 recebemos
+reversao
+reverter
 hardware
 heuristic
 highlights
@@ -6140,6 +6155,7 @@ irrestrita
 interessantes
 intuito
 instalacao
+inves
 Teremos
 The
 This
@@ -6760,6 +6776,8 @@ generaliza
 gia
 github
 git
+grego
+gramatica
 Heuristic
 Hashing
 HDD
@@ -8511,6 +8529,7 @@ Bk
 BOOLEAN
 Basic
 BIT
+Basicos
 juntar
 jeito
 jump
@@ -8581,6 +8600,7 @@ job
 journey
 ji
 jW
+justapostos
 kanban
 keys
 kernel
