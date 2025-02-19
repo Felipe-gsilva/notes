@@ -1,0 +1,3 @@
+# bibliografia
+
+[korth - Sistemas de banco de dados](https://github.com/Felipe-gsilva/cs-common-private-files/tree/main/Books/DatabaseSystemConcepts.pdf)
