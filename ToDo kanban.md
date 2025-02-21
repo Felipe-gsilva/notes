@@ -12,6 +12,8 @@ kanban-plugin: board
 
 - [ ] fix linking git repo
 - [ ] org mocks as well
+- [ ] ler cap 1, 3 e 4 SO.
+- [ ] ler secao 1.2 Automatos
 
 
 ## ToDo
