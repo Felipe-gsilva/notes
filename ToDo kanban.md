@@ -30,6 +30,7 @@ kanban-plugin: board
 - [ ] prova 1 BD @{2025-04-08}
 - [ ] prova 1 grafos @{2025-05-07}
 - [ ] prova 2 SO @{2025-05-16}
+- [ ] prova 1 ES @{2025-05-22}
 - [ ] prova 3 SO @{2025-06-09}
 - [ ] prova 2 grafos @{2025-06-13}
 - [ ] prova 2 BD @{2025-06-24}
