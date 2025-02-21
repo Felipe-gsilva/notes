@@ -1734,6 +1734,7 @@ afirmativo
 autenticada
 alfabetos
 acrescimo
+arestas
 Se
 Somat
 Start
@@ -2431,6 +2432,7 @@ combinacoes
 concatenacao
 comecar
 comecamos
+constituido
 xima
 ximo
 xi
@@ -3600,6 +3602,7 @@ floats
 freak
 futuro
 fone
+familia
 se
 sendo
 ser
@@ -5718,6 +5721,8 @@ DOM
 Dispers
 Delimitam
 Decomposi
+Definicoes
+Denotamos
 vel
 vale
 valores
@@ -5870,6 +5875,7 @@ vkInstance
 vkGetPhysicalDeviceFeatures
 vkGetPhysicalDeviceProperties
 variabilidade
+vertices
 idealizaremos
 instru
 inteiros
@@ -6778,6 +6784,7 @@ github
 git
 grego
 gramatica
+grafo
 Heuristic
 Hashing
 HDD
