@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "08ac42aacfa8da76",
@@ -184,6 +185,7 @@
   },
   "active": "3b8fa5f4ddb60c99",
   "lastOpenFiles": [
+    "bcc/5° Semestre/Linguagens Formais e Automatos/header.md~",
     "ToDo kanban.md",
     "bcc/5° Semestre/Teoria dos Grafos/programa do curso.md"
   ]

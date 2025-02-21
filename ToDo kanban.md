@@ -10,6 +10,8 @@ kanban-plugin: board
 
 ## Today
 
+- [ ] fix linking git repo
+- [ ] org mocks as well
 
 
 ## ToDo
