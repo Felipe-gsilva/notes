@@ -1,7 +1,6 @@
 AB = BA = Id.
 
 Esse método de escalonar a matriz ampliada do sistema para encontrar sua solução é conhecido como método de Gauss-Jordan.
-
   
 
 ### SISTEMA DE CRAMER

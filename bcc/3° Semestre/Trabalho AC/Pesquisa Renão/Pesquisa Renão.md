@@ -1,10 +1,7 @@
 [https://arxiv.org/pdf/2203.07006](https://arxiv.org/pdf/2203.07006)
 
 [https://www.humanbrainproject.eu/en/science-development/focus-areas/neuromorphic-computing/](https://www.humanbrainproject.eu/en/science-development/focus-areas/neuromorphic-computing/)
-
 [https://aimodels.org/neuromorphic-computing/challenges-future-directions-neuromorphic-computing/](https://aimodels.org/neuromorphic-computing/challenges-future-directions-neuromorphic-computing/)
-
-  
 
 ## Acesso à memória (cache e acesso randômico assíncrono)
 
