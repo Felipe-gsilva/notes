@@ -6,24 +6,20 @@ kanban-plugin: board
 
 ## backlog
 
-
+- [ ] p-threads for OS classes
+- [ ] documentar componentes (components) (pra bemmmm depois)
 
 ## Today
 
-- [ ] fix linking git repo
-- [ ] org mocks as well
-- [ ] ler cap 1, 3 e 4 SO.
 - [ ] ler secao 1.2 Automatos
 
 
 ## ToDo
 
-- [ ] p-threads for OS classes
-- [ ] documentar componentes (components) (pra bemmmm depois)
-
+- [ ] fix linking git repo
+- [ ] org mocks as well
 
 ## in progress
-
 
 
 ## provas e trabalhos
@@ -47,6 +43,7 @@ kanban-plugin: board
 
 ## Done
 
+- [X] Cap 4 SO
 - [x] Bump mockingbird into moclojer
 - [x] opensearch dashboard
 - [x] Arvore-B virtual  ED2 @{2024-11-05}
