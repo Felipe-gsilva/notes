@@ -663,6 +663,7 @@ dispers
 destaque
 decomposi
 denotar
+dita
 trabalho
 tomada
 tipos
@@ -1326,6 +1327,8 @@ explora
 estrat
 enviesadas
 ends
+extremos
+estas
 aplica
 acaso
 assint
@@ -1735,6 +1738,7 @@ autenticada
 alfabetos
 acrescimo
 arestas
+aresta
 Se
 Somat
 Start
@@ -2433,6 +2437,8 @@ concatenacao
 comecar
 comecamos
 constituido
+constitu
+contribuem
 xima
 ximo
 xi
@@ -2942,6 +2948,7 @@ primeiras
 perguntas
 puxar
 passou
+pendente
 qualquer
 que
 quina
@@ -3603,6 +3610,7 @@ freak
 futuro
 fone
 familia
+fam
 se
 sendo
 ser
@@ -4269,6 +4277,7 @@ martiz
 mocks
 manages
 memphis
+mpar
 buscamos
 baseada
 base
@@ -4899,6 +4908,10 @@ registradas
 recebemos
 reversao
 reverter
+rtices
+representados
+rtice
+regular
 hardware
 heuristic
 highlights
@@ -5014,6 +5027,7 @@ hrD
 hip
 happens
 happen
+haja
 linguagem
 lculo
 leva
@@ -5246,6 +5260,8 @@ linkar
 loggado
 lifecycles
 live
+lia
+laco
 Modelo
 Move
 Melhor
@@ -5723,6 +5739,7 @@ Delimitam
 Decomposi
 Definicoes
 Denotamos
+Duas
 vel
 vale
 valores
@@ -5876,6 +5893,7 @@ vkGetPhysicalDeviceFeatures
 vkGetPhysicalDeviceProperties
 variabilidade
 vertices
+valorado
 idealizaremos
 instru
 inteiros
@@ -6162,6 +6180,10 @@ interessantes
 intuito
 instalacao
 inves
+incidente
+incidem
+incidentes
+isolado
 Teremos
 The
 This
@@ -6785,6 +6807,7 @@ git
 grego
 gramatica
 grafo
+graus
 Heuristic
 Hashing
 HDD
@@ -7283,6 +7306,8 @@ Interger
 INSERTING
 Inertia
 Identifica
+Iniciais
+Isomorfismo
 yield
 yaml
 yd
@@ -7714,6 +7739,7 @@ Ko
 KuP
 Ky
 KP
+Kn
 Vetor
 VIEW
 Verdadeira
