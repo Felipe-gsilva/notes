@@ -11,11 +11,11 @@ kanban-plugin: board
 
 ## Today
 
-- [ ] ler secao 1.2 Automatos
 
 
 ## ToDo
 
+- [ ] read chapters 4, 5 and 6 OS classes.
 - [ ] fix linking git repo
 - [ ] org mocks as well
 
@@ -43,6 +43,7 @@ kanban-plugin: board
 
 ## Done
 
+- [X] ler secao 1.2 Automatos
 - [X] Cap 4 SO
 - [x] Bump mockingbird into moclojer
 - [x] opensearch dashboard
