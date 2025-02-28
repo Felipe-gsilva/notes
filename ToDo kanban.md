@@ -4,11 +4,6 @@ kanban-plugin: board
 
 ---
 
-## backlog
-
-- [ ] p-threads for OS classes
-- [ ] documentar componentes (components) (pra bemmmm depois)
-
 ## Today
 
 
@@ -36,9 +31,15 @@ kanban-plugin: board
 ## future projects
 
 - [ ] [[file-system-in-c]]
+- [ ] [[OS-in-c]]
 - [ ] [[personal/Game Dev/Vulkan Engine/Vulkan Engine|Vulkan Engine]]
 - [ ] [[home lab]]
 - [ ] [[(Game) Kind of hotline miami bullshit]]
+
+## backlog
+
+- [ ] p-threads for OS classes
+- [ ] documentar componentes (components) (pra bemmmm depois)
 
 
 ## Done
