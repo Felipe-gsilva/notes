@@ -7,11 +7,8 @@ kanban-plugin: board
 ## Today
 
 
-
 ## ToDo
 
-- [ ] read chapters 4, 5 and 6 OS classes.
-- [ ] fix linking git repo
 - [ ] org mocks as well
 
 ## in progress
@@ -30,10 +27,10 @@ kanban-plugin: board
 
 ## future projects
 
-- [ ] [[file-system-in-c]]
 - [ ] [[OS-in-c]]
-- [ ] [[personal/Game Dev/Vulkan Engine/Vulkan Engine|Vulkan Engine]]
+- [ ] [[file-system-in-c]]
 - [ ] [[home lab]]
+- [ ] [[personal/Game Dev/Vulkan Engine/Vulkan Engine|Vulkan Engine]]
 - [ ] [[(Game) Kind of hotline miami bullshit]]
 
 ## backlog
