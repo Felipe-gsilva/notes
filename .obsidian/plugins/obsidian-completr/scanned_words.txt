@@ -2497,6 +2497,7 @@ consequentemente
 carregamos
 contida
 coracao
+chapters
 xima
 ximo
 xi
@@ -4095,6 +4096,7 @@ setar
 simplificada
 sufixo
 substring
+secao
 melhor
 medida
 mem
@@ -5358,6 +5360,7 @@ live
 lia
 laco
 linux
+linking
 Modelo
 Move
 Melhor
@@ -6755,6 +6758,7 @@ what
 wrap
 web
 why
+well
 given
 growth
 guarantee
@@ -7182,6 +7186,7 @@ Amplitude
 Auxilio
 Abstraindo
 Automata
+Automatos
 Nearest
 Neighbor
 No
@@ -8696,6 +8701,7 @@ Basic
 BIT
 Basicos
 Bibliografia
+BD
 juntar
 jeito
 jump

@@ -10,40 +10,31 @@ kanban-plugin: board
 
 ## ToDo
 
-- [ ] read chapters 4, 5 and 6 OS classes.
 - [ ] fix linking git repo
 - [ ] org mocks as well
 
 ## in progress
 
 
+
 ## provas e trabalhos
 
 - [ ] prova 1 SO @{2025-03-31}
 - [ ] prova 1 BD @{2025-04-08}
+- [ ] prova 1 LFA @{2025-04-14}
 - [ ] prova 1 grafos @{2025-05-07}
 - [ ] prova 2 SO @{2025-05-16}
 - [ ] prova 1 ES @{2025-05-22}
+- [ ] prova 2 LFA @{2025-06-09}
 - [ ] prova 3 SO @{2025-06-09}
 - [ ] prova 2 grafos @{2025-06-13}
 - [ ] prova 2 BD @{2025-06-24}
 
-## future projects
-
-- [ ] [[file-system-in-c]]
-- [ ] [[OS-in-c]]
-- [ ] [[personal/Game Dev/Vulkan Engine/Vulkan Engine|Vulkan Engine]]
-- [ ] [[home lab]]
-- [ ] [[(Game) Kind of hotline miami bullshit]]
-
-## backlog
-
-- [ ] p-threads for OS classes
-- [ ] documentar componentes (components) (pra bemmmm depois)
-
 
 ## Done
 
+- [x] read chapters 4, 5 and 6 OS classes.
+- [X] read chapters 4, 5 and 6 OS classes.
 - [X] ler secao 1.2 Automatos
 - [X] Cap 4 SO
 - [x] Bump mockingbird into moclojer
@@ -84,10 +75,24 @@ kanban-plugin: board
 - [x] 4 exercícios por dia - lista calculo @{2024-09-07}
 
 
+## future projects
+
+- [ ] [[file-system-in-c]]
+- [ ] [[OS-in-c]]
+- [ ] [[personal/Game Dev/Vulkan Engine/Vulkan Engine|Vulkan Engine]]
+- [ ] [[home lab]]
+- [ ] [[(Game) Kind of hotline miami bullshit]]
+
+
+## backlog
+
+- [ ] p-threads for OS classes
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":true,"date-display-format":"DD-MM-YYYY","link-date-to-daily-note":false,"show-relative-date":true,"inline-metadata-position":"body","move-dates":true,"date-colors":[{"distance":1,"unit":"days","direction":"after","color":"rgba(247, 10, 137, 1)","isToday":true},{"distance":1,"unit":"days","direction":"after","isAfter":true,"color":"rgba(152, 10, 247, 1)"}]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,null,false,false],"show-checkboxes":true,"date-display-format":"DD-MM-YYYY","link-date-to-daily-note":false,"show-relative-date":true,"inline-metadata-position":"body","move-dates":true,"date-colors":[{"distance":1,"unit":"days","direction":"after","color":"rgba(247, 10, 137, 1)","isToday":true},{"distance":1,"unit":"days","direction":"after","isAfter":true,"color":"rgba(152, 10, 247, 1)"}]}
 ```
 %%
