@@ -7,14 +7,10 @@ kanban-plugin: board
 ## Today
 
 
-
 ## ToDo
 
-- [ ] fix linking git repo
-- [ ] org mocks as well
 
 ## in progress
-
 
 
 ## provas e trabalhos
@@ -30,6 +26,22 @@ kanban-plugin: board
 - [ ] prova 2 grafos @{2025-06-13}
 - [ ] prova 2 BD @{2025-06-24}
 
+<<<<<<< HEAD
+=======
+## future projects
+
+- [ ] [[OS-in-c]]
+- [ ] [[file-system-in-c]]
+- [ ] [[home lab]]
+- [ ] [[personal/Game Dev/Vulkan Engine/Vulkan Engine|Vulkan Engine]]
+- [ ] [[(Game) Kind of hotline miami bullshit]]
+
+## backlog
+
+- [ ] p-threads for OS classes
+- [ ] documentar componentes (components) (pra bemmmm depois)
+
+>>>>>>> refs/remotes/origin/main
 
 ## Done
 
