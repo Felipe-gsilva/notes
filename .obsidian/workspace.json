@@ -30,8 +30,21 @@
               "icon": "lucide-trello",
               "title": "ToDo kanban"
             }
+          },
+          {
+            "id": "5d16201d05ca8651",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b8fa5f4ddb60c99",
+  "active": "5d16201d05ca8651",
   "lastOpenFiles": [
     "README.md",
     "ToDo kanban.md",
