@@ -645,6 +645,9 @@
 <li class="current">
   <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;7. Espacos-de-Memoria.html" title="7. Espacos-de-Memoria">7. Espacos-de-Memoria</a>
 </li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;8. API-de-Memoria.html" title="8. API-de-Memoria">8. API-de-Memoria</a>
+</li>
 </ul>
   </details>
   
@@ -697,7 +700,20 @@
 <p>Para poder compartilhar memoria de forma eficiente e permitir distintos programas rodarem simultaneamente, ou seja, precisamos gerar a virtualizacao de memoria para cada programa de forma eficiente. Este espaco abstrato de memoria eh chamado de <strong>address space</strong> (espaco de enderecos).</p>
 <p>O <strong>address space</strong> contem todo o estado de memoria do programa executado. O <em>codigo</em> do programa esta no address space, assim como uma pilha que contem as chamadas de funcao, recursoes, variaveis locais e parametros. Ha tambem o heap que eh utilizado por padrao para alocacao dinamica de memoria.</p>
 <p>Podemos colocar o codigo do programa na parte superior do espaco, pois o codigo do programa certamente nao alterara seu tamanho (com algumas excessoes). Em seguida, temos as partes que alteram de tamanho constantemente. Podemos colocar a stack no final do endereco, e a heap no comeco, assim, elas podem crescer de forma oposta em direcao, mas com a unica limitacao do total de memoria possivel.</p>
-<p>Para atingirmos isso, precisamos garantir que a virtualizacao ocorra, ou seja, que consigamos links logicos entre o endereco real e a regiao de endereco do processo.</p>
+<p>Para atingirmos isso, precisamos garantir que a virtualizacao ocorra, ou seja, que consigamos links logicos entre o endereco real e a regiao de endereco do processo. Precisamos, entao, utilizar de <strong>enderecoes virtuais de memoria</strong></p>
+<h2>7.2 Objetivos de virtualizacao de memoria</h2>
+<ol>
+<li>
+<p>Transparencia: a virtualizacao deve ser invisivel para o processo atual, ou seja, o SO faz a multiplexacao de memoria devida para que o programa entenda que esta rodando em sua totalidade com memoria privada e particular.</p>
+</li>
+<li>
+<p>Eficiencia: tanto em tempo, quanto espaco, o que nos levara as TLB’s (
+Translation lookaside buffer)</p>
+</li>
+<li>
+<p>Protecao: garantir acesso exclusivo do processo a regiao destinada a ele, impedindo qualquer outro acesso.</p>
+</li>
+</ol>
 <h2>Bibliografia</h2>
 <p>https://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf</p>
 
