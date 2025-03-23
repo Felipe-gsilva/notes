@@ -288,6 +288,7 @@ Qual
 QL
 QUARTIL
 Quartil
+QTOyiiHt
 de
 depende
 da
@@ -681,6 +682,7 @@ descheduled
 deriva
 derivado
 direito
+deterministico
 trabalho
 tomada
 tipos
@@ -968,6 +970,9 @@ tecnica
 topicos
 tecnicas
 terminais
+tupla
+transicao
+tres
 entrada
 estados
 estrutura
@@ -1362,6 +1367,7 @@ exeplicitamente
 especificam
 entao
 esquerdo
+essenciais
 aplica
 acaso
 assint
@@ -1785,6 +1791,9 @@ arenas
 alteracao
 aplicar
 apare
+automato
+apos
+avanca
 Se
 Somat
 Start
@@ -2503,6 +2512,10 @@ carregamos
 contida
 coracao
 chapters
+corrente
+cabeca
+comanda
+circulos
 xima
 ximo
 xi
@@ -3028,6 +3041,9 @@ producoes
 producao
 produ
 pertencente
+processada
+perdido
+pme
 qualquer
 que
 quina
@@ -3323,6 +3339,7 @@ observa
 org
 obrigar
 operacoes
+opP
 ncia
 nesse
 ndice
@@ -3478,6 +3495,7 @@ nada
 namespace
 nosql
 necessarios
+nFM
 for
 float
 framed
@@ -3697,6 +3715,10 @@ finalizacao
 falarmos
 finalizado
 formatos
+funcao
+finais
+fita
+flush
 se
 sendo
 ser
@@ -4107,6 +4129,10 @@ substring
 secao
 sens
 segue
+serialmente
+supracitada
+seta
+sl
 melhor
 medida
 mem
@@ -5023,6 +5049,10 @@ romano
 regras
 refs
 remotes
+reflete
+rep
+representacao
+rotulados
 hardware
 heuristic
 highlights
@@ -5375,6 +5405,7 @@ lia
 laco
 linux
 linking
+logico
 Modelo
 Move
 Melhor
@@ -5688,6 +5719,8 @@ Redis
 Running
 Ready
 Regular
+Representacao
+Representacoes
 Devemos
 Definition
 Drawing
@@ -5858,6 +5891,8 @@ Decomposi
 Definicoes
 Denotamos
 Duas
+Deterministico
+Diagrama
 vel
 vale
 valores
@@ -6314,6 +6349,9 @@ invocado
 inicializadas
 inteiramente
 injecao
+informacao
+interage
+iteracao
 Teremos
 The
 This
@@ -6650,6 +6688,7 @@ Pieces
 Process
 PID
 Peter
+PvnlgTb
 with
 which
 when
@@ -6775,6 +6814,7 @@ wrap
 web
 why
 well
+wxTjCFGD
 given
 growth
 guarantee
@@ -7204,6 +7244,8 @@ Auxilio
 Abstraindo
 Automata
 Automatos
+Alfabeto
+Automato
 Nearest
 Neighbor
 No
@@ -7453,6 +7495,8 @@ Iniciais
 Isomorfismo
 Introducao
 Introdution
+Inicial
+Iteracoes
 yield
 yaml
 yd
@@ -8097,6 +8141,7 @@ JW
 JS
 JOINS
 JavaScript
+JULCKB
 You
 YKs
 YW
@@ -8283,6 +8328,8 @@ Folk
 Fatora
 Formal
 Forma
+Finito
+FcWFXAjw
 Geraldo
 GwR
 GIbey
@@ -8723,6 +8770,8 @@ BIT
 Basicos
 Bibliografia
 BD
+BqJr
+BvudqhaD
 juntar
 jeito
 jump
