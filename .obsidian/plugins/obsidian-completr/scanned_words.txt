@@ -220,6 +220,7 @@ Compartilhamento
 Context
 Criacao
 Cobriremos
+Contexto
 Quantidade
 Quest
 Qualquer
@@ -679,6 +680,7 @@ descricoes
 descheduled
 deriva
 derivado
+direito
 trabalho
 tomada
 tipos
@@ -1359,6 +1361,7 @@ externas
 exeplicitamente
 especificam
 entao
+esquerdo
 aplica
 acaso
 assint
@@ -1781,6 +1784,7 @@ alocacao
 arenas
 alteracao
 aplicar
+apare
 Se
 Somat
 Start
@@ -1961,6 +1965,7 @@ Switcher
 Scheduling
 Scheduled
 Sentenca
+Sens
 complexidade
 como
 caso
@@ -3021,6 +3026,8 @@ paginacao
 passadas
 producoes
 producao
+produ
+pertencente
 qualquer
 que
 quina
@@ -3689,6 +3696,7 @@ fisica
 finalizacao
 falarmos
 finalizado
+formatos
 se
 sendo
 ser
@@ -4097,6 +4105,8 @@ simplificada
 sufixo
 substring
 secao
+sens
+segue
 melhor
 medida
 mem
@@ -4368,6 +4378,7 @@ metodos
 matar
 motivo
 mapear
+mbolo
 buscamos
 baseada
 base
@@ -5009,6 +5020,9 @@ respectivos
 registrados
 ready
 romano
+regras
+refs
+remotes
 hardware
 heuristic
 highlights
@@ -5673,6 +5687,7 @@ Resumo
 Redis
 Running
 Ready
+Regular
 Devemos
 Definition
 Drawing
@@ -6440,6 +6455,7 @@ Today
 TTL
 Three
 Tambem
+Transi
 Problem
 Pair
 Python
@@ -6931,6 +6947,7 @@ gramatica
 grafo
 graus
 greco
+gram
 Heuristic
 Hashing
 HDD
@@ -8265,6 +8282,7 @@ Folks
 Folk
 Fatora
 Formal
+Forma
 Geraldo
 GwR
 GIbey
@@ -8358,6 +8376,7 @@ GpG
 GBW
 Ga
 Gramatica
+Gram
 LM
 LOKO
 Lab
@@ -8480,6 +8499,8 @@ Lazy
 Loading
 Linz
 Languages
+Livre
+LFA
 Usamos
 Um
 Usando
