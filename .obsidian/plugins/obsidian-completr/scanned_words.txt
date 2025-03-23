@@ -2516,6 +2516,7 @@ corrente
 cabeca
 comanda
 circulos
+cora
 xima
 ximo
 xi
@@ -3044,6 +3045,7 @@ pertencente
 processada
 perdido
 pme
+png
 qualquer
 que
 quina
@@ -6990,6 +6992,7 @@ grafo
 graus
 greco
 gram
+geradas
 Heuristic
 Hashing
 HDD
