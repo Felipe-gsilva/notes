@@ -2078,6 +2078,7 @@ Schema
 Segmentacao
 Space
 Splitting
+Semestre
 complexidade
 como
 caso
@@ -8037,6 +8038,7 @@ Objetivo
 OR
 OPS
 Operational
+Operacionais
 Exhaustive
 Enumerate
 Exerc
@@ -9159,6 +9161,7 @@ BqJr
 BvudqhaD
 Banco
 Bit
+Biblioteca
 juntar
 jeito
 jump
