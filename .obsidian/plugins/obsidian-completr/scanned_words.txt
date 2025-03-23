@@ -228,6 +228,7 @@ CAD
 CAM
 Computer
 Conceitual
+Conteudo
 Quantidade
 Quest
 Qualquer
@@ -713,6 +714,7 @@ dificeis
 dara
 deveriam
 deixadas
+desacelera
 trabalho
 tomada
 tipos
@@ -1011,6 +1013,7 @@ toodos
 traco
 traducoes
 traducao
+translation
 entrada
 estados
 estrutura
@@ -1432,6 +1435,8 @@ especificacao
 exclusivamente
 editada
 espacoes
+enderecos
+especiais
 aplica
 acaso
 assint
@@ -1887,6 +1892,7 @@ alocada
 ajuda
 assumimos
 alocamos
+associativas
 Se
 Somat
 Start
@@ -2079,6 +2085,7 @@ Segmentacao
 Space
 Splitting
 Semestre
+Switchs
 complexidade
 como
 caso
@@ -2669,6 +2676,10 @@ comeco
 coalescing
 chunk
 criemos
+continuo
+caching
+citada
+conflitos
 xima
 ximo
 xi
@@ -3225,6 +3236,7 @@ paginas
 precise
 protecao
 populares
+politica
 qualquer
 que
 quina
@@ -4361,6 +4373,7 @@ secundaria
 separacao
 sentido
 sbrk
+separar
 melhor
 medida
 mem
@@ -5336,6 +5349,7 @@ relacoes
 responsavel
 regiao
 repartir
+ref
 hardware
 heuristic
 highlights
@@ -5697,6 +5711,8 @@ logico
 languagens
 logs
 listados
+lookaside
+limpar
 Modelo
 Move
 Melhor
@@ -5853,6 +5869,8 @@ Metas
 Modelagem
 Modeling
 Manufacturing
+MMU
+MFU
 RAM
 Reindexa
 Repeat
@@ -6023,6 +6041,7 @@ Relacionamento
 Relacoes
 RG
 Reference
+Replacement
 Devemos
 Definition
 Drawing
@@ -6831,6 +6850,9 @@ Transi
 Tanto
 Traducao
 Table
+TLBs
+TLB
+Tlb
 Problem
 Pair
 Python
@@ -7033,6 +7055,7 @@ Paginacao
 PFN
 PTE
 Present
+Policy
 with
 which
 when
@@ -7602,6 +7625,8 @@ Automato
 Atividades
 Agil
 Aid
+Address
+ASID
 Nearest
 Neighbor
 No
@@ -7859,6 +7884,7 @@ Iteracoes
 Instrutor
 Instancia
 Independencia
+Identifier
 yield
 yaml
 yd
@@ -8233,6 +8259,7 @@ EAD
 Estas
 Entry
 Endereco
+Existe
 Key
 KKKKK
 Keysorting
@@ -8931,6 +8958,7 @@ LFA
 Language
 Logico
 Logica
+LFU
 Usamos
 Um
 Usando
