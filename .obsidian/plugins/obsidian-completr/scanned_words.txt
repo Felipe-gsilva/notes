@@ -5557,6 +5557,7 @@ Medidas
 MEI
 Mecanismos
 Maquina
+Mtz
 RAM
 Reindexa
 Repeat
@@ -5893,6 +5894,7 @@ Denotamos
 Duas
 Deterministico
 Diagrama
+Dz
 vel
 vale
 valores
@@ -7575,6 +7577,7 @@ yml
 ygk
 yg
 yH
+yoiJwDzq
 Optimal
 Ordena
 Ordem
@@ -8330,6 +8333,7 @@ Formal
 Forma
 Finito
 FcWFXAjw
+FEMz
 Geraldo
 GwR
 GIbey
