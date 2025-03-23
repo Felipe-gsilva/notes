@@ -220,6 +220,7 @@ Compartilhamento
 Context
 Criacao
 Cobriremos
+Contexto
 Quantidade
 Quest
 Qualquer
@@ -287,6 +288,7 @@ Qual
 QL
 QUARTIL
 Quartil
+QTOyiiHt
 de
 depende
 da
@@ -679,6 +681,8 @@ descricoes
 descheduled
 deriva
 derivado
+direito
+deterministico
 trabalho
 tomada
 tipos
@@ -966,6 +970,9 @@ tecnica
 topicos
 tecnicas
 terminais
+tupla
+transicao
+tres
 entrada
 estados
 estrutura
@@ -1359,6 +1366,8 @@ externas
 exeplicitamente
 especificam
 entao
+esquerdo
+essenciais
 aplica
 acaso
 assint
@@ -1781,6 +1790,10 @@ alocacao
 arenas
 alteracao
 aplicar
+apare
+automato
+apos
+avanca
 Se
 Somat
 Start
@@ -1961,6 +1974,7 @@ Switcher
 Scheduling
 Scheduled
 Sentenca
+Sens
 complexidade
 como
 caso
@@ -2498,6 +2512,11 @@ carregamos
 contida
 coracao
 chapters
+corrente
+cabeca
+comanda
+circulos
+cora
 xima
 ximo
 xi
@@ -3021,6 +3040,12 @@ paginacao
 passadas
 producoes
 producao
+produ
+pertencente
+processada
+perdido
+pme
+png
 qualquer
 que
 quina
@@ -3316,6 +3341,7 @@ observa
 org
 obrigar
 operacoes
+opP
 ncia
 nesse
 ndice
@@ -3471,6 +3497,7 @@ nada
 namespace
 nosql
 necessarios
+nFM
 for
 float
 framed
@@ -3689,6 +3716,11 @@ fisica
 finalizacao
 falarmos
 finalizado
+formatos
+funcao
+finais
+fita
+flush
 se
 sendo
 ser
@@ -4097,6 +4129,12 @@ simplificada
 sufixo
 substring
 secao
+sens
+segue
+serialmente
+supracitada
+seta
+sl
 melhor
 medida
 mem
@@ -4368,6 +4406,7 @@ metodos
 matar
 motivo
 mapear
+mbolo
 buscamos
 baseada
 base
@@ -5009,6 +5048,13 @@ respectivos
 registrados
 ready
 romano
+regras
+refs
+remotes
+reflete
+rep
+representacao
+rotulados
 hardware
 heuristic
 highlights
@@ -5361,6 +5407,7 @@ lia
 laco
 linux
 linking
+logico
 Modelo
 Move
 Melhor
@@ -5512,6 +5559,7 @@ Medidas
 MEI
 Mecanismos
 Maquina
+Mtz
 RAM
 Reindexa
 Repeat
@@ -5673,6 +5721,9 @@ Resumo
 Redis
 Running
 Ready
+Regular
+Representacao
+Representacoes
 Devemos
 Definition
 Drawing
@@ -5843,6 +5894,9 @@ Decomposi
 Definicoes
 Denotamos
 Duas
+Deterministico
+Diagrama
+Dz
 vel
 vale
 valores
@@ -6299,6 +6353,9 @@ invocado
 inicializadas
 inteiramente
 injecao
+informacao
+interage
+iteracao
 Teremos
 The
 This
@@ -6440,6 +6497,7 @@ Today
 TTL
 Three
 Tambem
+Transi
 Problem
 Pair
 Python
@@ -6634,6 +6692,7 @@ Pieces
 Process
 PID
 Peter
+PvnlgTb
 with
 which
 when
@@ -6759,6 +6818,7 @@ wrap
 web
 why
 well
+wxTjCFGD
 given
 growth
 guarantee
@@ -6931,6 +6991,8 @@ gramatica
 grafo
 graus
 greco
+gram
+geradas
 Heuristic
 Hashing
 HDD
@@ -7187,6 +7249,8 @@ Auxilio
 Abstraindo
 Automata
 Automatos
+Alfabeto
+Automato
 Nearest
 Neighbor
 No
@@ -7436,6 +7500,8 @@ Iniciais
 Isomorfismo
 Introducao
 Introdution
+Inicial
+Iteracoes
 yield
 yaml
 yd
@@ -7514,6 +7580,7 @@ yml
 ygk
 yg
 yH
+yoiJwDzq
 Optimal
 Ordena
 Ordem
@@ -8080,6 +8147,7 @@ JW
 JS
 JOINS
 JavaScript
+JULCKB
 You
 YKs
 YW
@@ -8265,6 +8333,10 @@ Folks
 Folk
 Fatora
 Formal
+Forma
+Finito
+FcWFXAjw
+FEMz
 Geraldo
 GwR
 GIbey
@@ -8358,6 +8430,7 @@ GpG
 GBW
 Ga
 Gramatica
+Gram
 LM
 LOKO
 Lab
@@ -8480,6 +8553,8 @@ Lazy
 Loading
 Linz
 Languages
+Livre
+LFA
 Usamos
 Um
 Usando
@@ -8702,6 +8777,8 @@ BIT
 Basicos
 Bibliografia
 BD
+BqJr
+BvudqhaD
 juntar
 jeito
 jump
