@@ -715,6 +715,7 @@ dara
 deveriam
 deixadas
 desacelera
+diferencas
 trabalho
 tomada
 tipos
@@ -1014,6 +1015,7 @@ traco
 traducoes
 traducao
 translation
+transicoes
 entrada
 estados
 estrutura
@@ -1893,6 +1895,7 @@ ajuda
 assumimos
 alocamos
 associativas
+apontado
 Se
 Somat
 Start
@@ -4982,6 +4985,7 @@ usuario
 unicos
 univalorado
 usemos
+underline
 representa
 rica
 requisitos
@@ -7627,6 +7631,7 @@ Agil
 Aid
 Address
 ASID
+AFN
 Nearest
 Neighbor
 No
