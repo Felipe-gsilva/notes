@@ -71,7 +71,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06615f947031e6f3",
+  "active": "efce77ee424dd2e1",
   "lastOpenFiles": [
     "Cs/5° Semestre/Linguagens Formais e Automatos/4. Automatos-finitos-deterministicos.md",
     "Cs/5° Semestre/Linguagens Formais e Automatos/5. Automato-finito-nao-deterministico.md",
