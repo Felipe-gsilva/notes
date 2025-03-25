@@ -1896,6 +1896,7 @@ assumimos
 alocamos
 associativas
 apontado
+aceitar
 Se
 Somat
 Start
@@ -3240,6 +3241,7 @@ precise
 protecao
 populares
 politica
+pontua
 qualquer
 que
 quina
@@ -7632,6 +7634,7 @@ Aid
 Address
 ASID
 AFN
+AF
 Nearest
 Neighbor
 No
