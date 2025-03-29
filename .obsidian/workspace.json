@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cs/5° Semestre/Sistemas Operacionais/11.1 Traducoes-rapidas(TLBs).md",
+                "file": "Cs/5° Semestre/Banco de Dados/3. Modelo-entidade-relacionamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.1 Traducoes-rapidas(TLBs)"
+              "title": "3. Modelo-entidade-relacionamento"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -71,7 +71,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -176,17 +176,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-kanban:Criar um novo quadro": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false
@@ -194,10 +195,16 @@
   },
   "active": "06615f947031e6f3",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Cs/5° Semestre/Sistemas Operacionais/11.1 Traducoes-rapidas(TLBs).md~",
+=======
+    "Cs/5° Semestre/Linguagens Formais e Automatos/Drawing 2025-03-25 16.16.02.excalidraw.md",
+    "Cs/5° Semestre/Linguagens Formais e Automatos/5. Automato-finito-nao-deterministico.md",
+    "Cs/5° Semestre/Linguagens Formais e Automatos/4. Automatos-finitos-deterministicos.md",
+    "Cs/5° Semestre/Sistemas Operacionais/11.1 Traducoes-rapidas(TLBs).md",
+>>>>>>> refs/remotes/origin/main
     "conflict-files-obsidian-git.md",
     "Cs/5° Semestre/Sistemas Operacionais/:11.2 Tabelas-menores.md",
-    "Cs/5° Semestre/Sistemas Operacionais/11.1 Traducoes-rapidas(TLBs).md",
     "Cs/5° Semestre/Teoria dos Grafos/praticos/dijkstra.c",
     "Cs/5° Semestre/Teoria dos Grafos/praticos",
     "Cs/5° Semestre/Sistemas Operacionais/11. Paginacao.md",
@@ -210,7 +217,6 @@
     "Cs/5° Semestre/Engenharia de Software/3. Gerencia-de-Projeto.md",
     "Cs/5° Semestre/Linguagens Formais e Automatos/1.Introducao.md",
     "Cs/5° Semestre/Linguagens Formais e Automatos/0. Header.md",
-    "Cs/5° Semestre/Linguagens Formais e Automatos/4. Automatos-finitos.md",
     "Cs/5° Semestre/Linguagens Formais e Automatos/3. Tipos de Gramaticas.md",
     "Cs/5° Semestre/Linguagens Formais e Automatos/2. Gramatica.md",
     "Cs/dist/automato-finito-rep.excalidraw.md",
@@ -226,7 +232,10 @@
     "OS-in-c.md",
     "ToDo kanban.md~",
     "bcc/5° Semestre/Linguagens Formais e Automatos/1.Introducao.md~",
+<<<<<<< HEAD
     "bcc/5° Semestre/Sistemas Operacionais/1. Processos.md",
+=======
+>>>>>>> refs/remotes/origin/main
     "bcc/5° Semestre/Sistemas Operacionais/aula-1.md~",
     "bcc/5° Semestre/Linguagens Formais e Automatos/header.md~"
   ]

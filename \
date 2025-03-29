@@ -105,5 +105,7 @@ else {// TLB Miss
 
 Outro approach pode ser a tabela de paginas invertida
 
+>>>>>>> refs/remotes/origin/main
+
 ## Bibliografia
 https://pages.cs.wisc.edu/~remzi/OSTEP/vm-smalltables.pdf

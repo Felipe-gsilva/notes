@@ -715,6 +715,9 @@ dara
 deveriam
 deixadas
 desacelera
+diferencas
+disciplina
+disciplinas
 trabalho
 tomada
 tipos
@@ -1014,6 +1017,8 @@ traco
 traducoes
 traducao
 translation
+transicoes
+terceario
 entrada
 estados
 estrutura
@@ -1437,6 +1442,10 @@ editada
 espacoes
 enderecos
 especiais
+envolvidos
+envolvidas
+euquanto
+exercicio
 aplica
 acaso
 assint
@@ -1893,6 +1902,11 @@ ajuda
 assumimos
 alocamos
 associativas
+apontado
+aceitar
+associacoes
+associa
+alunos
 Se
 Somat
 Start
@@ -2086,6 +2100,7 @@ Space
 Splitting
 Semestre
 Switchs
+Segue
 complexidade
 como
 caso
@@ -2680,6 +2695,9 @@ continuo
 caching
 citada
 conflitos
+cardinalidade
+construa
+conceitual
 xima
 ximo
 xi
@@ -3237,6 +3255,8 @@ precise
 protecao
 populares
 politica
+pontua
+possibilidades
 qualquer
 que
 quina
@@ -3705,6 +3725,7 @@ necessidades
 nenhum
 nasc
 necessaria
+notas
 for
 float
 framed
@@ -4374,6 +4395,8 @@ separacao
 sentido
 sbrk
 separar
+secretaria
+sala
 melhor
 medida
 mem
@@ -4667,6 +4690,8 @@ marcada
 merging
 magic
 mmap
+mantem
+matriculados
 buscamos
 baseada
 base
@@ -4846,6 +4871,7 @@ basicos
 budget
 bancarios
 basico
+binario
 uma
 um
 unvisited
@@ -4982,6 +5008,8 @@ usuario
 unicos
 univalorado
 usemos
+underline
+universidade
 representa
 rica
 requisitos
@@ -5350,6 +5378,7 @@ responsavel
 regiao
 repartir
 ref
+respectivas
 hardware
 heuristic
 highlights
@@ -5471,6 +5500,7 @@ historia
 hashmaps
 habilidade
 hierarquico
+humana
 linguagem
 lculo
 leva
@@ -6042,6 +6072,7 @@ Relacoes
 RG
 Reference
 Replacement
+Restricoes
 Devemos
 Definition
 Drawing
@@ -6225,6 +6256,8 @@ Departamento
 Desejamos
 Desging
 Dirty
+Dominio
+Definido
 vel
 vale
 valores
@@ -6391,6 +6424,7 @@ valorada
 visao
 validacao
 verificacao
+verbos
 idealizaremos
 instru
 inteiros
@@ -6705,6 +6739,7 @@ instance
 instante
 independencia
 invalidacao
+idade
 Teremos
 The
 This
@@ -7056,6 +7091,7 @@ PFN
 PTE
 Present
 Policy
+Permitem
 with
 which
 when
@@ -7627,6 +7663,11 @@ Agil
 Aid
 Address
 ASID
+AFN
+AF
+Auto
+Atributos
+Armazena
 Nearest
 Neighbor
 No
@@ -8831,6 +8872,7 @@ Gram
 Gestao
 Gantt
 Grau
+Graus
 LM
 LOKO
 Lab
