@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "dd09fddd69437852",
+    "id": "970a38b4d1eb7a5d",
     "type": "split",
     "children": [
       {
-        "id": "347541497548ab77",
+        "id": "38dd01937b79d11c",
         "type": "tabs",
         "children": [
           {
-            "id": "06615f947031e6f3",
+            "id": "e7bcd674ba043967",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cs/5° Semestre/Banco de Dados/3. Modelo-entidade-relacionamento.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3. Modelo-entidade-relacionamento"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ee470b92c9ad0637",
+    "id": "da5cffd7fd9a8971",
     "type": "split",
     "children": [
       {
-        "id": "bb376486639c07b4",
+        "id": "4aa4594b10f4d7a3",
         "type": "tabs",
         "children": [
           {
-            "id": "efce77ee424dd2e1",
+            "id": "5501f20da499d518",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "425bfdc6c222a677",
+            "id": "835224e83ad01f14",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,11 +57,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
-            "id": "6b883e03e0509502",
+            "id": "28cc5e5b901b75f5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "08ac42aacfa8da76",
+    "id": "5cd6ba123eaad068",
     "type": "split",
     "children": [
       {
-        "id": "1f61d5056705cc2b",
+        "id": "1faaaf02fe2474d7",
         "type": "tabs",
         "children": [
           {
-            "id": "3cfe84eef82d9f08",
+            "id": "7cd2ab879a725216",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bcc/5° Semestre/Teoria dos Grafos/aula-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for aula-1"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "f123bfc5d3b3f2cb",
+            "id": "0204e41a970d72d2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bcc/5° Semestre/Teoria dos Grafos/programa do curso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para programa do curso"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "e89fe5f11b3cb9b3",
+            "id": "311b9ad5a59a7a2d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +131,21 @@
             }
           },
           {
-            "id": "ea8051082cde7cc5",
+            "id": "283c5762b624ca6e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "bcc/5° Semestre/Teoria dos Grafos/programa do curso.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de programa do curso"
+              "title": "Outline"
             }
           },
           {
-            "id": "aa1d0183d9b86d16",
+            "id": "ed4beb9e1d432b9f",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -160,19 +153,8 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "3296cbacf36a8656",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,56 +169,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "06615f947031e6f3",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Cs/5° Semestre/Sistemas Operacionais/11.1 Traducoes-rapidas(TLBs).md~",
-=======
-    "Cs/5° Semestre/Linguagens Formais e Automatos/Drawing 2025-03-25 16.16.02.excalidraw.md",
-    "Cs/5° Semestre/Linguagens Formais e Automatos/5. Automato-finito-nao-deterministico.md",
-    "Cs/5° Semestre/Linguagens Formais e Automatos/4. Automatos-finitos-deterministicos.md",
-    "Cs/5° Semestre/Sistemas Operacionais/11.1 Traducoes-rapidas(TLBs).md",
->>>>>>> refs/remotes/origin/main
-    "conflict-files-obsidian-git.md",
-    "Cs/5° Semestre/Sistemas Operacionais/:11.2 Tabelas-menores.md",
-    "Cs/5° Semestre/Teoria dos Grafos/praticos/dijkstra.c",
-    "Cs/5° Semestre/Teoria dos Grafos/praticos",
-    "Cs/5° Semestre/Sistemas Operacionais/11. Paginacao.md",
-    "Cs/5° Semestre/Sistemas Operacionais/11.2 Tabelas-menores.md",
-    "Cs/5° Semestre/Sistemas Operacionais/10. Gerenciamento-de-Espaco-Livre.md",
-    "Cs/5° Semestre/Banco de Dados/1. Introducao.md",
-    "Cs/5° Semestre/Banco de Dados/3. Modelo-entidade-relacionamento.md",
-    "Cs/5° Semestre/Engenharia de Software/0. Header.md",
-    "Cs/5° Semestre/Engenharia de Software/2. Abordagem-Dirigida-a-Planos.md",
-    "Cs/5° Semestre/Engenharia de Software/3. Gerencia-de-Projeto.md",
-    "Cs/5° Semestre/Linguagens Formais e Automatos/1.Introducao.md",
-    "Cs/5° Semestre/Linguagens Formais e Automatos/0. Header.md",
-    "Cs/5° Semestre/Linguagens Formais e Automatos/3. Tipos de Gramaticas.md",
-    "Cs/5° Semestre/Linguagens Formais e Automatos/2. Gramatica.md",
-    "Cs/dist/automato-finito-rep.excalidraw.md",
-    "Cs/dist/automato-finito-rep.png",
-    "Cs/dist/1742736535_grim.png",
-    "Cs/5° Semestre/Linguagens Formais e Automatos/4. Automatos-finitos.md~",
-    "ToDo kanban.md",
-    "bcc/5° Semestre/Linguagens Formais e Automatos/2. Gramatica.md",
-    "bcc/5° Semestre/Linguagens Formais e Automatos/3. Tipos de Gramaticas.md",
-    "bcc/5° Semestre/Linguagens Formais e Automatos/1.Introducao.md",
-    "bcc/5° Semestre/Teoria dos Grafos/1. Conceitos-Basicos.md",
-    "README.md",
-    "OS-in-c.md",
-    "ToDo kanban.md~",
-    "bcc/5° Semestre/Linguagens Formais e Automatos/1.Introducao.md~",
-<<<<<<< HEAD
-    "bcc/5° Semestre/Sistemas Operacionais/1. Processos.md",
-=======
->>>>>>> refs/remotes/origin/main
-    "bcc/5° Semestre/Sistemas Operacionais/aula-1.md~",
-    "bcc/5° Semestre/Linguagens Formais e Automatos/header.md~"
-  ]
+  "active": "e7bcd674ba043967",
+  "lastOpenFiles": []
 }
