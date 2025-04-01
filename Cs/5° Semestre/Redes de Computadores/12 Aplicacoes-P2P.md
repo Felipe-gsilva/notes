@@ -62,4 +62,4 @@ Tempo mínimo = NF / (us + u1 + u2 + u3 + ... + uN) -> $\micro_s + \sum\limits_{
 
 Assim o tempo mínimo real de distribuição P2P é:
 
-$$D_{p2p} = max \left\{ \frac{F}{\micro_s}, \frac{F}{d_{min}}, \frac{NF}{\micro_s + \sum\limits_{i=1}^{N}\micro_{i}}  \right\}$$
+$$D_{p2p} = max \lbrace \frac{F}{\micro_s}, \frac{F}{d_{min}}, \frac{NF}{\micro_s + \sum\limits_{i=1}^{N}\micro_{i}}  \rbrace$$
