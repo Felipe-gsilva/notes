@@ -11,10 +11,14 @@
             "id": "e7bcd674ba043967",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cs/5° Semestre/Banco de Dados/3.1. Modelo-Endidade-Relacionamento-Estendido.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3.1. Modelo-Endidade-Relacionamento-Estendido"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5cd6ba123eaad068",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cs/5° Semestre/Banco de Dados/3.1. Modelo-Endidade-Relacionamento-Estendido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 3.1. Modelo-Endidade-Relacionamento-Estendido"
             }
           },
           {
@@ -108,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cs/5° Semestre/Banco de Dados/3.1. Modelo-Endidade-Relacionamento-Estendido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 3.1. Modelo-Endidade-Relacionamento-Estendido"
             }
           },
           {
@@ -136,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Cs/5° Semestre/Banco de Dados/3.1. Modelo-Endidade-Relacionamento-Estendido.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 3.1. Modelo-Endidade-Relacionamento-Estendido"
             }
           },
           {
@@ -176,5 +184,16 @@
     }
   },
   "active": "e7bcd674ba043967",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Cs/dist/1743536045_grim.png",
+    "Cs/dist/1743535162_grim.png",
+    "Cs/5° Semestre/Banco de Dados/3.1. Modelo-Endidade-Relacionamento-Estendido.md~",
+    "Cs/dist/1743534706_grim.png",
+    "Cs/dist/1743534478_grim.png",
+    "Cs/dist/1743534266_grim.png",
+    "Cs/dist/1743534007_grim.png",
+    "Cs/dist/1743533794_grim.png",
+    "Cs/dist/1743531342_grim.png",
+    "Cs/dist/1743530708_grim.png"
+  ]
 }

@@ -229,6 +229,7 @@ CAM
 Computer
 Conceitual
 Conteudo
+Comecou
 Quantidade
 Quest
 Qualquer
@@ -1907,6 +1908,8 @@ aceitar
 associacoes
 associa
 alunos
+anos
+atraves
 Se
 Somat
 Start
@@ -2101,6 +2104,7 @@ Splitting
 Semestre
 Switchs
 Segue
+Scheins
 complexidade
 como
 caso
@@ -2698,6 +2702,7 @@ conflitos
 cardinalidade
 construa
 conceitual
+contribuicoes
 xima
 ximo
 xi
@@ -7668,6 +7673,8 @@ AF
 Auto
 Atributos
 Armazena
+Agregacao
+Abstracao
 Nearest
 Neighbor
 No
@@ -8301,6 +8308,7 @@ Estas
 Entry
 Endereco
 Existe
+Estendido
 Key
 KKKKK
 Keysorting
