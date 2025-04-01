@@ -33,7 +33,7 @@ Sistema distribuido, sem controle centralizado ou organizacao hierarquica.
     - Par com menor taxa não pode obter todos os F bits do arquivo em menos tempo do
 que F/dmin.
 
-$$D_{cs} = max \biglbrace \frac{NF}{\mi_s} \, \frac{F}{d_{min}} \bigrbrace$$
+$$D_{cs} = max \lbrace \frac{NF}{\micro_{s}} \, \frac{F}{d_{min}} \rbrace$$
 
 
 
