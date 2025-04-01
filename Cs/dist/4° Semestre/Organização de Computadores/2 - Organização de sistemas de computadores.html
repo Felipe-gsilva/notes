@@ -1,0 +1,887 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>2 - Organização de sistemas de computadores | Computer Science Notes</title>
+  <link rel="stylesheet" type="text/css" href="/_static/style.css">
+  <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    href="https://cdnjs.cloudflare.com/ajax/libs/prism-themes/1.9.0/prism-a11y-dark.min.css">
+  <noscript>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism-themes/1.9.0/prism-coldark-dark.min.css">
+  </noscript>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-core.min.js"></script>
+  <script defer
+    src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/plugins/autoloader/prism-autoloader.min.js"></script>
+  
+</head>
+
+<body>
+  
+
+<aside class="sidebar" id="menu" data-pagefind-ignore="all">
+  <div class="sidebar-wrapper">
+    <div class="site-name">
+      <h1>Computer Science Notes</h1>
+    </div>
+    <nav>
+      <ul>
+        <li>
+  <details open>
+    <summary>3° Semestre</summary>
+    <ul>
+      <li>
+  <details open>
+    <summary>AC</summary>
+    <ul>
+      <li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;AC.html" title="AC">AC</a>
+</li>
+<li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;Aritmética Computacional.html" title="Aritmética Computacional">Aritmética Computacional</a>
+</li>
+<li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;CPU.html" title="CPU">CPU</a>
+</li>
+<li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;Ciclo de instrução – O retorno.html" title="Ciclo de instrução – O retorno">Ciclo de instrução – O retorno</a>
+</li>
+<li>
+  <details open>
+    <summary>Conceitos</summary>
+    <ul>
+      <li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;Conceitos&#x2f;Barramentos.html" title="Barramentos">Barramentos</a>
+</li>
+<li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;Conceitos&#x2f;Conceitos.html" title="Conceitos">Conceitos</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;Conjunto de Instruções.html" title="Conjunto de Instruções">Conjunto de Instruções</a>
+</li>
+<li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;Entrada e Saída.html" title="Entrada e Saída">Entrada e Saída</a>
+</li>
+<li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;GPU.html" title="GPU">GPU</a>
+</li>
+<li>
+  <details open>
+    <summary>Memórias</summary>
+    <ul>
+      <li>
+  <details open>
+    <summary>Cache</summary>
+    <ul>
+      <li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;Memórias&#x2f;Cache&#x2f;Cache.html" title="Cache">Cache</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>Memoria Interna</summary>
+    <ul>
+      <li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;Memórias&#x2f;Memoria Interna&#x2f;Memoria Interna.html" title="Memoria Interna">Memoria Interna</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;Memórias&#x2f;Memórias.html" title="Memórias">Memórias</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;Paralelismo em nível de dados.html" title="Paralelismo em nível de dados">Paralelismo em nível de dados</a>
+</li>
+<li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;Paralelismo em nível de instrução.html" title="Paralelismo em nível de instrução">Paralelismo em nível de instrução</a>
+</li>
+<li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;Paralelismo em nível de thread (n vou terminar esse).html" title="Paralelismo em nível de thread (n vou terminar esse)">Paralelismo em nível de thread (n vou terminar esse)</a>
+</li>
+<li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;RISC X CISC.html" title="RISC X CISC">RISC X CISC</a>
+</li>
+<li>
+  <a href="/3° Semestre&#x2f;AC&#x2f;SO.html" title="SO">SO</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>AL</summary>
+    <ul>
+      <li>
+  <a href="/3° Semestre&#x2f;AL&#x2f;AL.html" title="AL">AL</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>Trabalho AC</summary>
+    <ul>
+      <li>
+  <details open>
+    <summary>Pesquisa Renão</summary>
+    <ul>
+      <li>
+  <a href="/3° Semestre&#x2f;Trabalho AC&#x2f;Pesquisa Renão&#x2f;Pesquisa Renão.html" title="Pesquisa Renão">Pesquisa Renão</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>Pesquisa do BERNARDO PAI</summary>
+    <ul>
+      <li>
+  <a href="/3° Semestre&#x2f;Trabalho AC&#x2f;Pesquisa do BERNARDO PAI&#x2f;Pesquisa do BERNARDO PAI.html" title="Pesquisa do BERNARDO PAI">Pesquisa do BERNARDO PAI</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>Pesquisa do Chupas</summary>
+    <ul>
+      <li>
+  <a href="/3° Semestre&#x2f;Trabalho AC&#x2f;Pesquisa do Chupas&#x2f;Pesquisa do Chupas.html" title="Pesquisa do Chupas">Pesquisa do Chupas</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>Pesquisas do Gutias</summary>
+    <ul>
+      <li>
+  <a href="/3° Semestre&#x2f;Trabalho AC&#x2f;Pesquisas do Gutias&#x2f;Pesquisas do Gutias.html" title="Pesquisas do Gutias">Pesquisas do Gutias</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <a href="/3° Semestre&#x2f;Trabalho AC&#x2f;Trabalho AC.html" title="Trabalho AC">Trabalho AC</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>4° Semestre</summary>
+    <ul>
+      <li>
+  <a href="/4° Semestre&#x2f;4° Semestre.html" title="4° Semestre">4° Semestre</a>
+</li>
+<li>
+  <details open>
+    <summary>Cálculo numérico</summary>
+    <ul>
+      <li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;1 - Representação numérica e análise de erros.html" title="1 - Representação numérica e análise de erros">1 - Representação numérica e análise de erros</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;10 - Sequência (ou cadeia) de Sturm + newton para polinomios.html" title="10 - Sequência (ou cadeia) de Sturm + newton para polinomios">10 - Sequência (ou cadeia) de Sturm + newton para polinomios</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;11 - Sistemas Lineares.html" title="11 - Sistemas Lineares">11 - Sistemas Lineares</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;12 - Pivoteamento Parcial.html" title="12 - Pivoteamento Parcial">12 - Pivoteamento Parcial</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;13 - Fatoração LU com pivoteamento parcial.html" title="13 - Fatoração LU com pivoteamento parcial">13 - Fatoração LU com pivoteamento parcial</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;14 - Métodos Iterativos de solução de sistemas.html" title="14 - Métodos Iterativos de solução de sistemas">14 - Métodos Iterativos de solução de sistemas</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;15 - Gauss Seidel.html" title="15 - Gauss Seidel">15 - Gauss Seidel</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;16 - Forma matricial do método de Gauss-Seidel.html" title="16 - Forma matricial do método de Gauss-Seidel">16 - Forma matricial do método de Gauss-Seidel</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;17 - Ajuste de Curvas com mínimos quadrados.html" title="17 - Ajuste de Curvas com mínimos quadrados">17 - Ajuste de Curvas com mínimos quadrados</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;18 - Ajuste de curvas não linear.html" title="18 - Ajuste de curvas não linear">18 - Ajuste de curvas não linear</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;19 - Regressão Linear.html" title="19 - Regressão Linear">19 - Regressão Linear</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;2 - Algoritmo (Dec - Bin) (fracionários).html" title="2 - Algoritmo (Dec - Bin) (fracionários)">2 - Algoritmo (Dec - Bin) (fracionários)</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;21 - Forma de lagrange e Método das diferenças.html" title="21 - Forma de lagrange e Método das diferenças">21 - Forma de lagrange e Método das diferenças</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;3 - Erros de arredondamento e truncamento.html" title="3 - Erros de arredondamento e truncamento">3 - Erros de arredondamento e truncamento</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;5 - Solução de equações não lineares por métodos numéricos.html" title="5 - Solução de equações não lineares por métodos numéricos">5 - Solução de equações não lineares por métodos numéricos</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;6 - Refinamento dos Resultados.html" title="6 - Refinamento dos Resultados">6 - Refinamento dos Resultados</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;7 - Método do Ponto Fixo (MPF).html" title="7 - Método do Ponto Fixo (MPF)">7 - Método do Ponto Fixo (MPF)</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;8 - Método de Newton-Raphson.html" title="8 - Método de Newton-Raphson">8 - Método de Newton-Raphson</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;9 - Equações Polinomiais.html" title="9 - Equações Polinomiais">9 - Equações Polinomiais</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;Cálculo Numérico.html" title="Cálculo Numérico">Cálculo Numérico</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Cálculo numérico&#x2f;Exercícios CN.html" title="Exercícios CN">Exercícios CN</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>ED 2</summary>
+    <ul>
+      <li>
+  <a href="/4° Semestre&#x2f;ED 2&#x2f;1-2 - Armazenamento secundário.html" title="1-2 - Armazenamento secundário">1-2 - Armazenamento secundário</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;ED 2&#x2f;10 - B+ Tree.html" title="10 - B+ Tree">10 - B+ Tree</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;ED 2&#x2f;11 - Árvore 2-4.html" title="11 - Árvore 2-4">11 - Árvore 2-4</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;ED 2&#x2f;12 - Árvore R.html" title="12 - Árvore R">12 - Árvore R</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;ED 2&#x2f;3 - Organização de arquivos.html" title="3 - Organização de arquivos">3 - Organização de arquivos</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;ED 2&#x2f;4 - Index.html" title="4 - Index">4 - Index</a>
+</li>
+<li>
+  <details open>
+    <summary>4fun</summary>
+    <ul>
+      <li>
+  <a href="/4° Semestre&#x2f;ED 2&#x2f;4fun&#x2f;4fun.html" title="4fun">4fun</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;ED 2&#x2f;4fun&#x2f;huffman.html" title="huffman">huffman</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;ED 2&#x2f;4fun&#x2f;resumo 4 - 6.html" title="resumo 4 - 6">resumo 4 - 6</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;ED 2&#x2f;5 - Hashing.html" title="5 - Hashing">5 - Hashing</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;ED 2&#x2f;6 - Árvore Trie.html" title="6 - Árvore Trie">6 - Árvore Trie</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;ED 2&#x2f;7 - Hashing extensível.html" title="7 - Hashing extensível">7 - Hashing extensível</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;ED 2&#x2f;8 - B-TREE.html" title="8 - B-TREE">8 - B-TREE</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;ED 2&#x2f;9 - B* and Virtual Trees.html" title="9 - B* and Virtual Trees">9 - B* and Virtual Trees</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;ED 2&#x2f;ED 2.html" title="ED 2">ED 2</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;ED 2&#x2f;Exercícios.html" title="Exercícios">Exercícios</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>Lab. de Montagem</summary>
+    <ul>
+      <li>
+  <a href="/4° Semestre&#x2f;Lab. de Montagem&#x2f;1 - Conceitos.html" title="1 - Conceitos">1 - Conceitos</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Lab. de Montagem&#x2f;2 - Arquitetura e Funcionamento de Microcontroladores.html" title="2 - Arquitetura e Funcionamento de Microcontroladores">2 - Arquitetura e Funcionamento de Microcontroladores</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Lab. de Montagem&#x2f;3 - Instruction Set Architecture.html" title="3 - Instruction Set Architecture">3 - Instruction Set Architecture</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Lab. de Montagem&#x2f;4 - Simulação de Linguagem Assembly x86 para 8086.html" title="4 - Simulação de Linguagem Assembly x86 para 8086">4 - Simulação de Linguagem Assembly x86 para 8086</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Lab. de Montagem&#x2f;5 - Manipulação dos Diferentes Tipos de Registradores.html" title="5 - Manipulação dos Diferentes Tipos de Registradores">5 - Manipulação dos Diferentes Tipos de Registradores</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Lab. de Montagem&#x2f;7 - Pseudo Instruções e Diretivas de Montagem.html" title="7 - Pseudo Instruções e Diretivas de Montagem">7 - Pseudo Instruções e Diretivas de Montagem</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Lab. de Montagem&#x2f;9 - Analise e Verificação de Circuitos em FPGA.html" title="9 - Analise e Verificação de Circuitos em FPGA">9 - Analise e Verificação de Circuitos em FPGA</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Lab. de Montagem&#x2f;Lab. de Montagem.html" title="Lab. de Montagem">Lab. de Montagem</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Lab. de Montagem&#x2f;default notes.html" title="default notes">default notes</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>Organização de Computadores</summary>
+    <ul>
+      <li>
+  <a href="/4° Semestre&#x2f;Organização de Computadores&#x2f;1 - Introdução.html" title="1 - Introdução">1 - Introdução</a>
+</li>
+<li class="current">
+  <a href="/4° Semestre&#x2f;Organização de Computadores&#x2f;2 - Organização de sistemas de computadores.html" title="2 - Organização de sistemas de computadores">2 - Organização de sistemas de computadores</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Organização de Computadores&#x2f;3 - nível lógico digital.html" title="3 - nível lógico digital">3 - nível lógico digital</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Organização de Computadores&#x2f;4 - microarquitetura.html" title="4 - microarquitetura">4 - microarquitetura</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Organização de Computadores&#x2f;5 - Nivel arquitetura do conjunto de instruções.html" title="5 - Nivel arquitetura do conjunto de instruções">5 - Nivel arquitetura do conjunto de instruções</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Organização de Computadores&#x2f;6 - Sistema operacional.html" title="6 - Sistema operacional">6 - Sistema operacional</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Organização de Computadores&#x2f;7 - Nível de linguagem de montagem.html" title="7 - Nível de linguagem de montagem">7 - Nível de linguagem de montagem</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Organização de Computadores&#x2f;8 - Arquitetura de Computadores Paralelos.html" title="8 - Arquitetura de Computadores Paralelos">8 - Arquitetura de Computadores Paralelos</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Organização de Computadores&#x2f;Organização de Computadores.html" title="Organização de Computadores">Organização de Computadores</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>Probabilidade e Estatística</summary>
+    <ul>
+      <li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;1 - Conceitos.html" title="1 - Conceitos">1 - Conceitos</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;10 - Teste do Qui-Quadrado.html" title="10 - Teste do Qui-Quadrado">10 - Teste do Qui-Quadrado</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;11 - Variáveis Aleatórias Contínuas.html" title="11 - Variáveis Aleatórias Contínuas">11 - Variáveis Aleatórias Contínuas</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;12 - Ajustando uma distribuição uniforme em uma distribuição exponencial.html" title="12 - Ajustando uma distribuição uniforme em uma distribuição exponencial">12 - Ajustando uma distribuição uniforme em uma distribuição exponencial</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;13 - Modelo Normal ou Curva Gaussiana.html" title="13 - Modelo Normal ou Curva Gaussiana">13 - Modelo Normal ou Curva Gaussiana</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;14 - Análise Exploratória de dados.html" title="14 - Análise Exploratória de dados">14 - Análise Exploratória de dados</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;15 - Análise Exploratória de Dados.html" title="15 - Análise Exploratória de Dados">15 - Análise Exploratória de Dados</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;3 - Probabilidades.html" title="3 - Probabilidades">3 - Probabilidades</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;3 - só no caderno.html" title="3 - só no caderno">3 - só no caderno</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;5 - Definições.html" title="5 - Definições">5 - Definições</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;6 - Probabilidade Condicional.html" title="6 - Probabilidade Condicional">6 - Probabilidade Condicional</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;6.1- Matriz de Confusão.html" title="6.1- Matriz de Confusão">6.1- Matriz de Confusão</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;8 - Variáveis Aleatórias.html" title="8 - Variáveis Aleatórias">8 - Variáveis Aleatórias</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;9 - Modelos Probabilísticos para v.a discretas.html" title="9 - Modelos Probabilísticos para v.a discretas">9 - Modelos Probabilísticos para v.a discretas</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;Montar um caso real - probabilidade e estatística.html" title="Montar um caso real - probabilidade e estatística">Montar um caso real - probabilidade e estatística</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;Probabilidade e Estatística.html" title="Probabilidade e Estatística">Probabilidade e Estatística</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Probabilidade e Estatística&#x2f;planejamento trabalho.html" title="planejamento trabalho">planejamento trabalho</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>Projeto e Analise de Algoritmos</summary>
+    <ul>
+      <li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;1 - Conceitos Básicos.html" title="1 - Conceitos Básicos">1 - Conceitos Básicos</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;10 - Prog Dinamica.html" title="10 - Prog Dinamica">10 - Prog Dinamica</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;11 - Matrizes.html" title="11 - Matrizes">11 - Matrizes</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;12 - Algoritmos Gulosos.html" title="12 - Algoritmos Gulosos">12 - Algoritmos Gulosos</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;13 - Problemas NP Completos.html" title="13 - Problemas NP Completos">13 - Problemas NP Completos</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;2 - Complexidade.html" title="2 - Complexidade">2 - Complexidade</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;3 - Invariante de laço e Ordem de crescimento.html" title="3 - Invariante de laço e Ordem de crescimento">3 - Invariante de laço e Ordem de crescimento</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;4 - Divisão e Conquista.html" title="4 - Divisão e Conquista">4 - Divisão e Conquista</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;5 - Notações.html" title="5 - Notações">5 - Notações</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;6 - Recorrências.html" title="6 - Recorrências">6 - Recorrências</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;8 - Heap Sort.html" title="8 - Heap Sort">8 - Heap Sort</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;9 - Ordenacao em Tempo Linear.html" title="9 - Ordenacao em Tempo Linear">9 - Ordenacao em Tempo Linear</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;Exercicios PAA.html" title="Exercicios PAA">Exercicios PAA</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;Exercicios-2.html" title="Exercicios-2">Exercicios-2</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;Exercicios-3.html" title="Exercicios-3">Exercicios-3</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;Exercícios.html" title="Exercícios">Exercícios</a>
+</li>
+<li>
+  <a href="/4° Semestre&#x2f;Projeto e Analise de Algoritmos&#x2f;Projeto e Analise de Algoritmos.html" title="Projeto e Analise de Algoritmos">Projeto e Analise de Algoritmos</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>5° Semestre</summary>
+    <ul>
+      <li>
+  <details open>
+    <summary>Banco de Dados</summary>
+    <ul>
+      <li>
+  <a href="/5° Semestre&#x2f;Banco de Dados&#x2f;0. Header.html" title="0. Header">0. Header</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Banco de Dados&#x2f;1. Introducao.html" title="1. Introducao">1. Introducao</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Banco de Dados&#x2f;2. Arquitetura-de-um-Gerenciador.html" title="2. Arquitetura-de-um-Gerenciador">2. Arquitetura-de-um-Gerenciador</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Banco de Dados&#x2f;3. Modelo-entidade-relacionamento.html" title="3. Modelo-entidade-relacionamento">3. Modelo-entidade-relacionamento</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Banco de Dados&#x2f;4. .html" title="4. ">4. </a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>Engenharia de Software</summary>
+    <ul>
+      <li>
+  <a href="/5° Semestre&#x2f;Engenharia de Software&#x2f;0. Header.html" title="0. Header">0. Header</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Engenharia de Software&#x2f;1. Modelos-Prescritivos.html" title="1. Modelos-Prescritivos">1. Modelos-Prescritivos</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Engenharia de Software&#x2f;2. Abordagem-Dirigida-a-Planos.html" title="2. Abordagem-Dirigida-a-Planos">2. Abordagem-Dirigida-a-Planos</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Engenharia de Software&#x2f;3. Gerencia-de-Projeto.html" title="3. Gerencia-de-Projeto">3. Gerencia-de-Projeto</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>Linguagens Formais e Automatos</summary>
+    <ul>
+      <li>
+  <a href="/5° Semestre&#x2f;Linguagens Formais e Automatos&#x2f;0. Header.html" title="0. Header">0. Header</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Linguagens Formais e Automatos&#x2f;1.Introducao.html" title="1.Introducao">1.Introducao</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Linguagens Formais e Automatos&#x2f;2. Gramatica.html" title="2. Gramatica">2. Gramatica</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Linguagens Formais e Automatos&#x2f;3. Tipos de Gramaticas.html" title="3. Tipos de Gramaticas">3. Tipos de Gramaticas</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Linguagens Formais e Automatos&#x2f;4. Automatos-finitos-deterministicos.html" title="4. Automatos-finitos-deterministicos">4. Automatos-finitos-deterministicos</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Linguagens Formais e Automatos&#x2f;5. Automato-finito-nao-deterministico.html" title="5. Automato-finito-nao-deterministico">5. Automato-finito-nao-deterministico</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>Redes de Computadores</summary>
+    <ul>
+      <li>
+  <a href="/5° Semestre&#x2f;Redes de Computadores&#x2f;0. Header.html" title="0. Header">0. Header</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Redes de Computadores&#x2f;1. Introducao.html" title="1. Introducao">1. Introducao</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Redes de Computadores&#x2f;10. SMTP.html" title="10. SMTP">10. SMTP</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Redes de Computadores&#x2f;11. DNS.html" title="11. DNS">11. DNS</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Redes de Computadores&#x2f;2. Comutacao-de-pacotes.html" title="2. Comutacao-de-pacotes">2. Comutacao-de-pacotes</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Redes de Computadores&#x2f;3. Redes-de-acesso-e-meio-físico.html" title="3. Redes-de-acesso-e-meio-físico">3. Redes-de-acesso-e-meio-físico</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Redes de Computadores&#x2f;4. Atrasos-e-Protocolos.html" title="4. Atrasos-e-Protocolos">4. Atrasos-e-Protocolos</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Redes de Computadores&#x2f;5. Camada-de-Protocolos.html" title="5. Camada-de-Protocolos">5. Camada-de-Protocolos</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Redes de Computadores&#x2f;6. Backbones-IXs-e-ISPs.html" title="6. Backbones-IXs-e-ISPs">6. Backbones-IXs-e-ISPs</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Redes de Computadores&#x2f;7. Camadas-de-aplicacao.html" title="7. Camadas-de-aplicacao">7. Camadas-de-aplicacao</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Redes de Computadores&#x2f;8. HTTP.html" title="8. HTTP">8. HTTP</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Redes de Computadores&#x2f;9. FTP.html" title="9. FTP">9. FTP</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>Sistemas Operacionais</summary>
+    <ul>
+      <li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;0. header.html" title="0. header">0. header</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;1. Processos.html" title="1. Processos">1. Processos</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;1.1 API-de-processos.html" title="1.1 API-de-processos">1.1 API-de-processos</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;10. Gerenciamento-de-Espaco-Livre.html" title="10. Gerenciamento-de-Espaco-Livre">10. Gerenciamento-de-Espaco-Livre</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;11. Paginacao.html" title="11. Paginacao">11. Paginacao</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;11.1 Traducoes-rapidas(TLBs).html" title="11.1 Traducoes-rapidas(TLBs)">11.1 Traducoes-rapidas(TLBs)</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;11.2 Tabelas-menores.html" title="11.2 Tabelas-menores">11.2 Tabelas-menores</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;12. Swapping.html" title="12. Swapping">12. Swapping</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;12.1 Politicas-de-swap.html" title="12.1 Politicas-de-swap">12.1 Politicas-de-swap</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;2. Limited-Direct-Execution.html" title="2. Limited-Direct-Execution">2. Limited-Direct-Execution</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;3. Introducao-ao-Escalonamento.html" title="3. Introducao-ao-Escalonamento">3. Introducao-ao-Escalonamento</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;4. Escalonamento.html" title="4. Escalonamento">4. Escalonamento</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;5. Compartilhamento-Proporcional-da-CPU.html" title="5. Compartilhamento-Proporcional-da-CPU">5. Compartilhamento-Proporcional-da-CPU</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;6. Escalonamento-Multiprocessador.html" title="6. Escalonamento-Multiprocessador">6. Escalonamento-Multiprocessador</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;7. Espacos-de-Memoria.html" title="7. Espacos-de-Memoria">7. Espacos-de-Memoria</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;7.1- API-de-Memoria.html" title="7.1- API-de-Memoria">7.1- API-de-Memoria</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;8. Virtualizacao-de-Memoria.html" title="8. Virtualizacao-de-Memoria">8. Virtualizacao-de-Memoria</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;9. Segmentacao.html" title="9. Segmentacao">9. Segmentacao</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Sistemas Operacionais&#x2f;Resumo.html" title="Resumo">Resumo</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>Teoria dos Grafos</summary>
+    <ul>
+      <li>
+  <a href="/5° Semestre&#x2f;Teoria dos Grafos&#x2f;0. header.html" title="0. header">0. header</a>
+</li>
+<li>
+  <a href="/5° Semestre&#x2f;Teoria dos Grafos&#x2f;1. Conceitos-Basicos.html" title="1. Conceitos-Basicos">1. Conceitos-Basicos</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <details open>
+    <summary>dist</summary>
+    <ul>
+      <li>
+  <a href="/dist&#x2f;automato-finito-rep.excalidraw.html" title="automato-finito-rep.excalidraw">automato-finito-rep.excalidraw</a>
+</li>
+</ul>
+  </details>
+  
+</li>
+<li>
+  <a href="/index.html" title="index">index</a>
+</li>
+
+      </ul>
+    </nav>
+
+    <footer>
+      <p>Built with <a href="https://github/ecarrara/obsidian-garden">Obsidian Garden</a>.</p>
+    </footer>
+  </div>
+</aside>
+
+  <div class="main-area">
+    <div class="topnav">
+      <button id="toggle-menu">☰</button>
+      <nav><a title="Github" href="https:&#x2f;&#x2f;github.com&#x2f;Felipe-gsilva">Github</a><a title="Linkedin" href="https:&#x2f;&#x2f;www.linkedin.com&#x2f;in&#x2f;felipe-gsilva&#x2f;">Linkedin</a></nav>
+      
+    </div>
+
+    <div class="actions">
+      <button id="toggle-metadata">☰ Metadata</button>
+    </div>
+
+    <main class="main-content">
+<article id="note-content" data-pagefind-body>
+  <header>
+    <h1 class="note-title">2 - Organização de sistemas de computadores</h1>
+  </header><ul>
+<li>somente operações LOAD/STORE devem referenciar a memória.</li>
+<li>necessários muitos registradores, trabalhando em uma pipeline unica ou dividida em threads físicas e/ou logicas, onde cada registrador manipulado pode ser parte do processo.</li>
+</ul>
+<p>#Memoria #cache #ram #paralelismo</p>
+<h1>Instruções</h1>
+<p><a href="/3° Semestre/AC/Conjunto de Instruções.html" title="Conjunto de Instruções" class="wikilink">Conjunto de Instruções</a>
+<a href="/3° Semestre/AC/Ciclo de instrução – O retorno.html" title="Ciclo de instrução – O retorno" class="wikilink">Ciclo de instrução – O retorno</a>
+A CPU executa cada instrução em uma série de pequenas etapas. Em termos simples, as etapas são as seguintes:</p>
+<ol>
+<li>Trazer a próxima instrução da memória até o registrador ele instrução.</li>
+<li>Alterar o contador de programa para que aponte para a próxima instrução.</li>
+<li>Determinar o tipo de instrução trazida.</li>
+<li>Se a instrução usar uma palavra na memória, determinar onde essa palavra está.</li>
+<li>Trazer a palavra para dentro de um registrador da CPU, se necessário.</li>
+<li>Executar a instrução.</li>
+<li>Voltar à etapa 1 para iniciar a execução da instrução seguinte.</li>
+</ol>
+<h1>Paralelismo</h1>
+<p><a href="/3° Semestre/AC/Paralelismo em nível de instrução.html" title="Paralelismo em nível de instrução" class="wikilink">Paralelismo em nível de instrução</a>
+<a href="/3° Semestre/AC/Paralelismo em nível de dados.html" title="Paralelismo em nível de dados" class="wikilink">Paralelismo em nível de dados</a>
+<a href="/3° Semestre/AC/Paralelismo em nível de thread (n vou terminar esse).html" title="Paralelismo em nível de thread (n vou terminar esse)" class="wikilink">Paralelismo em nível de thread (n vou terminar esse)</a></p>
+<h1>Memória</h1>
+<p><a href="/3° Semestre/AC/Memórias/Memórias.html" title="Memórias" class="wikilink">Memórias</a></p>
+<p>Dividida em células (ou locais) os quais são referenciados por um endereço único e indicado para cada célula.</p>
+<ul>
+<li>os bytes em uma palavra podem ser organizados 
+<ul>
+<li>big endian -&gt; bytes numerados da esquerda pra direita </li>
+<li>little endian-&gt; bytes numerados da direita pra esquerda</li>
+</ul>
+</li>
+</ul>
+<p>![[Pasted image 20240814174741.png]]</p>
+<blockquote>
+<p>devido a possibilidade de falhas, faz-se necessária a detecção de erros. Veja: [[#Error Handling]] e tipos de memória</p>
+</blockquote>
+<h1>Error Handling</h1>
+<h3>Código de Hamming</h3>
+<p>Dadas duas palavras de código quaisquer, por exemplo, 10001001 e 10110001, é possível determinar quantos bits correspondentes são diferentes. Nesse caso, 3.</p>
+<blockquote>
+<p>O número de posições de bit nas quais as duas palavras de código diferem é denominado distância de Hamming (Hamming, 1950). </p>
+</blockquote>
+<p>Se duas palavras de código estiverem separadas por uma distância de Hamming d, será preciso d erros de único bit para converter uma na outra. </p>
+<p><em>ex:</em> Por exemplo, as palavras de código 11110001 e 00110000 estão a uma distância de Hamming 3 porque é preciso 3 erros de único bit para converter uma na outra.</p>
+<p>palavra = m + r $\implies$ (qtd de bits de dados) + (qtd de bits de paridade)</p>
+<ul>
+<li>ex: uma palavra com 16 bits de dados tem q ter 5 de paridade (1, 2, 4, 8 e 16 ($2^{i} &gt;= m$ -&gt; i = 0, 1, 2, 3, 4))
+![[Pasted image 20240904103651.png]]</li>
+</ul>
+<blockquote>
+<p>se os bits de paridade 1 e 4 estiverem incorretos, mas 2, 8 e 16 estiverem corretos, o bit 5 (1 + 4) foi invertido.</p>
+</blockquote>
+<h1>Memória Secundária</h1>
+<p>[[1-2 - Armazenamento secundário]]
+![[Pasted image 20240904104532.png]]</p>
+<h2>RAID</h2>
+<p>[[Memoria Interna#RAID (Redundant Array of Independent Disks)]]
+a ideia é conseguir utilizar diversos drives logicamente conectados sendo tratados com um SLED (disco único e grandão) e acessar seus dados de forma paralela.</p>
+<p>alguns RAID’s promovem versões diferentes de paridade, no geral, sem seguir a de Hamming.</p>
+<h3>exemplos:</h3>
+<p><em>Solid State Drive (SSD -&gt; memória flash não volátil)</em>: bom 
+<em>CD-ROM</em>: codifica cada byte em 14 bits, amontoados em quadros de 42 * 14 bytes
+<em>CD-R e CD-RW</em>: um só lê, já o outro…</p>
+<h1>Entrada e Saída</h1>
+<p>[[Entrada e Saída]]</p>
+<p><em>Barramento PCI</em>: 
+![[Pasted image 20240904111043.png]]</p>
+<p>VRAM -&gt; memória RAM feita pra armazenar pixels e buffers de vídeo.</p>
+
+</article>
+
+<aside class="right-sidebar" id="article-aside">
+  <nav class="section toc hide" id="toc-section">
+    <h3 class="section-title">On this page</h3>
+  </nav>
+</aside>
+
+</main>
+  </div>
+
+  <script type="module">
+    import {initGraph, toc} from "/_static/script.js"
+    const currentPath = "4° Semestre/Organização de Computadores/2 - Organização de sistemas de computadores"
+    const graph = {"edge_property":"directed","edges":[[0,1,null],[0,2,null],[0,3,null],[0,4,null],[0,5,null],[0,6,null],[0,7,null],[0,8,null]],"node_holes":[],"nodes":["4° Semestre/Organização de Computadores/2 - Organização de sistemas de computadores","3° Semestre/AC/Entrada e Saída","4° Semestre/ED 2/1-2 - Armazenamento secundário","3° Semestre/AC/Memórias/Memórias","3° Semestre/AC/Paralelismo em nível de thread (n vou terminar esse)","3° Semestre/AC/Paralelismo em nível de dados","3° Semestre/AC/Paralelismo em nível de instrução","3° Semestre/AC/Ciclo de instrução – O retorno","3° Semestre/AC/Conjunto de Instruções"]}
+
+    const g = initGraph(currentPath, graph)
+    document.getElementById("graph").appendChild(g.node())
+
+    const menuEl = document.getElementById("menu")
+    const rightSidebar = document.getElementById("article-aside")
+
+    document.getElementById("toggle-menu").addEventListener("click", (event) => {
+      menuEl.classList.toggle("show")
+      rightSidebar.classList.remove("show")
+      event.stopPropagation()
+    })
+    document.getElementById("toggle-metadata").addEventListener("click", (event) => {
+      rightSidebar.classList.toggle("show")
+      menuEl.classList.remove("show")
+      event.stopPropagation()
+    })
+    document.addEventListener("click", (event) => {
+      if (!menuEl.contains(event.target)) {
+        menuEl.classList.remove("show")
+      }
+
+      if (!rightSidebar.contains(event.target)) {
+        rightSidebar.classList.remove("show")
+      }
+    })
+
+    const articleEl = document.getElementById("note-content")
+    const tocSectionEl = document.getElementById("toc-section")
+    toc(articleEl, tocSectionEl)
+  </script>
+</body>
+
+</html>
