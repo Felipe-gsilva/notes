@@ -38,4 +38,28 @@ $$D_{cs} = max \lbrace \frac{NF}{\micro_{s}} \, \frac{F}{d_{min}} \rbrace$$
 
 
 ### E se tivessemos mais seeders?
+No início da distribuição, apenas o “servidor” tem o arquivo F.
+- Para levar este arquivo à rede de pares, o servidor deve enviar cada bit do arquivo pelo menos uma vez através seu link de dados (usando sua banda máxima us ).
 
+Assim, o tempo de mínimo distribuição, é pelo menos:
+
+tempo minimo = $\frac{f}{\micro_s}$
+
+
+Assim como no modelo CS, o par com menor banda não pode obter todos os F bits do arquivo em menos do que $\frac{F}{d_{min}}$.
+
+Tempo mínimo = NF / (us + u1 + u2 + u3 + ... + uN) -> $\micro_s + \sum\limits{N}{i=1}\micro_{i}$
+
+### Resumo
+
+- Servidor - Melhor caso:  $\micro_s + \sum\limits{N}{i=1}\micro_{i}$
+
+- No - Melhor caso: cada cliente faz o download de uma cópia.
+    - Tempo de download do cliente mais lento: $\frac{F}{d_{min}}$
+    - Todos os nós: download agregado de NF bits
+
+- Taxa maxima de upload do sistema: $\micro_s + \sum\limits{N}{i=1}\micro_{i}$
+
+Assim o tempo mínimo real de distribuição P2P é:
+
+$$D_{p2p} = max \lbrace \frac{F}{\micro_s}, \frac{F}{d_{min}}, \frac{NF}{\micro_s + \sum\limits{N}{i=1}\micro_{i}}  \rbrace$$
