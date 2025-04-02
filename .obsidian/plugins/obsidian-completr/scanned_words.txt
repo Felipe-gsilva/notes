@@ -230,6 +230,7 @@ Computer
 Conceitual
 Conteudo
 Comecou
+Consultas
 Quantidade
 Quest
 Qualquer
@@ -719,6 +720,8 @@ desacelera
 diferencas
 disciplina
 disciplinas
+deletar
+dictionary
 trabalho
 tomada
 tipos
@@ -1020,6 +1023,7 @@ traducao
 translation
 transicoes
 terceario
+ternarios
 entrada
 estados
 estrutura
@@ -1448,6 +1452,9 @@ envolvidas
 euquanto
 exercicio
 especializa
+esquemas
+especialista
+evaluation
 aplica
 acaso
 assint
@@ -1913,6 +1920,9 @@ anos
 atraves
 agrega
 acessiveis
+agencia
+agencias
+afins
 Se
 Somat
 Start
@@ -2111,6 +2121,7 @@ Scheins
 Subclasse
 Superclasses
 Subclasses
+SGB
 complexidade
 como
 caso
@@ -2710,6 +2721,8 @@ construa
 conceitual
 contribuicoes
 comp
+compiladas
+coes
 xima
 ximo
 xi
@@ -3741,6 +3754,7 @@ nenhum
 nasc
 necessaria
 notas
+nucleo
 for
 float
 framed
@@ -4413,6 +4427,8 @@ separar
 secretaria
 sala
 sobreposta
+sgbd
+statistical
 melhor
 medida
 mem
@@ -4708,6 +4724,9 @@ magic
 mmap
 mantem
 matriculados
+manipulacao
+modificacao
+meta
 buscamos
 baseada
 base
@@ -4888,6 +4907,8 @@ budget
 bancarios
 basico
 binario
+bibliografia
+banc
 uma
 um
 unvisited
@@ -5026,6 +5047,7 @@ univalorado
 usemos
 underline
 universidade
+usuarios
 representa
 rica
 requisitos
@@ -5398,6 +5420,8 @@ respectivas
 reusados
 relacao
 reaproveitaveis
+resgatar
+reposit
 hardware
 heuristic
 highlights
@@ -5520,6 +5544,7 @@ hashmaps
 habilidade
 hierarquico
 humana
+hospedeira
 linguagem
 lculo
 leva
@@ -6448,6 +6473,7 @@ validacao
 verificacao
 verbos
 vermelho
+versao
 idealizaremos
 instru
 inteiros
@@ -6764,6 +6790,7 @@ independencia
 invalidacao
 idade
 inclusive
+insercao
 Teremos
 The
 This
@@ -7699,6 +7726,7 @@ Agregacao
 Abstracao
 Agrega
 Abstra
+ADM
 Nearest
 Neighbor
 No
@@ -8333,6 +8361,7 @@ Entry
 Endereco
 Existe
 Estendido
+Esquema
 Key
 KKKKK
 Keysorting
@@ -9034,6 +9063,9 @@ Language
 Logico
 Logica
 LFU
+LDD
+LMD
+LLD
 Usamos
 Um
 Usando
