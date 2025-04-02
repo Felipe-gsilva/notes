@@ -1447,6 +1447,7 @@ envolvidos
 envolvidas
 euquanto
 exercicio
+especializa
 aplica
 acaso
 assint
@@ -1910,6 +1911,8 @@ associa
 alunos
 anos
 atraves
+agrega
+acessiveis
 Se
 Somat
 Start
@@ -2105,6 +2108,9 @@ Semestre
 Switchs
 Segue
 Scheins
+Subclasse
+Superclasses
+Subclasses
 complexidade
 como
 caso
@@ -2703,6 +2709,7 @@ cardinalidade
 construa
 conceitual
 contribuicoes
+comp
 xima
 ximo
 xi
@@ -3262,6 +3269,9 @@ populares
 politica
 pontua
 possibilidades
+prios
+primaria
+passiveis
 qualquer
 que
 quina
@@ -4402,6 +4412,7 @@ sbrk
 separar
 secretaria
 sala
+sobreposta
 melhor
 medida
 mem
@@ -5384,6 +5395,9 @@ regiao
 repartir
 ref
 respectivas
+reusados
+relacao
+reaproveitaveis
 hardware
 heuristic
 highlights
@@ -5906,6 +5920,7 @@ Modeling
 Manufacturing
 MMU
 MFU
+Medico
 RAM
 Reindexa
 Repeat
@@ -6263,6 +6278,8 @@ Desging
 Dirty
 Dominio
 Definido
+Disjun
+Disjunta
 vel
 vale
 valores
@@ -6430,6 +6447,7 @@ visao
 validacao
 verificacao
 verbos
+vermelho
 idealizaremos
 instru
 inteiros
@@ -6745,6 +6763,7 @@ instante
 independencia
 invalidacao
 idade
+inclusive
 Teremos
 The
 This
@@ -7097,6 +7116,8 @@ PTE
 Present
 Policy
 Permitem
+Paciente
+Participa
 with
 which
 when
@@ -7500,6 +7521,7 @@ Hickey
 Helix
 Hypertext
 HTML
+Heranca
 Approaches
 An
 Arquitetura
@@ -7675,6 +7697,8 @@ Atributos
 Armazena
 Agregacao
 Abstracao
+Agrega
+Abstra
 Nearest
 Neighbor
 No
@@ -8881,6 +8905,7 @@ Gestao
 Gantt
 Grau
 Graus
+Generaliza
 LM
 LOKO
 Lab
