@@ -63,3 +63,63 @@ Tempo mínimo = NF / (us + u1 + u2 + u3 + ... + uN) -> $\micro_s + \sum\limits_{
 Assim o tempo mínimo real de distribuição P2P é:
 
 $$D_{p2p} = max \lbrace \frac{F}{\micro_s}, \frac{F}{d_{min}}, \frac{NF}{\micro_s + \sum\limits_{i=1}^{N}\micro_{i}}  \rbrace$$
+
+
+# BitTorrent
+A rede em si eh chamada de `BitTorrent`. Torrent eh o conteudo que vai ser compartilhado, representado por um arquivo simples .torrent, que contem os seus metadados. Os arquivos .torrent sao enviados (usualmente) para algum tipo de indexador / buscador de torrent, e.g: PirateBay, Torrentz2, Toorgle...
+
+O arquivo .torrent tem:
+- announce: informa qual __tracker__ trata a distribuicao.
+- announce-list: informa eventuais trackers auxiliares.
+- comment: comentario inserido pelo criador do torrent.
+- created by: qual software o torrent foi criado.
+- info: 
+    - files 
+    - lenght 
+    - path 
+    - pieces: uma lista de hash dos pedacos.
+    - pieces lenght: tamanho de cada pedaco.
+
+## Trackers: 
+representa um no na infra do torrent. 
+
+quando um par chega numa rede torrent, ele se registra junto ao tracker. 
+- tracker eh indicado pelo arquivo .torrent.
+- periodicamente informa que ainda esta vivo na rede.
+- o par que possui o arquivo de dados completo eh um seed.
+- __leech__: contem parcialmente o arquivo.
+
+Tracker mantem um registro de todos os pares que participam do torrent.
+
+- Quando um novo par chega, o tracker seleciona um subconjunto de pares participantes e envia seus enderecos IP.
+- o Novo Par tenta estabelecer conexoes simultaneas com todos.
+- Forma-se o _swarm_ - `enxame`
+
+### Swarm
+Todos os pares que participam da distribuicao de um arquivo. (rede de overlay)
+
+Pares de um swarm fazem o download de blocos de tamanho igual do arquivo entre si (e.g 256kb), enquanto tambem fazem o upload.
+
+### Tracker e pares vizinhos
+__Pares Vizinhos__: Nos com quem se consegue estabelecer uma conexao.
+- De tempos em tempos, um computador pergunta ao(s) tracker(s) uma lista de pares vizinhos. 
+- pergunta, tambem, uma lista de blocos para os pares vizinhos e depois pedira para eles os que ele nao possui.
+
+#### Tecnicas de escolha
+blocos:
+- `rarest first`: determinar quais sao os blocos mais raros entre os vizinhos e tenta-se distribuir eles mais rapidos.
+
+a quais vizinhos enviar:
+- priorizar vizinhos que enviam com maior taxa
+    - a cada 10s, recalcula as taxas e define os pares `unchoked` (4 pares que fornecem taxa mais alta de download)
+
+
+- `optimistic unchoked`: escolhe um aleatorio da lista de pares e envia blocos para ele, se ele corresponder, eu troco o vizinho unchoked mais lento por este novo par.
+    - Mecanismos de incentivo para troca: __Tit-for-tat__ (olho por olho).
+    - Por esse motivo não se deve limitar a taxa de upload numa rede de torrent.
+
+__Pares vizinhos chocked__:  Todos os demais pares além dos 4 pares “top”
+
+
+## DHT (Distributed Hash Table)
+
