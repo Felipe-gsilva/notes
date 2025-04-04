@@ -15,7 +15,6 @@ kanban-plugin: board
 
 ## provas e trabalhos
 
-- [ ] prova 1 SO @{2025-03-31}
 - [ ] prova 1 BD @{2025-04-08}
 - [ ] prova 1 LFA @{2025-04-14}
 - [ ] prova 1 grafos @{2025-05-07}
@@ -26,8 +25,6 @@ kanban-plugin: board
 - [ ] prova 2 grafos @{2025-06-13}
 - [ ] prova 2 BD @{2025-06-24}
 
-<<<<<<< HEAD
-=======
 ## future projects
 
 - [ ] [[OS-in-c]]
@@ -41,10 +38,9 @@ kanban-plugin: board
 - [ ] p-threads for OS classes
 - [ ] documentar componentes (components) (pra bemmmm depois)
 
->>>>>>> refs/remotes/origin/main
-
 ## Done
 
+- [X] prova 1 SO @{2025-03-31}
 - [x] read chapters 4, 5 and 6 OS classes.
 - [X] read chapters 4, 5 and 6 OS classes.
 - [X] ler secao 1.2 Automatos
@@ -99,9 +95,6 @@ kanban-plugin: board
 ## backlog
 
 - [ ] p-threads for OS classes
-
-
-
 
 %% kanban:settings
 ```
