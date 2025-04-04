@@ -1,10 +1,12 @@
-V#INCLUDE <assert.h>
+#include <assert.h>
 #include <memory.h>
 #include <pthread.h>
+#include <semaphore.h>
 #include <stdio.h>
 #include <stdlib.h>
 
 static volatile int counter;
+pthread_mutex_t lock = PTHREAD_MUTEX_INITIALIZER;
 
 void *mythread(void *arg) {
   int *A = malloc(sizeof(int) * 5);
@@ -12,8 +14,10 @@ void *mythread(void *arg) {
   for (int i = 0; i < 5; i++) {
     printf("%d ", A[i]);
   }
+  pthread_mutex_lock(&lock);
   for (int i=0; i < 1e6; i++)
     counter++;
+  pthread_mutex_unlock(&lock);
   puts("");
   printf("thread: counter %d\n", counter);
   return NULL;
