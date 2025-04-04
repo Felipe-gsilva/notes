@@ -231,6 +231,7 @@ Conceitual
 Conteudo
 Comecou
 Consultas
+Criando
 Quantidade
 Quest
 Qualquer
@@ -722,6 +723,8 @@ disciplina
 disciplinas
 deletar
 dictionary
+diferenca
+desejamos
 trabalho
 tomada
 tipos
@@ -1024,6 +1027,8 @@ translation
 transicoes
 terceario
 ternarios
+testando
+traduzido
 entrada
 estados
 estrutura
@@ -1455,6 +1460,10 @@ especializa
 esquemas
 especialista
 evaluation
+estao
+evidante
+enquantos
+exclusao
 aplica
 acaso
 assint
@@ -1923,6 +1932,8 @@ acessiveis
 agencia
 agencias
 afins
+aquela
+atomico
 Se
 Somat
 Start
@@ -2723,6 +2734,11 @@ contribuicoes
 comp
 compiladas
 coes
+compartilhamento
+compartilhar
+critica
+corrupcao
+conquanto
 xima
 ximo
 xi
@@ -3285,6 +3301,10 @@ possibilidades
 prios
 primaria
 passiveis
+precisara
+praticos
+poderao
+poderiamos
 qualquer
 que
 quina
@@ -4430,6 +4450,8 @@ sala
 sobreposta
 sgbd
 statistical
+switches
+supracitamos
 melhor
 medida
 mem
@@ -4728,6 +4750,8 @@ matriculados
 manipulacao
 modificacao
 meta
+memmory
+mutua
 buscamos
 baseada
 base
@@ -5049,6 +5073,7 @@ usemos
 underline
 universidade
 usuarios
+urge
 representa
 rica
 requisitos
@@ -5423,6 +5448,9 @@ relacao
 reaproveitaveis
 resgatar
 reposit
+regs
+rodando
+race
 hardware
 heuristic
 highlights
@@ -6792,6 +6820,7 @@ invalidacao
 idade
 inclusive
 insercao
+introduzimos
 Teremos
 The
 This
@@ -7146,6 +7175,8 @@ Policy
 Permitem
 Paciente
 Participa
+Processos
+Problemas
 with
 which
 when
@@ -7454,6 +7485,7 @@ grafica
 grim
 gerenciador
 gerenciadores
+geraria
 Heuristic
 Hashing
 HDD
@@ -7728,6 +7760,8 @@ Abstracao
 Agrega
 Abstra
 ADM
+Atomicas
+Atomicidade
 Nearest
 Neighbor
 No
@@ -8166,6 +8200,7 @@ OR
 OPS
 Operational
 Operacionais
+Operacoes
 Exhaustive
 Enumerate
 Exerc
@@ -8363,6 +8398,7 @@ Endereco
 Existe
 Estendido
 Esquema
+Entretanto
 Key
 KKKKK
 Keysorting
@@ -9298,6 +9334,8 @@ BvudqhaD
 Banco
 Bit
 Biblioteca
+BCP
+BLoco
 juntar
 jeito
 jump
