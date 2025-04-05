@@ -11,14 +11,12 @@
             "id": "9592b21d4b4f1ee4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cs/5° Semestre/Sistemas Operacionais/13. Introducao-a-Concorrencia.md",
-                "mode": "source",
-                "source": false
+                "file": "Cs/5° Semestre/public/1742324795_grim.png"
               },
-              "icon": "lucide-file",
-              "title": "13. Introducao-a-Concorrencia"
+              "icon": "lucide-image",
+              "title": "1742324795_grim"
             }
           }
         ]
@@ -44,7 +42,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5cd6ba123eaad068",
@@ -183,8 +180,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9592b21d4b4f1ee4",
+  "active": "5501f20da499d518",
   "lastOpenFiles": [
+    "Cs/5° Semestre/public",
+    "public/exercicio-1-counting-lista-2-paa.png",
+    "Cs/5° Semestre/Sistemas Operacionais/13. Introducao-a-Concorrencia.md",
     "Cs/5° Semestre/Sistemas Operacionais/13. Introducao-a-Concorrencia.md~",
     "Cs/5° Semestre/Sistemas Operacionais/praticos/#26-threads.c#",
     "Cs/5° Semestre/Banco de Dados/3. Modelo-entidade-relacionamento.md",
@@ -193,15 +193,15 @@
     "Cs/5° Semestre/Banco de Dados/1. Introducao.md",
     "Cs/5° Semestre/Banco de Dados/3.1. Modelo-Endidade-Relacionamento-Estendido.md",
     "Cs/5° Semestre/Banco de Dados/0. Header.md",
-    "Cs/dist/1743536045_grim.png",
-    "Cs/dist/1743535162_grim.png",
+    "Cs/5° Semestre/public/1743536045_grim.png",
+    "Cs/5° Semestre/public/1743535162_grim.png",
     "Cs/5° Semestre/Banco de Dados/3.1. Modelo-Endidade-Relacionamento-Estendido.md~",
-    "Cs/dist/1743534706_grim.png",
-    "Cs/dist/1743534478_grim.png",
-    "Cs/dist/1743534266_grim.png",
-    "Cs/dist/1743534007_grim.png",
-    "Cs/dist/1743533794_grim.png",
-    "Cs/dist/1743531342_grim.png",
+    "Cs/5° Semestre/public/1743534706_grim.png",
+    "Cs/5° Semestre/public/1743534478_grim.png",
+    "Cs/5° Semestre/public/1743534266_grim.png",
+    "Cs/5° Semestre/public/1743534007_grim.png",
+    "Cs/5° Semestre/public/1743533794_grim.png",
+    "Cs/5° Semestre/public/1743531342_grim.png",
     "Cs/dist/1743530708_grim.png"
   ]
 }
