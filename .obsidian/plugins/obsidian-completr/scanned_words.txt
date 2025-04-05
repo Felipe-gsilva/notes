@@ -1934,6 +1934,8 @@ agencias
 afins
 aquela
 atomico
+atomos
+acontecendo
 Se
 Somat
 Start
@@ -2739,6 +2741,7 @@ compartilhar
 critica
 corrupcao
 conquanto
+conditions
 xima
 ximo
 xi
@@ -3305,6 +3308,7 @@ precisara
 praticos
 poderao
 poderiamos
+poderemos
 qualquer
 que
 quina
@@ -6821,6 +6825,8 @@ idade
 inclusive
 insercao
 introduzimos
+instrucao
+indeterminado
 Teremos
 The
 This
