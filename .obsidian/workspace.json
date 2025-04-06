@@ -11,12 +11,14 @@
             "id": "9592b21d4b4f1ee4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Cs/5° Semestre/public/1742324795_grim.png"
+                "file": "Cs/5° Semestre/Banco de Dados/1. Introducao.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "1742324795_grim"
+              "icon": "lucide-file",
+              "title": "1. Introducao"
             }
           }
         ]
@@ -180,8 +182,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5501f20da499d518",
+  "active": "9592b21d4b4f1ee4",
   "lastOpenFiles": [
+    "Cs/5° Semestre/Linguagens Formais e Automatos/6.  AFNxAFD.md",
+    "Cs/5° Semestre/Linguagens Formais e Automatos/5. Automato-finito-nao-deterministico.md",
+    "Cs/5° Semestre/Teoria dos Grafos/1. Conceitos-Basicos.md",
+    "Cs/index.md",
+    "Cs/5° Semestre/public/1742324795_grim.png",
     "Cs/5° Semestre/public",
     "public/exercicio-1-counting-lista-2-paa.png",
     "Cs/5° Semestre/Sistemas Operacionais/13. Introducao-a-Concorrencia.md",
@@ -201,7 +208,6 @@
     "Cs/5° Semestre/public/1743534266_grim.png",
     "Cs/5° Semestre/public/1743534007_grim.png",
     "Cs/5° Semestre/public/1743533794_grim.png",
-    "Cs/5° Semestre/public/1743531342_grim.png",
-    "Cs/dist/1743530708_grim.png"
+    "Cs/5° Semestre/public/1743531342_grim.png"
   ]
 }

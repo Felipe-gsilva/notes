@@ -239,6 +239,8 @@ CDD
 CF
 CMu
 CLF
+Ciencia
+Codd
 Quantidade
 Quest
 Qualquer
@@ -1493,6 +1495,9 @@ eaA
 eXbB
 eff
 eaaA
+escritas
+estudado
+escopo
 aplica
 acaso
 assint
@@ -2171,6 +2176,7 @@ SgggMMMyyy
 Shgg
 SSSg
 SXP
+SQL
 complexidade
 como
 caso
@@ -2781,6 +2787,9 @@ conditions
 cJv
 cJD
 cCC
+cofundou
+criou
+consultas
 xima
 ximo
 xi
@@ -4083,6 +4092,8 @@ fi
 fmkI
 ff
 fYYY
+foco
+futuramente
 se
 sendo
 ser
@@ -4830,6 +4841,9 @@ mutua
 mTxRk
 mSf
 mz
+mim
+matematico
+multiplos
 buscamos
 baseada
 base
@@ -5540,6 +5554,7 @@ rVVV
 rnnn
 rvvf
 rL
+redundancia
 hardware
 heuristic
 highlights
@@ -5918,6 +5933,7 @@ lmmEEE
 lmmmll
 lnn
 lihP
+lancado
 Modelo
 Move
 Melhor
@@ -6952,6 +6968,7 @@ ib
 iT
 iem
 inN
+isolamento
 Teremos
 The
 This
@@ -7102,6 +7119,8 @@ TLB
 Tlb
 TaFF
 Tgg
+Teoria
+Tuplas
 Problem
 Pair
 Python
@@ -7924,6 +7943,7 @@ All
 AAAt
 Ag
 Ak
+Aulas
 Nearest
 Neighbor
 No
@@ -8195,6 +8215,9 @@ IIIa
 IVV
 IIIgdd
 IIMS
+IMS
+Informational
+IBM
 yield
 yaml
 yd
@@ -8386,6 +8409,7 @@ ONJZ
 OOK
 OMm
 OJ
+Oracle
 Exhaustive
 Enumerate
 Exerc
@@ -8586,6 +8610,8 @@ Esquema
 Entretanto
 EEEM
 Ezr
+Edgar
+Ellison
 Key
 KKKKK
 Keysorting
@@ -9092,6 +9118,7 @@ FGG
 Fza
 Fnnnttttttnn
 FtU
+Frank
 Geraldo
 GwR
 GIbey
@@ -9333,6 +9360,7 @@ Lsl
 Lyyy
 LfUIQ
 LMMiokg
+Larry
 Usamos
 Um
 Usando
