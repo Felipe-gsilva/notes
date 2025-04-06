@@ -1052,6 +1052,9 @@ tttLJJ
 tFE
 tKs
 tyXX
+title
+tratareos
+temas
 entrada
 estados
 estrutura
@@ -1498,6 +1501,7 @@ eaaA
 escritas
 estudado
 escopo
+evolucao
 aplica
 acaso
 assint
@@ -2177,6 +2181,9 @@ Shgg
 SSSg
 SXP
 SQL
+SILBERSCHATZ
+SUDARSHAN
+SGBS
 complexidade
 como
 caso
@@ -2790,6 +2797,8 @@ cCC
 cofundou
 criou
 consultas
+curso
+conexoes
 xima
 ximo
 xi
@@ -4538,6 +4547,7 @@ srrLMMUUU
 sxxxdd
 sAA
 sS
+suma
 melhor
 medida
 mem
@@ -5172,6 +5182,7 @@ upp
 uqqqqq
 uqr
 utt
+utilizei
 representa
 rica
 requisitos
@@ -5555,6 +5566,7 @@ rnnn
 rvvf
 rL
 redundancia
+relacionais
 hardware
 heuristic
 highlights
@@ -5687,6 +5699,7 @@ hHJ
 hB
 hji
 hdl
+hierarquica
 linguagem
 lculo
 leva
@@ -6276,6 +6289,8 @@ RI
 RUS
 RPx
 RYQ
+Relacional
+Relacionais
 Devemos
 Definition
 Drawing
@@ -6969,6 +6984,7 @@ iT
 iem
 inN
 isolamento
+images
 Teremos
 The
 This
@@ -7757,6 +7773,8 @@ Hiii
 HILx
 HJL
 HOI
+Henry
+Hierarquico
 Approaches
 An
 Arquitetura
@@ -7944,6 +7962,7 @@ AAAt
 Ag
 Ak
 Aulas
+Abraham
 Nearest
 Neighbor
 No
@@ -8612,6 +8631,7 @@ EEEM
 Ezr
 Edgar
 Ellison
+Evolucao
 Key
 KKKKK
 Keysorting
@@ -8683,6 +8703,7 @@ KP
 Kn
 KTB
 KKKZZ
+KORTH
 Vetor
 VIEW
 Verdadeira
@@ -9222,6 +9243,8 @@ GBgH
 GRRr
 Gc
 GsssV
+Gerenciador
+Glossario
 LM
 LOKO
 Lab

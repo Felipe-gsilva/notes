@@ -1,3 +1,8 @@
+---
+title: Glossario
+weight: 33
+---
+
 ## SGBD
 - Sistema gerenciador de banco de dados eh uma coleção de programas com proposito sistemático e eficiente nas tarefas de armazenamento e recuperação de dados.
 - Banco de Dados -> seção logica (arquivos) onde os dados são armazenados, normalmente, associado a um SGBD com repositórios dos respectivos dados e estruturas de controle.
@@ -21,8 +26,7 @@
 Uma colecao de ferramentas concentuais que servem para descrever dados, relacoes, semanticas e constraints. Descreve uma forma de descrever o _design_ de um banco de dados em qualquer nivel, partindo do mundo real.
 > _ex_: hierarquico, relacional, orientado a objeto, a grafos... cada geracao ou amplia o restringe o objeto de estudo dos modelos, grafos eh restrito, objeto eh amplo (em representacao semantica).
 
-
-# Linguagens
+# Linguagens de Modelagem de dados
 
 **Linguagem de definicao de dados (LDD)**: eh a linguagem do sgbd que permite a especificacao dos esquemas. (altera o Nivel conceitual) Altera propriedades dos dados.
 
@@ -31,3 +35,10 @@ Uma colecao de ferramentas concentuais que servem para descrever dados, relacoes
 - Permite a insercao de nova informacao no DB.
 - Permite deletar informacao do DB.
 - Permite modificacao de informacao.
+
+# Modelo de Entidade-Relacionamento (ME-R)
+
+
+# Modelo de Entidade-Relacionamento Estendido (ME-RX)
+
+
