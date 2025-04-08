@@ -1,8 +1,9 @@
-Este documento representa meus estudos acerca do livro Redes de Computadores e a Internet - uma abordagem top down
-
+---
+title: "12. Comparilhamento de arquivos: Aplicacoes P2P"
+weight: 39
+description: "Este documento representa meus estudos acerca do livro Redes de Computadores e a Internet - uma abordagem top down"
 ---
 
-# Comparilhamento de arquivos - Aplicacao P2P
 
 O mais usado na Internet.
 Ele nao utiliza do potencial de computacao distribuida proveniente na Rede.
