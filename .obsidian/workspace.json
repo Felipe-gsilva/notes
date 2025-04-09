@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cs/5° Semestre/Redes de Computadores/13.1.md",
+                "file": "Cs/5° Semestre/Redes de Computadores/13.1 Reliable Data Transfer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.1"
+              "title": "13.1 Reliable Data Transfer"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5cd6ba123eaad068",
@@ -195,8 +196,13 @@
   },
   "active": "9592b21d4b4f1ee4",
   "lastOpenFiles": [
+    "1744207316_grim.png",
+    "1744206705_grim.png",
+    "1744205865_grim.png",
+    "1744205195_grim.png",
+    "1744205046_grim.png",
     "Cs/5° Semestre/Redes de Computadores/13. Camada-de-Transporte.md",
-    "Cs/5° Semestre/Redes de Computadores/13.1.md",
+    "Cs/5° Semestre/Redes de Computadores/13.1 Reliable Data Transfer.md",
     "Cs/5° Semestre/Banco de Dados/3.1. Modelo-Endidade-Relacionamento-Estendido.md",
     "Cs/5° Semestre/Banco de Dados/Glossario.md",
     "Cs/5° Semestre/Banco de Dados/0. Header.md",
@@ -227,10 +233,6 @@
     "Cs/5° Semestre/public/1743535162_grim.png",
     "Cs/5° Semestre/Banco de Dados/3.1. Modelo-Endidade-Relacionamento-Estendido.md~",
     "Cs/5° Semestre/public/1743534706_grim.png",
-    "Cs/5° Semestre/public/1743534478_grim.png",
-    "Cs/5° Semestre/public/1743534266_grim.png",
-    "Cs/5° Semestre/public/1743534007_grim.png",
-    "Cs/5° Semestre/public/1743533794_grim.png",
-    "Cs/5° Semestre/public/1743531342_grim.png"
+    "Cs/5° Semestre/public/1743534478_grim.png"
   ]
 }

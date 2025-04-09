@@ -244,6 +244,7 @@ Codd
 Camada
 Checksum
 Considera
+Confirma
 Quantidade
 Quest
 Qualquer
@@ -748,6 +749,9 @@ dDD
 dHzz
 description
 desperdicio
+duplicacao
+descarta
+duplicado
 trabalho
 tomada
 tipos
@@ -1064,6 +1068,9 @@ transmissao
 tubo
 tolerantes
 transmitido
+tinha
+transito
+timeout
 entrada
 estados
 estrutura
@@ -1996,6 +2003,11 @@ ajj
 abordagem
 aplicacao
 afunilar
+avisa
+aconteceu
+assumiremos
+aguarda
+ack
 Se
 Somat
 Start
@@ -2204,6 +2216,7 @@ SILBERSCHATZ
 SUDARSHAN
 SGBS
 Soma
+Solucao
 complexidade
 como
 caso
@@ -2833,6 +2846,8 @@ camadas
 confirma
 confi
 canal
+corrompidos
+chegou
 xima
 ximo
 xi
@@ -4598,6 +4613,7 @@ sockets
 saibam
 stateless
 sensiveis
+sabe
 melhor
 medida
 mem
@@ -5625,6 +5641,11 @@ receptor
 reusltado
 ruins
 rdt
+retransmiss
+reQuest
+retransmitir
+retransmite
+retransmitido
 hardware
 heuristic
 highlights
@@ -6359,6 +6380,7 @@ Reduz
 RFC
 Reliable
 RDT
+Receptor
 Devemos
 Definition
 Drawing
@@ -8042,6 +8064,9 @@ Ag
 Ak
 Aulas
 Abraham
+Automatic
+ACKS
+ACK
 Nearest
 Neighbor
 No
@@ -8153,6 +8178,9 @@ Nivel
 Np
 NJ
 NFvvv
+Negativa
+NAKS
+NAK
 Issues
 It
 Invariante
@@ -8715,6 +8743,7 @@ Ellison
 Evolucao
 Elimina
 Emissor
+Exige
 Key
 KKKKK
 Keysorting
@@ -9719,6 +9748,7 @@ BLMMy
 Bdff
 BaM
 Bx
+Bits
 juntar
 jeito
 jump
@@ -9875,6 +9905,7 @@ kmQC
 kkj
 kok
 kjjb
+katex
 zeros
 zero
 zes
