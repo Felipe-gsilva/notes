@@ -6358,6 +6358,7 @@ Resulta
 Reduz
 RFC
 Reliable
+RDT
 Devemos
 Definition
 Drawing
