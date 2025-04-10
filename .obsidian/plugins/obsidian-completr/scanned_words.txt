@@ -850,6 +850,8 @@ desperdi
 dificultando
 deviamos
 draft
+decidem
+dire
 trabalho
 tomada
 tipos
@@ -1214,6 +1216,8 @@ terminam
 tentando
 tratamos
 tentativa
+travessia
+tela
 entrada
 estados
 estrutura
@@ -1730,6 +1734,7 @@ extras
 economizando
 especie
 extraimos
+escrit
 aplica
 acaso
 assint
@@ -2268,6 +2273,9 @@ alternar
 abordados
 adotar
 acomode
+acquire
+atravessar
+adicionando
 Se
 Somat
 Start
@@ -2513,6 +2521,7 @@ STCF
 Share
 Segmenta
 SSDs
+Sempre
 complexidade
 como
 caso
@@ -3232,6 +3241,9 @@ compactar
 cabiam
 concorrencia
 conferir
+comida
+corda
+concluir
 xima
 ximo
 xi
@@ -3920,6 +3932,9 @@ permiss
 pida
 pego
 policy
+ponte
+pesados
+projetado
 qualquer
 que
 quina
@@ -4265,6 +4280,7 @@ oposta
 obvia
 ocorrendo
 operacionanis
+ordenacao
 ncia
 nesse
 ndice
@@ -4734,6 +4750,7 @@ facilita
 falaremos
 fazemos
 falar
+funcion
 se
 sendo
 ser
@@ -5252,6 +5269,9 @@ sobras
 spaces
 stash
 sermos
+smoker
+sozinhos
+semaforos
 melhor
 medida
 mem
@@ -5612,6 +5632,12 @@ motivam
 mapeado
 maor
 maioria
+macacos
+margens
+macaco
+medo
+mulheres
+mantidas
 buscamos
 baseada
 base
@@ -5813,6 +5839,7 @@ buscando
 batch
 bounds
 buscou
+banheiro
 uma
 um
 unvisited
@@ -5973,6 +6000,7 @@ uOMI
 uvtl
 unlocked
 unlock
+unissex
 representa
 rica
 requisitos
@@ -6439,6 +6467,9 @@ requisitado
 retornada
 retorne
 realistas
+rwlock
+readlock
+representem
 hardware
 heuristic
 highlights
@@ -6591,6 +6622,7 @@ handlers
 hit
 hibrida
 hiperveloz
+homens
 linguagem
 lculo
 leva
@@ -7051,6 +7083,7 @@ Manter
 Muitos
 Menores
 Multiprocessador
+Macacos
 RAM
 Reindexa
 Repeat
@@ -7263,6 +7296,7 @@ Responsabilidades
 Register
 Renzi
 Reiher
+Reader
 Devemos
 Definition
 Drawing
@@ -7490,6 +7524,7 @@ Deamon
 Direta
 Diferenca
 Dusseau
+Declara
 vel
 vale
 valores
@@ -8055,6 +8090,10 @@ ilegais
 inutilizadas
 introduz
 ilusao
+indo
+imprima
+identificando
+inani
 Teremos
 The
 This
@@ -8253,6 +8292,8 @@ Tradu
 Tratando
 Traps
 Turnaround
+Thread
+Throttling
 Problem
 Pair
 Python
@@ -8656,6 +8697,7 @@ wuu
 wN
 wvv
 watermark
+writelock
 given
 growth
 guarantee
@@ -8866,6 +8908,7 @@ gradual
 guo
 gerir
 guardamos
+gorilas
 Heuristic
 Hashing
 HDD
@@ -9346,6 +9389,7 @@ Nosso
 Nem
 Nele
 Note
+Nunca
 Issues
 It
 Invariante
@@ -9529,6 +9573,7 @@ IqQ
 IbB
 Identifir
 Inefici
+Implemente
 yield
 yaml
 yd
@@ -10562,6 +10607,7 @@ Flexibilidade
 Fina
 Fine
 Fault
+Famous
 Geraldo
 GwR
 GIbey
