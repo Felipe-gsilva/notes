@@ -849,6 +849,7 @@ definem
 desperdi
 dificultando
 deviamos
+draft
 trabalho
 tomada
 tipos
@@ -7049,6 +7050,7 @@ MLFQ
 Manter
 Muitos
 Menores
+Multiprocessador
 RAM
 Reindexa
 Repeat
@@ -7259,6 +7261,8 @@ Recently
 Reloca
 Responsabilidades
 Register
+Renzi
+Reiher
 Devemos
 Definition
 Drawing
@@ -7485,6 +7489,7 @@ Dire
 Deamon
 Direta
 Diferenca
+Dusseau
 vel
 vale
 valores
@@ -8511,6 +8516,7 @@ Privilegiadas
 Passos
 Poucos
 Paginas
+Proporcional
 with
 which
 when
@@ -9209,6 +9215,8 @@ Atribuicao
 Allotment
 Alocar
 Ate
+Arpaci
+Andrea
 Nearest
 Neighbor
 No
@@ -9733,6 +9741,7 @@ Outro
 Out
 Objetivos
 Operacional
+Operating
 Exhaustive
 Enumerate
 Exerc
