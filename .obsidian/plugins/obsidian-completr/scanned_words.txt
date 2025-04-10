@@ -271,6 +271,7 @@ CY
 CEEELL
 CXX
 Consumidor
+Construindo
 Quantidade
 Quest
 Qualquer
@@ -2157,6 +2158,7 @@ akhhdd
 aCK
 arc
 adff
+antigas
 Se
 Somat
 Start
@@ -3076,6 +3078,7 @@ cuu
 cX
 condicao
 conseguira
+criticas
 xima
 ximo
 xi
@@ -3724,6 +3727,8 @@ pp
 ppph
 pqq
 prosseguir
+promover
+privilegios
 qualquer
 que
 quina
@@ -4499,6 +4504,7 @@ faaajjZXXx
 fc
 fs
 fSwM
+fosse
 se
 sendo
 ser
@@ -4986,6 +4992,7 @@ sK
 sgN
 sW
 semaforo
+suporte
 melhor
 medida
 mem
@@ -5319,6 +5326,7 @@ mmmv
 mtq
 mll
 mutual
+multiprocessador
 buscamos
 baseada
 base
@@ -6252,6 +6260,7 @@ hLl
 hjbH
 hff
 hbb
+habilitam
 linguagem
 lculo
 leva
@@ -7649,6 +7658,8 @@ iiiZZZUU
 iz
 iHH
 ioo
+interrupcoes
+interrupcao
 Teremos
 The
 This
@@ -8083,6 +8094,7 @@ PWWw
 Produtor
 Pthread
 POSIX
+Parando
 with
 which
 when
