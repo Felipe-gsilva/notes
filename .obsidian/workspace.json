@@ -167,8 +167,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           }
         ],
@@ -189,8 +189,7 @@
       "obsidian-kanban:Criar um novo quadro": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "34ed38730b4b47a3",
