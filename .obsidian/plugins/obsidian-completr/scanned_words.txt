@@ -743,6 +743,9 @@ desejamos
 dzII
 dDD
 dHzz
+description
+delimita
+desfaz
 trabalho
 tomada
 tipos
@@ -1055,6 +1058,7 @@ tyXX
 title
 tratareos
 temas
+trava
 entrada
 estados
 estrutura
@@ -1502,6 +1506,7 @@ escritas
 estudado
 escopo
 evolucao
+exclusion
 aplica
 acaso
 assint
@@ -2799,6 +2804,7 @@ criou
 consultas
 curso
 conexoes
+conseguira
 xima
 ximo
 xi
@@ -3379,6 +3385,7 @@ pZZZ
 pw
 pIJJ
 prv
+prosseguir
 qualquer
 que
 quina
@@ -4854,6 +4861,7 @@ mz
 mim
 matematico
 multiplos
+mutual
 buscamos
 baseada
 base
@@ -5183,6 +5191,8 @@ uqqqqq
 uqr
 utt
 utilizei
+unlocked
+unlock
 representa
 rica
 requisitos
@@ -5567,6 +5577,7 @@ rvvf
 rL
 redundancia
 relacionais
+retem
 hardware
 heuristic
 highlights
@@ -5947,6 +5958,9 @@ lmmmll
 lnn
 lihP
 lancado
+lock
+locked
+locks
 Modelo
 Move
 Melhor
@@ -6656,6 +6670,7 @@ vTP
 vImcI
 vpt
 vVrR
+vira
 idealizaremos
 instru
 inteiros
@@ -7348,6 +7363,8 @@ Problemas
 Pu
 PZZ
 PTTTTR
+Pthread
+POSIX
 with
 which
 when
@@ -9384,6 +9401,8 @@ Lyyy
 LfUIQ
 LMMiokg
 Larry
+Locks
+Lib
 Usamos
 Um
 Usando

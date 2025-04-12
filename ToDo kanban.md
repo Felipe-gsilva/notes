@@ -15,7 +15,6 @@ kanban-plugin: board
 
 ## provas e trabalhos
 
-- [ ] prova 1 BD @{2025-04-08}
 - [ ] prova 1 LFA @{2025-04-14}
 - [ ] prova 1 grafos @{2025-05-07}
 - [ ] prova 2 SO @{2025-05-16}
@@ -40,6 +39,7 @@ kanban-plugin: board
 
 ## Done
 
+- [X] prova 1 BD @{2025-04-08}
 - [X] prova 1 SO @{2025-03-31}
 - [x] read chapters 4, 5 and 6 OS classes.
 - [X] read chapters 4, 5 and 6 OS classes.

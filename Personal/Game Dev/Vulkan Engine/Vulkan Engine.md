@@ -1,4 +1,4 @@
-  
+- [ ] logger
 - [ ] Change Physical Device Priority by giving it a score
 - [ ] Vertex Shader
     - [ ] Explicit flushing on mem allocation
@@ -27,8 +27,6 @@
 - [ ] z-buffer
 - [ ] camera 
 - [ ] view transform
-- [ ] world gen (pairling noise problably)
-- [ ] 
-
+- [ ] world generation (pairling noise problably) into a 3d mash
 
 [[Audio Handler]]
