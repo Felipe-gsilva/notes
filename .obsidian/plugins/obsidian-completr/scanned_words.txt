@@ -241,6 +241,7 @@ CMu
 CLF
 Ciencia
 Codd
+Concatena
 Quantidade
 Quest
 Qualquer
@@ -315,6 +316,7 @@ QU
 Qquu
 Qb
 QLB
+Queremos
 de
 depende
 da
@@ -746,6 +748,8 @@ dHzz
 description
 delimita
 desfaz
+denota
+deterministicos
 trabalho
 tomada
 tipos
@@ -1507,6 +1511,8 @@ estudado
 escopo
 evolucao
 exclusion
+estrela
+eafac
 aplica
 acaso
 assint
@@ -1982,6 +1988,9 @@ acontecendo
 amm
 aii
 ajj
+aceitam
+adb
+author
 Se
 Somat
 Start
@@ -2189,6 +2198,8 @@ SQL
 SILBERSCHATZ
 SUDARSHAN
 SGBS
+Sem
+Silva
 complexidade
 como
 caso
@@ -2805,6 +2816,7 @@ consultas
 curso
 conexoes
 conseguira
+ceita
 xima
 ximo
 xi
@@ -4110,6 +4122,9 @@ ff
 fYYY
 foco
 futuramente
+fechada
+finitos
+fechadas
 se
 sendo
 ser
@@ -4862,6 +4877,7 @@ mim
 matematico
 multiplos
 mutual
+modificamos
 buscamos
 baseada
 base
@@ -5578,6 +5594,8 @@ rL
 redundancia
 relacionais
 retem
+regulares
+reconhe
 hardware
 heuristic
 highlights
@@ -6125,6 +6143,7 @@ MMMl
 MLJJ
 MG
 MBB
+Matheus
 RAM
 Reindexa
 Repeat
@@ -6305,6 +6324,7 @@ RPx
 RYQ
 Relacional
 Relacionais
+Regulares
 Devemos
 Definition
 Drawing
@@ -6497,6 +6517,9 @@ DT
 DmA
 DNII
 DiY
+Determin
+Deterministicos
+Demonstra
 vel
 vale
 valores
@@ -7000,6 +7023,7 @@ iem
 inN
 isolamento
 images
+image
 Teremos
 The
 This
@@ -7152,6 +7176,7 @@ TaFF
 Tgg
 Teoria
 Tuplas
+Thome
 Problem
 Pair
 Python
@@ -7980,6 +8005,7 @@ Ag
 Ak
 Aulas
 Abraham
+AFD
 Nearest
 Neighbor
 No
@@ -8649,6 +8675,9 @@ Ezr
 Edgar
 Ellison
 Evolucao
+Expressoes
+ERs
+Equivalentes
 Key
 KKKKK
 Keysorting
@@ -9157,6 +9186,8 @@ Fza
 Fnnnttttttnn
 FtU
 Frank
+Finitos
+Formais
 Geraldo
 GwR
 GIbey
@@ -9262,6 +9293,7 @@ Gc
 GsssV
 Gerenciador
 Glossario
+Gramaticas
 LM
 LOKO
 Lab
@@ -9807,6 +9839,7 @@ kmQC
 kkj
 kok
 kjjb
+katex
 zeros
 zero
 zes

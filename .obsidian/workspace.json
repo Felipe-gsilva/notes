@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cs/5° Semestre/Banco de Dados/3.1. Modelo-Endidade-Relacionamento-Estendido.md",
+                "file": "Cs/5° Semestre/Linguagens Formais e Automatos/2. Gramatica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1. Modelo-Endidade-Relacionamento-Estendido"
+              "title": "2. Gramatica"
             }
           },
           {
@@ -174,23 +174,14 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "34ed38730b4b47a3",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 352.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,6 +199,17 @@
   },
   "active": "9592b21d4b4f1ee4",
   "lastOpenFiles": [
+    "Cs/5° Semestre/Linguagens Formais e Automatos/exec.md",
+    "Cs/5° Semestre/Linguagens Formais e Automatos/8. Expressoes-Regulares.md",
+    "Cs/5° Semestre/Linguagens Formais e Automatos/2. Gramatica.md",
+    "Cs/5° Semestre/Linguagens Formais e Automatos/6.AFD-Equivalente.md",
+    "Cs/5° Semestre/Linguagens Formais e Automatos/7. Operacoes-de-linguagens-regulares.md",
+    "Cs/5° Semestre/Linguagens Formais e Automatos/1.Introducao.md",
+    "Cs/5° Semestre/Linguagens Formais e Automatos/0. Header.md",
+    "Cs/5° Semestre/Linguagens Formais e Automatos/4. Automatos-finitos-deterministicos.md",
+    "Cs/5° Semestre/Linguagens Formais e Automatos/5. Automato-finito-nao-deterministico.md",
+    "Cs/5° Semestre/Linguagens Formais e Automatos/3. Tipos de Gramaticas.md",
+    "Cs/5° Semestre/Banco de Dados/3.1. Modelo-Endidade-Relacionamento-Estendido.md",
     "Cs/5° Semestre/Sistemas Operacionais/14. Locks.md",
     "conflict-files-obsidian-git.md",
     "Cs/5° Semestre/public/image.png",
@@ -233,17 +235,6 @@
     "Cs/5° Semestre/Sistemas Operacionais/3.1. Multi-Level Feedback Queue.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.3..md",
     "Cs/5° Semestre/Sistemas Operacionais/11.2. Semaforos.md",
-    "Cs/5° Semestre/Sistemas Operacionais/11.1. Locks.md",
-    "Cs/5° Semestre/Sistemas Operacionais/11. Introducao-a-Concorrencia.md",
-    "Cs/5° Semestre/Sistemas Operacionais/10.1 Politicas-de-swap.md",
-    "Cs/5° Semestre/Sistemas Operacionais/10. Swapping.md",
-    "Cs/5° Semestre/Redes de Computadores/8.1 Reliable Data Transfer.md",
-    "Cs/5° Semestre/Redes de Computadores/8. Camada-de-Transporte.md",
-    "Cs/5° Semestre/Redes de Computadores/7.5. Aplicacoes-P2P.md",
-    "Cs/5° Semestre/Redes de Computadores/7.4. DNS.md",
-    "Cs/5° Semestre/Redes de Computadores/7.3. SMTP.md",
-    "Cs/5° Semestre/Redes de Computadores/7.2. FTP.md",
-    "Cs/5° Semestre/Redes de Computadores/7.1. HTTP.md",
     "Cs/5° Semestre/Banco de Dados/3. Modelo-entidade-relacionamento.md.part",
     "Cs/5° Semestre/Banco de Dados/0. Header.md.part",
     "Cs/5° Semestre/public",
