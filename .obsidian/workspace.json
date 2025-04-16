@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d3cbfd8c7c5e8754",
+        "id": "1b85a315970c5e27",
         "type": "tabs",
         "children": [
           {
-            "id": "98ba762f8b0ec180",
+            "id": "b733ff6ecc6d8b96",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ToDo kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    null,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Cs/5° Semestre/Redes de Computadores/8.3. TCP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "ToDo kanban"
+              "icon": "lucide-file",
+              "title": "8.3. TCP"
             }
           }
         ]
@@ -203,8 +193,32 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "98ba762f8b0ec180",
+  "active": "b733ff6ecc6d8b96",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Cs/5° Semestre/Redes de Computadores/8.3. TCP.md",
+    "Cs/5° Semestre/public/Pasted image 20250415163401.png",
+    "Cs/5° Semestre/Redes de Computadores/8.2. Protocolos Dutados.md",
+    "Cs/5° Semestre/Banco de Dados/4. Modelo Relacional.md",
+    "Cs/4° Semestre/Probabilidade e Estatística/11 - Variáveis Aleatórias Contínuas.md",
+    "Cs/5° Semestre/public/Pasted image 20250415163351.png",
+    "Cs/5° Semestre/public/Pasted image 20250415162203.png",
+    "Cs/5° Semestre/public/Pasted image 20250415161143.png",
+    "Cs/5° Semestre/public/Pasted image 20250415160355.png",
+    "Cs/5° Semestre/public/Pasted image 20250415152659.png",
+    "Cs/5° Semestre/Banco de Dados/3. Modelo-entidade-relacionamento.md",
+    "Cs/5° Semestre/Banco de Dados/2. Arquitetura-de-um-Gerenciador.md",
+    "Cs/5° Semestre/Banco de Dados/1. Introducao.md",
+    "Cs/5° Semestre/public/Pasted image 20250415102607.png",
+    "Cs/5° Semestre/Banco de Dados/3.1. Modelo-Endidade-Relacionamento-Estendido.md",
+    "Cs/5° Semestre/public/Pasted image 20250415105349.png",
+    "Cs/5° Semestre/public/Pasted image 20250415104003.png",
+    "Cs/5° Semestre/public/Pasted image 20250415102857.png",
+    "Cs/5° Semestre/Redes de Computadores/8.1 Reliable Data Transfer.md",
+    "Cs/5° Semestre/Redes de Computadores/7.1. HTTP.md",
+    "Cs/5° Semestre/Sistemas Operacionais/14. Locks.md",
+    "ToDo kanban.md",
+    "Cs/5° Semestre/Linguagens Formais e Automatos/exec.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.2. Semaforos.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.3..md",
     "Cs/5° Semestre/Sistemas Operacionais/11. Introducao-a-Concorrencia.md",
@@ -216,39 +230,14 @@
     "Cs/5° Semestre/Sistemas Operacionais/3.1. Multi-Level Feedback Queue.md",
     "Cs/5° Semestre/Sistemas Operacionais/3. Introducao-ao-Escalonamento.md",
     "Cs/5° Semestre/Sistemas Operacionais/2. Limited-Direct-Execution.md",
-    "Cs/5° Semestre/Sistemas Operacionais/1. Introducao-a-Processos.md",
-    "Cs/5° Semestre/Sistemas Operacionais/1.1 API-de-processos.md",
-    "Cs/5° Semestre/Sistemas Operacionais/0. header.md",
-    "Cs/5° Semestre/Sistemas Operacionais/10. Swapping.md",
-    "Cs/5° Semestre/Sistemas Operacionais/10.1 Politicas-de-swap.md",
     "Cs/5° Semestre/Engenharia de Software/5. Projeto-de-arquitetura.md~",
     "Cs/5° Semestre/Engenharia de Software/4913",
-    "Cs/5° Semestre/Sistemas Operacionais/9.1 Tabelas-menores.md",
-    "Cs/5° Semestre/Sistemas Operacionais/9. Traducoes-rapidas(TLBs).md",
-    "Cs/5° Semestre/Sistemas Operacionais/8. Paginacao.md",
-    "Cs/5° Semestre/Sistemas Operacionais/7. Gerenciamento-de-Espaco-Livre.md",
-    "Cs/5° Semestre/Sistemas Operacionais/6. Segmentacao.md",
-    "Cs/5° Semestre/Sistemas Operacionais/5. Virtualizacao-de-Memoria.md",
-    "Cs/5° Semestre/Sistemas Operacionais/Resumo.md",
-    "Personal/Game Dev/Vulkan Engine/Audio Handler.md",
-    "Personal/Game Dev/Vulkan Engine/Vulkan Engine.md",
-    "ToDo kanban.md",
     "ToDo kanban.md~",
-    "Cs/5° Semestre/public/1744205046_grim.png",
-    "Cs/5° Semestre/public/1744207316_grim.png",
-    "Cs/5° Semestre/public/1744206705_grim.png",
-    "Cs/5° Semestre/public/1744205865_grim.png",
-    "Cs/5° Semestre/public/1744205195_grim.png",
     "Cs/5° Semestre/Banco de Dados/3. Modelo-entidade-relacionamento.md.part",
     "Cs/5° Semestre/Banco de Dados/0. Header.md.part",
-    "Cs/5° Semestre/public/1742324795_grim.png",
     "Cs/5° Semestre/public",
-    "public/exercicio-1-counting-lista-2-paa.png",
     "Cs/5° Semestre/Sistemas Operacionais/13. Introducao-a-Concorrencia.md~",
     "Cs/5° Semestre/Sistemas Operacionais/praticos/#26-threads.c#",
-    "Cs/5° Semestre/public/1743536045_grim.png",
-    "Cs/5° Semestre/public/1743535162_grim.png",
-    "Cs/5° Semestre/Banco de Dados/3.1. Modelo-Endidade-Relacionamento-Estendido.md~",
-    "Cs/5° Semestre/public/1743534706_grim.png"
+    "Cs/5° Semestre/Banco de Dados/3.1. Modelo-Endidade-Relacionamento-Estendido.md~"
   ]
 }
