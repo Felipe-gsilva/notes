@@ -290,6 +290,7 @@ Consiste
 Confirmacao
 CCC
 CMM
+Conex
 Quantidade
 Quest
 Qualquer
@@ -875,6 +876,10 @@ drr
 dkk
 datas
 disparadas
+duplex
+desnecessarias
+drop
+dobra
 trabalho
 tomada
 tipos
@@ -1251,6 +1256,10 @@ tbb
 tQQ
 tC
 teria
+temporizador
+trip
+tiradas
+tima
 entrada
 estados
 estrutura
@@ -1782,6 +1791,8 @@ eeeqqqEEE
 eQ
 eY
 ebB
+empiricamente
+esgote
 aplica
 acaso
 assint
@@ -2339,6 +2350,9 @@ ahb
 aYSy
 aY
 ajkk
+adaptativo
+ajustes
+atribuido
 Se
 Somat
 Start
@@ -2599,6 +2613,9 @@ SUU
 SDE
 Solicitacao
 Syn
+Solicita
+Sample
+SRTT
 complexidade
 como
 caso
@@ -3338,6 +3355,9 @@ ca
 ccc
 cVV
 cumulativos
+congestionado
+congestionamentos
+congwin
 xima
 ximo
 xi
@@ -4050,6 +4070,9 @@ pvv
 pttttt
 pkZ
 puu
+pedindo
+perguntando
+progressivamente
 qualquer
 que
 quina
@@ -4614,6 +4637,8 @@ nh
 nooOw
 ncc
 noo
+numera
+nticos
 for
 float
 framed
@@ -4911,6 +4936,9 @@ fffn
 fSe
 fss
 fDFFZ
+fechamento
+fin
+fornecida
 se
 sendo
 ser
@@ -5449,6 +5477,9 @@ srrH
 sfff
 szf
 syn
+samples
+setado
+sintoma
 melhor
 medida
 mem
@@ -5822,6 +5853,8 @@ mariadb
 multivalorados
 mill
 miii
+medido
+manifesta
 buscamos
 baseada
 base
@@ -6033,6 +6066,7 @@ blj
 bA
 bEFFzzz
 bIDAT
+bilateralmente
 uma
 um
 unvisited
@@ -6681,6 +6715,11 @@ rXXXl
 rcc
 rrrkk
 rB
+recep
+retransmissoes
+reagir
+recentes
+rtt
 hardware
 heuristic
 highlights
@@ -6838,6 +6877,8 @@ hoje
 hdY
 hL
 htttT
+houve
+havar
 linguagem
 lculo
 leva
@@ -7115,6 +7156,7 @@ lEEE
 lcG
 lSS
 loookk
+longos
 Modelo
 Move
 Melhor
@@ -7539,6 +7581,11 @@ Rx
 RHH
 RGGF
 Retransmiss
+RTO
+RTTVAR
+RcvBuffer
+RcvWindow
+RcvWin
 Devemos
 Definition
 Drawing
@@ -7779,6 +7826,8 @@ DBzmj
 Duu
 DQQ
 DYYYZZ
+Dev
+DEFINIR
 vel
 vale
 valores
@@ -8370,6 +8419,8 @@ igg
 iN
 iUU
 iY
+impasse
+inativas
 Teremos
 The
 This
@@ -8578,6 +8629,8 @@ TTBlnnnjjjll
 Tc
 TMMM
 TQA
+Timers
+Timer
 Problem
 Pair
 Python
@@ -8849,6 +8902,9 @@ Pg
 PL
 PPPPQQQXX
 Pdgg
+Persist
+Partida
+Preven
 with
 which
 when
@@ -9211,6 +9267,7 @@ gSQ
 gpuu
 gggz
 gJ
+granularidade
 Heuristic
 Hashing
 HDD
@@ -9578,6 +9635,7 @@ AAAVVVmm
 Axxxl
 Ack
 ACKs
+Alive
 Nearest
 Neighbor
 No
@@ -10359,6 +10417,8 @@ Escrita
 Execucao
 Escopos
 EETM
+Encerramento
+Estimated
 Key
 KKKKK
 Keysorting
@@ -10446,6 +10506,7 @@ KWW
 KIIILL
 KKKKKKB
 KKKWW
+Keep
 Vetor
 VIEW
 Verdadeira
@@ -10597,6 +10658,7 @@ VVVqqq
 VTYaeeeeeu
 VPP
 VUUURR
+Vivo
 Java
 JE
 JZ
@@ -10983,6 +11045,7 @@ Full
 Fx
 FrrrXX
 Ftu
+FIN
 Geraldo
 GwR
 GIbey
@@ -12030,6 +12093,7 @@ Wrss
 WWWuG
 Wc
 WTT
+Wait
 Zp
 ZF
 Zv
