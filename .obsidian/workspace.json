@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cs/5° Semestre/Redes de Computadores/7.4. DNS.md",
+                "file": "Cs/5° Semestre/Redes de Computadores/8.3. TCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.4. DNS"
+              "title": "8.3. TCP"
             }
           }
         ],
@@ -226,12 +226,12 @@
   "lastOpenFiles": [
     "Cs/5° Semestre/Redes de Computadores/8.2. Protocolos Dutados.md",
     "Cs/5° Semestre/Redes de Computadores/8.1 Reliable Data Transfer.md",
-    "Cs/5° Semestre/Redes de Computadores/8.3. TCP.md",
     "Cs/5° Semestre/Redes de Computadores/8. Camada-de-Transporte.md",
+    "Cs/5° Semestre/Redes de Computadores/7.3. SMTP.md",
+    "Cs/5° Semestre/Redes de Computadores/7.4. DNS.md",
+    "Cs/5° Semestre/Redes de Computadores/8.3. TCP.md",
     "Cs/5° Semestre/Redes de Computadores/0. Header.md",
     "Cs/5° Semestre/Redes de Computadores/7.5. Aplicacoes-P2P.md",
-    "Cs/5° Semestre/Redes de Computadores/7.4. DNS.md",
-    "Cs/5° Semestre/Redes de Computadores/7.3. SMTP.md",
     "Cs/5° Semestre/Redes de Computadores/7.2. FTP.md",
     "Cs/5° Semestre/Redes de Computadores/7.1. HTTP.md",
     "Cs/5° Semestre/Redes de Computadores/7. Camadas-de-aplicacao.md",
