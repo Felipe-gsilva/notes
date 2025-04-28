@@ -880,6 +880,7 @@ duplex
 desnecessarias
 drop
 dobra
+deliver
 trabalho
 tomada
 tipos
@@ -2616,6 +2617,7 @@ Syn
 Solicita
 Sample
 SRTT
+Suposi
 complexidade
 como
 caso
@@ -6721,6 +6723,7 @@ retransmissoes
 reagir
 recentes
 rtt
+rcv
 hardware
 heuristic
 highlights
