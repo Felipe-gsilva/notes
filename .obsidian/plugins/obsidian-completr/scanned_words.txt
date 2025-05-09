@@ -291,6 +291,9 @@ Confirmacao
 CCC
 CMM
 Conex
+Candidata
+Colocando
+Criar
 Quantidade
 Quest
 Qualquer
@@ -1261,6 +1264,8 @@ temporizador
 trip
 tiradas
 tima
+terceira
+transitiva
 entrada
 estados
 estrutura
@@ -1794,6 +1799,9 @@ eY
 ebB
 empiricamente
 esgote
+excluir
+eleita
+empregado
 aplica
 acaso
 assint
@@ -2354,6 +2362,7 @@ ajkk
 adaptativo
 ajustes
 atribuido
+atribuo
 Se
 Somat
 Start
@@ -3360,6 +3369,10 @@ cumulativos
 congestionado
 congestionamentos
 congwin
+corrigida
+contundente
+cta
+contemplam
 xima
 ximo
 xi
@@ -4075,6 +4088,7 @@ puu
 pedindo
 perguntando
 progressivamente
+prod
 qualquer
 que
 quina
@@ -4205,6 +4219,7 @@ qz
 qb
 qbff
 qON
+quebrar
 ocorr
 ou
 outra
@@ -4436,6 +4451,7 @@ operadores
 orig
 olllgg
 onf
+originou
 ncia
 nesse
 ndice
@@ -4941,6 +4957,8 @@ fDFFZ
 fechamento
 fin
 fornecida
+finalmente
+funcionalmente
 se
 sendo
 ser
@@ -5857,6 +5875,8 @@ mill
 miii
 medido
 manifesta
+mono
+multi
 buscamos
 baseada
 base
@@ -6070,6 +6090,7 @@ bEFFzzz
 bIDAT
 bilateralmente
 bidirecional
+bons
 uma
 um
 unvisited
@@ -6724,6 +6745,7 @@ reagir
 recentes
 rtt
 rcv
+requeridas
 hardware
 heuristic
 highlights
@@ -7590,6 +7612,7 @@ RTTVAR
 RcvBuffer
 RcvWindow
 RcvWin
+Remover
 Devemos
 Definition
 Drawing
@@ -7832,6 +7855,7 @@ DQQ
 DYYYZZ
 Dev
 DEFINIR
+Definir
 vel
 vale
 valores
@@ -8030,6 +8054,7 @@ validos
 vlX
 vias
 vYo
+valorados
 idealizaremos
 instru
 inteiros
@@ -8425,6 +8450,7 @@ iUU
 iY
 impasse
 inativas
+inclu
 Teremos
 The
 This
@@ -8635,6 +8661,7 @@ TMMM
 TQA
 Timers
 Timer
+Transitiva
 Problem
 Pair
 Python
@@ -8909,6 +8936,10 @@ Pdgg
 Persist
 Partida
 Preven
+Prod
+Preco
+Propaga
+Procedimento
 with
 which
 when
@@ -9272,6 +9303,7 @@ gpuu
 gggz
 gJ
 granularidade
+gerente
 Heuristic
 Hashing
 HDD
@@ -9640,6 +9672,9 @@ Axxxl
 Ack
 ACKs
 Alive
+Apresentada
+Anomalias
+ABCD
 Nearest
 Neighbor
 No
@@ -9781,6 +9816,8 @@ NI
 NN
 NE
 Numeros
+Nulos
+Normal
 Issues
 It
 Invariante
@@ -9971,6 +10008,7 @@ Ikkk
 IIImm
 IE
 Intermedi
+Identificar
 yield
 yaml
 yd
@@ -10424,6 +10462,7 @@ Escopos
 EETM
 Encerramento
 Estimated
+End
 Key
 KKKKK
 Keysorting
@@ -10664,6 +10703,7 @@ VTYaeeeeeu
 VPP
 VUUURR
 Vivo
+Valores
 Java
 JE
 JZ
@@ -10784,6 +10824,8 @@ Je
 JeHH
 Jejj
 JKK
+Joao
+JLM
 You
 YKs
 YW
@@ -11051,6 +11093,9 @@ Fx
 FrrrXX
 Ftu
 FIN
+FNC
+FGHI
+Funcional
 Geraldo
 GwR
 GIbey
@@ -11639,6 +11684,7 @@ Brum
 Bassscc
 BTC
 BYYYuuu
+Boyce
 juntar
 jeito
 jump
