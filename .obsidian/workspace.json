@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cs/5° Semestre/Banco de Dados/4.1 Normalização.md",
+                "file": "Cs/5° Semestre/Sistemas Operacionais/17 - SSD's.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 Normalização"
+              "title": "17 - SSD's"
             }
           }
         ]
@@ -196,11 +196,13 @@
   },
   "active": "619a46f3092bc769",
   "lastOpenFiles": [
+    "Cs/5° Semestre/Sistemas Operacionais/16 - Persistência.md",
+    "Cs/5° Semestre/Sistemas Operacionais/17 - SSD's.md",
+    "Cs/5° Semestre/Banco de Dados/4.1 Normalização.md",
     "Pasted image 20250506151440.png",
     "Pasted image 20250506144910.png",
     "Cs/5° Semestre/Banco de Dados/4. Modelo Relacional.md",
     "Cs/5° Semestre/Banco de Dados/4.1.md",
-    "Cs/5° Semestre/Banco de Dados/4.1 Normalização.md",
     "Cs/5° Semestre/Redes de Computadores/8.3. TCP.md",
     "Cs/5° Semestre/Redes de Computadores/8.2. Protocolos Dutados.md",
     "Cs/5° Semestre/Redes de Computadores/8.1 Reliable Data Transfer.md",
@@ -225,13 +227,11 @@
     "Cs/5° Semestre/public/Pasted image 20250415162203.png",
     "Cs/5° Semestre/public/Pasted image 20250415161143.png",
     "Cs/5° Semestre/public/Pasted image 20250415160355.png",
-    "Cs/5° Semestre/public/Pasted image 20250415152659.png",
     "Cs/5° Semestre/Banco de Dados/3. Modelo-entidade-relacionamento.md",
     "Cs/5° Semestre/Banco de Dados/2. Arquitetura-de-um-Gerenciador.md",
     "Cs/5° Semestre/Banco de Dados/1. Introducao.md",
     "Cs/5° Semestre/Banco de Dados/3.1. Modelo-Endidade-Relacionamento-Estendido.md",
     "Cs/5° Semestre/Sistemas Operacionais/14. Locks.md",
-    "ToDo kanban.md",
     "Cs/5° Semestre/Engenharia de Software/5. Projeto-de-arquitetura.md~",
     "Cs/5° Semestre/Engenharia de Software/4913",
     "ToDo kanban.md~",

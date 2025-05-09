@@ -294,6 +294,7 @@ Conex
 Candidata
 Colocando
 Criar
+Cell
 Quantidade
 Quest
 Qualquer
@@ -2363,6 +2364,9 @@ adaptativo
 ajustes
 atribuido
 atribuo
+acumulado
+apagamento
+aleatoriamente
 Se
 Somat
 Start
@@ -2627,6 +2631,9 @@ Solicita
 Sample
 SRTT
 Suposi
+Samsung
+Seagate
+Savvia
 complexidade
 como
 caso
@@ -3373,6 +3380,8 @@ corrigida
 contundente
 cta
 contemplam
+cell
+chavear
 xima
 ximo
 xi
@@ -4959,6 +4968,7 @@ fin
 fornecida
 finalmente
 funcionalmente
+faixas
 se
 sendo
 ser
@@ -5500,6 +5510,8 @@ syn
 samples
 setado
 sintoma
+sobrescrita
+solicitadas
 melhor
 medida
 mem
@@ -7183,6 +7195,7 @@ lcG
 lSS
 loookk
 longos
+lentid
 Modelo
 Move
 Melhor
@@ -7385,6 +7398,7 @@ Mq
 MEE
 Mrss
 MbI
+MB
 RAM
 Reindexa
 Repeat
@@ -8055,6 +8069,7 @@ vlX
 vias
 vYo
 valorados
+volts
 idealizaremos
 instru
 inteiros
@@ -8451,6 +8466,7 @@ iY
 impasse
 inativas
 inclu
+indispens
 Teremos
 The
 This
@@ -8662,6 +8678,9 @@ TQA
 Timers
 Timer
 Transitiva
+Triple
+Tenta
+Tudo
 Problem
 Pair
 Python
@@ -8940,6 +8959,7 @@ Prod
 Preco
 Propaga
 Procedimento
+Pro
 with
 which
 when
@@ -9304,6 +9324,7 @@ gggz
 gJ
 granularidade
 gerente
+guas
 Heuristic
 Hashing
 HDD
@@ -10009,6 +10030,7 @@ IIImm
 IE
 Intermedi
 Identificar
+Intel
 yield
 yaml
 yd
@@ -10551,6 +10573,7 @@ KIIILL
 KKKKKKB
 KKKWW
 Keep
+Krpm
 Vetor
 VIEW
 Verdadeira
