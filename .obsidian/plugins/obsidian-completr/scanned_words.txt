@@ -1273,6 +1273,7 @@ tzpppPP
 tpp
 tzvv
 tcc
+tua
 entrada
 estados
 estrutura
@@ -1815,6 +1816,7 @@ ejJ
 eKtt
 eggkhh
 etm
+entende
 aplica
 acaso
 assint
@@ -3406,6 +3408,7 @@ cgggooogg
 caa
 co
 cGY
+consumidor
 xima
 ximo
 xi
@@ -4125,6 +4128,9 @@ progressivamente
 prod
 pTTT
 pss
+primitiva
+produtor
+produzindo
 qualquer
 que
 quina
@@ -4708,6 +4714,7 @@ nHNN
 nX
 nmm
 nQP
+nisso
 for
 float
 framed
@@ -5016,6 +5023,8 @@ fLss
 fI
 fWW
 fWjkk
+filhas
+funcionaria
 se
 sendo
 ser
@@ -7282,6 +7291,7 @@ loookk
 longos
 lentid
 lqq
+liber
 Modelo
 Move
 Melhor
@@ -7488,6 +7498,7 @@ MB
 MKK
 MOO
 MWW
+Mandamos
 RAM
 Reindexa
 Repeat
@@ -9073,6 +9084,7 @@ PUU
 Phii
 PUUE
 PWW
+Pense
 with
 which
 when
@@ -9448,6 +9460,7 @@ gnn
 glllff
 gLMM
 gWR
+guardados
 Heuristic
 Hashing
 HDD
@@ -9834,6 +9847,7 @@ Alll
 At
 AAAAFFFVVVII
 AOI
+Adicionando
 Nearest
 Neighbor
 No
@@ -10172,6 +10186,7 @@ Identificar
 Intel
 Iff
 Interagimos
+Iniciar
 yield
 yaml
 yd
@@ -11901,6 +11916,7 @@ Boyce
 Bazz
 By
 BBbI
+BUFFER
 juntar
 jeito
 jump
