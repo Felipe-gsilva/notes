@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1b85a315970c5e27",
+        "id": "9fc6d4bc977923cd",
         "type": "tabs",
         "children": [
           {
-            "id": "619a46f3092bc769",
+            "id": "1ca9e2de192aaac6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cs/5° Semestre/Sistemas Operacionais/12 - Persistência.md",
+                "file": "Cs/5° Semestre/Redes de Computadores/9.1. Camada de Rede pt.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 - Persistência"
+              "title": "9.1. Camada de Rede pt.2"
             }
           }
         ]
@@ -194,25 +194,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "619a46f3092bc769",
+  "active": "1ca9e2de192aaac6",
   "lastOpenFiles": [
+    "Pasted image 20250513102816.png",
+    "Cs/5° Semestre/Redes de Computadores/9. Camada de Rede.md",
+    "Cs/5° Semestre/Redes de Computadores/9.1. Camada de Rede pt.2.md",
+    "Cs/5° Semestre/Redes de Computadores/9.1.md",
+    "Cs/5° Semestre/public/1742324795_grim.png",
+    "Cs/5° Semestre/public/7adb2ddd-d360-4b55-87ae-7f47772eafac.png",
+    "public/exercicio-1-counting-lista-2-paa.png",
+    "Cs/5° Semestre/public/Pasted image 20240814174741.png",
+    "Cs/5° Semestre/public/Pasted image 20240904111043.png",
+    "Cs/5° Semestre/public/Pasted image 20240906084733.png",
+    "Cs/5° Semestre/public/Pasted image 20240911111645.png",
+    "Cs/5° Semestre/public/Pasted Image 20240930201338_149.png",
+    "Cs/5° Semestre/public/Pasted image 20241007092550.png",
+    "Cs/5° Semestre/public/Pasted image 20241007092610.png",
+    "Cs/5° Semestre/Sistemas Operacionais/12 - Persistência.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.3. Problemas-comuns-de-concorrência.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.4 Bugs de Concorrência.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.1. Locks.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.4. Locks.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.2. Semaforos.md",
-    "Pasted image 20250512101132.png",
     "Cs/5° Semestre/Sistemas Operacionais/11.7 Event-Based Concurrency.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.5 Semáforos.md",
-    "Cs/5° Semestre/Sistemas Operacionais/12 - Persistência.md",
     "Cs/5° Semestre/Sistemas Operacionais/12.2 - SSD's.md",
     "Cs/5° Semestre/Sistemas Operacionais/16 - Problemas comuns de concorrência.md",
     "Cs/5° Semestre/Sistemas Operacionais/11. Introducao-a-Concorrencia.md",
     "Cs/5° Semestre/Sistemas Operacionais/10.1 Politicas-de-swap.md",
-    "public/Pasted image 20250423101956.png",
     "Cs/5° Semestre/Banco de Dados/4.1 Normalização.md",
-    "public/Pasted image 20250506151440.png",
-    "public/Pasted image 20250506144910.png",
     "Cs/5° Semestre/Banco de Dados/4. Modelo Relacional.md",
     "Cs/5° Semestre/Banco de Dados/4.1.md",
     "Cs/5° Semestre/Redes de Computadores/8.3. TCP.md",
@@ -222,15 +232,6 @@
     "Cs/5° Semestre/Redes de Computadores/7.3. SMTP.md",
     "Cs/5° Semestre/Redes de Computadores/7.4. DNS.md",
     "Cs/5° Semestre/Redes de Computadores/0. Header.md",
-    "Cs/5° Semestre/Redes de Computadores/7.5. Aplicacoes-P2P.md",
-    "Cs/5° Semestre/Redes de Computadores/7.2. FTP.md",
-    "Cs/5° Semestre/Redes de Computadores/7.1. HTTP.md",
-    "public/Pasted image 20250423104541.png",
-    "public/Pasted image 20250423102734.png",
-    "Cs/5° Semestre/public/Pasted image 20250415163401.png",
-    "Cs/5° Semestre/public/Pasted image 20250415163351.png",
-    "Cs/5° Semestre/public/Pasted image 20250415162203.png",
-    "Cs/5° Semestre/public/Pasted image 20250415161143.png",
     "Cs/5° Semestre/Engenharia de Software/5. Projeto-de-arquitetura.md~",
     "Cs/5° Semestre/Engenharia de Software/4913",
     "ToDo kanban.md~",
