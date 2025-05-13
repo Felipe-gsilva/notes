@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cs/5° Semestre/Redes de Computadores/9.1. Camada de Rede pt.2.md",
+                "file": "Cs/5° Semestre/Banco de Dados/4.2. Álgebra Relacional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.1. Camada de Rede pt.2"
+              "title": "4.2. Álgebra Relacional"
             }
           }
         ]
@@ -196,9 +196,18 @@
   },
   "active": "1ca9e2de192aaac6",
   "lastOpenFiles": [
-    "Pasted image 20250513102816.png",
-    "Cs/5° Semestre/Redes de Computadores/9. Camada de Rede.md",
+    "Pasted image 20250513162010.png",
+    "Pasted image 20250513161726.png",
+    "Pasted image 20250513161430.png",
+    "Cs/5° Semestre/Banco de Dados/4.1. Normalização.md",
+    "Cs/5° Semestre/Banco de Dados/4.2. Álgebra Relacional.md",
+    "Pasted image 20250513152234.png",
+    "Cs/5° Semestre/Sistemas Operacionais/12.1. Drives de Discos Rígidos.md",
+    "Cs/4° Semestre/ED 2/1-2 - Armazenamento secundário.md",
+    "Cs/5° Semestre/Sistemas Operacionais/12 - Persistência.md",
     "Cs/5° Semestre/Redes de Computadores/9.1. Camada de Rede pt.2.md",
+    "Cs/5° Semestre/public/Pasted image 20250513102816.png",
+    "Cs/5° Semestre/Redes de Computadores/9. Camada de Rede.md",
     "Cs/5° Semestre/Redes de Computadores/9.1.md",
     "Cs/5° Semestre/public/1742324795_grim.png",
     "Cs/5° Semestre/public/7adb2ddd-d360-4b55-87ae-7f47772eafac.png",
@@ -206,11 +215,6 @@
     "Cs/5° Semestre/public/Pasted image 20240814174741.png",
     "Cs/5° Semestre/public/Pasted image 20240904111043.png",
     "Cs/5° Semestre/public/Pasted image 20240906084733.png",
-    "Cs/5° Semestre/public/Pasted image 20240911111645.png",
-    "Cs/5° Semestre/public/Pasted Image 20240930201338_149.png",
-    "Cs/5° Semestre/public/Pasted image 20241007092550.png",
-    "Cs/5° Semestre/public/Pasted image 20241007092610.png",
-    "Cs/5° Semestre/Sistemas Operacionais/12 - Persistência.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.3. Problemas-comuns-de-concorrência.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.4 Bugs de Concorrência.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.1. Locks.md",
@@ -222,16 +226,12 @@
     "Cs/5° Semestre/Sistemas Operacionais/16 - Problemas comuns de concorrência.md",
     "Cs/5° Semestre/Sistemas Operacionais/11. Introducao-a-Concorrencia.md",
     "Cs/5° Semestre/Sistemas Operacionais/10.1 Politicas-de-swap.md",
-    "Cs/5° Semestre/Banco de Dados/4.1 Normalização.md",
     "Cs/5° Semestre/Banco de Dados/4. Modelo Relacional.md",
     "Cs/5° Semestre/Banco de Dados/4.1.md",
     "Cs/5° Semestre/Redes de Computadores/8.3. TCP.md",
     "Cs/5° Semestre/Redes de Computadores/8.2. Protocolos Dutados.md",
     "Cs/5° Semestre/Redes de Computadores/8.1 Reliable Data Transfer.md",
     "Cs/5° Semestre/Redes de Computadores/8. Camada-de-Transporte.md",
-    "Cs/5° Semestre/Redes de Computadores/7.3. SMTP.md",
-    "Cs/5° Semestre/Redes de Computadores/7.4. DNS.md",
-    "Cs/5° Semestre/Redes de Computadores/0. Header.md",
     "Cs/5° Semestre/Engenharia de Software/5. Projeto-de-arquitetura.md~",
     "Cs/5° Semestre/Engenharia de Software/4913",
     "ToDo kanban.md~",

@@ -351,6 +351,10 @@ CQn
 CT
 Colocar
 Chama
+CPF
+Cartesiano
+Conta
+Concatena
 Quantidade
 Quest
 Qualquer
@@ -1041,6 +1045,7 @@ dE
 dP
 djQ
 datagrama
+determinante
 trabalho
 tomada
 tipos
@@ -1490,6 +1495,7 @@ tQQs
 tzd
 tTS
 tratem
+tuplas
 entrada
 estados
 estrutura
@@ -2081,6 +2087,9 @@ eIly
 exf
 eQo
 encapsulado
+equivale
+encapsula
+exibe
 aplica
 acaso
 assint
@@ -2716,6 +2725,10 @@ aZz
 aQA
 aEl
 aEj
+atomicidade
+att
+absorv
+atendem
 Se
 Somat
 Start
@@ -3043,6 +3056,7 @@ SjW
 SUo
 Sj
 SaU
+Sele
 complexidade
 como
 caso
@@ -3847,6 +3861,7 @@ cQij
 cü
 cxi
 ceB
+combinar
 xima
 ximo
 xi
@@ -4672,6 +4687,9 @@ pmJ
 ped
 potato
 privados
+permitida
+passando
+predicado
 qualquer
 que
 quina
@@ -5153,6 +5171,7 @@ oJQ
 ouo
 ooG
 oJ
+obt
 ncia
 nesse
 ndice
@@ -5414,6 +5433,7 @@ ndK
 nhDk
 nOi
 nhu
+novas
 for
 float
 framed
@@ -6396,6 +6416,8 @@ sZnH
 sAJ
 salta
 sobrecarga
+suportam
+saldo
 melhor
 medida
 mem
@@ -6829,6 +6851,8 @@ mON
 mSn
 mGQt
 mCR
+multivalorada
+multivaloradas
 buscamos
 baseada
 base
@@ -7878,6 +7902,7 @@ rM
 rit
 rquico
 recebam
+redund
 hardware
 heuristic
 highlights
@@ -8708,6 +8733,7 @@ MpP
 MF
 MMe
 MUo
+Multivalorada
 RAM
 Reindexa
 Repeat
@@ -9559,6 +9585,8 @@ vuuU
 vDDG
 vvvrr
 vPp
+vendedor
+vend
 idealizaremos
 instru
 inteiros
@@ -10619,6 +10647,8 @@ PqXMX
 PsDPO
 PbS
 PxI
+Proje
+Produto
 with
 which
 when
@@ -11807,6 +11837,7 @@ NdG
 NZTw
 NU
 NAT
+NOME
 Issues
 It
 Invariante
@@ -13651,6 +13682,7 @@ FzL
 FQZE
 FYQ
 FXf
+FNBC
 Geraldo
 GwR
 GIbey
@@ -13835,6 +13867,7 @@ GFdb
 GH
 GUr
 Gb
+Geometria
 LM
 LOKO
 Lab

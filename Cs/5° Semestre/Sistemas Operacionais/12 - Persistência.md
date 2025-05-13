@@ -15,3 +15,7 @@ Esse método, no entanto, cria um overhead na CPU desnecessário, visto que poll
 
 Ainda melhor do que isso, podemos usa o DMA - direct memory access. Esse dispositivo permite à CPU enviar o request de dados e não mais se importar em acessar a memória, ou seja, ainda mais diminuindo o seu overhead de uso.
 
+Memory Mapped IO e IO Instructions existem.
+
+# Device driver
+usaremos esta camada baixa de abstração para permitir que o SO não se precise se preocupar com detalhes das operações de IO.
