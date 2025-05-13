@@ -355,6 +355,7 @@ CPF
 Cartesiano
 Conta
 Concatena
+Chamemos
 Quantidade
 Quest
 Qualquer
@@ -1046,6 +1047,9 @@ dP
 djQ
 datagrama
 determinante
+dNN
+desejado
+disks
 trabalho
 tomada
 tipos
@@ -1496,6 +1500,8 @@ tzd
 tTS
 tratem
 tuplas
+track
+trough
 entrada
 estados
 estrutura
@@ -2090,6 +2096,10 @@ encapsulado
 equivale
 encapsula
 exibe
+eeeC
+ezZ
+eminentes
+escalonador
 aplica
 acaso
 assint
@@ -2729,6 +2739,8 @@ atomicidade
 att
 absorv
 atendem
+aLS
+algunas
 Se
 Somat
 Start
@@ -3057,6 +3069,12 @@ SUo
 Sj
 SaU
 Sele
+SdR
+Sil
+SSTF
+Seek
+SCAN
+SPTF
 complexidade
 como
 caso
@@ -3862,6 +3880,12 @@ cü
 cxi
 ceB
 combinar
+cxZuz
+cujas
+coisas
+causada
+controlador
+conserving
 xima
 ximo
 xi
@@ -4010,6 +4034,7 @@ xYJq
 xLq
 xR
 xpprz
+xff
 para
 pior
 podem
@@ -4690,6 +4715,11 @@ privados
 permitida
 passando
 predicado
+pQQ
+preocupar
+posicionado
+presuposi
+perfeito
 qualquer
 que
 quina
@@ -4880,6 +4910,7 @@ qTjY
 qzf
 qTX
 qbBH
+qrrz
 ocorr
 ou
 outra
@@ -5172,6 +5203,8 @@ ouo
 ooG
 oJ
 obt
+ociosidade
+olhando
 ncia
 nesse
 ndice
@@ -5434,6 +5467,10 @@ nhDk
 nOi
 nhu
 novas
+nyuuull
+nUe
+nr
+naquele
 for
 float
 framed
@@ -5810,6 +5847,7 @@ fYa
 fSc
 fVM
 fhc
+fffb
 se
 sendo
 ser
@@ -6418,6 +6456,12 @@ salta
 sobrecarga
 suportam
 saldo
+sqq
+spindle
+sugerem
+starvation
+sweep
+subsequentes
 melhor
 medida
 mem
@@ -6853,6 +6897,7 @@ mGQt
 mCR
 multivalorada
 multivaloradas
+mI
 buscamos
 baseada
 base
@@ -7136,6 +7181,7 @@ brd
 bPB
 bVL
 broadcast
+baseamos
 uma
 um
 unvisited
@@ -7903,6 +7949,9 @@ rit
 rquico
 recebam
 redund
+rrrJMMMOO
+rand
+reconhece
 hardware
 heuristic
 highlights
@@ -8134,6 +8183,7 @@ haU
 hse
 hot
 hier
+hIUU
 linguagem
 lculo
 leva
@@ -8465,6 +8515,8 @@ lmmnl
 lyu
 lE
 lXt
+lKc
+latencias
 Modelo
 Move
 Melhor
@@ -8734,6 +8786,9 @@ MF
 MMe
 MUo
 Multivalorada
+Mmmm
+Mkkkj
+Mapped
 RAM
 Reindexa
 Repeat
@@ -9025,6 +9080,8 @@ RZY
 RiH
 RGh
 Resolution
+RYlJ
+Rez
 Devemos
 Definition
 Drawing
@@ -9337,6 +9394,7 @@ DZR
 DTx
 Datagramas
 Descobrir
+Diferentemente
 vel
 vale
 valores
@@ -9587,6 +9645,8 @@ vvvrr
 vPp
 vendedor
 vend
+varrida
+varrido
 idealizaremos
 instru
 inteiros
@@ -10046,6 +10106,8 @@ iRp
 iCB
 iig
 imT
+iff
+incompletas
 Teremos
 The
 This
@@ -10323,6 +10385,9 @@ TXx
 TL
 TqX
 Ter
+TZV
+TSSC
+THIS
 Problem
 Pair
 Python
@@ -10649,6 +10714,8 @@ PbS
 PxI
 Proje
 Produto
+Pff
+Positioning
 with
 which
 when
@@ -11144,6 +11211,7 @@ gZs
 gkoHxU
 gpf
 garantimos
+geometria
 Heuristic
 Hashing
 HDD
@@ -11636,6 +11704,8 @@ AXs
 AQm
 Acontece
 ARP
+AgD
+Alguns
 Nearest
 Neighbor
 No
@@ -11838,6 +11908,7 @@ NZTw
 NU
 NAT
 NOME
+NBF
 Issues
 It
 Invariante
@@ -12098,6 +12169,7 @@ IGKv
 ILm
 Indireto
 Internos
+IIIb
 yield
 yaml
 yd
@@ -12424,6 +12496,7 @@ OFX
 Oqy
 OBLe
 OdL
+OoK
 Exhaustive
 Enumerate
 Exerc
@@ -12737,6 +12810,8 @@ EuN
 EZ
 EXa
 Encaminhamento
+Escolhe
+Elevator
 Key
 KKKKK
 Keysorting
@@ -13098,6 +13173,7 @@ VDE
 VEyd
 VtiR
 VOXu
+VUUUUU
 Java
 JE
 JZ
@@ -13422,6 +13498,10 @@ YV
 YcE
 YnwwW
 Ymx
+YYiaa
+YBB
+YPQ
+YQQ
 For
 Formato
 Fun
@@ -13683,6 +13763,7 @@ FQZE
 FYQ
 FXf
 FNBC
+FINISH
 Geraldo
 GwR
 GIbey
@@ -14302,6 +14383,9 @@ UZ
 UAD
 UlX
 Uqf
+UeeePP
+UNNV
+UVT
 Buscamos
 BA
 Buffering
@@ -14537,6 +14621,8 @@ BbVd
 BPJ
 BrO
 Broadcast
+BJ
+BJrA
 juntar
 jeito
 jump
@@ -14702,6 +14788,7 @@ jOh
 jMy
 jfn
 jXr
+jy
 kanban
 keys
 kernel
@@ -14986,6 +15073,7 @@ zsv
 zqRS
 zn
 zcG
+zoned
 Xn
 XU
 XD
@@ -15445,6 +15533,10 @@ ZOoO
 Zvv
 ZJ
 ZxK
+Zdd
+ZZZrr
+Zhgg
+ZMu
 ßFKKKKKKzc
 ßa
 ßH
