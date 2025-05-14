@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cs/5° Semestre/Sistemas Operacionais/12.1. Drives de Discos Rígidos.md",
+                "file": "Cs/5° Semestre/Redes de Computadores/9.2. Camada de Rede pt.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.1. Drives de Discos Rígidos"
+              "title": "9.2. Camada de Rede pt.3"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5cd6ba123eaad068",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cs/5° Semestre/Sistemas Operacionais/12.1. Drives de Discos Rígidos.md",
+                "file": "Cs/5° Semestre/Redes de Computadores/9.2. Camada de Rede pt.3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 12.1. Drives de Discos Rígidos"
+              "title": "Outline of 9.2. Camada de Rede pt.3"
             }
           },
           {
@@ -177,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +193,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ed4beb9e1d432b9f",
+  "active": "1ca9e2de192aaac6",
   "lastOpenFiles": [
+    "Cs/5° Semestre/Redes de Computadores/9.1. Camada de Rede pt.2.md",
+    "Cs/5° Semestre/Redes de Computadores/9.2. Camada de Rede pt.3.md",
+    "Pasted image 20250514105945.png",
+    "Pasted image 20250514101713.png",
+    "Cs/5° Semestre/Sistemas Operacionais/12.2. RAID's.md",
+    "Pasted image 20250514093146.png",
+    "Pasted image 20250514092326.png",
+    "Pasted image 20250514090021.png",
+    "Cs/5° Semestre/Sistemas Operacionais/12.3. - SSD's.md",
     "Cs/5° Semestre/Sistemas Operacionais/12.1. Drives de Discos Rígidos.md",
     "Cs/5° Semestre/Sistemas Operacionais/12 - Persistência.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.1. Locks.md",
@@ -205,22 +214,15 @@
     "Cs/5° Semestre/Banco de Dados/4.1. Normalização.md",
     "Cs/5° Semestre/public/Pasted image 20250513152234.png",
     "Cs/4° Semestre/ED 2/1-2 - Armazenamento secundário.md",
-    "Cs/5° Semestre/Redes de Computadores/9.1. Camada de Rede pt.2.md",
     "Cs/5° Semestre/public/Pasted image 20250513102816.png",
     "Cs/5° Semestre/Redes de Computadores/9. Camada de Rede.md",
     "Cs/5° Semestre/Redes de Computadores/9.1.md",
-    "Cs/5° Semestre/public/1742324795_grim.png",
-    "Cs/5° Semestre/public/7adb2ddd-d360-4b55-87ae-7f47772eafac.png",
-    "public/exercicio-1-counting-lista-2-paa.png",
-    "Cs/5° Semestre/public/Pasted image 20240814174741.png",
-    "Cs/5° Semestre/public/Pasted image 20240904111043.png",
     "Cs/5° Semestre/Sistemas Operacionais/11.3. Problemas-comuns-de-concorrência.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.4 Bugs de Concorrência.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.4. Locks.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.2. Semaforos.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.7 Event-Based Concurrency.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.5 Semáforos.md",
-    "Cs/5° Semestre/Sistemas Operacionais/12.2 - SSD's.md",
     "Cs/5° Semestre/Sistemas Operacionais/16 - Problemas comuns de concorrência.md",
     "Cs/5° Semestre/Sistemas Operacionais/11. Introducao-a-Concorrencia.md",
     "Cs/5° Semestre/Sistemas Operacionais/10.1 Politicas-de-swap.md",
@@ -229,7 +231,6 @@
     "Cs/5° Semestre/Redes de Computadores/8.3. TCP.md",
     "Cs/5° Semestre/Redes de Computadores/8.2. Protocolos Dutados.md",
     "Cs/5° Semestre/Redes de Computadores/8.1 Reliable Data Transfer.md",
-    "Cs/5° Semestre/Redes de Computadores/8. Camada-de-Transporte.md",
     "Cs/5° Semestre/Engenharia de Software/5. Projeto-de-arquitetura.md~",
     "Cs/5° Semestre/Engenharia de Software/4913",
     "ToDo kanban.md~",
