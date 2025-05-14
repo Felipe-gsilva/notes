@@ -359,6 +359,8 @@ Chamemos
 Componente
 Communication
 Cutoff
+Clg
+Chunks
 Quantidade
 Quest
 Qualquer
@@ -494,6 +496,8 @@ QQU
 QVO
 Quench
 Query
+QQYy
+Qjl
 de
 depende
 da
@@ -1055,6 +1059,8 @@ determinante
 dNN
 desejado
 disks
+dO
+dicos
 trabalho
 tomada
 tipos
@@ -1508,6 +1514,8 @@ tuplas
 track
 trough
 traceroute
+tSSII
+tyy
 entrada
 estados
 estrutura
@@ -2108,6 +2116,8 @@ eminentes
 escalonador
 esgotamento
 eco
+eNET
+escalar
 aplica
 acaso
 assint
@@ -2749,6 +2759,8 @@ absorv
 atendem
 aLS
 algunas
+aXh
+arE
 Se
 Somat
 Start
@@ -3084,6 +3096,7 @@ Seek
 SCAN
 SPTF
 Solicitation
+SeM
 complexidade
 como
 caso
@@ -3897,6 +3910,8 @@ controlador
 conserving
 cgnat
 cai
+confian
+chunks
 xima
 ximo
 xi
@@ -4046,6 +4061,10 @@ xLq
 xR
 xpprz
 xff
+xCm
+xjRn
+xoK
+xm
 para
 pior
 podem
@@ -4733,6 +4752,11 @@ presuposi
 perfeito
 pedio
 ping
+pN
+pAEwg
+pQeb
+pol
+proof
 qualquer
 que
 quina
@@ -5861,6 +5885,10 @@ fSc
 fVM
 fhc
 fffb
+fgd
+fKKJ
+fail
+fitas
 se
 sendo
 ser
@@ -6475,6 +6503,7 @@ sugerem
 starvation
 sweep
 subsequentes
+servida
 melhor
 medida
 mem
@@ -6911,6 +6940,7 @@ mCR
 multivalorada
 multivaloradas
 mI
+mirrored
 buscamos
 baseada
 base
@@ -7195,6 +7225,8 @@ bPB
 bVL
 broadcast
 baseamos
+bPg
+bRa
 uma
 um
 unvisited
@@ -7417,6 +7449,8 @@ uq
 uzz
 uX
 uHCn
+uCY
+uVT
 representa
 rica
 requisitos
@@ -7966,6 +8000,13 @@ rrrJMMMOO
 rand
 reconhece
 relatar
+rIIiuUu
+rPQ
+rG
+reT
+rAf
+raid
+rotaciona
 hardware
 heuristic
 highlights
@@ -8198,6 +8239,8 @@ hse
 hot
 hier
 hIUU
+hgV
+hom
 linguagem
 lculo
 leva
@@ -8803,6 +8846,9 @@ Multivalorada
 Mmmm
 Mkkkj
 Mapped
+MNL
+Mtn
+Mirroring
 RAM
 Reindexa
 Repeat
@@ -9100,6 +9146,10 @@ Reply
 Redirect
 Router
 Route
+RXPM
+Redund
+RAIDS
+Raid
 Devemos
 Definition
 Drawing
@@ -9415,6 +9465,7 @@ Descobrir
 Diferentemente
 Destination
 Description
+DVNx
 vel
 vale
 valores
@@ -9667,6 +9718,11 @@ vendedor
 vend
 varrida
 varrido
+vYii
+vDS
+vxsS
+vlg
+veja
 idealizaremos
 instru
 inteiros
@@ -10128,6 +10184,12 @@ iig
 imT
 iff
 incompletas
+iee
+ioN
+identica
+inevitavelmente
+impar
+invi
 Teremos
 The
 This
@@ -10410,6 +10472,8 @@ TSSC
 THIS
 Timestamp
 TOS
+TXs
+Tecnicamente
 Problem
 Pair
 Python
@@ -10741,6 +10805,7 @@ Positioning
 Parameter
 Prohibited
 Precedence
+PcL
 with
 which
 when
@@ -10945,6 +11010,7 @@ wvw
 wOa
 wRE
 wrV
+wFoFr
 given
 growth
 guarantee
@@ -11237,6 +11303,7 @@ gkoHxU
 gpf
 garantimos
 geometria
+gRK
 Heuristic
 Hashing
 HDD
@@ -11431,6 +11498,7 @@ HLi
 HLiD
 HLUrl
 HoR
+HYs
 Approaches
 An
 Arquitetura
@@ -11733,6 +11801,7 @@ AgD
 Alguns
 Advertisement
 Administratively
+AGf
 Nearest
 Neighbor
 No
@@ -12200,6 +12269,7 @@ Internos
 IIIb
 ICMP
 Isolated
+IDATw
 yield
 yaml
 yd
@@ -12343,6 +12413,7 @@ yEv
 yAd
 yj
 yiXN
+yFi
 Optimal
 Ordena
 Ordem
@@ -12845,6 +12916,7 @@ Elevator
 Echo
 Exceeded
 Effect
+EYX
 Key
 KKKKK
 Keysorting
@@ -13007,6 +13079,7 @@ Kg
 KVI
 KyP
 KLU
+Kwl
 Vetor
 VIEW
 Verdadeira
@@ -13208,6 +13281,11 @@ VtiR
 VOXu
 VUUUUU
 Violation
+VUUE
+Vhv
+VWg
+Vq
+VjS
 Java
 JE
 JZ
@@ -13801,6 +13879,7 @@ FINISH
 Forwarding
 Fragmentation
 Failed
+Fcg
 Geraldo
 GwR
 GIbey
@@ -14217,6 +14296,8 @@ LTw
 LZU
 Ldx
 LANs
+LyY
+Literalmente
 Usamos
 Um
 Usando
@@ -14425,6 +14506,9 @@ UNNV
 UVT
 Unreachable
 Unknown
+Uay
+Uw
+UyE
 Buscamos
 BA
 Buffering
@@ -14662,6 +14746,9 @@ BrO
 Broadcast
 BJ
 BJrA
+BvtY
+BwT
+BKl
 juntar
 jeito
 jump
@@ -14982,6 +15069,7 @@ kzi
 kbnr
 kFL
 kIK
+kVA
 zeros
 zero
 zes
@@ -15113,6 +15201,7 @@ zqRS
 zn
 zcG
 zoned
+zyY
 Xn
 XU
 XD
@@ -15237,6 +15326,7 @@ Xi
 XTTdK
 Xose
 Xv
+XOR
 WN
 WS
 WOX
@@ -15576,6 +15666,7 @@ Zdd
 ZZZrr
 Zhgg
 ZMu
+ZYT
 ßFKKKKKKzc
 ßa
 ßH

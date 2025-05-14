@@ -15,3 +15,7 @@ load
 LOAD
 loader
 loading
+raid
+Raid
+RAIDS
+NAN
