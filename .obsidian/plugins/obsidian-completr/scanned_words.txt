@@ -2118,6 +2118,7 @@ esgotamento
 eco
 eNET
 escalar
+erase
 aplica
 acaso
 assint
@@ -8005,7 +8006,6 @@ rPQ
 rG
 reT
 rAf
-raid
 rotaciona
 hardware
 heuristic
@@ -9148,8 +9148,6 @@ Router
 Route
 RXPM
 Redund
-RAIDS
-Raid
 Devemos
 Definition
 Drawing
@@ -11954,7 +11952,6 @@ NIqqUe
 NrB
 NW
 Nwpp
-NAN
 NLL
 NNNyyyL
 ND
@@ -12006,6 +12003,7 @@ NAT
 NOME
 NBF
 Needed
+NAND
 Issues
 It
 Invariante

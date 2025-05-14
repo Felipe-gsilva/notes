@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +193,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1ca9e2de192aaac6",
+  "active": "3db79d7e13ca9b42",
   "lastOpenFiles": [
     "Pasted image 20250514123914.png",
     "Cs/5° Semestre/Sistemas Operacionais/12.2. RAID's.md",
