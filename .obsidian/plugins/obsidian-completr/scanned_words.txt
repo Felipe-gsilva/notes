@@ -1065,6 +1065,7 @@ dicos
 deadlock
 die
 dorme
+destr
 trabalho
 tomada
 tipos
@@ -2126,6 +2127,7 @@ eco
 eNET
 escalar
 erase
+equilibradas
 aplica
 acaso
 assint
@@ -3930,6 +3932,7 @@ conseguindo
 corte
 cabelo
 cortar
+consistente
 xima
 ximo
 xi
@@ -5264,6 +5267,7 @@ oJ
 obt
 ociosidade
 olhando
+overkill
 ncia
 nesse
 ndice
@@ -6531,6 +6535,7 @@ servida
 schedular
 sorte
 sentar
+seguran
 melhor
 medida
 mem
