@@ -11,9 +11,11 @@ checar disponibilidade do IO device. Chamamos o estado de espera (enquanto STATU
 
 Quando a CPU está envolvida no processo de IO, chamamos isso de `IO Programado ou PIO.`
 
-> [!error] 
+> [!error]  Error
 >
-Esse método, no entanto, cria um overhead na CPU desnecessário, visto que polling faz a CPU para o que está fazendo para esperar o resultado do IO. Portanto, a melhor solução para isso é atribuir um *interrupt handler* que é capaz de gerenciar melhor a espera de um IO.
+> Esse método, no entanto, cria um overhead na CPU desnecessário, visto que polling faz a CPU para o que está fazendo para esperar o resultado do IO.
+
+Portanto, a melhor solução para isso é atribuir um *interrupt handler* que é capaz de gerenciar melhor a espera de um IO.
 
 Ainda melhor do que isso, podemos usa o DMA - direct memory access. Esse dispositivo permite à CPU enviar o request de dados e não mais se importar em acessar a memória, ou seja, ainda mais diminuindo o seu overhead de uso.
 
