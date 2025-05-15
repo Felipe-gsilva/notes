@@ -361,6 +361,7 @@ Communication
 Cutoff
 Clg
 Chunks
+CEE
 Quantidade
 Quest
 Qualquer
@@ -1061,6 +1062,9 @@ desejado
 disks
 dO
 dicos
+deadlock
+die
+dorme
 trabalho
 tomada
 tipos
@@ -1516,6 +1520,9 @@ trough
 traceroute
 tSSII
 tyy
+tIWW
+tFyKKKyy
+timestamp
 entrada
 estados
 estrutura
@@ -2762,6 +2769,10 @@ aLS
 algunas
 aXh
 arE
+avD
+aTT
+alternando
+avestruz
 Se
 Somat
 Start
@@ -3098,6 +3109,8 @@ SCAN
 SPTF
 Solicitation
 SeM
+Starvation
+Seguem
 complexidade
 como
 caso
@@ -3913,6 +3926,10 @@ cgnat
 cai
 confian
 chunks
+conseguindo
+corte
+cabelo
+cortar
 xima
 ximo
 xi
@@ -4758,6 +4775,10 @@ pAEwg
 pQeb
 pol
 proof
+pwE
+primitivas
+preemp
+pressup
 qualquer
 que
 quina
@@ -5890,6 +5911,8 @@ fgd
 fKKJ
 fail
 fitas
+fkjj
+ficam
 se
 sendo
 ser
@@ -6505,6 +6528,9 @@ starvation
 sweep
 subsequentes
 servida
+schedular
+sorte
+sentar
 melhor
 medida
 mem
@@ -6942,6 +6968,8 @@ multivalorada
 multivaloradas
 mI
 mirrored
+mcc
+morre
 buscamos
 baseada
 base
@@ -7228,6 +7256,10 @@ broadcast
 baseamos
 bPg
 bRa
+bvDHh
+bII
+bloqueados
+barbeiro
 uma
 um
 unvisited
@@ -7452,6 +7484,7 @@ uX
 uHCn
 uCY
 uVT
+udd
 representa
 rica
 requisitos
@@ -8007,6 +8040,9 @@ rG
 reT
 rAf
 rotaciona
+raridade
+reiniciar
+resume
 hardware
 heuristic
 highlights
@@ -8574,6 +8610,7 @@ lE
 lXt
 lKc
 latencias
+livelock
 Modelo
 Move
 Melhor
@@ -9464,6 +9501,8 @@ Diferentemente
 Destination
 Description
 DVNx
+Dorminhoco
+Dorme
 vel
 vale
 valores
@@ -9721,6 +9760,9 @@ vDS
 vxsS
 vlg
 veja
+vJAAa
+vivos
+velho
 idealizaremos
 instru
 inteiros
@@ -10472,6 +10514,7 @@ Timestamp
 TOS
 TXs
 Tecnicamente
+TRR
 Problem
 Pair
 Python
@@ -11009,6 +11052,7 @@ wOa
 wRE
 wrV
 wFoFr
+wound
 given
 growth
 guarantee
@@ -11800,6 +11844,9 @@ Alguns
 Advertisement
 Administratively
 AGf
+AAAG
+Aus
+Acorda
 Nearest
 Neighbor
 No
@@ -12915,6 +12962,7 @@ Echo
 Exceeded
 Effect
 EYX
+Espera
 Key
 KKKKK
 Keysorting
@@ -13284,6 +13332,7 @@ Vhv
 VWg
 Vq
 VjS
+VGII
 Java
 JE
 JZ
@@ -13468,6 +13517,7 @@ Jdl
 JPjTPP
 JY
 JQD
+JJJFEE
 You
 YKs
 YW
@@ -13612,6 +13662,7 @@ YYiaa
 YBB
 YPQ
 YQQ
+YYYo
 For
 Formato
 Fun
@@ -14063,6 +14114,8 @@ GH
 GUr
 Gb
 Geometria
+GCCCBB
+GdlRKK
 LM
 LOKO
 Lab
@@ -14296,6 +14349,7 @@ Ldx
 LANs
 LyY
 Literalmente
+LHHHKK
 Usamos
 Um
 Usando
@@ -14507,6 +14561,7 @@ Unknown
 Uay
 Uw
 UyE
+Uzrrr
 Buscamos
 BA
 Buffering
@@ -14747,6 +14802,8 @@ BJrA
 BvtY
 BwT
 BKl
+BETRR
+Barbeiro
 juntar
 jeito
 jump
@@ -14913,6 +14970,8 @@ jMy
 jfn
 jXr
 jy
+jeeE
+jAAA
 kanban
 keys
 kernel
@@ -15325,6 +15384,9 @@ XTTdK
 Xose
 Xv
 XOR
+XNNNQQ
+Xuuu
+XXx
 WN
 WS
 WOX
