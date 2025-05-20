@@ -2134,6 +2134,7 @@ escalar
 erase
 equilibradas
 estimativas
+empr
 aplica
 acaso
 assint
@@ -2781,6 +2782,10 @@ avD
 aTT
 alternando
 avestruz
+ano
+ativo
+aparece
+adotado
 Se
 Somat
 Start
@@ -3119,6 +3124,9 @@ Solicitation
 SeM
 Starvation
 Seguem
+Somente
+Structured
+SGBDR
 complexidade
 como
 caso
@@ -3944,6 +3952,8 @@ corta
 classificados
 conhece
 cleo
+cidade
+cod
 xima
 ximo
 xi
@@ -6549,6 +6559,11 @@ schedular
 sorte
 sentar
 seguran
+sitos
+stimos
+sito
+seguido
+sele
 melhor
 medida
 mem
@@ -9528,6 +9543,9 @@ Dorminhoco
 Dorme
 Distance
 Dist
+Deposito
+DML
+DDL
 vel
 vale
 valores
@@ -11873,6 +11891,7 @@ AGf
 AAAG
 Aus
 Acorda
+Agencia
 Nearest
 Neighbor
 No
@@ -12077,6 +12096,7 @@ NOME
 NBF
 Needed
 NAND
+Natural
 Issues
 It
 Invariante
@@ -12989,6 +13009,7 @@ Exceeded
 Effect
 EYX
 Espera
+Emprestimo
 Key
 KKKKK
 Keysorting
@@ -13545,6 +13566,7 @@ JPjTPP
 JY
 JQD
 JJJFEE
+Jun
 You
 YKs
 YW
