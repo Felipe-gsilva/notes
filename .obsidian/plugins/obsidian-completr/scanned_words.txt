@@ -1068,6 +1068,7 @@ dorme
 destr
 dica
 descentralizada
+destinos
 trabalho
 tomada
 tipos
@@ -2132,6 +2133,7 @@ eNET
 escalar
 erase
 equilibradas
+estimativas
 aplica
 acaso
 assint
@@ -4792,6 +4794,7 @@ primitivas
 preemp
 pressup
 peri
+pertencentes
 qualquer
 que
 quina
@@ -9524,6 +9527,7 @@ DVNx
 Dorminhoco
 Dorme
 Distance
+Dist
 vel
 vale
 valores
