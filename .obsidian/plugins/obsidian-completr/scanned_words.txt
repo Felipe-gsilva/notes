@@ -3933,6 +3933,8 @@ corte
 cabelo
 cortar
 consistente
+crossing
+corta
 xima
 ximo
 xi
@@ -7266,6 +7268,8 @@ bvDHh
 bII
 bloqueados
 barbeiro
+baboon
+barbeiros
 uma
 um
 unvisited
@@ -13935,6 +13939,7 @@ Forwarding
 Fragmentation
 Failed
 Fcg
+Fumantes
 Geraldo
 GwR
 GIbey
