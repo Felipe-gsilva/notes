@@ -1066,6 +1066,8 @@ deadlock
 die
 dorme
 destr
+dica
+descentralizada
 trabalho
 tomada
 tipos
@@ -1524,6 +1526,8 @@ tyy
 tIWW
 tFyKKKyy
 timestamp
+topologia
+troquem
 entrada
 estados
 estrutura
@@ -3935,6 +3939,9 @@ cortar
 consistente
 crossing
 corta
+classificados
+conhece
+cleo
 xima
 ximo
 xi
@@ -4784,6 +4791,7 @@ pwE
 primitivas
 preemp
 pressup
+peri
 qualquer
 que
 quina
@@ -8896,6 +8904,7 @@ Mapped
 MNL
 Mtn
 Mirroring
+Mudan
 RAM
 Reindexa
 Repeat
@@ -9195,6 +9204,7 @@ Router
 Route
 RXPM
 Redund
+RIP
 Devemos
 Definition
 Drawing
@@ -9513,6 +9523,7 @@ Description
 DVNx
 Dorminhoco
 Dorme
+Distance
 vel
 vale
 valores
@@ -10240,6 +10251,7 @@ identica
 inevitavelmente
 impar
 invi
+insens
 Teremos
 The
 This
@@ -13343,6 +13355,7 @@ VWg
 Vq
 VjS
 VGII
+Vector
 Java
 JE
 JZ
@@ -13940,6 +13953,7 @@ Fragmentation
 Failed
 Fcg
 Fumantes
+Ford
 Geraldo
 GwR
 GIbey
@@ -14361,6 +14375,7 @@ LANs
 LyY
 Literalmente
 LHHHKK
+Link
 Usamos
 Um
 Usando
@@ -14573,6 +14588,7 @@ Uay
 Uw
 UyE
 Uzrrr
+Usa
 Buscamos
 BA
 Buffering
@@ -14815,6 +14831,7 @@ BwT
 BKl
 BETRR
 Barbeiro
+Bellman
 juntar
 jeito
 jump
