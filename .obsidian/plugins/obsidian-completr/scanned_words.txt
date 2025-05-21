@@ -6564,6 +6564,7 @@ stimos
 sito
 seguido
 sele
+stimo
 melhor
 medida
 mem
@@ -8079,6 +8080,7 @@ rotaciona
 raridade
 reiniciar
 resume
+residem
 hardware
 heuristic
 highlights
@@ -13010,6 +13012,7 @@ Effect
 EYX
 Espera
 Emprestimo
+Empr
 Key
 KKKKK
 Keysorting
