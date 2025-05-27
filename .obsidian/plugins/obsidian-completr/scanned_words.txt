@@ -1069,6 +1069,8 @@ destr
 dica
 descentralizada
 destinos
+depressa
+devagar
 trabalho
 tomada
 tipos
@@ -2786,6 +2788,9 @@ ano
 ativo
 aparece
 adotado
+autoridade
+aut
+administrativa
 Se
 Somat
 Start
@@ -5557,6 +5562,8 @@ nyuuull
 nUe
 nr
 naquele
+nomos
+nomo
 for
 float
 framed
@@ -9225,6 +9232,8 @@ Route
 RXPM
 Redund
 RIP
+Reverse
+Roteamento
 Devemos
 Definition
 Drawing
@@ -9808,6 +9817,7 @@ veja
 vJAAa
 vivos
 velho
+viajam
 idealizaremos
 instru
 inteiros
@@ -10276,6 +10286,7 @@ inevitavelmente
 impar
 invi
 insens
+ilhas
 Teremos
 The
 This
@@ -10893,6 +10904,8 @@ Parameter
 Prohibited
 Precedence
 PcL
+Poison
+Protocols
 with
 which
 when
@@ -11587,6 +11600,7 @@ HLiD
 HLUrl
 HoR
 HYs
+Hier
 Approaches
 An
 Arquitetura
@@ -11894,6 +11908,7 @@ AAAG
 Aus
 Acorda
 Agencia
+Aut
 Nearest
 Neighbor
 No
@@ -12363,6 +12378,11 @@ IIIb
 ICMP
 Isolated
 IDATw
+Intra
+IGP
+Interior
+IGRP
+Inter
 yield
 yaml
 yd
@@ -12691,6 +12711,7 @@ Oqy
 OBLe
 OdL
 OoK
+OSPF
 Exhaustive
 Enumerate
 Exerc
@@ -14861,6 +14882,7 @@ BKl
 BETRR
 Barbeiro
 Bellman
+Boas
 juntar
 jeito
 jump
