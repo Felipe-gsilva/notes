@@ -499,6 +499,7 @@ Quench
 Query
 QQYy
 Qjl
+Que
 de
 depende
 da
@@ -2139,6 +2140,8 @@ erase
 equilibradas
 estimativas
 empr
+eBGP
+estaticamente
 aplica
 acaso
 assint
@@ -2795,6 +2798,8 @@ aut
 administrativa
 avg
 agrupamento
+acessibilidade
+anunciar
 Se
 Somat
 Start
@@ -3136,6 +3141,7 @@ Seguem
 Somente
 Structured
 SGBDR
+Sess
 complexidade
 como
 caso
@@ -3965,6 +3971,9 @@ cidade
 cod
 cidades
 count
+configurado
+configurados
+caminhos
 xima
 ximo
 xi
@@ -4817,6 +4826,8 @@ pressup
 peri
 pertencentes
 plas
+propagadas
+peers
 qualquer
 que
 quina
@@ -5572,6 +5583,7 @@ nr
 naquele
 nomos
 nomo
+nsito
 for
 float
 framed
@@ -5955,6 +5967,7 @@ fail
 fitas
 fkjj
 ficam
+formando
 se
 sendo
 ser
@@ -6581,6 +6594,7 @@ seguido
 sele
 stimo
 sum
+sustentado
 melhor
 medida
 mem
@@ -7021,6 +7035,8 @@ mirrored
 mcc
 morre
 mapping
+mesh
+micos
 buscamos
 baseada
 base
@@ -8097,6 +8113,7 @@ raridade
 reiniciar
 resume
 residem
+recebidas
 hardware
 heuristic
 highlights
@@ -9827,6 +9844,7 @@ vJAAa
 vivos
 velho
 viajam
+vizinhan
 idealizaremos
 instru
 inteiros
@@ -10296,6 +10314,11 @@ impar
 invi
 insens
 ilhas
+inter
+internal
+intra
+iBGP
+interm
 Teremos
 The
 This
@@ -10581,6 +10604,7 @@ TOS
 TXs
 Tecnicamente
 TRR
+Topologia
 Problem
 Pair
 Python
@@ -10915,6 +10939,7 @@ Precedence
 PcL
 Poison
 Protocols
+PROPAGA
 with
 which
 when
@@ -11919,6 +11944,9 @@ Aus
 Acorda
 Agencia
 Aut
+ASs
+APRENDE
+Aprendidos
 Nearest
 Neighbor
 No
@@ -13415,6 +13443,7 @@ Vq
 VjS
 VGII
 Vector
+Vizinhan
 Java
 JE
 JZ
