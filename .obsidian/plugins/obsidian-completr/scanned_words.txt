@@ -1071,6 +1071,8 @@ descentralizada
 destinos
 depressa
 devagar
+depositos
+deposito
 trabalho
 tomada
 tipos
@@ -2791,6 +2793,8 @@ adotado
 autoridade
 aut
 administrativa
+avg
+agrupamento
 Se
 Somat
 Start
@@ -3959,6 +3963,8 @@ conhece
 cleo
 cidade
 cod
+cidades
+count
 xima
 ximo
 xi
@@ -4810,6 +4816,7 @@ preemp
 pressup
 peri
 pertencentes
+plas
 qualquer
 que
 quina
@@ -5296,6 +5303,7 @@ obt
 ociosidade
 olhando
 overkill
+obtidos
 ncia
 nesse
 ndice
@@ -6572,6 +6580,7 @@ sito
 seguido
 sele
 stimo
+sum
 melhor
 medida
 mem
@@ -11405,6 +11414,7 @@ gpf
 garantimos
 geometria
 gRK
+group
 Heuristic
 Hashing
 HDD

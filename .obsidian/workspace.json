@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cs/5° Semestre/Redes de Computadores/9.2. Camada de Rede pt.3.md",
+                "file": "Cs/5° Semestre/Banco de Dados/5. SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.2. Camada de Rede pt.3"
+              "title": "5. SQL"
             }
           }
         ]
@@ -196,9 +196,9 @@
   },
   "active": "22ffd6b5b63563e8",
   "lastOpenFiles": [
+    "Cs/5° Semestre/Redes de Computadores/9.2. Camada de Rede pt.3.md",
     "Cs/5° Semestre/Banco de Dados/5. SQL.md",
     "Cs/5° Semestre/Banco de Dados/4.2. Álgebra Relacional.md",
-    "Cs/5° Semestre/Redes de Computadores/9.2. Camada de Rede pt.3.md",
     "conflict-files-obsidian-git.md",
     "Cs/5° Semestre/Sistemas Operacionais/11.3. Problemas-comuns-de-concorrência.md",
     "Cs/5° Semestre/Engenharia de Software/9. testes.md",
