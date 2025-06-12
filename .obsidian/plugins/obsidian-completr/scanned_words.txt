@@ -4055,6 +4055,9 @@ capacidades
 complexa
 capabilities
 contextos
+cair
+crom
+colora
 xima
 ximo
 xi
@@ -11677,6 +11680,7 @@ gQPP
 gerenciado
 gira
 gerenciais
+guloso
 Heuristic
 Hashing
 HDD
@@ -13527,6 +13531,7 @@ KaL
 Kuhn
 Ken
 Know
+Kmax
 Vetor
 VIEW
 Verdadeira
