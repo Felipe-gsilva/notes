@@ -11,14 +11,10 @@
             "id": "22ffd6b5b63563e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cs/5° Semestre/Sistemas Operacionais/14.1 Controle de Acesso.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "14.1 Controle de Acesso"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5cd6ba123eaad068",
