@@ -2,7 +2,6 @@
 #include "stdio.h"
 #include "stdlib.h"
 #include "time.h"
-#include <signal.h>
 
 #define N 50000
 
