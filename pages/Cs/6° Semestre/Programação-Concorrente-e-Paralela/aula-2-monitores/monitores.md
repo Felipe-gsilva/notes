@@ -44,7 +44,7 @@ Funções sobre variáveis condicionais:
 - Signal and Continue (SC): o procedimento que fez a chamada continua a ser executado (processo não sofre preempção).
 - Signal and Wait (SW): o procedimento que fez a chamada cede a execução para o processo que foi liberado.
 
-### Exemplo - Implementação das primitivas de semáforo usando monitores
+### Exemplo - Implementação das primitivas de semáforo usando monitores ("depende" de SW)
 ```c
 monitor Semaphore {
     int s = 0;
@@ -60,5 +60,28 @@ monitor Semaphore {
         s++;
         signal (pos);
     }
+}
+```
+
+esta solução, apesar de correta, não garante o melhor atendimento numa política SC. Para também se obter isso, podemos modificar o monitor para:
+
+```c
+monitor FIFOSemaphore{
+	int s = 0;
+	cond pos;
+	
+	procedure Psem(){
+		if (s == 0)
+			wait(pos);
+		else
+			s = s - 1;
+	}
+	
+	procedure Vsem(){
+		if (empty(pos))
+			s = s + 1;
+		else
+			signal(pos);
+	}
 }
 ```
