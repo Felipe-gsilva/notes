@@ -1,3 +1,5 @@
+alguns conceitos no livro de pcp
+
 # 1.3 - Applications and programming styles
 
 Existem 3 tipos de aplicações paralelas comuns: sistemas multithread, distribuidos e computações paralelas.

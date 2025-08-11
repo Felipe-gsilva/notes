@@ -15,14 +15,14 @@ temos finalmente, a combinação, dada por:
 Await pode ser implementado dentro de uma região crítica, sendo a ação atômica condicional descrita por um while loop, neste formato:
 
 ```c
-\\ demilitador entrada da região critica
+CSEnter; \\ demilitador entrada da região critica
 while (!B) {
-    \\ delimitador saida da região críticaa
+    CSexit; \\ delimitador saida da região críticaa
     delay;
-    \\ demilitador entrada da região critica
+    CSEnter; \\ demilitador entrada da região critica
 }
 S;
-\\ delimitador saida da região crítica
+CSexit; \\ delimitador saida da região crítica
 ```
 
 este código evalua B dentro da região critica, tornando a execução atomica. Percebe-se que, ao sair da região critica dentro do while, outra thread pode executá-la também, mantendo a ideia de atomicidade.

@@ -40,4 +40,3 @@ Certas técnicas são empregadas, como a supracitada verificação de tipos. Ess
 
 ## Geração de código intermediario, otimização e geração de codigo
 Não vou me estender, é bem direto o que eu já escrevi antes. Será visto melhor no capitulo 6.
-
