@@ -1,6 +1,6 @@
 #include <GL/freeglut.h>
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
 #include <unistd.h>
 
 void Mouse(int botao, int estado, int x, int y);
@@ -221,13 +221,13 @@ void DISPLAY() {
 }
 
 int shouldAnimate = 0;
-int animation_step =0;
+int animation_step = 0;
 
 void animate(int value) {
   if (!shouldAnimate)
     return;
 
-  pos_x += 3; 
+  pos_x += 3;
   animation_step++;
 
   if (animation_step > 190) {
@@ -246,7 +246,6 @@ void Mouse(int botao, int estado, int x,
            int y) { // botão - recebe o código do botão pressionado
   // estado - recebe se está pressionado ou não
   // x, y - recebem respectivamente as posições do mouse na tela
-  int x_estado = 0;
   switch (botao) {
   case GLUT_LEFT_BUTTON:
     if (estado == GLUT_DOWN) {
@@ -259,9 +258,9 @@ void Mouse(int botao, int estado, int x,
 
   case GLUT_RIGHT_BUTTON:
     if (estado == GLUT_DOWN) {
-        animation_step = 0;
-        shouldAnimate = 1;
-        animate(0);
+      animation_step = 0;
+      shouldAnimate = 1;
+      animate(0);
     }
     break;
   }
