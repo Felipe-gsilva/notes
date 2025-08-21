@@ -69,4 +69,4 @@ Temos, entao, um centro de projecao (ponto P).
 
   glutKeyboardFunc(nome da funcao com as instrucoes de interacao)
   glutPostRedisplay()
-  glutMouseFunc()
+  glutMouseFunc(nome da funcao com as instrucoes de interacao)
