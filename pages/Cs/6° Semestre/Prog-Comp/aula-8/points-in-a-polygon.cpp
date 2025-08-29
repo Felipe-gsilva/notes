@@ -7,7 +7,8 @@ typedef struct vertex {
 } vertex;
 
 void check_point_location(vector<long long> &polygon_x,
-                          vector<long long> &polygon_y, const vertex point,
+                          vector<long long> &polygon_y, 
+                          const vertex point,
                           int n) {
   bool inside = false;
   bool boundary = false;
@@ -17,7 +18,7 @@ void check_point_location(vector<long long> &polygon_x,
     vertex p2 = {polygon_x[(i + 1) % n], polygon_y[(i + 1) % n]};
 
     long long cross_product =
-        (p2.y - p1.y) * (point.x - p1.x) - (point.y - p1.y) * (p2.x - p1.x);
+        (p2.y - p1.y) * (point.x - p1.x) - (p2.x - p1.x) * (point.y - p1.y);
 
     bool within_x = point.x >= min(p1.x, p2.x) && point.x <= max(p1.x, p2.x);
     bool within_y = point.y >= min(p1.y, p2.y) && point.y <= max(p1.y, p2.y);
@@ -28,22 +29,18 @@ void check_point_location(vector<long long> &polygon_x,
     }
 
     if ((p1.y > point.y) != (p2.y > point.y)) {
-      double x_intersect =
-          (double)(p2.x - p1.x) * (point.y - p1.y) / (double)(p2.y - p1.y) +
-          p1.x;
-      if (point.x < x_intersect) {
+      double x_intersect = (double)(p2.x - p1.x) * (point.y - p1.y) / (double)(p2.y - p1.y) + p1.x;
+      if (point.x < x_intersect) 
         inside = !inside;
-      }
     }
   }
 
-  if (boundary) {
+  if (boundary)
     cout << "BOUNDARY" << endl;
-  } else if (inside) {
+  else if (inside)
     cout << "INSIDE" << endl;
-  } else {
+  else
     cout << "OUTSIDE" << endl;
-  }
 }
 
 int main() {
