@@ -39,9 +39,9 @@ constroi a arvore de derivacao para a cadeia de cima para baixo, da raiz para as
 
 
 ## Ascendente (bottom up)
-constroi a arvore de derivacao para a cadeia de baixo para cima, das folhas para a raiz.
+> "Na análise ascendente, tenta-se construir a árvore de derivação para uma sentença $w$ a partir dos símbolos de $w$ (folhas), fazendo reduções (substituir o lado direto de uma regra pelo seu lado esquerdo) até obter-se o símbolo inicial S".
 
-> "Na análise ascendente, inicia-se pelas folhas da árvore de derivação até chegar em S."
+constroi a arvore de redução ao invés de derivação para a cadeia de baixo para cima, das folhas para a raiz.
 
 ## Diagramas de Transicao para Analisadores Sintaticos Preditivos
 

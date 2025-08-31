@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "246b6dfd82a56525",
+        "id": "f2791d34ebb982f2",
         "type": "tabs",
         "children": [
           {
-            "id": "bdbe27fc8b0a204a",
+            "id": "472099a543091e7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pages/Cs/6° Semestre/Compiladores/aula-4/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f434e12fe02fc46d",
@@ -162,6 +167,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "bdbe27fc8b0a204a",
-  "lastOpenFiles": []
+  "active": "472099a543091e7c",
+  "lastOpenFiles": [
+    "pages/Cs/_index.md",
+    "public/Lista de exercícios 1.pdf",
+    "public/exercicio-1-counting-lista-2-paa.png",
+    "public/Pasted image 20250829102631.png",
+    "pages/Cs/6° Semestre/Compiladores/aula-4/index.md"
+  ]
 }
