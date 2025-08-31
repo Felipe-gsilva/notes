@@ -1,20 +1,5 @@
-# Aula 1 - Comp. Grafica
-
-- Dispositivos e sistemas graficos (matricias e vetorias)
-- Transformacoes geometricas no plano e no espaco
-- Rasterizacao de primitivas
-- Coordenadas homogeneas 
-- Composicoes 
-- Tecnicas ...
-
-Prova 23/10
-Seminarios 3 seguidos
-
-Media = (P + S + T) / 3
-
-# Historia
-1886 - Inicio do desenvolvimento de CRT (Cathode Ray Tube - TV de tubo)
--> Projeção 
+# Historia (Linha do tempo)
+O primeiro computador a possuir recursos gráficos foir o Whirlwind I (1950), desenvolvido pelo MIT. Seguido por um sistema de monitoramente e controle de voos voltado para a defesa dos EUA.  No entanto, eles usavam a tecnologia de CRT (Cathode Ray Tube - TV de tubo), que foi descoberta em 1886. A seguir, uma linha do tempo:
 
 1929: Fotograma - industria cinematográfica define o padrão de 24 FPS.
 
@@ -52,24 +37,26 @@ Media = (P + S + T) / 3
 
 --- 
 
-# Comp Grafica
-- Sintese de Imagens
-- Processamento de Imagens
-Visa melhorar ou alterar caracteristicas visuais de imagens criadas. 
-- Analise de Imagens
-Obter caracteristicas de componentes de uma imagem.
+# Computação Gráfica
+A computação gráfica é dividida em três vetores principais:
+- Síntese de Imagens
+- Processamento de Imagens: Visa melhorar ou alterar características visuais de imagens criadas. 
+- Analise de Imagens: Obter características de componentes de uma imagem.
 
-## Sistemas Graficos
-Comecaremos com OpenGL (Graphics Library). A interface entre o software e o hardware grafico é feita através de procedures e funções.
-- matricial (somente x e y)
-- vetoriais (coordenadas x, y e z -> tipo blender) 
-    - utiliza de voxels -> pixel com volume
+Veremos alguns conceitos dispersos a seguir, importantes para o entendimento de cg.
+## Sistemas Gráficos
+Sistemas gráficos podem ser representados:
+- matricial (somente x e y -> tipo o paint) : nesta representação, a imagem é descrita por um conjunto de células em um arranjo espacial bidimensional. Cada célula representas os ditos *pixels*, que nada mais são do que pontos lógicos de representação.
+- vetoriais:  nesta forma de representação, usam-se primitivas matemáticas para modelar os problemas e elementos a serem dispostos. Tais elementos são chamados de *primitivas vetoriais* e possuem seu conjunto de atributos e geometria.
+    - utiliza de voxels (pixel com volume) para representação nos octantes.
     - Dispositivos 3d: impressora
+    - Podemos modelar uma reta nesta representação da seguinte forma: $(x, y, z) = (P_2 - P_1)+t +P_1, \ 0 \leq t \leq 1$,  onde cada elementos de ponto corresponde as coordenadas no espaço de 0 a X, Y e Z delimitados.
 
 ## Dispositivos Graficos
-### CRT -> 
-medida em pixel é uma unidade lógica e não fisica.
-tamanho fisico depende do dispostivo de projeção, depende da unidade minima de projeção. 
+
+### CRT (Cathode Ray Tube)
+medida em pixel é uma unidade lógica e não física.
+tamanho físico depende do dispostivo de projeção, depende da unidade minima de projeção. 
 Esse valor em si é medido por `dot pitch` -> distancia entre 2 pontos de projeção é no máximo 0.28mm.
 
 ## LCD (liquid crystal display)

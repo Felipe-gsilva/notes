@@ -11,10 +11,14 @@
             "id": "bdbe27fc8b0a204a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pages/Cs/6° Semestre/Computação-Gráfica/aula-4/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f434e12fe02fc46d",
@@ -158,10 +163,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "bdbe27fc8b0a204a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "pages/Cs/6° Semestre/Computação-Gráfica/aula-3/index.md",
+    "pages/Cs/6° Semestre/Computação-Gráfica/aula-2-gl-and-transformations/index.md",
+    "Pasted image 20250831084959.png",
+    "Pasted image 20250831084702.png",
+    "Pasted image 20250831083551.png",
+    "Pasted image 20250831083217.png",
+    "pages/Cs/6° Semestre/Computação-Gráfica/aula-1/intro+cores.md",
+    "pages/Cs/6° Semestre/Computação-Gráfica/aula-1/opengl.md",
+    "pages/Cs/6° Semestre/Computação-Gráfica/aula-4/index.md",
+    "Pasted image 20250831080839.png"
+  ]
 }
