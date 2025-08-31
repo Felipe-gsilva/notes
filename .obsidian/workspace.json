@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Cs/6° Semestre/Compiladores/aula-4/index.md",
+                "file": "pages/Cs/6° Semestre/Computação-Gráfica/trabalho/particulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "particulas"
             }
           }
         ]
@@ -158,21 +158,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "472099a543091e7c",
+  "active": "bdbe27fc8b0a204a",
   "lastOpenFiles": [
-    "pages/Cs/_index.md",
-    "public/Lista de exercícios 1.pdf",
-    "public/exercicio-1-counting-lista-2-paa.png",
-    "public/Pasted image 20250829102631.png",
-    "pages/Cs/6° Semestre/Compiladores/aula-4/index.md"
+    "pages/Cs/6° Semestre/Computação-Gráfica/trabalho/intro.md",
+    "pages/Cs/6° Semestre/Computação-Gráfica/trabalho/particulas.md",
+    "pages/Cs/6° Semestre/Computação-Gráfica/aula-4/index.md",
+    "pages/Cs/6° Semestre/Computação-Gráfica/aula-3/index.md",
+    "pages/Cs/6° Semestre/Computação-Gráfica/aula-2-gl-and-transformations/index.md",
+    "Pasted image 20250831084959.png",
+    "Pasted image 20250831084702.png",
+    "Pasted image 20250831083551.png",
+    "Pasted image 20250831083217.png",
+    "pages/Cs/6° Semestre/Computação-Gráfica/aula-1/intro+cores.md",
+    "pages/Cs/6° Semestre/Computação-Gráfica/aula-1/opengl.md",
+    "Pasted image 20250831080839.png"
   ]
 }

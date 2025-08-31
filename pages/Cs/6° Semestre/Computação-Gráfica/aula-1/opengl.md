@@ -1,4 +1,6 @@
-opengl é um pacote de um sistema gráfico e usa rotinas de baixo nivel, como:
+Começaremos com OpenGL (Open Graphics Library). A interface entre o software e o hardware gráfico é feita através de procedimentos disponíveis pela API.
+
+Opengl é um pacote de um sistema gráfico e usa rotinas de baixo nivel, como:
 - <GL/>
 - glutMainLoop()
 

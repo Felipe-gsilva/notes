@@ -1,25 +1,18 @@
-Antialiasing 
-- Amostragem de Área Ponderada.
+# Rasterização: representação matricial
+Gráficos são dados por primitivas geométricas, passando algo vetorial (continuo) para matricial (discreto).
 
-Poligonos 
-- Construção e preenchimento de polignos com formas arbitrárias.
-
---- 
-# Rasterizacao: representacao matricial
-Graficos sao dados por primitivas geometricas, passando algo vetorial (continuo) para matricial (discreto).
-
-Dispositivos graficos: matrizes de pixels.
+Dispositivos gráficos: matrizes de pixels.
 
 - algoritmos para segmentos de retas 
 data uma reta qualquer com v1(x1, y2) e v2(x2, y2): 
-1. Selecao de pixels imediatamente acima e abaixo (linhas densas)
-2. Pixels obtidos pelo arredonamento dos valores de algum ponto do segmento (aproximacao)
-3. Pixels obtidos por um pixel por coluna mais proximos da interseccao (mais bonito). (0 - 45 graus)
-4. mesmo criterio para cada linha horizontal (paia) (45 - 90 graus)
+1. Seleção de pixels imediatamente acima e abaixo (linhas densas)
+2. Pixels obtidos pelo arredondamento dos valores de algum ponto do segmento (aproximação)
+3. Pixels obtidos por um pixel por coluna mais próximos da intersecção (mais bonito). (0 - 45 graus)
+4. mesmo critério para cada linha horizontal (paia) (45 - 90 graus)
 
-Caracteristicas possiveis:
+Características possíveis:
 - Linearidade: parecer uma reta
-- Precisao: pontos devem terminar e comecar nos vertices terminais.
+- Precisão: pontos devem terminar e começar nos vértices terminais.
 - Densidade uniforme: pixels devem ser igualmente espacados.
 - Intensidade independente da inclinacao: ou seja, se a inclinacao mudar, a reta deve parecer a mesma.
 - Continuidade: Nao aprensetar interrupcao
@@ -27,22 +20,23 @@ Caracteristicas possiveis:
 
 
 # Aliasing
-Primitiavas podem ter problemas, ou seja, serrilhar.
+Um fenômeno muito comum em imagens digitais é o *aliasing*, isto é, quando a amostragem de uma dada função contínua é pobre, ao ser desenhada, têm-se resultados inconsistentes com o
+esperado. No caso de cg, esse efeito é causado quando o DPI (dots per inch) é insuficiente para representar matricialmente a função contínua descrita, causando infidelidade à representação esperada.
 
-Filtro gaussiano (distribuicao normal) -> atribui um peso pro pixel central e pesos menores aos vizinhos (ou seja, borra os pixels)
+Uma forma de mitigação do problema é a aplicação do Filtro gaussiano (normal), o qual atribui um peso pro pixel central e pesos menores aos vizinhos em uma matriz com quadrada de tamanho 3, e multiplica os vizinhos com esta, causando um efeito de borrar a imagem: 
+![[Pasted image 20250831080839.png]]
 
-# Preenchiento de poligono
-checando vizinhos ou ate a fronteira, dado uma semente (posicao inicial)
+# Preenchimento de polígono
+checando vizinhos ou até a fronteira, dado uma semente (posição inicial)
 
-para pintar pixel usa o ray casting (se esta ou nao no poligono).
+para pintar pixel usa o ray casting (se esta ou não no polígono).
 
 Problema do vertice: vertices sao compartilhados entre arestas, logo o flip estara errado.
-Se o vertice eh minimo para uma aresta e maximo para outra, inverta a paridade.
+Se o vértice eh minimo para uma aresta e maximo para outra, inverta a paridade.
 Se for minimo pras 2  arestas presentes, nao flipa, so pinta o pixel do vertice.
 Se for maximo pras 2  arestas presentes, nao flipa e nem pinta.
 
-Causa `sliver`, dentro do mesmo pixel ha outra aresta.
-
+Causa `sliver`, dentro do mesmo pixel há outra aresta.
 
 # Exercicios:
 programa usando opengl para que o usuario informe

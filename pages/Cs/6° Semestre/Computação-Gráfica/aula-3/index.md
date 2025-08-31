@@ -1,6 +1,6 @@
-Graficos 3D
-- Projecoes geometricas
-    - representacao de um objeto em uma dimensao em outra
+Gráficos 3D
+- Projeções geométricas
+    - representação de um objeto em uma dimensão em outra
     - transformacao $R^3$ para o $R^2$ 
 
 Uso de matriz homogeneas, calculando um ponto a ser projetado da simulacao do espaco 3D em 2D.
