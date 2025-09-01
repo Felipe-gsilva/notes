@@ -64,7 +64,7 @@ body
             P(m);
             if (tod <= napQueue.top().waketime) {
                 napQueue.pop()
-                V[d[id]];
+                V(d[id]);
             }
             V(m);
         }
