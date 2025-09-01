@@ -44,7 +44,7 @@ module TimeServer
 body 
     int tod = 0;
     sem m=1, d\[n\] = (\[n\] 0);
-    queue of (int waketime, int process_id) napQueue;
+    <queue min_heap> (int waketime, int process_id) napQueue;
     proc get_time() return time 
        { time = tod };
     proc delay(int interval) 
@@ -55,9 +55,20 @@ body
         V(m);
         P(d[myid]);
     }
-    
-    proc 
 
+    process clock {
+        // inicia relogio de hardware
+        while (true) {
+            // atualiza o relogio 
+            tod = tod + 1
+            P(m);
+            if (tod <= napQueue.top().waketime) {
+                napQueue.pop()
+                V[d[id]];
+            }
+            V(m);
+        }
+    }
     
 end TimeServer
 ```
