@@ -20,7 +20,7 @@ Os headers são da forma
 > op opname (formals) \[return result\]
 
 Os procedimentos são da forma:
-> proc opname (format identifiers) returns res. identifier 
+> proc opname (formal identifiers) returns res. identifier 
 >   declaracao variaveis locais 
 >   comandos
 
@@ -37,4 +37,27 @@ Esses procedimentos são chamados remotamente por:
 
 
 ## Exemplo - Servidor de relógio 
+```c
+module TimeServer
+    op get_time() returns int;
+    op delay(int interval);
+body 
+    int tod = 0;
+    sem m=1, d\[n\] = (\[n\] 0);
+    queue of (int waketime, int process_id) napQueue;
+    proc get_time() return time 
+       { time = tod };
+    proc delay(int interval) 
+    {
+        int waketime = tod + interval;
+        P(m);
+        insert (waketime, my_id) in napQueue;
+        V(m);
+        P(d[myid]);
+    }
+    
+    proc 
 
+    
+end TimeServer
+```
