@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Cs/6° Semestre/Computação-Gráfica/trabalho/particulas.md",
+                "file": "pages/Cs/4° Semestre/Cálculo numérico/14 - Métodos Iterativos de solução de sistemas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "particulas"
+              "title": "14 - Métodos Iterativos de solução de sistemas"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f434e12fe02fc46d",
@@ -167,10 +166,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdbe27fc8b0a204a",
+  "active": "472099a543091e7c",
   "lastOpenFiles": [
-    "pages/Cs/6° Semestre/Computação-Gráfica/trabalho/intro.md",
+    "pages/Cs/4° Semestre/Cálculo numérico/11 - Sistemas Lineares.md",
+    "pages/Cs/4° Semestre/Cálculo numérico/14 - Métodos Iterativos de solução de sistemas.md",
+    "pages/Cs/4° Semestre/Cálculo numérico/13 - Fatoração LU com pivoteamento parcial.md",
+    "pages/Cs/4° Semestre/Cálculo numérico/15 - Gauss Seidel.md",
     "pages/Cs/6° Semestre/Computação-Gráfica/trabalho/particulas.md",
+    "pages/Cs/6° Semestre/Computação-Gráfica/trabalho/intro.md",
     "pages/Cs/6° Semestre/Computação-Gráfica/aula-4/index.md",
     "pages/Cs/6° Semestre/Computação-Gráfica/aula-3/index.md",
     "pages/Cs/6° Semestre/Computação-Gráfica/aula-2-gl-and-transformations/index.md",
