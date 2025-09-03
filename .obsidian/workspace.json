@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Cs/4° Semestre/Cálculo numérico/14 - Métodos Iterativos de solução de sistemas.md",
+                "file": "pages/Cs/6° Semestre/Compiladores/aula-4/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 - Métodos Iterativos de solução de sistemas"
+              "title": "index"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f434e12fe02fc46d",
@@ -168,8 +169,8 @@
   },
   "active": "472099a543091e7c",
   "lastOpenFiles": [
-    "pages/Cs/4° Semestre/Cálculo numérico/11 - Sistemas Lineares.md",
     "pages/Cs/4° Semestre/Cálculo numérico/14 - Métodos Iterativos de solução de sistemas.md",
+    "pages/Cs/4° Semestre/Cálculo numérico/11 - Sistemas Lineares.md",
     "pages/Cs/4° Semestre/Cálculo numérico/13 - Fatoração LU com pivoteamento parcial.md",
     "pages/Cs/4° Semestre/Cálculo numérico/15 - Gauss Seidel.md",
     "pages/Cs/6° Semestre/Computação-Gráfica/trabalho/particulas.md",

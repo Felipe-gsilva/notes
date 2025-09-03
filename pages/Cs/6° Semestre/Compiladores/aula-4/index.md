@@ -1,25 +1,24 @@
-# Continuação analise sintatica descendente
+# Continuação análise sintática descendente
 
 - sem retrocesso
-- chamado analisador sintatico preditivo.
-- adequado para gramaticas LL(1) -> left-to right -> lelf (derivações) -> (k-lookahead = 1)
+- chamado analisador sintático preditivo.
+- adequado para gramaticas LL(1) -> left-to right -> left (derivações) -> (k-lookahead = 1)
 
-2 tipos de AS (analisadores sintaticos) preditivos: 
-- recursivo: associa uma funcao para cada simbolo nao terminal da gramatica.
-- nao recursivo: usa uma tabela que indica quais regras de producao devem ser usadas.
+2 tipos de AS (analisadores sintáticos) preditivos: 
+- recursivo: associa uma função para cada simbolo não terminal da gramatica.
+- não recursivo: usa uma tabela que indica quais regras de produção devem ser usadas.
 
-Exercicio(casa): usando derivacao, obtenha 10 cadeias da linguagem abaixo
-G = ({E, E', T, T'}, {+,-,*,/,num}, P, E)
-P:  E -> TE'
-    E' -> +TE' | - TE' | $\epsilon$
-    T -> FT'
-    T' -> *FT' | /FT' | $\epsilon$
-    F -> (E) | num
-
+Exercício(casa): usando derivação, obtenha 10 cadeias da linguagem abaixo
+$G = ({E, E', T, T'}, {+,-,*,/,num}, P, E)$
+$P:  E -> TE'$
+	$E' \rightarrow +TE' | - TE' | \$ \epsilon\$$
+    $T \rightarrow FT'$
+    $T' \rightarrow *FT' | /FT' | \$ \epsilon \$$
+    $F \rightarrow (E) | num$
 
 ## Construir um analisador sintático descendente recursivo para G
 
-```py
+```python
 # nao funciona
 token: str = None
 
@@ -87,27 +86,28 @@ vira: E -> TE'
 ![[Pasted image 20250829102631.png]]
 
 # First and Follow
-necessários para construir um analisador sintático preditivo, podendo prever a regra de produção correta.
+Necessários para construir um analisador sintático preditivo, podendo prever a regra de produção correta a ser escolhida.
 
-## First(Primeiro)
-1. Se X for terminal, Primeiro (X) = {x}
-2. Se X -> $\epsilon$ for uma produção, adicione $\epsilon$ a Primeiro(X)
-3. Se X for não-terminal e $X \rightarrow Y_1, Y_2,\ \dots,\ Y_n$ uma produção, colocar a em primeiro (X) se para algum $i$, a estiver em Primeiro($Y_i$), e $\epsilon$ estiver em todos: Primeiro($Y_1$) $\dots$ Primeiro($Y_{i-1}$), isto é, se $$Y_1\dots Y_{i-1}\xRightarrow{y} \ \epsilon$$
-Se $\epsilon$ estiver em Primeiro($Y_j$), $j = 1,\ 2 \ \dots \ n$, então adicione $\epsilon$ a Primeiro(X).
+## First
+1. Se X for terminal, First (X) = {X}
+2. Se X -> $\epsilon$ for uma produção, adicione $\epsilon$ a First(X)
+3. Se X for não-terminal e $X \rightarrow Y_1, Y_2,\ \dots,\ Y_n$ uma produção, colocar a em primeiro (X) se para algum $i$, a estiver em First($Y_i$), e $\epsilon$ estiver em todos: First($Y_1$) $\dots$ First($Y_{i-1}$), isto é, se $$Y_1\dots Y_{i-1}\xRightarrow{y} \ \epsilon$$
+Se $\epsilon$ estiver em First($Y_j$), $j = 1,\ 2 \ \dots \ n$, então adicione $\epsilon$ a First(X).
 
 ## Follow(seguinte)
-1. colocar $ em Seguinte(S), S símbolo de partida.
-2. Se existir uma produção A->$\alpha B \beta$, então tudo em Primeiro($\beta$) está em Seguinte($\beta$) exceto $\epsilon$
-3. Se existir uma produção A->$\alpha B\beta$ onde Primeiro($\beta$) contém $\epsilon$, então tudo em Seguinte de A está em Seguinte($B$).
+1. colocar \$ em Seguinte(S), S símbolo de partida.
+2. Se existir uma produção A->$\alpha B \beta$, então tudo em First($\beta$) está em Seguinte($\beta$) exceto $\epsilon$
+3. Se existir uma produção A->$\alpha B\beta$ onde First($\beta$) contém $\epsilon$, então tudo em Seguinte de A está em Seguinte($B$).
 
-Exercícios: Calcule o conjunto Primeiro e Seguinte
+Exercícios: Calcule o conjunto First e Seguinte
 a) 
-  E -> TE'
-  E' -> +TE' | - TE' | $\epsilon$
-  T -> FT'
-  T' -> \*FT' | /FT' | $\epsilon$
-  F -> (E) | num
+  $E \rightarrow TE'$
+  $E' \rightarrow +TE' \ | \ - TE' \ | \ \epsilon$
+  $T \rightarrow FT'$
+  $T' \rightarrow \ *FT' \ | \ FT' \ | \ \epsilon$
+  $F \rightarrow (E) \ | \ num$
 
-b)  S->aAeS|Bd|d
-	A->aA|$\epsilon$
-	B->bB|c
+b)  $S\rightarrow aAeS \ | \ Bd \ | \ d$
+	$A\rightarrow aA \ | \ \epsilon$
+	$B\rightarrow bB \ | \ c$
+	
