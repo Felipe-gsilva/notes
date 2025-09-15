@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Cs/6° Semestre/Compiladores/aula-4/index.md",
+                "file": "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-10-Rendezvous/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,6 +169,7 @@
   },
   "active": "472099a543091e7c",
   "lastOpenFiles": [
+    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-9-RPC/index.md~",
     "pages/Cs/4° Semestre/Cálculo numérico/14 - Métodos Iterativos de solução de sistemas.md",
     "pages/Cs/4° Semestre/Cálculo numérico/11 - Sistemas Lineares.md",
     "pages/Cs/4° Semestre/Cálculo numérico/13 - Fatoração LU com pivoteamento parcial.md",

@@ -47,6 +47,7 @@ body
     <queue min_heap> (int waketime, int process_id) napQueue;
     proc get_time() return time 
        { time = tod };
+
     proc delay(int interval) 
     {
         int waketime = tod + interval;
@@ -62,7 +63,7 @@ body
             // atualiza o relogio 
             tod = tod + 1
             P(m);
-            if (tod <= napQueue.top().waketime) {
+            while (tod <= napQueue.top().waketime) {
                 napQueue.pop()
                 V(d[id]);
             }
@@ -72,4 +73,3 @@ body
     
 end TimeServer
 ```
-
