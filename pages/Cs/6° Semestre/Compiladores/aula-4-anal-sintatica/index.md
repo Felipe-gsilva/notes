@@ -8,14 +8,6 @@
 - recursivo: associa uma função para cada simbolo não terminal da gramatica.
 - não recursivo: usa uma tabela que indica quais regras de produção devem ser usadas.
 
-Exercício(casa): usando derivação, obtenha 10 cadeias da linguagem abaixo
-$G = ({E, E', T, T'}, {+,-,*,/,num}, P, E)$
-$P:  E -> TE'$
-	$E' \rightarrow +TE' | - TE' | \$ \epsilon\$$
-    $T \rightarrow FT'$
-    $T' \rightarrow *FT' | /FT' | \$ \epsilon \$$
-    $F \rightarrow (E) | num$
-
 ## Construir um analisador sintático descendente recursivo para G
 
 ```python
@@ -99,15 +91,4 @@ Se $\epsilon$ estiver em First($Y_j$), $j = 1,\ 2 \ \dots \ n$, então adicione 
 2. Se existir uma produção A->$\alpha B \beta$, então tudo em First($\beta$) está em Seguinte($\beta$) exceto $\epsilon$
 3. Se existir uma produção A->$\alpha B\beta$ onde First($\beta$) contém $\epsilon$, então tudo em Seguinte de A está em Seguinte($B$).
 
-Exercícios: Calcule o conjunto First e Seguinte
-a) 
-  $E \rightarrow TE'$
-  $E' \rightarrow +TE' \ | \ - TE' \ | \ \epsilon$
-  $T \rightarrow FT'$
-  $T' \rightarrow \ *FT' \ | \ FT' \ | \ \epsilon$
-  $F \rightarrow (E) \ | \ num$
-
-b)  $S\rightarrow aAeS \ | \ Bd \ | \ d$
-	$A\rightarrow aA \ | \ \epsilon$
-	$B\rightarrow bB \ | \ c$
 	

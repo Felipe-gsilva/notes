@@ -4,32 +4,32 @@
 
 Entrada: Cadeia de tokens representando o programa fonte e verifica se a cadeia em si pertence a linguagem gerada pela gramatica.
 
-Ele deve ser projetado para emitir mensagens de erros de uma forma inteligivel e se recuperar deles, em certas ocasioes.
+Ele deve ser projetado para emitir mensagens de erros de uma forma inteligível e se recuperar deles, em certas ocasiões.
 
-Aqui, devemos estruturar a gramatica de fato, partindo, naturalmente, de uma _keyword_ definida, i.e, *while* ou *int*, assim, os proximos lexemas a serem aceitos devem se basear nessa indicacao.
+Aqui, devemos estruturar a gramatica de fato, partindo, naturalmente, de uma _keyword_ definida, i.e, *while* ou *int*, assim, os proximos lexemas a serem aceitos devem se basear nessa indicação.
 
-Utilizaremos um PDA (push-down automata) para aceitarmos a gramatica, devido a sua "memoria" (pilha). Assim, podemos aceitar uma sequencia de tokens como `int a = 5;` ou nao, olha todos os lexemas.
+Utilizaremos um PDA (*push-down automata*) para aceitarmos a gramatica, devido a sua "memoria" (pilha). Assim, podemos aceitar uma sequencia de tokens como `int a = 5;` ou não, olha todos os lexemas.
 
-O analisador sintatico interage com a tabela de simbolos, adicionando, por exemplo, `tipo`, `argumentos`, etc.
+O analisador sintático interage com a tabela de símbolos, adicionando, por exemplo, `tipo`, `argumentos`, etc.
 
-Saida: Gera uma arvore de derivacao (arvore sintatica) como saida.
+Saída: Gera uma arvore de derivação (arvore sintática) como saída.
 
 ## Tratamento de erro
 
-Precisa-se tratar erros corretamente e existem diversas maneira de o fazer. Devemos atrasar a _parada_ do programa, apenas marcando erros e os informando ao final da analise (se nao for critico); O compilador pode, por exemplo, parar essa emissao de mensagens em caso de um *threshold* de erros seja alcançado (e.g 50). 
+Precisa-se tratar erros corretamente e existem diversas maneira de o fazer. Devemos atrasar a _parada_ do programa, apenas marcando erros e os informando ao final da analise (se não for critico); O compilador pode, por exemplo, parar essa emissão de mensagens em caso de um *threshold* de erros seja alcançado (e.g 50). 
 
-Estrategias podem ser:
+Estratégias podem ser:
 
-### Recuperacao no modo panico
+### Recuperação no modo panico
 // livro
-### Recuperacao em nivel de frase
+### Recuperação em nível de frase
 // livro
-### Producoes de Erro 
+### Produções de Erro 
 // livro
-### Correcao Global
+### Correção Global
 // livro
 
-# Tipos de Analise Sintatica
+# Tipos de Analise Sintática
 - Descendente
 - Ascendente
 ## Descendente (top down)

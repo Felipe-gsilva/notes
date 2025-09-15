@@ -1,6 +1,6 @@
 aula de flex
 
-# Padroes de expressoes regulares
+# Padrões de expressões regulares
 POSIX é o padrão, mas o que mais está sendo utilizado é PCRE.
 
 - Literais -> example 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-10-Rendezvous/index.md",
+                "file": "pages/Cs/6° Semestre/Compiladores/aula-1-intro/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f434e12fe02fc46d",
@@ -169,7 +168,20 @@
   },
   "active": "472099a543091e7c",
   "lastOpenFiles": [
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-9-RPC/index.md~",
+    "pages/Cs/6° Semestre/Compiladores/aula-2-anal-lex/index.md",
+    "pages/Cs/6° Semestre/Compiladores/aula-3-flex-anal-sint/flex.md",
+    "pages/Cs/6° Semestre/Compiladores/aula-1-intro/index.md",
+    "pages/Cs/6° Semestre/Compiladores/aula-5-aspnp/index.md",
+    "pages/Cs/6° Semestre/Compiladores/aula-4-anal-sintatica/index.md",
+    "pages/Cs/6° Semestre/Compiladores/def-trabalho-1.md",
+    "pages/Cs/6° Semestre/Compiladores/aula-3-flex-anal-sint/analise-sintatica.md",
+    "pages/Cs/6° Semestre/Compiladores/exercicios.md",
+    "pages/Cs/6° Semestre/Compiladores/aula-4/index.md",
+    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-10-Rendezvous/index.md",
+    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-10-Rendezvous",
+    "pages/Cs/6° Semestre/Compiladores/aula-5-aspnp",
+    "pages/Cs/6° Semestre/Compiladores/aula-4-anal-sintatica",
+    "pages/Cs/6° Semestre/Compiladores/exercícios.md",
     "pages/Cs/4° Semestre/Cálculo numérico/14 - Métodos Iterativos de solução de sistemas.md",
     "pages/Cs/4° Semestre/Cálculo numérico/11 - Sistemas Lineares.md",
     "pages/Cs/4° Semestre/Cálculo numérico/13 - Fatoração LU com pivoteamento parcial.md",
