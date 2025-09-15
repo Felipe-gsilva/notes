@@ -1,15 +1,14 @@
 aula de flex
-
 # Padrões de expressões regulares
 POSIX é o padrão, mas o que mais está sendo utilizado é PCRE.
 
 - Literais -> example 
-- Conjuntos [] -> [A-z]
+- Conjuntos [] -> [a-zA-Z] // Na tabela ASCII, existem outros caracteres entre Z e a (como [, \, ], \^,\_, \`\)
 - Grupos () -> (abc)
 - Ancoras ^ \$ -> \^example\$ 
-- Uniao | -> (let|const)
-- Fechamento * (0 ou +) + (positivo) {valor arbitrario} -> (ab)*[c-z]+\[\[:digit:\]\] {1, 3}
-- Expansao {NAME} -> a{NAME}b (sendo NAME um valor definido pelo usuario)
+- União | -> (let|const)
+- Fechamento * (0 ou +) + (positivo) {valor arbitrário} -> (ab)*\[c-z\]+\[\[:digit:\]\] {1, 3}
+- Expansão {NAME} -> a{NAME}b (sendo NAME um valor definido pelo usuário)
 - Curinga . -> .
 - Escape \ -> \\.\\+\\(
 
@@ -24,6 +23,6 @@ POSIX é o padrão, mas o que mais está sendo utilizado é PCRE.
 - void yyrestart(FILE* new_file)
     - injeta um novo arquivo dentro de yyin.
 - FILE* yyout 
-    - COntem o arquivo que recebera a saide do programa (padrao stdout).
+    - Contem o arquivo que recebera a saide do programa (padrao stdout).
 - int yylineno
     - Numero da linha atual (precisa de %option yylineno) no preambulo.
