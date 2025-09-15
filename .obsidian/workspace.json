@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Cs/6° Semestre/Compiladores/aula-1-intro/index.md",
+                "file": "pages/Cs/6° Semestre/Compiladores/aula-2-anal-lex/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -168,9 +168,9 @@
   },
   "active": "472099a543091e7c",
   "lastOpenFiles": [
+    "pages/Cs/6° Semestre/Compiladores/aula-1-intro/index.md",
     "pages/Cs/6° Semestre/Compiladores/aula-2-anal-lex/index.md",
     "pages/Cs/6° Semestre/Compiladores/aula-3-flex-anal-sint/flex.md",
-    "pages/Cs/6° Semestre/Compiladores/aula-1-intro/index.md",
     "pages/Cs/6° Semestre/Compiladores/aula-5-aspnp/index.md",
     "pages/Cs/6° Semestre/Compiladores/aula-4-anal-sintatica/index.md",
     "pages/Cs/6° Semestre/Compiladores/def-trabalho-1.md",

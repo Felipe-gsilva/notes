@@ -1,5 +1,5 @@
-- A entrada na "fita" do scanner (AFD) é feita por um programa anterior (leitor de arquivo) que usa de separadores da linguagem de programação.
-	- O scanner (analisador léxico) então verifica se o token enviado é válido.
+- A entrada na "fita" do scanner (AFD) é feita por um programa anterior (leitor de arquivo) que usa de separadores da linguagem de programação (e.g $).
+	- O scanner (analisador léxico) então verifica se o(s) token(s) enviado(s) é(são) válido(s).
 - O analisar léxico analisa somente se os tokens são BEM FORMADOS.
 # Exemplo de erros léxicos
 - Uso de caracteres fora do alfabeto da linguagem;
