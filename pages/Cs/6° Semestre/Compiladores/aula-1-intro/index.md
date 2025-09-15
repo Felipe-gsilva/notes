@@ -30,10 +30,10 @@ a = b + c * 60
 $\vdots$
 <id, 1> <=> <id, 2> <+> <id, 3> <*> <60>
 
-## Analisador sintatico
-Utiliza uma forma intermediaria de representacao tipo arvore, atraves dos tokens recebidos pela analise lexica, demonstrando a estrutura gramatical da sequencia de tokens. Uma representacao tipica é uma árvore sintática em que cada nó é um operador e os filhos representam seus operandos.
+## Analisador sintático
+Utiliza uma forma intermediaria de representação tipo árvore, através dos tokens recebidos pela analise léxica, demonstrando a estrutura gramatical da sequencia de tokens. Uma representação típica é uma árvore sintática em que cada nó é um operador e os filhos representam seus operandos.
 
-## Analisador semantico
+## Analisador semântico
 Também utiliza a mesma representacao de árvore mas ajusta alguns "problemas" (ou ao menos os detecta). Por exemplo, uma multiplicação de int's não pode ter um operando do tipo float, então será chamado a função floattoint() para corrigir o problema. Em outras palavras, o analisador semantico utiliza da árvore sintática e das entradas da tabela de simbolos para verificar a consistencia semântica do programa com a definição da linguagem.
 
 Certas técnicas são empregadas, como a supracitada verificação de tipos. Esses ajustes de tipo são chamados de **coerções** de acordo com o tipo preferido.
