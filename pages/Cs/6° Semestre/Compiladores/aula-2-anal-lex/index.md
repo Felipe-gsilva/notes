@@ -6,10 +6,9 @@
 - Erros de grafia.
 
 # Token: padrões e lexemas
-- Dada LP possui um conjunto de tokens que definem as sequências de caracteres válidos para a linguagem.
+- Cada LP possui um conjunto de tokens que definem as sequências de caracteres válidos para a linguagem.
 - Cada sequência de caractere em um programa fonte tem significado próprio na LP.
 - Por exemplo, a sequência "if" pode significar um identificador ou o nome de uma estrutura de controle (dependendo da linguagem).
-- Um **token** é uma classe de sequência de caracteres, que juntos têm um significado específico em uma linguagem fonte.
 - Sequências diferentes podem estar associadas ao mesmo token. Ex: 10 e 234
 - A sequência de caracteres que forma um token é chamada **lexema**
 	- Ex: pi = 3,1416; 

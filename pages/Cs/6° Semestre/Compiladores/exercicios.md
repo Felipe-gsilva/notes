@@ -2,6 +2,16 @@ AULA 1
 
 ---
 AULA 2
+Identifique os tokens:
+	int a,b,c;
+	char cadeia;
+	leia(a);
+	b = 3;
+	c = 2;
+	c = c + a + b;
+	escreva(c);
+	Cadeia = 'S';
+	escreva(S);	
 
 ---
 AULA 3
