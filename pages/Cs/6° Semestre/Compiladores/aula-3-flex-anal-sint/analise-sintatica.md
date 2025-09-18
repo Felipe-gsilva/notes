@@ -7,7 +7,7 @@ Entrada: Cadeia de tokens representando o programa fonte e verifica se a cadeia 
 
 Ele deve ser projetado para emitir mensagens de erros de uma forma inteligível e se recuperar deles, em certas ocasiões.
 
-Aqui, devemos estruturar a gramatica de fato, partindo, naturalmente, de uma _keyword_ definida, i.e, *while* ou *int*, assim, os proximos lexemas a serem aceitos devem se basear nessa indicação.
+Aqui, devemos estruturar a gramatica de fato, partindo, naturalmente, de uma _keyword_ definida, i.e, *while* ou *int*, assim, os próximos lexemas a serem aceitos devem se basear nessa indicação.
 
 Utilizaremos um PDA (*push-down automata*) para aceitarmos a gramatica, devido a sua "memoria" (pilha). Assim, podemos aceitar uma sequencia de tokens como `int a = 5;` ou não, ja que ele olha todos os lexemas.
 

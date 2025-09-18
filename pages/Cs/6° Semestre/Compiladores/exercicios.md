@@ -21,9 +21,9 @@ AULA 4
 Exercício(casa): usando derivação, obtenha 10 cadeias da linguagem abaixo
 $G = ({E, E', T, T'}, {+,-,*,/,num}, P, E)$
 $P:  E -> TE'$
-	$E' \rightarrow +TE' | - TE' | \$ \epsilon\$$
+	$E' \rightarrow +TE' | - TE' | \epsilon$
     $T \rightarrow FT'$
-    $T' \rightarrow *FT' | /FT' | \$ \epsilon \$$
+    $T' \rightarrow *FT' | /FT' | \epsilon$
     $F \rightarrow (E) | num$
 
 Exercícios: Calcule o conjunto First e Seguinte
@@ -71,13 +71,12 @@ T'-> *FT' | $\epsilon$
 F-> (E) | id
 
 
-| não terminal | id | + | * | ( | ) | $ |
-|---------------|----|---|---|---|---|---|
-| E             | E-> TE' |   |   | E-> TE' |   |   |
-| E'            | | E'-> +TE' |   | | E'-> ε |  E'-> ε |
-| T             | T-> FT' |   |   | T-> FT' |   |   |
-| T'            | | T'-> ε | T'-> *FT' | | T'-> ε | T'-> ε |
-| F             | F-> id |   |   | F-> (E) |   |   |
-
+| não terminal | id      | +         | *         | (       | )      | $      |
+| ------------ | ------- | --------- | --------- | ------- | ------ | ------ |
+| E            | E-> TE' |           |           | E-> TE' |        |        |
+| E'           |         | E'-> +TE' |           |         | E'-> ε | E'-> ε |
+| T            | T-> FT' |           |           | T-> FT' |        |        |
+| T'           |         | T'-> ε    | T'-> *FT' |         | T'-> ε | T'-> ε |
+| F            | F-> id  |           |           | F-> (E) |        |        |
 
 posições em branco na tabela representam erros de análise sintática.
