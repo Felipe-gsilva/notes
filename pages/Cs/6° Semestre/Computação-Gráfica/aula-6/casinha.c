@@ -188,19 +188,18 @@ void drawHouse(int x, int y, int z, int size) {
   glEnd();
   glPopMatrix();
 
-  // shadow
-  glPushMatrix();
-  glColor4ub(0, 0, 0, 100);
-  glBegin(GL_QUADS);
-  glVertex3f(-5, -5.001, 50);
-  glVertex3f(5, -5.001, 50);
-  glPushMatrix();
-  glTranslatef(sin(time_of_day) * 10, 1, 1);
-  glVertex3f(5, -5.001, -5);
-  glVertex3f(-5, -5.001, -5);
-  glPopMatrix();
-  glEnd();
-  glPopMatrix();
+  if (time_of_day < 180) {
+    // shadow
+    glPushMatrix();
+    glColor4ub(0, 0, 0, 200);
+
+    glBegin(GL_TRIANGLES);
+    glVertex3f(5, -5.001, 0);
+    glVertex3f(-5, -5.001, 0);
+    glVertex3f(time_of_day * 10, -5.001, 50);
+    glEnd();
+    glPopMatrix();
+  }
 
   // teto
   glPushMatrix();
@@ -297,7 +296,8 @@ void DISPLAY(void) {
                             buffers, onde buffer é uma área de armazenamento
                             para informações da imagem. Nesse caso, está
                             "limpando os buffers para suportarem animações */
-  time_of_day = fmin((time_of_day + 0.01), 100);
+  time_of_day = (time_of_day + 0.01);
+  if (time_of_day == 360 ) time_of_day = 0;
   DesenharCena();
   glutSwapBuffers();
   glutPostRedisplay();
