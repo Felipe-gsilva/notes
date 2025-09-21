@@ -5,7 +5,7 @@ Media Final: $(\frac{P_1 + P_2 + MProj}{3} \ + \ \text{Artefato})$
 - Princıpios basicos de concorrencia.
 - Solucoes para problemas classicos em memoria compartilhada
 - Solucoes para problemas classicos em memoria distribu ́ıda
-- Computa ̧c ̃ao de alto desempenho e paralelismo
+- Computação de alto desempenho e paralelismo
 - Threads e openMP
 - Condicoes e modelos de paralelismo
 - Avaliacao e otimizacao de desempenho

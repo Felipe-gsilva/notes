@@ -1,20 +1,18 @@
 # Monitores
-É um TAD que utilizada para sincronismo, exclusão mutua e etc.
+É um TAD utilizado para sincronismo, exclusão mutua e etc.
 Um monitor exporta $n$ funções através de requisições diretamente à um processo, ou seja, somente um processo é capaz de acessar o monitor por vez.
 
 `Sintaxe`: 
 ```c
 monitor mname {
     // Declaração de variáveis permanentes
-
     // comandos de inicialização
-
     // procedimentos do monitor
 };
 ```
 
 - Apenas os **nomes** e args dos procedimentos são visíveis externamente.
-- Comandos de inicialição dos procedimentos não podem acessar variáveis externas ao monitor.
+- Comandos de inicialização dos procedimentos não podem acessar variáveis externas ao monitor.
 - Variáveis permanentes são inicializadas antes de executar a primeira chamada ao monitor. 
 
 Os procedimentos do monitor são chamadas assim:
@@ -85,3 +83,5 @@ monitor FIFOSemaphore{
 	}
 }
 ```
+
+errado, ainda é necessário o while. Na verdade, o if só seria possivel no SW, ao invés do que foi feito aqui, já que SW garante que quem pega o controle é quem acorda, sem processos "intrusos"
