@@ -98,8 +98,7 @@ process Reader [i=1 to M] {
 
 não se pode utilizar apenas um semaforo no reader (como foi feito anteriormente pelo professor), pois precisa-se ter um semaforo para entrada de leitores e um semaforo para saída de leitores, pois se usasse o mesmo, caso ficasse um leitor esperando pois houve solicitação de escrita, não seria possível liberar os leitores que já estavam lendo, pois o mutex estaria com o leitor que foi bloqueado na entrada.
 
-
-Encontramos, no entanto, um problema muito comum na concorrencia, o conceito de fairness. Ou seja, evitar starvation. Uma possível solução é se utilizar do conceito de delayed 
+Encontramos, no entanto, um problema muito comum na concorrencia, o conceito de fairness. Ou seja, evitar starvation. Uma possível solução é se utilizar do conceito de atraso para ver quem está ativamente trabalhando e quem está parado esperando.
 
 ```c
 int nr = 0, nw = 0, dr = 0, dw = 0;
@@ -168,26 +167,32 @@ process Reader[i=1 to M] {
 }
 ```
 
+nr e nw contam numero de readers e writers ativos.
+dr e dw são "salas de espera" onde os r e w esperam ser acordados.
+
+sem e = 1; // controla todo processo, leitor ou escritor, para modificar as variaveis de contagem. Garante atomicidade.
+sem r = 0; // espera dos readers
+sem w = 0; // espera dos writers
 ### Monitores
 ```c
 monitor RW_Controller{
 	int nr = 0, nw = 0;
-	cond OK to read, OK to write;
+	cond OK_to_read, OK_to_write;
 	
 	procedure request_read() {
 			while (nw > 0)
-				wait(OK to read);
+				wait(OK_to_read);
 			nr = nr + 1;
 	}
 	
 	procedure release_read() {
 		nr = nr - 1;
-		if (nr == 0) signal(OK to write);	
+		if (nr == 0) signal(OK_to_write);	
 	}
 	
 	procedure request_write() {
 		while (nr > 0 || nw > 0)
-			wait(OK to write);
+			wait(OK_to_write);
 		nw = nw + 1;	
 	}
 
