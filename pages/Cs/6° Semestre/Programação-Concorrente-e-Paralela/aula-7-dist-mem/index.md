@@ -98,7 +98,3 @@ process merge_sort() {
     }
 }
 ```
-
-## RPC (Remote Procedure Call)
-
-## Reudezvous 

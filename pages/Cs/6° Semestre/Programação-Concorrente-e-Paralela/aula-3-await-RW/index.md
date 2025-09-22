@@ -33,7 +33,7 @@ Entenda também que a implementação apresentada é apenas teórica, visto que 
 
 ---
 
-## Aplicando o await - problemas do multiplos leitores/escritores
+## Aplicando o await - problemas do múltiplos leitores/escritores
 
 
 Como await é uma abstração de uma ação condicional atômica, podemos implementá-los de diversas formas, desde que consigamos garantir a atomicidade e que a condição seja respeitada.
@@ -60,14 +60,13 @@ process Reader [i=1 to M] {
 }
 ```
 
-
 Vamos usar 2 formas, os semáforos e os monitores, vistos anteriormente:
 
-### semaforos 
+### semáforos 
 ```c
-int nr = 0; // numero de leitores ativos
-sem rw = 1; // semaforo de escritores
-sem mutex = 1; 
+int nr = 0;    // numero de leitores ativos
+sem rw = 1;    // semaforo de escritores
+sem mutex = 1; // semaforo de mutual exclusion
 
 process Writer[j=1 to N] {
 	while (true) {

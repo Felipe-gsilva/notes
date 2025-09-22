@@ -1,3 +1,5 @@
+> [!tip] Não cai na prova
+
 # OpenMP parte 2
 `SECTION`
 Atribui tarefas distintas aos threads, ou seja, cada section representa uma thread distinta, ou seja, nao rodam o mesmo codigo.

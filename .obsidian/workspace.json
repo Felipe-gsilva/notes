@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-3-await-RW/index.md",
+                "file": "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-7-dist-mem/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -157,19 +157,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "472099a543091e7c",
   "lastOpenFiles": [
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-2-monitores/monitores.md",
+    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-6-openmp-pt2/index.md",
+    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-5-threads-openmp/2. OpenMP.md",
+    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-5-threads-openmp/1. threads.md",
+    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-4-barreiras-de-sync/index.md",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-3-await-RW/index.md",
+    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-11-exemplos/index.md",
+    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-12-socket/index.md",
+    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-10-Rendezvous/index.md",
+    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-9-RPC/index.md",
+    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-8-barbeiro-dormes/index.md",
+    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-7-dist-mem/index.md",
+    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-2-monitores/monitores.md",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-1-revisão/index.md",
     "pages/Cs/6° Semestre/Compiladores/aula-5-aspnp/index-5.md",
     "pages/Cs/6° Semestre/Compiladores/aula-1-intro/index-1.md",
@@ -180,7 +190,6 @@
     "pages/Cs/6° Semestre/Compiladores/aula-3-flex-anal-sint/flex.md",
     "Pasted image 20250916171035.png",
     "pages/Cs/6° Semestre/Compiladores/aula-2-anal-lex/index-2.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-11-exemplos/index.md",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-11-exemplos",
     "journals/2025_09_15.md",
     "logseq/bak/ToDo kanban/2025-09-15T19_39_30.370Z.Desktop.md",
@@ -194,17 +203,8 @@
     "logseq/bak/pages/Cs",
     "logseq/bak/pages",
     "pages/Cs/6° Semestre/Compiladores/aula-4/index.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-10-Rendezvous/index.md",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-10-Rendezvous",
     "pages/Cs/6° Semestre/Compiladores/aula-5-aspnp",
-    "pages/Cs/6° Semestre/Compiladores/exercícios.md",
-    "pages/Cs/4° Semestre/Cálculo numérico/14 - Métodos Iterativos de solução de sistemas.md",
-    "pages/Cs/4° Semestre/Cálculo numérico/11 - Sistemas Lineares.md",
-    "pages/Cs/4° Semestre/Cálculo numérico/13 - Fatoração LU com pivoteamento parcial.md",
-    "pages/Cs/4° Semestre/Cálculo numérico/15 - Gauss Seidel.md",
-    "pages/Cs/6° Semestre/Computação-Gráfica/trabalho/particulas.md",
-    "pages/Cs/6° Semestre/Computação-Gráfica/trabalho/intro.md",
-    "pages/Cs/6° Semestre/Computação-Gráfica/aula-4/index.md",
     "Pasted image 20250831084959.png",
     "Pasted image 20250831084702.png",
     "Pasted image 20250831083551.png",
