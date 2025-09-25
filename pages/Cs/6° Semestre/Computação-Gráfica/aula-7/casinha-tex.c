@@ -7,48 +7,111 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#define STB_IMAGE_IMPLEMENTATION
+#include "stb_image.h"
+
+#ifndef GL_CLAMP_TO_EDGE
+#define GL_CLAMP_TO_EDGE GL_CLAMP
+#endif
+
+GLuint texId[5];
+
+const char *textures[] = {
+  "assets/parede.jpg",
+  "assets/grama.jpg",
+  "assets/steel_door.jpg",
+  "assets/roof.jpg",
+  "assets/broken_glass.jpg"
+};
+
+void loadTexture(const char *filename, GLuint texID) {
+    int w, h, channels;
+    unsigned char *data = stbi_load(filename, &w, &h, &channels, 0); //Carrega a imagem do arquivo
+    if (!data) {
+        printf("Erro ao carregar %s\n", filename);
+        exit(1);
+    }
+
+  glBindTexture(GL_TEXTURE_2D, texID);
+    
+  //Efeito "esticar" textura para preencher o polígono
+  /*GL_TEXTURE_WRAP_S: eixo horizontal da textura (U).
+	GL_TEXTURE_WRAP_T: eixo vertical da textura (V).
+	GL_CLAMP_TO_EDGE: limita a amostra da textura à borda da imagem (evita vazamento de pixels ao redor).*/
+
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_REPEAT); // ou GL_REPEAT
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_REPEAT); // ou GL_REPEAT
+    
+    
+    
+    /*GL_TEXTURE_MIN_FILTER: quando a textura for reduzida (minificação).
+	GL_TEXTURE_MAG_FILTER: quando a textura for ampliada (magnificação).
+	GL_LINEAR: faz interpolação linear (suaviza os pixels, evita blocos visíveis)*/
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR);
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
+
+    GLenum format = (channels == 4) ? GL_RGBA : GL_RGB; //Define o formato da textura de acordo com channels
+    
+	//envia os dados da imagem para a GPU como textura 2D
+	glTexImage2D(GL_TEXTURE_2D, 0, format, w, h, 0, format, GL_UNSIGNED_BYTE, data);
+
+    stbi_image_free(data);//Libera a memória
+}
+
+void initTextures() {
+  size_t texture_num = 5;
+  glGenTextures(texture_num, texId);
+  for (int i = 0; i < texture_num; i++) {
+    loadTexture(textures[i], texId[i]);
+  }
+}
+
 void DesenharCena();
 
 void desenhaJanela(float z) {
 
   // janelas
   glPushMatrix();
+  glBindTexture(GL_TEXTURE_2D, texId[4]);
   glBegin(GL_QUADS);
   glColor3ub(255, 255, 255);
-  glVertex3f(2, 1, z);
-  glVertex3f(2, 2, z);
-  glVertex3f(3, 2, z);
-  glVertex3f(3, 1, z);
+  glTexCoord2f(0,0); glVertex3f(2, 1, z);
+  glTexCoord2f(0,1); glVertex3f(2, 2, z);
+  glTexCoord2f(1,0); glVertex3f(3, 2, z);
+  glTexCoord2f(1,1); glVertex3f(3, 1, z);
+  glEnd();
+  glPopMatrix();
+
+  glPushMatrix();
+  glBindTexture(GL_TEXTURE_2D, texId[4]);
+  glBegin(GL_QUADS);
+  glColor3ub(255, 255, 255);
+  glTexCoord2f(0,0); glVertex3f(3.2, 1, z);
+  glTexCoord2f(0,1); glVertex3f(3.2, 2, z);
+  glTexCoord2f(1,0); glVertex3f(4.2, 2, z);
+  glTexCoord2f(1,1); glVertex3f(4.2, 1, z);
   glEnd();
   glPopMatrix();
 
   glPushMatrix();
   glBegin(GL_QUADS);
+  glBindTexture(GL_TEXTURE_2D, texId[4]);
   glColor3ub(255, 255, 255);
-  glVertex3f(3.2, 1, z);
-  glVertex3f(3.2, 2, z);
-  glVertex3f(4.2, 2, z);
-  glVertex3f(4.2, 1, z);
+  glTexCoord2f(0,0); glVertex3f(3.2, -0.2, z);
+  glTexCoord2f(0,1); glVertex3f(3.2, 0.8, z);
+  glTexCoord2f(1,0); glVertex3f(4.2, 0.8, z);
+  glTexCoord2f(1,1); glVertex3f(4.2, -0.2, z);
   glEnd();
   glPopMatrix();
 
   glPushMatrix();
   glBegin(GL_QUADS);
+  glBindTexture(GL_TEXTURE_2D, texId[4]);
   glColor3ub(255, 255, 255);
-  glVertex3f(3.2, -0.2, z);
-  glVertex3f(3.2, 0.8, z);
-  glVertex3f(4.2, 0.8, z);
-  glVertex3f(4.2, -0.2, z);
-  glEnd();
-  glPopMatrix();
-
-  glPushMatrix();
-  glBegin(GL_QUADS);
-  glColor3ub(255, 255, 255);
-  glVertex3f(2, -0.2, z);
-  glVertex3f(2, 0.8, z);
-  glVertex3f(3, 0.8, z);
-  glVertex3f(3, -0.2, z);
+  glTexCoord2f(0,0);  glVertex3f(2, -0.2, z);
+  glTexCoord2f(0,1);  glVertex3f(2, 0.8, z);
+  glTexCoord2f(1,0);  glVertex3f(3, 0.8, z);
+  glTexCoord2f(1,1);  glVertex3f(3, -0.2, z);
   glEnd();
   glPopMatrix();
 }
@@ -97,108 +160,79 @@ void Inicializa(void) {
   glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
   glutWarpPointer(400, 300);
   glutSetCursor(GLUT_CURSOR_NONE);
+  initTextures();
 }
 
-void drawHouse(int x, int y, int z, int size) {
-  glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
-
-  // sky blue
-  // should darken on both ends and move to lighter in the middle
-  float sky_r = fmin(0.8 + 0.6 * cos(time_of_day - M_2_PI / 2), 0.4);
-  float sky_g = fmin(0.8 + 0.4 * cos(time_of_day - M_2_PI / 2), 0.7);
-  float sky_b = fmin(1.0 + 0.1 * cos(time_of_day - M_2_PI / 2), 0.9);
-
-  glClearColor(sky_r, sky_g, sky_b, 1.0);
-
-  // house
+void drawPolygons() {
   glPushMatrix();
-  glColor3ub(0, 0, 0);
-  glLineWidth(4.0);    // Make the lines a bit thicker
-  glutWireCube(10.05); // Draw a slightly larger wire cube
-
   // porta
   glPushMatrix();
   glTranslatef(-3.5, -5.0, 5.0);
   glRotatef(rotacao_porta, 0, 1, 0);
   glTranslatef(3.5, 5.0, -5.0);
 
-  glBegin(GL_QUADS);
-  glColor3ub(255, 255, 255);
-  glVertex3f(-3.5, -5, 5);
-  glVertex3f(-3.5, 2, 5);
-  glVertex3f(-0.5, 2, 5);
-  glVertex3f(-0.5, -5, 5);
-  glEnd();
 
-  // macaneta
-  glPushMatrix();
-  glColor3ub(33, 33, 33);
-  glTranslatef(-1, -0.5, 5);
-  glScalef(1, 1, .5);
-  glutSolidSphere(0.1, 20, 20);
-  glPopMatrix();
+  glBindTexture(GL_TEXTURE_2D, texId[2]);
+  glColor3ub(200, 200, 200);
+  glBegin(GL_QUADS);
+  glTexCoord2f(0.0, 0.0); glVertex3f(-3.5, -5, 5);
+  glTexCoord2f(0.0, 7.0); glVertex3f(-3.5, 2, 5);
+  glTexCoord2f(3.0, 7.0); glVertex3f(-0.5, 2, 5);
+  glTexCoord2f(3.0, 0.0); glVertex3f(-0.5, -5, 5);
+  glEnd();
   glPopMatrix();
 
+  glBindTexture(GL_TEXTURE_2D, texId[0]);
   glColor3ub(88, 54, 0);
   glBegin(GL_QUADS);
-  glVertex3f(-5, -5, 5);
-  glVertex3f(-3.5, -5, 5);
-  glVertex3f(-3.5, 5, 5);
-  glVertex3f(-5, 5, 5);
+  glTexCoord2f(0,0); glVertex3f(-5, -5, 5);
+  glTexCoord2f(0,1); glVertex3f(-3.5, -5, 5);
+  glTexCoord2f(1,1); glVertex3f(-3.5, 5, 5);
+  glTexCoord2f(1,0); glVertex3f(-5, 5, 5);
   glEnd();
 
+  glBindTexture(GL_TEXTURE_2D, texId[0]);
   glColor3ub(88, 54, 0);
   glBegin(GL_QUADS);
-  glVertex3f(-3.5, 2, 5);
-  glVertex3f(-3.5, 5, 5);
-  glVertex3f(-0.5, 5, 5);
-  glVertex3f(-0.5, 2, 5);
+  glTexCoord2f(0,0); glVertex3f(-3.5, 2, 5);
+  glTexCoord2f(0, 2); glVertex3f(-3.5, 5, 5);
+  glTexCoord2f(2, 2); glVertex3f(-0.5, 5, 5);
+  glTexCoord2f(2, 0); glVertex3f(-0.5, 2, 5);
   glEnd();
 
+  glBindTexture(GL_TEXTURE_2D, texId[0]);
   glColor3ub(88, 54, 0);
   glBegin(GL_QUADS);
-  glVertex3f(-0.5, 5, 5);
-  glVertex3f(-0.5, -5, 5);
-  glVertex3f(5, -5, 5);
-  glVertex3f(5, 5, 5);
+  glTexCoord2f(0,0); glVertex3f(-0.5, 5, 5);
+  glTexCoord2f(0,2.5); glVertex3f(-0.5, -5, 5);
+  glTexCoord2f(2.5,2.5); glVertex3f(5, -5, 5);
+  glTexCoord2f(2.5,0); glVertex3f(5, 5, 5);
+  glEnd();
+
+  glBindTexture(GL_TEXTURE_2D, texId[0]);
+  glColor3ub(98, 58, 0);
+  glBegin(GL_QUADS);
+  glTexCoord2f(0,0); glVertex3f(-5, -5, -5);
+  glTexCoord2f(0,1); glVertex3f(5, -5, -5);
+  glTexCoord2f(1,1); glVertex3f(5, 5, -5);
+  glTexCoord2f(1,0); glVertex3f(-5, 5, -5);
   glEnd();
 
   glColor3ub(98, 58, 0);
+  glBindTexture(GL_TEXTURE_2D, texId[0]);
   glBegin(GL_QUADS);
-  glVertex3f(-5, -5, -5);
-  glVertex3f(5, -5, -5);
-  glVertex3f(5, 5, -5);
-  glVertex3f(-5, 5, -5);
-  glEnd();
-
-  glColor3ub(98, 58, 0);
-  glBegin(GL_QUADS);
-  glVertex3f(5, 5, 5);
-  glVertex3f(5, -5, 5);
-  glVertex3f(5, -5, -5);
-  glVertex3f(5, 5, -5);
+  glTexCoord2f(0,0); glVertex3f(5, 5, 5);
+  glTexCoord2f(0,1); glVertex3f(5, -5, 5);
+  glTexCoord2f(1,1); glVertex3f(5, -5, -5);
+  glTexCoord2f(1,0); glVertex3f(5, 5, -5);
   glEnd();
 
   glBegin(GL_QUADS);
-  glVertex3f(-5, 5, 5);
-  glVertex3f(-5, -5, 5);
-  glVertex3f(-5, -5, -5);
-  glVertex3f(-5, 5, -5);
+  glTexCoord2f(0,0); glVertex3f(-5, 5, 5);
+  glTexCoord2f(0,1); glVertex3f(-5, -5, 5);
+  glTexCoord2f(1,1); glVertex3f(-5, -5, -5);
+  glTexCoord2f(1,0); glVertex3f(-5, 5, -5);
   glEnd();
-  glPopMatrix();
-
-  if (time_of_day < 180) {
-    // shadow
-    glPushMatrix();
-    glColor4ub(0, 0, 0, 200);
-
-    glBegin(GL_TRIANGLES);
-    glVertex3f(5, -5.001, 0);
-    glVertex3f(-5, -5.001, 0);
-    glVertex3f(time_of_day * 10, -5.001, 50);
-    glEnd();
-    glPopMatrix();
-  }
 
   // teto
   glPushMatrix();
@@ -248,16 +282,58 @@ void drawHouse(int x, int y, int z, int size) {
   glEnd();
   glPopMatrix();
 
+  // janela
+  desenhaJanela(5.01);
+  desenhaJanela(4.99);
+
+  glPopMatrix();
+}
+
+void drawSolids() {
+  // house
+  glPushMatrix();
+
+  glColor3ub(0, 0, 0);
+  glLineWidth(4.0);    // Make the lines a bit thicker
+  glutWireCube(10.02); // Draw a slightly larger wire cube
+  
+  // macaneta
+  glPushMatrix();
+  glTranslatef(-3.5, -5.0, 5.0);
+  glRotatef(rotacao_porta, 0, 1, 0);
+  glTranslatef(3.5, 5.0, -5.0);
+
+  glColor3ub(33, 33, 33);
+  glTranslatef(-1, -0.5, 5);
+  glScalef(1, 1, .5);
+  glutSolidSphere(0.1, 20, 20);
+  glPopMatrix();
+
   glPushMatrix();
   // sun
   glTranslatef(200 * sin(time_of_day), 200 * cos(time_of_day), -200);
   glColor3ub(255, 215, 0);
   glutSolidSphere(10, 20, 20);
   glPopMatrix();
-  // janela
-  desenhaJanela(5.01);
-  desenhaJanela(4.99);
   glPopMatrix();
+}
+
+void drawHouse(int x, int y, int z, int size) {
+  glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+
+  // sky blue
+  // should darken on both ends and move to lighter in the middle
+  float sky_r = fmin(0.8 + 0.6 * cos(time_of_day - M_2_PI / 2), 0.4);
+  float sky_g = fmin(0.8 + 0.4 * cos(time_of_day - M_2_PI / 2), 0.7);
+  float sky_b = fmin(1.0 + 0.1 * cos(time_of_day - M_2_PI / 2), 0.9);
+
+  glClearColor(sky_r, sky_g, sky_b, 1.0);
+
+  glEnable(GL_TEXTURE_2D);
+  drawPolygons();
+  glDisable(GL_TEXTURE_2D);
+
+  drawSolids();
 }
 
 void DISPLAY(void) {

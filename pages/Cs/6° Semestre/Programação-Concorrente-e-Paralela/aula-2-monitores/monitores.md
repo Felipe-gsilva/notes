@@ -84,4 +84,3 @@ monitor FIFOSemaphore{
 }
 ```
 
-errado, ainda é necessário o while. Na verdade, o if só seria possivel no SW, ao invés do que foi feito aqui, já que SW garante que quem pega o controle é quem acorda, sem processos "intrusos"
