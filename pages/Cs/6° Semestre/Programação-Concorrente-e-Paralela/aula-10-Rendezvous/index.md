@@ -1,7 +1,5 @@
 # Rendezvous
-Mecanismo surgiu em 1980 por ai se pá.
-
-Ao invés de se comunicar com novos processos como no RPC, Rendezvous usa de processos já existentes que fica em espera.
+O cliente chama uma operação e o servidor explicitamente aceita essa chamada em um ponto específico de seu código usando a instrução in. É um encontro (sincronização) direto entre dois processos ativos. O servidor tem controle total sobre qual chamada aceitar e quando, usando guardas e escalonamento.
 
 ## Sintaxe
 ```c
@@ -21,6 +19,7 @@ in opname(id param) -> S; ni
 S: sequência de comandos
 
 O ponto de Rendezvouz pode envolver várias operações e também condições de escalonamento, como em:
+
 ```c
 in op1(formals_1) and B1 by e1 -> S1;
 	[] ...;

@@ -1,6 +1,6 @@
 # Concorrência em Memória Distribuída
 
-É necessário se escrever mecanismos construído em cima da comunicação disponível pela rede.  Diferentemente do approach padrão em memória compartilhada, usar trocas entre computadores para se saber valores de semáforos, por exemplo, é altamente custo e causa _busy waiting_. Precisa-se criar, portanto, um IPC (_Interprocess Communication_).
+É necessário se escrever mecanismos construídos em cima da comunicação disponível pela rede. Diferentemente do approach padrão em memória compartilhada, usar trocas entre computadores para se saber valores de semáforos, por exemplo, é altamente custo e causa _busy waiting_. Precisa-se criar, portanto, um IPC (_Interprocess Communication_).
 
 ## Async and Sync Message Passing Primitives
 

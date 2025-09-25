@@ -4,6 +4,7 @@ problema do barbeiro visto em SO, mas com canais
 solucao porca (nossa)
 chan bar_in(int), cli_in(int), cli_out(int), bar_out(int);
 
+```python
 process Barber {
     int receba = 0;
     while (receba != EOS) {
@@ -26,41 +27,47 @@ process Clients \[i=1 to N\] {
         send cli_out(acabou);
     }
 }
+```
 
 ---
-solucao Aleardo
-chan req(int), talk(int), cli\[N\](int)
+solução Aleardo
+```python
+chan req(int), talk(int), cli[N](int)
 
 process Barber {
     int who, val;
     while (who != EOS) {
         receive req(who);
-        send cli\[who\](1);
+        send cli[who](1);
         receive talk(val);
         corta();
-        send cli\[who](2);
+        send cli[who](2);
         receive talk(val);
     }
 }
 
-process Clients \[i=1 to N\] {
+process Clients [i=1 to N] {
     int val;
     while(true) {
         send req(i);
-        receive cli\[i\](val);
+        receive cli[i](val);
         send talk(val);
-        receive cli\[i\](val);
+        receive cli[i](val);
         send talk(val);
     }
 }
 
-// talk pode ser unico pois o cliente so acessa aquela regiao quando cli[i] for ativado.
-// receive talk no barbeiro nao pode ser trocado por um send cli[i]() pois ele mesmo poderia ouvir a mensagem.
-// receive é sempre bloqueante, ele espera chegar uma mensagem até chegar algo
+
+```
+
+talk pode ser unico pois o cliente so acessa aquela regiao quando cli[i] for ativado.
+receive talk no barbeiro nao pode ser trocado por um send cli\[i\]() pois ele mesmo poderia ouvir a mensagem.
+receive é sempre bloqueante, ele espera chegar uma mensagem até chegar algo
 
 ---
 
 # produtor consumidor (sincrono)
+```python
 chan produto(int);
 
 process Consumer {
@@ -82,7 +89,9 @@ process Producer {
 
 // pode ser ao contrario (sync_send vira receive).
 
+```
 # produtor consumidor (assincrono)
+```python
 chan vazio(int), cheio(int);
 
 process prod {
@@ -102,3 +111,5 @@ process cons {
         send vazio(val);
     }
 }
+
+```

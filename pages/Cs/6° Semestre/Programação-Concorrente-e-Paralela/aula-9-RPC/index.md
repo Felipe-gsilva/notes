@@ -1,5 +1,5 @@
 # Remote Procedure Call (RPC)
-É um mecanismo de comunicação entre processos em ambientes distribuidos, no qual processos requisitam a execução de serviços por parte de um módulo remoto. Na prática, esse mecanismo implementa fielmente o conceito de cliente-servidor.
+É um mecanismo de comunicação entre processos em ambientes distribuídos, no qual processos requisitam a execução de serviços por parte de um módulo remoto. Na prática, esse mecanismo implementa fielmente o conceito de cliente-servidor.
 
 O módulo remoto, responsável por atender as requisições, é composto por procedimentos e processos tanto internos quanto exportados (visíveis remotamente). 
 ## Sintaxe
@@ -43,7 +43,7 @@ module TimeServer
     op delay(int interval);
 body 
     int tod = 0;
-    sem m=1, d\[n\] = (\[n\] 0);
+    sem m=1, d[n] = ([n] 0), mutex;
     <queue min_heap> (int waketime, int process_id) napQueue;
     proc get_time() return time 
        { time = tod };
