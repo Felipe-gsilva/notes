@@ -296,16 +296,49 @@ Exercício: Rendezvous (Dificuldade: Média)
 Problema: Crie um módulo reutilizável chamado Exchanger que permita que dois processos realizem um rendezvous para trocar um valor inteiro.
 
 O módulo deve fornecer um único procedimento:
-
 - int exchange(int my_value)
 
 Regras de funcionamento:
-
 - Quando um processo (vamos chamá-lo de P1) chama exchange(value1), ele deve bloquear e esperar até que um segundo processo (P2) também chame a função.
 - Quando P2 chama exchange(value2), a troca acontece.
 - Após a troca, a chamada de P1 deve retornar value2, e a chamada de P2 deve retornar value1.
 - Ambos os processos devem ser desbloqueados para continuar suas execuções somente após a troca ser concluída.
 - O módulo deve estar pronto para ser reutilizado por outro par de processos após a conclusão de uma troca.
+
+
+```
+
+module Exchanger
+    op exchange (int val) [returns int];
+body 
+    int a = INT_MAX, b = INT_MAX;   
+    sem wait = 0;
+
+    while (true) {
+        in exchange(int val) -> {
+            if (a != INT_MAX){
+                b = val;
+                V(wait);
+                int local_a = a
+                a = INT_MAX;
+                return local_a;
+            } else  {
+                a = a_val:
+                P(wait);
+                return b;
+            }
+        }
+        ni
+    }
+
+end Exchanger
+
+```
+
+
+2. barreira com rendezvouz
+
+
 
 # Prova 2
 1. Escreva uma solução para o problema do barbeiro dorminhoco usando troca de mensagens síncrona (10/3 pontos).
