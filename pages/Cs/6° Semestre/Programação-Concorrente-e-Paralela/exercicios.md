@@ -336,8 +336,6 @@ end Exchanger
 ```
 
 
-2. barreira com rendezvouz
-
 
 
 # Prova 2
