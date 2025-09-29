@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-7-dist-mem/exemplos.md",
+                "file": "pages/Cs/6° Semestre/Otimização-Linear/problemas-comum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exemplos"
+              "title": "problemas-comum"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f434e12fe02fc46d",
@@ -168,34 +169,37 @@
   },
   "active": "472099a543091e7c",
   "lastOpenFiles": [
+    "pages/Cs/6° Semestre/Otimização-Linear/aula-1/index.md",
+    "pages/Cs/6° Semestre/Otimização-Linear/problemas-comum.md",
+    "pages/Cs/6° Semestre/Compiladores/aula-6/index.md",
+    "pages/Cs/_index.md",
+    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-7-dist-mem/_index.md",
+    "nao sei.base",
+    "pages/Cs/5° Semestre/_index.md",
+    "pages/Personal/Game Dev/(Game) Kind of hotline miami bullshit.md",
+    "pages/Cs/6° Semestre/Compiladores/aula-5-aspnp/index-5.md",
+    "pages/Cs/6° Semestre/Compiladores/aula-4-anal-sintatica/index-4.md",
+    "public/Pasted image 20250926101755.png",
+    "pages/Cs/6° Semestre/Compiladores/exercicios.md",
+    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-7-dist-mem/exemplos.md",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/exercicios.md",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-9-RPC/index.md",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-11-exemplos/index.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-7-dist-mem/exemplos.md",
     "public/Pasted image 20250924172612.png",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-4-barreiras-de-sync/index.md",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-2-monitores/monitores.md",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-10-Rendezvous/index.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-7-dist-mem/_index.md",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-6-openmp-pt2/index.md",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-5-threads-openmp/2. OpenMP.md",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-5-threads-openmp/1. threads.md",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-3-await-RW/index.md",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-12-socket/index.md",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-1-revisão/index.md",
-    "pages/Cs/6° Semestre/Compiladores/aula-5-aspnp/index-5.md",
     "pages/Cs/6° Semestre/Compiladores/aula-1-intro/index-1.md",
     "pages/Cs/6° Semestre/Compiladores/aula-3-flex-anal-sint/analise-sintatica.md",
-    "pages/Cs/6° Semestre/Compiladores/exercicios.md",
-    "pages/Cs/6° Semestre/Compiladores/aula-4-anal-sintatica/index-4.md",
     "pages/Cs/6° Semestre/Compiladores/def-trabalho-1.md",
-    "pages/Cs/6° Semestre/Compiladores/aula-3-flex-anal-sint/flex.md",
     "Pasted image 20250916171035.png",
-    "pages/Cs/6° Semestre/Compiladores/aula-2-anal-lex/index-2.md",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-11-exemplos",
-    "journals/2025_09_15.md",
-    "logseq/bak/ToDo kanban/2025-09-15T19_39_30.370Z.Desktop.md",
-    "logseq/bak/pages/Cs/6° Semestre/Computação-Gráfica/aula-1/intro+cores/2025-09-15T19_39_29.818Z.Desktop.md",
     "logseq/bak/pages/Cs/6° Semestre/Computação-Gráfica/aula-1/opengl",
     "logseq/bak/pages/Cs/6° Semestre/Computação-Gráfica/aula-1/intro+cores",
     "logseq/bak/pages/Cs/6° Semestre/Computação-Gráfica/aula-1",
@@ -204,7 +208,6 @@
     "logseq/bak/pages/Cs",
     "logseq/bak/pages",
     "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-10-Rendezvous",
-    "pages/Cs/6° Semestre/Compiladores/aula-5-aspnp",
     "Pasted image 20250831084959.png",
     "Pasted image 20250831084702.png",
     "Pasted image 20250831083551.png",
