@@ -18,7 +18,7 @@ Entende-se como um problema de se misturar ingredientes ou materiais com um supo
 - $b_i$ a quantidade ou fração mínima do componente $i$
 - $c_j$ é o custo associado ao componente $x_j$
 
-Temos então, a formulacao do problema da mistura:
+Temos então, a formulação do problema da mistura:
 
 Minimizar $c_1x_1 + c_2x_2 + \dots c_nx_n$
 sujeito a:
@@ -52,4 +52,21 @@ Conseguimos, também, descrever a limitação de demanda de um destino j:
 
 $\sum_{i=1}^{m} x_{ij} = b_{j}, j=1\dots\, n$
 
+# Problema do Transbordo
+A ideia é a mesma do problema do transporte, mas adiciona-se nós intermediários às, já existentes, origens e destinos. Neste caso, devemos garantir que o que passa pelo transbordo saia de lá ($\sum^{}_{i}=x_{ij} = \sum_k x_{jk}$)
 
+# Problema da Designação
+
+O problema da designação é um problema de alocação de recursos em idênticas quantidades de tarefas. Em geral, cada recurso disponível pode ter afinidades (medidas numericamente) com as tarefas. 
+
+A função de eficiência total se dá por:  $\sum\limits^{m}_{i=1}\sum\limits^{n}_{j=1}c_{ij}x_{ij}$
+
+- c: afinidade que recurso i tem com a tarefa j 
+- x =1, i realizou j, x =0 caso não
+
+As restrições do problema impõem condições do tipo "cada recurso só pode realizar uma única tarefa(\*)" e “cada tarefa s ́o poder ́a ser realizada por um  ́único recurso (\*\*)”,
+
+- (\*) $\sum\limits^{n}_{j=1}x_{ij}, \ \text{para} \ i=1,\dots,n$
+- (\*\*)  $\sum\limits^{m}_{i=1}x_{ij}, \ \text{para} \ j=1,\dots , n$
+
+Nesse tipo de problema, em geral, busca-se maximizar a eficiência e portanto, trata-se de um problema de maximização.
