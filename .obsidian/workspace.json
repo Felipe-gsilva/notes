@@ -4,21 +4,37 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "ee4745408ebef60d",
         "type": "tabs",
         "children": [
           {
             "id": "09d2b03a9954bcd4",
+=======
+        "id": "5416188a1fd03911",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcc31c01528c7bcf",
+>>>>>>> refs/remotes/origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "pages/Cs/6° Semestre/Otimização-Linear/dualidade.md",
+=======
+                "file": "pages/Cs/6° Semestre/Otimização-Linear/solucao-grafica.md",
+>>>>>>> refs/remotes/origin/main
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "dualidade"
+=======
+              "title": "solucao-grafica"
+>>>>>>> refs/remotes/origin/main
             }
           }
         ]
@@ -166,10 +182,17 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "09d2b03a9954bcd4",
   "lastOpenFiles": [
     "pages/Cs/6° Semestre/Otimização-Linear/dualidade.md~",
     "pages/Cs/6° Semestre/Otimização-Linear/problemas-comuns.md",
+=======
+  "active": "fcc31c01528c7bcf",
+  "lastOpenFiles": [
+    "pages/Cs/6° Semestre/Otimização-Linear/problemas-comuns.md",
+    "pages/Cs/6° Semestre/Otimização-Linear/solucao-grafica.md",
+>>>>>>> refs/remotes/origin/main
     "pages/Cs/6° Semestre/Otimização-Linear/aula-1/index.md",
     "pages/Cs/6° Semestre/Otimização-Linear/problemas-comum.md",
     "pages/Cs/6° Semestre/Compiladores/aula-6/index.md",
