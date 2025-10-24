@@ -1,10 +1,10 @@
 Começaremos com OpenGL (Open Graphics Library). A interface entre o software e o hardware gráfico é feita através de procedimentos disponíveis pela API.
 
 Opengl é um pacote de um sistema gráfico e usa rotinas de baixo nivel, como:
-- <GL/>
+- <GL/freeglut.h>
 - glutMainLoop()
 
-Carrega comandos no buffer de comandos OpenGL, ao inves da ordem a imperativa.
+Carrega comandos no buffer de comandos OpenGL, ao inves da ordem imperativa.
 
 Definicoes:
 - glVertex3f(10.0, 8.0, 5.0);

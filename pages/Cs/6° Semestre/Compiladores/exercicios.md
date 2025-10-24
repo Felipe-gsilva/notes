@@ -80,3 +80,71 @@ F-> (E) | id
 | F            | F-> id  |           |           | F-> (E) |        |        |
 
 posições em branco na tabela representam erros de análise sintática.
+
+---
+
+Prova 2
+
+# Exercicios
+
+1. Construir o conjunto de itens LR(0) para as gramáticas:
+
+a) 
+E' -> E
+E -> (L)
+E -> a
+L -> L, E 
+L -> E
+
+resultado: 
+
+$I_0$ = {
+    E' -> .E
+    E -> .(L)
+    E -> .a
+}
+
+$I_1$ = {
+    E' -> E.
+}
+$I_2$ = {
+    E -> (.L),
+    L-> .L,
+    L-> .E,
+    E-> .a,
+    E -> .(L)
+}
+$I_3$ = {
+    E -> a.,
+}
+$I_4$ = {
+    E -> (L.),
+    L-> L.
+}
+$I_5$ = {
+    L-> E.,
+}
+$I_6$ = {
+    E -> (L).,
+}
+
+
+b) 
+S' -> S
+S -> S(S) 
+S -> $\epsilon$
+
+c) 
+E' -> E
+E -> (L) 
+E -> a 
+L -> EL 
+L -> E
+
+
+2. Construir o conjunto de itens LR(1)  de S -> S(S) | $\epsilon$
+
+
+3. Construir itens LR(0) 
+S -> AS | b 
+A -> SA | a
