@@ -4,8 +4,10 @@ title: In-Memory Key-Value Store (like Redis)
 status: To Do
 assignee: []
 created_date: '2025-11-15 17:06'
+updated_date: '2025-11-17 14:09'
 labels: []
 dependencies: []
+ordinal: 2000
 ---
 
 ## Description

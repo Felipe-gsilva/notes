@@ -1,5 +1,0 @@
-- ## future projects
-- [ ] [[file-system-in-c]]
-- [ ] [[home lab]]
-- [ ] [[personal/Game Dev/Vulkan Engine/Vulkan Engine|Vulkan Engine]]
-- [ ] [[(Game) Kind of hotline miami bullshit]]
