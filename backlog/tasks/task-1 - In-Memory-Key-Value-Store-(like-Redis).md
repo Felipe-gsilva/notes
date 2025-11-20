@@ -4,7 +4,7 @@ title: In-Memory Key-Value Store (like Redis)
 status: To Do
 assignee: []
 created_date: '2025-11-15 17:06'
-updated_date: '2025-11-17 14:09'
+updated_date: '2025-11-20 12:35'
 labels: []
 dependencies: []
 ordinal: 2000
@@ -13,7 +13,7 @@ ordinal: 2000
 ## Description
 
 <!-- SECTION:DESCRIPTION:BEGIN -->
-Build a server that listens on a port, accepts commands (like SET, GET, DEL), and stores data in memory.
+Build a server that listens on a port, accepts commands like SET, GET, DEL and stores data in memory, possible integration with the other project
 
 ---
 
