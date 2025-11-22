@@ -115,7 +115,7 @@ Ganho de Velocidade (Speedup - S):
 - Razão entre o tempo de execução sequencial (Ts) e o tempo de execução paralelo (Tp):
   $S = Ts / Tp$
 > Lei de Amdahl: razão entre os tempos de execução de um programa considerando tanto seus trechos paralelizáveis quanto os estritamente sequenciais
-> $S_n = \frac{1}{R_s + \frac{R_p}{n}} = \frac{n}{1 + (n - 1) \times \alpha$ com $\alpha = R_s$
+> $S_n = \frac{1}{R_s + \frac{R_p}{n}} = \frac{n}{1 + (n - 1) \times \alpha$ com $\alpha = R_s}$
 > Problema: essa lei esquece que se temos mais poder computacional iremos resolver problemas maiores.
 
 > Lei de Gustafson: O ganho de velocidade pode aumentar com o aumento do tamanho do problema, mesmo que a fração sequencial permaneça constante.
