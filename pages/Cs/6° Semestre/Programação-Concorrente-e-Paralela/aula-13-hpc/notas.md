@@ -53,4 +53,3 @@ Incremento de ambientes multicomputadores:
     - Clusters (Beowulf)
     - Grids computacionais
     - Soluções multicore (incluindo GPUs e FPGAs - Field Programmable Gate Arrays)
-

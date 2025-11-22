@@ -15,7 +15,7 @@ Tratamentos de desvios: pode-se usar predição, delay slot e execução condici
     - delay slot: instrução executada após um desvio, que independe do valor do desvio. Serve para evitar ociosidade no pipeline.
 
 
-Técnicas básicas envolvem:
+Técnicas básicas sobre como acelerar a execução de programas em CPUs RISC:
 - Uso de pipelines: 
     1. aritmeticos: envolvem decompor instruções em etapas menores que podem ser executadas em paralelo.
     2. instruções: envolve load/store, busca, decode, etc. 
