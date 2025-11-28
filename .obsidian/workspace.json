@@ -1,40 +1,20 @@
 {
   "main": {
-    "id": "219f8f89197f3d69",
+    "id": "6f685242642b4e03",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "ee4745408ebef60d",
+        "id": "6685bc4919f55c90",
         "type": "tabs",
         "children": [
           {
-            "id": "09d2b03a9954bcd4",
-=======
-        "id": "5416188a1fd03911",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fcc31c01528c7bcf",
->>>>>>> refs/remotes/origin/main
+            "id": "9634e97fe28e3fb9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "pages/Cs/6° Semestre/Otimização-Linear/dualidade.md",
-=======
-                "file": "pages/Cs/6° Semestre/Otimização-Linear/solucao-grafica.md",
->>>>>>> refs/remotes/origin/main
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "dualidade"
-=======
-              "title": "solucao-grafica"
->>>>>>> refs/remotes/origin/main
+              "title": "Nova aba"
             }
           }
         ]
@@ -43,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d2b600d8880023f7",
+    "id": "b32bfa5d2ca2c410",
     "type": "split",
     "children": [
       {
-        "id": "49d7298a9b3ece7c",
+        "id": "0ae77b69a264d1cd",
         "type": "tabs",
         "children": [
           {
-            "id": "b5619beaf1223df9",
+            "id": "b76d250d35203d28",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,11 +40,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
-            "id": "9a671554eafb824b",
+            "id": "fc57fa8030a5b3e1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,17 +57,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
-            "id": "aee2c4f9c8c6b51c",
+            "id": "5fa39cac05319691",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -97,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "f434e12fe02fc46d",
+    "id": "3908cfac721d8150",
     "type": "split",
     "children": [
       {
-        "id": "20284bbe248ad2be",
+        "id": "45e4d0a0e9748730",
         "type": "tabs",
         "children": [
           {
-            "id": "295d4cba2500a987",
+            "id": "f65384cacd73fde1",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -123,7 +103,7 @@
             }
           },
           {
-            "id": "200cff4850f86465",
+            "id": "c6214d09bb793565",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -132,11 +112,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "633211a0a199d097",
+            "id": "15a103f511f900ea",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,7 +131,7 @@
             }
           },
           {
-            "id": "c01e935c8bd61c45",
+            "id": "6abf383eeb6f7f31",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -161,7 +141,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Sumário"
             }
           }
         ]
@@ -173,67 +153,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
     }
   },
-<<<<<<< HEAD
-  "active": "09d2b03a9954bcd4",
-  "lastOpenFiles": [
-    "pages/Cs/6° Semestre/Otimização-Linear/dualidade.md~",
-    "pages/Cs/6° Semestre/Otimização-Linear/problemas-comuns.md",
-=======
-  "active": "fcc31c01528c7bcf",
-  "lastOpenFiles": [
-    "pages/Cs/6° Semestre/Otimização-Linear/problemas-comuns.md",
-    "pages/Cs/6° Semestre/Otimização-Linear/solucao-grafica.md",
->>>>>>> refs/remotes/origin/main
-    "pages/Cs/6° Semestre/Otimização-Linear/aula-1/index.md",
-    "pages/Cs/6° Semestre/Otimização-Linear/problemas-comum.md",
-    "pages/Cs/6° Semestre/Compiladores/aula-6/index.md",
-    "pages/Cs/_index.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-7-dist-mem/_index.md",
-    "nao sei.base",
-    "pages/Cs/5° Semestre/_index.md",
-    "pages/Personal/Game Dev/(Game) Kind of hotline miami bullshit.md",
-    "pages/Cs/6° Semestre/Compiladores/aula-5-aspnp/index-5.md",
-    "pages/Cs/6° Semestre/Compiladores/aula-4-anal-sintatica/index-4.md",
-    "public/Pasted image 20250926101755.png",
-    "pages/Cs/6° Semestre/Compiladores/exercicios.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-7-dist-mem/exemplos.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/exercicios.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-9-RPC/index.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-11-exemplos/index.md",
-    "public/Pasted image 20250924172612.png",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-4-barreiras-de-sync/index.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-2-monitores/monitores.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-10-Rendezvous/index.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-6-openmp-pt2/index.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-5-threads-openmp/2. OpenMP.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-5-threads-openmp/1. threads.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-3-await-RW/index.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-12-socket/index.md",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-1-revisão/index.md",
-    "pages/Cs/6° Semestre/Compiladores/aula-1-intro/index-1.md",
-    "Pasted image 20250916171035.png",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-11-exemplos",
-    "logseq/bak/pages/Cs/6° Semestre/Computação-Gráfica/aula-1/opengl",
-    "logseq/bak/pages/Cs/6° Semestre/Computação-Gráfica/aula-1/intro+cores",
-    "logseq/bak/pages/Cs/6° Semestre/Computação-Gráfica/aula-1",
-    "logseq/bak/pages/Cs/6° Semestre/Computação-Gráfica",
-    "logseq/bak/pages/Cs/6° Semestre",
-    "logseq/bak/pages/Cs",
-    "logseq/bak/pages",
-    "pages/Cs/6° Semestre/Programação-Concorrente-e-Paralela/aula-10-Rendezvous",
-    "Pasted image 20250831084959.png",
-    "Pasted image 20250831084702.png",
-    "Pasted image 20250831083551.png",
-    "Pasted image 20250831083217.png",
-    "Pasted image 20250831080839.png"
-  ]
+  "active": "9634e97fe28e3fb9",
+  "lastOpenFiles": []
 }

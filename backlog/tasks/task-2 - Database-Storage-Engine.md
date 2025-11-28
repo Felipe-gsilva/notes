@@ -4,7 +4,7 @@ title: Database Storage Engine
 status: To Do
 assignee: []
 created_date: '2025-11-15 17:09'
-updated_date: '2025-11-17 14:09'
+updated_date: '2025-11-20 12:34'
 labels: []
 dependencies: []
 ordinal: 3000
@@ -13,7 +13,7 @@ ordinal: 3000
 ## Description
 
 <!-- SECTION:DESCRIPTION:BEGIN -->
-Build a library that gives you a table_open(), table_insert(row), table_select(query) API, persisting everything to a file.
+a library that exports you a table_open(), table_insert(row), table_select(query) API, persisting everything into a data file.
 
 ---
 
