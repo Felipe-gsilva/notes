@@ -4,16 +4,14 @@ title: Lista de compras pessoais
 status: To Do
 assignee: []
 created_date: '2025-11-21 14:10'
-updated_date: '2026-01-21 14:44'
+updated_date: '2026-01-21 14:42'
 labels: []
 dependencies: []
-ordinal: 2000
 ---
 
 ## Description
 
 <!-- SECTION:DESCRIPTION:BEGIN -->
-- [ ] cadeira ergonomica
 - [ ] novo dongle wifi 
 - [ ] roupas pra praia
 - [ ] teclado split

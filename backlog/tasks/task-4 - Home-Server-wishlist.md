@@ -4,8 +4,10 @@ title: Home Server - wishlist
 status: To Do
 assignee: []
 created_date: '2025-11-21 14:09'
+updated_date: '2026-01-21 14:44'
 labels: []
 dependencies: []
+ordinal: 1000
 ---
 
 ## Description
