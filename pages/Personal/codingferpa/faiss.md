@@ -9,7 +9,7 @@ Abaixo, vou elencar os principais tópicos de funcionalidade e aplicações poss
 
 Dado um conjunto de vetores $x_i$ em uma dimensão qualquer $d$, a biblioteca constrói uma estrutura de dados chamada de índice em memória RAM. Após mapear todos os vetores nesse espaço de $d$ dimensões, podemos comparar agora um vetor qualquer (de mesma dimensão) com a base de dados em memória INTEIRA, sendo  o objetivo final encontrar o vetor que:
 - maximiza o produto escalar entre ambos
-- minimiza a distância eucliada ($L^2$) entre ambos
+- minimiza a distância euclidiana ($L^2$) entre ambos
 - maximiza a similaridade de cosseno (via normalização $L^2$)
 
 
@@ -33,7 +33,6 @@ assim, temos a(s) lista(s) de maior similaridade.
 
 Tabelas de Busca Pré-computadas
 Algoritmo WarpSelect (k-selection)
-Armazenamento em disco
 
 
 ## Funcionalidades diretas
