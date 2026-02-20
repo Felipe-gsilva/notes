@@ -20,3 +20,6 @@ vai ser baseado no journal
 # Projetos 
 - [ ] [Gaveta](https://github.com/Felipe-gsilva/Gaveta)
 - [ ] [Regis](https://github.com/Felipe-gsilva/regis)
+- [ ] [StudyGroup](https://github.com/study-group-cssd/database-study)
+
+# Codingferpa
