@@ -2,7 +2,7 @@
 vai ser baseado no journal
 
 # Unesp
-- [ ] IC - continuar bateria de testes
+- [X] IC - continuar bateria de testes
 - [ ] terminar proposta do TCC 
 - [ ] IC - escrever relatório semestral
 - [ ] IC - escrever código de slicing nerf
