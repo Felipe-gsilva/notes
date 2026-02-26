@@ -5,6 +5,7 @@ vai ser baseado no journal
 - [X] IC - continuar bateria de testes
 - [ ] terminar proposta do TCC 
 - [ ] IC - escrever relatório semestral
+    - passar as notas sobre MERF para o relatorio semestral.
 - [ ] IC - escrever código de slicing nerf
 - [ ] AACC - adicionar aacc em maio: verificar o que posso adicionar
 
