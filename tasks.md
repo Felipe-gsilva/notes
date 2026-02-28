@@ -1,11 +1,15 @@
 # Trabalho
-vai ser baseado no journal
+vai ser baseado nos journals
 
 # Unesp
 - [X] IC - continuar bateria de testes
-- [ ] terminar proposta do TCC 
+    - [ ] arrumar o classificador para testar todos os casos, como pressuposto na metodologia
+    - [ ] escrever código de slicing nerf
+- [ ] terminar proposta do TCC
 - [ ] IC - escrever relatório semestral
-- [ ] IC - escrever código de slicing nerf
+    - WCGAN e DCGAN na metodologia finalizados
+    - [ ] escrita metodologia nerf
+    - [ ] escrita coatnet
 - [ ] AACC - adicionar aacc em maio: verificar o que posso adicionar
 
 # Estudos
@@ -20,6 +24,7 @@ vai ser baseado no journal
 # Projetos 
 - [ ] [Gaveta](https://github.com/Felipe-gsilva/Gaveta)
 - [ ] [Regis](https://github.com/Felipe-gsilva/regis)
-- [ ] [StudyGroup](https://github.com/study-group-cssd/database-study)
 
 # Codingferpa
+
+- [ ] codingpedia
