@@ -10,6 +10,8 @@ vai ser baseado nos journals
     - WCGAN e DCGAN na metodologia finalizados
     - [ ] escrita metodologia nerf
     - [ ] escrita coatnet
+    - passar as notas sobre MERF para o relatorio semestral.
+- [ ] IC - escrever código de slicing nerf
 - [ ] AACC - adicionar aacc em maio: verificar o que posso adicionar
 
 # Estudos
