@@ -3,15 +3,14 @@ vai ser baseado nos journals
 
 # Unesp
 - [X] IC - continuar bateria de testes
-    - [ ] arrumar o classificador para testar todos os casos, como pressuposto na metodologia
+    - [X] arrumar o classificador para testar todos os casos, como pressuposto na metodologia
     - [ ] escrever código de slicing nerf
 - [ ] terminar proposta do TCC
 - [ ] IC - escrever relatório semestral
-    - WCGAN e DCGAN na metodologia finalizados
+    - [X] WCGAN e DCGAN na metodologia
+    - [X] escrita coatnet
     - [ ] escrita metodologia nerf
-    - [ ] escrita coatnet
-    - passar as notas sobre MERF para o relatorio semestral.
-- [ ] IC - escrever código de slicing nerf
+    - [ ] passar as notas sobre MERF para o relatorio semestral.
 - [ ] AACC - adicionar aacc em maio: verificar o que posso adicionar
 
 # Estudos
