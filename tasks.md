@@ -1,8 +1,8 @@
 ##  Urgente
-- [ ] email sobre possibilidade de modelo de recomendação.
-- [ ] anotar aula do ribas
-- [ ] escrever código de slicing nerf
-- [ ] escrita metodologia nerf
+- [ ] anotar aula do ribas.
+- [ ] escrever código de slicing nerf.
+- [ ] escrita metodologia nerf.
+- ler merf e instantNGP
 
 # Unesp
 - [X] IC - continuar bateria de testes
