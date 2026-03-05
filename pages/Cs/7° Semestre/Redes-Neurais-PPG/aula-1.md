@@ -83,7 +83,7 @@ Caraterizado por ter um finitos conjuntos de estados, ações e recompensas atri
 - viés indutivo: suposições que o modelo faz para poder induzir (nem sempre corretas).
 
 - função de mapeamento: $y = f[x, \phi]: f[x, \phi] \approx y$
-onde $x$ são as entradas, $y$ são as saidas, $]phi$ são os parâmetros.
+onde $x$ são as entradas, $y$ são as saidas, $\phi$ são os parâmetros.
 
 - função de Loss (custo) é dada por $ L [\phi, f\[x, \phi\], (x_i,y_i)_{i=1}^l] $
 
