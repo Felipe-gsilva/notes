@@ -1,6 +1,9 @@
 ##  Urgente
-- [ ] ler merf e instantNGP
+- [ ] ler merf 
+- [ ] instant-ngp
 - [ ] escrita metodologia nerf.
+- [ ] testar coatnet
+- [ ] ler A* das notas do Renan
 
 # Unesp
 - [X] IC - continuar bateria de testes
@@ -13,8 +16,7 @@
 - [ ] AACC - adicionar aacc em maio: verificar o que posso adicionar
 
 # Estudos
-- [ ] ler clickhouse storages
-- [ ] ler https://cs.brown.edu/people/tkraska/pub/sigmod08-s3.pdf
+- [ ] ler https://cs.brown.edu/people/tkraska/pub/sigmod08-s3.pdf - parei no capitulo 4.1
 - [ ] estudo de databases e continuar rust book
     - implementar lsm tree em rust
 - [ ] algoritmos semanalmente com os guri
