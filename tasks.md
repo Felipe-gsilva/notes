@@ -6,7 +6,7 @@
 # Unesp
 - [X] IC - continuar bateria de testes
     - [ ] escrever código de slicing nerf.
-- [ ] terminar proposta do TCC
+- [ ] terminar proposta do TCC - 31/03
 - [ ] IC - escrever relatório semestral
 - [ ] [AACC](./pages/Personal/acc.md) - adicionar aacc em maio
 
