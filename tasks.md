@@ -1,7 +1,10 @@
 ##  Urgente
-- [ ] ler merf 
 - [ ] instant-ngp
-- [ ] escrita metodologia nerf.
+    - entendi o background
+    - falta entender a técnica específica
+- [ ] merf
+    - treina a rede sNerg final com um spatial hashing bem especifico
+- [ ] escrita metodologia nerf
 - [ ] testar coatnet
 - [ ] ler A* das notas do Renan
 
@@ -9,6 +12,7 @@
 - [X] IC - continuar bateria de testes
     - [X] arrumar o classificador para testar todos os casos, como pressuposto na metodologia
     - [ ] escrever código de slicing nerf.
+    - [ ] spatial hashing
 - [ ] terminar proposta do TCC
 - [ ] IC - escrever relatório semestral
     - [X] WCGAN e DCGAN na metodologia
