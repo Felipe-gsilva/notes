@@ -14,7 +14,7 @@
 - [ ] [AACC](./pages/Personal/acc.md) - adicionar aacc em maio
 
 # Estudos
-- [ ] ler https://cs.brown.edu/people/tkraska/pub/sigmod08-s3.pdf - parei no capitulo 4.1
+- [ ] ler [blink](https://github.com/Felipe-gsilva/cs-common-private-files/blob/main/Papers/blink-tree.pdf)
 - [ ] algoritmos semanalmente com os guri
 
 # Luminal
@@ -23,7 +23,6 @@
 
 # Projetos 
 - [ ] [Gaveta](https://github.com/felipe-gsilva/gaveta)
-    - ler [blink](https://github.com/Felipe-gsilva/cs-common-private-files/blob/main/Papers/blink-tree.pdf)
 
 # Codingferpa
 - [ ] codingpedia
