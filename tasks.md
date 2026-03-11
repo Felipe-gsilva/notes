@@ -1,12 +1,9 @@
 ##  Urgente
-- [ ] instant-ngp
-    - entendi o background
-    - falta entender a técnica específica
-- [ ] merf
-    - treina a rede sNerg final com um spatial hashing bem especifico
-- [ ] escrita metodologia nerf
+- [ ] instant-ngp - entender a técnica específica
+- [ ] merf - treina a rede sNerg final com um spatial hashing bem especifico
+- [ ] snerg
 - [ ] testar coatnet
-- [ ] ler A* das notas do Renan
+- [ ] escrever sobre classificacao e regressao linear - RNA
 
 # Unesp
 - [X] IC - continuar bateria de testes

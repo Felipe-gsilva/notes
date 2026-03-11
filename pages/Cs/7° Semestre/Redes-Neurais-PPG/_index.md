@@ -1,3 +1,7 @@
+---
+title: "Curso de Redes Neurais Artificiais Programa de Pós Grad Unesp"
+---
+
 ## Aplicações
 
 Exemplos sobre uso de redes neurais em diversas áreas, seja detecção de doenças, classificar objetos, identificá-los e etc.

@@ -1,3 +1,7 @@
+---
+title: Fundamentos do Machine Learning
+---
+
 # Fundamentos de Aprendizado de Máquina 
 
 - Introdução 
