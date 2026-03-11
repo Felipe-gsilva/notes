@@ -36,8 +36,8 @@ CHATGPT
 
 ### Projeto/artigo 
 
-- parte 1: 20/04: entrega preliminar 
-- parte 2: 09/06: entrega final do artigo e codigos (10 min)
+- parte 1: 02/04: entrega preliminar 
+- parte 2: 01/06: entrega final do artigo e codigos (10 min)
 
 
 - Titulo e Autor 
