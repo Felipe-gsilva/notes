@@ -1,15 +1,18 @@
 ##  Urgente
-- [ ] instant-ngp - entender a técnica específica
-- [ ] merf - treina a rede sNerg final com um spatial hashing bem especifico
-- [ ] snerg
-- [ ] testar coatnet
-- [ ] escrever sobre classificacao e regressao linear - RNA
+
+## Fim de semana
+- [ ] terminar proposta do TCC - 31/03
+- [ ] estudar RNA
+- [ ] tema artigo ribas
 
 # Unesp
 - [X] IC - continuar bateria de testes
     - [ ] escrever código de slicing nerf.
     - [ ] spatial hashing
-- [ ] terminar proposta do TCC - 31/03
+    - leituras
+        - [ ] instant-ngp - entender a técnica específica
+        - [ ] merf - treina a rede sNerg final com um spatial hashing bem especifico
+        - [ ] snerg
 - [ ] IC - escrever relatório semestral
 - [ ] [AACC](./pages/Personal/acc.md) - adicionar aacc em maio
 

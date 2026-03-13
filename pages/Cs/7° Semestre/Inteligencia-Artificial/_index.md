@@ -1,3 +1,8 @@
+---
+title: Aulas de Inteligencia Artificial
+weight: 2
+---
+
 # Indice
 wallace.casaca@unesp.br
 
