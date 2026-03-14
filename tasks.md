@@ -3,14 +3,12 @@
 ## Fim de semana
 - [ ] terminar proposta do TCC - 31/03
 - [ ] estudar RNA
-- [ ] tema artigo ribas
+- [ ] tema artigo ribas (específico e que auxilie meu projeto da IC)
 
 # Unesp
 - [X] IC - continuar bateria de testes
     - [ ] escrever código de slicing nerf.
-    - [ ] spatial hashing
     - leituras
-        - [ ] instant-ngp - entender a técnica específica
         - [ ] merf - treina a rede sNerg final com um spatial hashing bem especifico
         - [ ] snerg
 - [ ] IC - escrever relatório semestral
