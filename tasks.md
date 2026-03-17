@@ -1,5 +1,4 @@
 # Hoje
-- [ ] estudar IA 
 - [ ] slide lipai
 
 # Unesp
@@ -8,16 +7,14 @@
     - [ ] snerg
 - [ ] IC - escrever relatório semestral
 - [ ] [AACC](./pages/Personal/acc.md) - adicionar aacc em maio
+- [ ] perceptron e adaline
+- [ ] RecFilmes wallace
 
 # Estudos
 - [ ] ler [blink](https://github.com/Felipe-gsilva/cs-common-private-files/blob/main/Papers/blink-tree.pdf)
 
 # Luminal
 - [ ] A Sós - esperar mlkd acabar o a-sos e testar publish
-- [ ] RecFilmes - fazer o backend
-
-# Projetos 
-- [ ] [Gaveta](https://github.com/felipe-gsilva/gaveta)
 
 # Codingferpa
 - [ ] codingpedia
