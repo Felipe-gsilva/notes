@@ -1,5 +1,6 @@
 # Hoje
 - [ ] slide lipai
+- [ ] pixel nerf
 
 # Unesp
 - [X] IC - continuar bateria de testes
