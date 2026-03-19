@@ -1,8 +1,6 @@
 # Hoje
-- [ ] slide lipai
 - [ ] adaline
-- [ ] continuar ic
-- [ ] fazer algo com o chico
+- [ ] fundamentação teórica lipai
 
 # Unesp
 - [X] IC - continuar bateria de testes
@@ -12,7 +10,7 @@
 - [ ] IC - escrever relatório semestral
 - [ ] [AACC](./pages/Personal/acc.md) - adicionar aacc em maio
 - [ ] RecFilmes wallace
-    - [ ] feature crossing seja com dados do letterboxd ou posthog    
+    - [ ] feature crossing seja com dados do letterboxd ou posthog
 
 # Estudos
 - [ ] ler [blink](https://github.com/Felipe-gsilva/cs-common-private-files/blob/main/Papers/blink-tree.pdf)
