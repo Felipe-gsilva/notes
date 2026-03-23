@@ -1,8 +1,4 @@
 # Hoje
-- [ ] fundamentação teórica lipai
-
-# Amanhã 
-- [ ] batch processing adaline e documentos
 
 # Unesp
 - [X] IC - continuar bateria de testes
