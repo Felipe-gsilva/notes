@@ -1,6 +1,7 @@
 # Hoje
 - [ ] slide lipai
 - [ ] pixel nerf
+- [ ] escrever um roadmap decente pro projeto de db
 
 # Unesp
 - [X] IC - continuar bateria de testes
