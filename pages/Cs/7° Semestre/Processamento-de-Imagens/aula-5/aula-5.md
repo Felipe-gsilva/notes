@@ -19,4 +19,21 @@ $$ J = \frac{1}{MN} \sum^{M-1}_{x=0} \sum^{N-1}_{y=0} \left\{ \begin{aligned} \t
 sendo $h(x, y) = f(x, y) - g(x, y)$
 
 ---
+# Restauração de imagens
 
+Modelos de Ruídos de Imagens. Função de densidade de probablidade. Tipos de Ruídos: Uniforme, Impulsivo e Gaussiano.
+
+Principais fontes de ruído em imagens digitais.
+- Durante a aquisição.
+- Transmissão 
+
+Sensores afetados por condições:
+- Ambientais e Qualidade dos sensores.
+
+Considerando a observação 1 e H como operador identidade
+- Ruido em imagens pode ser observado a partir de uma função de densidade de probablidade
+- uniforme, impulsivo, gaussiano e outros.
+
+Representação:
+- Variável aleatória z (nível de cinza).
+- Uma função de densidade p(z)
