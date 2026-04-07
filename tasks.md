@@ -1,8 +1,5 @@
-# Hoje
-
 # Unesp
 - [X] IC - continuar bateria de testes
-    - [ ] merf - treina a rede sNerg final com um spatial hashing bem especifico
     - [ ] pixel nerf
     - [ ] snerg
 - [ ] IC - escrever relatório semestral
@@ -15,9 +12,7 @@
 
 # Estudos
 - [ ] ler [blink](https://github.com/Felipe-gsilva/cs-common-private-files/blob/main/Papers/blink-tree.pdf)
-
-# Luminal
-- [ ] A Sós - esperar mlkd acabar o a-sos e testar publish
+- [ ] too-many-linked-lists
 
 # Codingferpa
 - [ ] codingpedia
