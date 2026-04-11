@@ -1,11 +1,5 @@
-# Fim de semana 
-- trabalho A*
-- IC
-- P1 Wallace 
-
 # Unesp
 - [X] IC - continuar bateria de testes
-- [ ] IC - escrever relatório semestral
 - [ ] [AACC](./pages/Cs/acc.md) - adicionar aacc em maio
     - 40 horas semac
     - 35 hrs IC
@@ -18,11 +12,15 @@
 
 - Artigo Ribas
     - [ ] pixel nerf
+    - [ ] Graf
     - [ ] Cálculo de FPS
+    - [ ] Trazer Graf para o nerf-ann-paper
 
 # Estudos
-- [ ] ler e implementar [blink](https://github.com/Felipe-gsilva/cs-common-private-files/blob/main/Papers/blink-tree.pdf) tree
-- [ ] too-many-linked-lists
+- [ ] Rust
+    - [ ] Atomic Rust
+    - [ ] too-many-linked-lists
+    - [ ] ler e implementar [blink](https://github.com/Felipe-gsilva/cs-common-private-files/blob/main/Papers/blink-tree.pdf) tree em rs
 
 # Codingferpa
 - [ ] codingpedia

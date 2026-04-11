@@ -1,4 +1,4 @@
 ---
-title: "Ciencia da Computacao (wip)"
-description: "Aulas de Ciencia da computacao, bem mal escritas por mim, um dia isso fica bom"
+title: Curso de Ciência da Computação
+description: Aulas de Ciencia da computacao bem mal escritas por mim. Talvez,  um dia, isso fique bom
 ---
