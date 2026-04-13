@@ -15,6 +15,7 @@
     - [ ] Graf
     - [ ] Cálculo de FPS
     - [ ] Trazer Graf para o nerf-ann-paper
+- Fazer ANN architectures genérico e reprodutível.
 
 # Estudos
 - [ ] Rust
