@@ -1,5 +1,4 @@
 # Unesp
-- [X] IC - continuar bateria de testes
 - [ ] [AACC](./pages/Cs/acc.md) - adicionar aacc em maio
     - 40 horas semac
     - 35 hrs IC
@@ -7,15 +6,18 @@
 - [ ] RecFilmes wallace
     - cross features com os dados do letterboxd - felipe-gsilva
     - resolver conexao com o bd - felipe-gsilva
+# IC/TCC
+- [ ] IC Testar LLFF
 
 # Mestrado 
 
 - Artigo Ribas
+    - [ ] GVT
     - [ ] pixel nerf
     - [ ] Graf
     - [ ] Cálculo de FPS
     - [ ] Trazer Graf para o nerf-ann-paper
-- Fazer ANN architectures genérico e reprodutível.
+- [ ] Fazer ANN architectures genérico e reprodutível.
 
 # Estudos
 - [ ] Rust
