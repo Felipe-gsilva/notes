@@ -1,13 +1,10 @@
 # Unesp
-- [ ] [AACC](./pages/Cs/acc.md) - adicionar aacc em maio
-    - 40 horas semac
-    - 35 hrs IC
-    - 2 docs SBC
 - [ ] RecFilmes wallace
     - cross features com os dados do letterboxd - felipe-gsilva
     - resolver conexao com o bd - felipe-gsilva
 - [ ] Trabalho PDI
 - [ ] P1 Wallace
+
 # IC/TCC
 - [ ] IC Testar LLFF
 - [ ] alterar a construção do transforms.json
