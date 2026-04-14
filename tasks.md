@@ -21,6 +21,12 @@
 - [ ] seminário ribas
 - [ ] Fazer ANN architectures genérico e reprodutível.
 
+# Trabalho
+- [ ] Documentar componentes
+- [ ] PushNotifications
+- [ ] Arrumar supabase local
+- [ ] trabalhar na acessibilidade do app
+
 # Estudos
 - [ ] Rust
     - [ ] Atomic Rust
