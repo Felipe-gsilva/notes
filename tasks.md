@@ -6,7 +6,6 @@
 - [ ] P1 Wallace
 
 # IC/TCC
-- [ ] IC Testar LLFF
 - [ ] alterar a construção do transforms.json
 - [ ] testar o slicing do pointcloud de outras maneiras
 - [ ] reconstruir com querying da MLP
@@ -22,7 +21,6 @@
 - [ ] Fazer ANN architectures genérico e reprodutível.
 
 # Trabalho
-- [ ] Documentar componentes
 - [ ] PushNotifications
 - [ ] Arrumar supabase local
 - [ ] trabalhar na acessibilidade do app
