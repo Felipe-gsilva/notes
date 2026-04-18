@@ -7,7 +7,6 @@
 - [ ] Trabalho PDI
 
 # IC/TCC
-- [ ] IC Testar LLFF
 - [ ] alterar a construção do transforms.json
 - [ ] testar o slicing do pointcloud de outras maneiras
 - [ ] reconstruir com querying da MLP
