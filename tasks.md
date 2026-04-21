@@ -2,8 +2,6 @@
 - [ ] RecFilmes wallace
     - cross features com os dados do letterboxd - felipe-gsilva
     - resolver conexao com o bd - felipe-gsilva
-- [ ] P1 Wallace 
-    - [ ] parte 3
 - [ ] Trabalho PDI
 
 # IC/TCC
@@ -16,14 +14,15 @@
 
 # Mestrado 
 - [ ] Artigo Ribas
-    - [ ] GVT
     - [ ] pixel nerf
     - [ ] Graf
     - [ ] Cálculo de FPS
-    - [ ] Trazer Graf, GVT, Pixel Nerf para o nerf-ann-paper
+    - [ ] Trazer Graf, Pixel Nerf para o nerf-ann-paper
 - [ ] seminário ribas
 - [ ] Fazer ANN architectures genérico e reprodutível.
     - [ ] adicionar as GANs
+    - [ ] adicionar as NeRFs
+    - [ ] arrumar early stopping no MLP
 
 # Trabalho
 - [ ] Bug Fixing (wip)
