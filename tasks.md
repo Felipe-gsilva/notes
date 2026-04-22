@@ -21,6 +21,7 @@
 - [ ] Fazer ANN architectures genérico e reprodutível.
     - [ ] adicionar as GANs
     - [ ] adicionar as NeRFs
+    - [ ] arrumar early stopping no MLP
 
 # Trabalho
 - [ ] PushNotifications
