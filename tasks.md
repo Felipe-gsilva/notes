@@ -1,7 +1,7 @@
 # Unesp
 - [ ] RecFilmes wallace
-    - cross features com os dados do letterboxd - felipe-gsilva
-- [ ] Trabalho PDI
+    - cross features com os dados do letterboxd
+- [ ] Trabalho PDI - IA Generativa em PDI
 
 # IC/TCC
 - [ ] testar metricas visuais ao final do pipeline (FID após imagens completas, em paralelo ao CoAtNet)
