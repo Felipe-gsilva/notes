@@ -16,7 +16,7 @@ def apply_gaussian_noise(image, mean=0, stddev=1):
     return norm_img
 
 
-def equalize_hist(img, b = 255):
+def equalize_hist(img, b=255):
     new_img = img
     min = np.min(img)
     max = np.max(img)
@@ -27,6 +27,7 @@ def equalize_hist(img, b = 255):
             new_img[i][j] = (c * img[i][j]) + b
 
     return new_img
+
 
 def get_histogram(img2):
     hist = [0] * 256
@@ -57,18 +58,18 @@ def main():
         img2 = get_grayscale_image(img)
         hist = get_histogram(img2)
         fig, (ax1, ax2, ax3, ax4, ax5) = plt.subplots(1, 5, figsize=(10, 5))
-        ax1.imshow(img2, cmap='gray', vmin=0, vmax=255)
-        ax1.axis('off')
+        ax1.imshow(img2, cmap="gray", vmin=0, vmax=255)
+        ax1.axis("off")
         img3 = apply_gaussian_noise(img2)
-        ax2.imshow(img3, cmap='gray', vmin=0, vmax=255)
+        ax2.imshow(img3, cmap="gray", vmin=0, vmax=255)
         ax1.set_title("Escala de Cinza")
         ax2.set_title("")
-        ax2.axis('off')
-        ax3.plot(hist, color='black')
+        ax2.axis("off")
+        ax3.plot(hist, color="black")
         ax3.set_title("Histograma")
         ax3.set_xlim([0, 256])
-        ax4.imshow(equalize_hist(img2), cmap='gray')
-        ax5.plot(get_histogram(equalize_hist(img2)), color='black')
+        ax4.imshow(equalize_hist(img2), cmap="gray")
+        ax5.plot(get_histogram(equalize_hist(img2)), color="black")
         plt.show()
 
     except KeyboardInterrupt:

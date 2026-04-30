@@ -17,17 +17,22 @@ def main():
         img_g = img[:, :, 1].astype(np.float32)
         img_b = img[:, :, 2].astype(np.float32)
 
-
         arr: List[np.float32] = []
         for i in range(img.shape[0]):
             for j in range(img.shape[1]):
-                arr.append((0.2989 * img_r[i][j] + 0.5870 * img_g[i][j] + 0.1140 * img_b[i][j]).astype(np.float32))
+                arr.append(
+                    (
+                        0.2989 * img_r[i][j]
+                        + 0.5870 * img_g[i][j]
+                        + 0.1140 * img_b[i][j]
+                    ).astype(np.float32)
+                )
 
         img2 = np.array(arr).reshape(img.shape[0], img.shape[1])
 
         fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 12))
         ax1.imshow(img)
-        ax2.imshow(img2, cmap='gray')
+        ax2.imshow(img2, cmap="gray")
         plt.show()
 
     except KeyboardInterrupt:
