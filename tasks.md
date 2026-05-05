@@ -1,23 +1,18 @@
 # Unesp
-- [ ] RecFilmes wallace
-    - cross features com os dados do letterboxd
 - [ ] Trabalho PDI - IA Generativa em PDI
 
 # IC/TCC
-- [ ] testar metricas visuais ao final do pipeline (FID após imagens completas, em paralelo ao CoAtNet)
 - [ ] teste do pipeline complete no dataset de UT/MRI
 - [ ] testar nerfs few-shot
 - [ ] relatório final
 - [ ] escrever artigo 
 
 # Mestrado 
-- [ ] ANN - CNN 
 - [ ] Artigo Ribas
-    - [ ] pixel nerf
-    - [ ] Graf
-    - [ ] Cálculo de FPS
-    - [ ] Trazer Graf, Pixel Nerf para o nerf-ann-paper
-- [ ] seminário ribas
+    - [ ] Implementar NeRFs nerf-ann-paper
+    - [ ] Profiling de desempenho
+- [ ] Seminário ribas
+    - código mais denso para mostrar a capacidade do uso de NAS (Neural Architecture Search)
 
 # Trabalho
 - [ ] PushNotifications
