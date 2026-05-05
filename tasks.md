@@ -1,17 +1,15 @@
 # IC/TCC
 - [ ] modelos para implementar no NeRFStudio: 
-    - [ ] GNT 
+    - [X] GNT 
     - [ ] VolRecon
     - [ ] pixelNeRF
     - [ ] IBRNet
     - [ ] Zero-1-to-3
-- [ ] testar metricas visuais ao final do pipeline (FID após imagens completas, em paralelo ao CoAtNet)
 - [ ] teste do pipeline complete no dataset de UT/MRI
 - [ ] relatório final
 - [ ] escrever artigo
 
 # Mestrado 
-- [ ] ANN - CNN 
 - [ ] Artigo Ribas
     - [ ] pixel nerf
     - [ ] calcular tempo de inferencia
@@ -19,7 +17,6 @@
 
 # Graduação
 - [ ] Trabalho PDI - IA Generativa em PDI
-
 
 # Trabalho
 - [ ] PushNotifications
