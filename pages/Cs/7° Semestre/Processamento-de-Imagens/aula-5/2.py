@@ -30,7 +30,8 @@ def coeficiente_jaccard(matriz_1, matriz_2):
         raise ValueError("As matrizes devem ter o mesmo formato.")
     tolerancia = 5
     intersecao = np.sum(
-        (matriz_1 > 0) & (matriz_2 > 0) & (np.abs(matriz_1 - matriz_2) <= tolerancia)) 
+        (matriz_1 > 0) & (matriz_2 > 0) & (np.abs(matriz_1 - matriz_2) <= tolerancia)
+    )
     uniao = np.sum((matriz_1 > 0) | (matriz_2 > 0))
 
     if uniao == 0:
@@ -41,12 +42,8 @@ def coeficiente_jaccard(matriz_1, matriz_2):
 
 
 def main():
-    matriz_1 = np.array([[255, 255, 255],
-                         [255, 0, 255],
-                         [255, 255, 255]])
-    matriz_2 = np.array([[250, 250, 250],
-                         [250, 1, 250],
-                         [250, 250, 250]])
+    matriz_1 = np.array([[255, 255, 255], [255, 0, 255], [255, 255, 255]])
+    matriz_2 = np.array([[250, 250, 250], [250, 1, 250], [250, 250, 250]])
 
     print("Matriz Original:")
     print(erro_maximo(matriz_1, matriz_2))

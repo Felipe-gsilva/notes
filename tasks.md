@@ -1,18 +1,22 @@
-# Unesp
-- [ ] Trabalho PDI - IA Generativa em PDI
-
 # IC/TCC
+- [ ] teste no pipelin completo
 - [ ] teste do pipeline complete no dataset de UT/MRI
-- [ ] testar nerfs few-shot
 - [ ] relatório final
-- [ ] escrever artigo 
+- [ ] escrever artigo
 
 # Mestrado 
 - [ ] Artigo Ribas
-    - [ ] Implementar NeRFs nerf-ann-paper
+    - [ ] modelos para implementar no NeRFStudio: 
+        - [X] GNT 
+        - [ ] pixelNeRF
+        - [ ] VolRecon
+        - [ ] IBRNet
+        - [ ] Zero-1-to-3
     - [ ] Profiling de desempenho
 - [ ] Seminário ribas
-    - código mais denso para mostrar a capacidade do uso de NAS (Neural Architecture Search)
+
+# Graduação
+- [ ] Trabalho PDI - IA Generativa em PDI
 
 # Trabalho
 - [ ] PushNotifications
