@@ -7,7 +7,6 @@
 # Mestrado 
 - [ ] Artigo Ribas
     - [ ] modelos para implementar no NeRFStudio: 
-        - [ ] pixelNeRF
         - [ ] VolRecon
         - [ ] Zero-1-to-3
     - [ ] Profiling de desempenho
