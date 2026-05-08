@@ -1,19 +1,18 @@
 # IC/TCC
-- [ ] teste no pipelin completo
-- [ ] teste do pipeline complete no dataset de UT/MRI
 - [ ] relatório final
 - [ ] escrever artigo
+## Talvez valha o teste
+- [ ] teste do pipeline complete no dataset de UT/MRI
 
 # Mestrado 
 - [ ] Artigo Ribas
     - [ ] modelos para implementar no NeRFStudio: 
-        - [X] GNT 
         - [ ] pixelNeRF
         - [ ] VolRecon
-        - [ ] IBRNet
         - [ ] Zero-1-to-3
     - [ ] Profiling de desempenho
 - [ ] Seminário ribas
+- [ ] CNN, RNN (GRU, LSTM, BPTT, TBPTT, Transformers)
 
 # Graduação
 - [ ] Trabalho PDI - IA Generativa em PDI
