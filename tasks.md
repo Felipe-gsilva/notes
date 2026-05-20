@@ -12,22 +12,18 @@
 # Graduação
 - [ ] Trabalho PDI - IA Generativa em PDI - 24/06
 
-# Trabalho
-- [ ] Arrumar supabase local
-
 # Futuro distante
 - [ ] Fazer ANN architectures genérico e reprodutível.
     - [ ] adicionar as NeRFs
-
-Estudas:
+## Estudas:
 - [ ] CNN, RNN (GRU, LSTM, BPTT, TBPTT, Transformers)
 - [ ] Rust
     - [ ] Atomic Rust
     - [ ] too-many-linked-lists
     - [ ] ler e implementar [blink](https://github.com/Felipe-gsilva/cs-common-private-files/blob/main/Papers/blink-tree.pdf) tree em rs
-
 - [ ] Concorrencia:
     - [ ] seven concurrency model in 7 weeks
+- [ ] CNN, RNN (GRU, LSTM, BPTT, TBPTT, Transformers)
 
 ## Planejamento de posts linkedin
 - survey comp gráfica?
