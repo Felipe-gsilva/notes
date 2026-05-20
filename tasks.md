@@ -8,7 +8,6 @@
 # Mestrado 
 - [ ] Seminário ribas - 26/05
 - [ ] Artigo Ribas - 01/06
-- [ ] CNN, RNN (GRU, LSTM, BPTT, TBPTT, Transformers)
 
 # Graduação
 - [ ] Trabalho PDI - IA Generativa em PDI - 24/06
@@ -20,6 +19,8 @@
 - [ ] Fazer ANN architectures genérico e reprodutível.
     - [ ] adicionar as NeRFs
 
+Estudas:
+- [ ] CNN, RNN (GRU, LSTM, BPTT, TBPTT, Transformers)
 - [ ] Rust
     - [ ] Atomic Rust
     - [ ] too-many-linked-lists
@@ -32,3 +33,4 @@
 - survey comp gráfica?
 - ann architectures 
 - nerf ann paper
+- ic 
