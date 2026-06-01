@@ -12,6 +12,8 @@
 # Futuro distante
 - [ ] Fazer ANN architectures genérico e reprodutível.
     - [ ] adicionar as NeRFs
+## Estudas:
+- [ ] CNN, RNN (GRU, LSTM, BPTT, TBPTT, Transformers)
 - [ ] Rust
     - [ ] Atomic Rust
     - [ ] too-many-linked-lists
@@ -24,3 +26,4 @@
 - survey comp gráfica?
 - ann architectures 
 - nerf ann paper
+- ic 
