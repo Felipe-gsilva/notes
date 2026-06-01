@@ -5,12 +5,9 @@
 ## Talvez valha o teste
 - [ ] teste do pipeline complete no dataset de UT/MRI - a ver
 
-# Mestrado 
-- [ ] Seminário ribas - 26/05
-- [ ] Artigo Ribas - 01/06
-
 # Graduação
 - [ ] Trabalho PDI - IA Generativa em PDI - 24/06
+- [ ] Trabalho IA - 12/06 (acho)
 
 # Futuro distante
 - [ ] Fazer ANN architectures genérico e reprodutível.
