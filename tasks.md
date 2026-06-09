@@ -12,7 +12,7 @@
 
 ## Talvez valha o teste
 - [ ] Teste do pipeline complete no dataset de UT/MRI - NÃO ACHO VÁLIDO. Vou tentar usar em UCSB, CA e outros simples. Por isso do novo experimento.
-- [ ] tentar deixar o pipeline rodando, declarar os experimentos
+- [ ] tentar deixar o pipeline rodando por completo (nerfacto, tensorf, gnt e pixel), declarar os experimentos com mais imagens cacheadas e testar o regime TTA
 
 
 # Graduação
