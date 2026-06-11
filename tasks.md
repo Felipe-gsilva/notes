@@ -3,13 +3,11 @@
 - [ ] relatório final finalizado - 01/09
 - [ ] começar TCC - 02/09
 - [ ] TCC pronto - 10/10
-- [ ] começar artigo 11/10
+- [ ] começar artigo 02/09
 - [ ] publicação do artigo: 
-    - data do ICEIS 2027? perguntar pro leandro sobre esse tanto de conferência
-    - MLSYS 2027 - Oct 31
-    - CVPR 2027 - Nov 7 
+    - visap - Sep 15
+    - data do ICEIS 2027 - dezembro, aprox
     - SIGGRAPH 2027 - Jan 21
-    - ICML 2027 - Jan 29
 
 ## Talvez valha o teste
 - testar mais slices e menores (com thickness pequeno)
