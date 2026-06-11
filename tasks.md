@@ -5,7 +5,7 @@
 - [ ] TCC pronto - 10/10
 - [ ] começar artigo 02/09
 - [ ] publicação do artigo: 
-    - visap - Sep 15
+    - visapp - Sep 15
     - data do ICEIS 2027 - dezembro, aprox
     - SIGGRAPH 2027 - Jan 21
 
