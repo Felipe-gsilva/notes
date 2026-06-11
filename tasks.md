@@ -12,6 +12,7 @@
     - ICML 2027 - Jan 29
 
 ## Talvez valha o teste
+- testar mais slices e menores (com thickness pequeno)
 - [ ] anotar uma camera sobre a mesma imagem invertido no eixo Z (duplicar o dataset) para o NeRF
 - [ ] tentar deixar o pipeline rodando por completo (nerfacto, tensorf, gnt e pixel), declarar os experimentos com mais imagens cacheadas e testar o regime TTA
 - [ ] Teste do pipeline complete no dataset de UT/MRI - NÃO ACHO VÁLIDO. Vou tentar usar em UCSB, CA e outros simples. Por isso do novo experimento, mas a anotação certamente só servirá para Z-Stack (é a presunção inicial)
