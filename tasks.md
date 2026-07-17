@@ -1,5 +1,5 @@
 # IC/TCC
-- [ ] começar relatório final - 20/07
+- [ ] continuar escrevendo visapp e relatorio final - 11/09
 - [ ] relatório final finalizado - 01/09
 - [ ] começar TCC - 02/09
 - [ ] TCC pronto - 10/10
@@ -8,10 +8,9 @@
     - visapp - Sep 15
     - data do ICEIS 2027 - dezembro, aprox
     - SIGGRAPH 2027 - Jan 21
-    - SIBGRAPI - deve ser pra fevereiro abril
 
 ## Talvez valha o teste
-- [ ] tentar deixar o pipeline rodando por completo (nerfacto, tensorf, gnt e pixel), declarar os experimentos com mais imagens cacheadas e testar o regime TTA
+- [ ] tentar deixar o pipeline rodando por completo (nerfacto, tensorf e gnt), declarar os experimentos com mais imagens cacheadas e testar o regime TTA
 - [ ] Teste do pipeline complete no dataset de UT/MRI - NÃO ACHO VÁLIDO. Vou tentar usar em UCSB, CA e outros simples. Por isso do novo experimento, mas a anotação certamente só servirá para Z-Stack (é a presunção inicial)
 
 # Graduação
