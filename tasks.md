@@ -10,11 +10,7 @@
     - SIGGRAPH 2027 - Jan 21
 
 ## Talvez valha o teste
-- [ ] tentar deixar o pipeline rodando por completo (nerfacto, tensorf e gnt), declarar os experimentos com mais imagens cacheadas e testar o regime TTA
-- [ ] Teste do pipeline complete no dataset de UT/MRI - NÃO ACHO VÁLIDO. Vou tentar usar em UCSB, CA e outros simples. Por isso do novo experimento, mas a anotação certamente só servirá para Z-Stack (é a presunção inicial)
-
-# Graduação
-- [ ] Trabalho IA - 24/06 (acho)
+- [ ] Teste do pipeline complete no dataset de UT/MRI - NÃO ACHO VÁLIDO.
 
 ## Planejamento de posts linkedin
 - nerf ann paper
