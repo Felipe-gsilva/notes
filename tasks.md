@@ -1,16 +1,16 @@
+# Mestrado 
+- [ ] Revisão Sistemática sobre Aprendizado Federado - SD  TBD
+- [ ] Artigo sobre ReconFusion, RegNeRF e NeRFs com priors antigos - TBD 
+- [ ] Seminário sobre AI Governance - TBD
+
 # IC/TCC
-- [ ] continuar escrevendo visapp e relatorio final - 11/09
 - [ ] relatório final finalizado - 01/09
 - [ ] começar TCC - 02/09
-- [ ] TCC pronto - 10/10
-- [ ] começar artigo 02/09
+- [ ] TCC texto pronto - 10/10
 - [ ] publicação do artigo: 
-    - visapp - Sep 15
-    - data do ICEIS 2027 - dezembro, aprox
+    - visapp - Sep 15 - acho que nao da tempo
+    - data do ICEIS 2027 - 17 de Novembro
     - SIGGRAPH 2027 - Jan 21
-
-## Talvez valha o teste
-- [ ] Teste do pipeline complete no dataset de UT/MRI - NÃO ACHO VÁLIDO.
 
 ## Planejamento de posts linkedin
 - nerf ann paper
@@ -19,8 +19,6 @@
 - ic
 
 ## Estudas:
-- [ ] CNN, RNN (GRU, LSTM, BPTT, TBPTT, Transformers, Diffusion Models)
-- [ ] RandomForest, DecisionTree, SVM
 - [ ] Rust
     - [ ] Atomic Rust
     - [ ] too-many-linked-lists
