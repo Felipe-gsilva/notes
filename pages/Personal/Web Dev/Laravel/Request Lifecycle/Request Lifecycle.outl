@@ -1,0 +1,193 @@
+{
+  "version": 2,
+  "page_id": "492CMB7Y86WSX7RQBA3BXNB7NX",
+  "last_synced_hash": "sha256:4de8cdaff845748cec6dd6fdb9c3dc85f83fd4c8a6d42bdfde18e69545d6ab73",
+  "last_synced_at": "2026-08-20T16:18:18.693611959-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9R8T5MAP24QXHB3FRFQW6",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:1a018288695cba799a1f9fa357ae7db0c2974c345a17525e2c3a15d51fbd1b84",
+      "ref_handle": "blk-frfqw6",
+      "text": "The entry point for all requests to a Laravel application is the `public/index.php` file"
+    },
+    {
+      "id": "01M0G9R8T5Z83JPFAW4EH4GJDR",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:6d0a57f9fd67f886cb31afb5f4ae23aece41e770985575342f3ea7f72b3f6521",
+      "ref_handle": "blk-h4gjdr",
+      "text": "The `index.php` file loads the Composer generated autoloader definition, and then retrieves an instance of the Laravel application from `bootstrap/app.php`"
+    },
+    {
+      "id": "01M0G9R8T5VKPX0CQGERDSGNP3",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:48870ed7e2d34a11aca1841b9a1ec352285e3054f8a00d14b38203875bdaca23",
+      "ref_handle": "blk-dsgnp3",
+      "text": "# HTTP/ Console Kernels"
+    },
+    {
+      "id": "01M0G9R8T51ST2H3GASY367E24",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:e865348007904e6eb7fc0bdd7867dde35ebcc9c08c3bd6194a13d78def9de0e4",
+      "ref_handle": "blk-367e24",
+      "text": "These two kernels serve as the central location that all requests flow  "
+    },
+    {
+      "id": "01M0G9R8T5GP3N6RFH5VQBX06E",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:aff20b19cf251ac9110f58284b795cf643c338108b15588615de16adebe7e752",
+      "ref_handle": "blk-qbx06e",
+      "text": "through. For now, let's just focus on the HTTP kernel, which is located  "
+    },
+    {
+      "id": "01M0G9R8T5HPK5PFBGP1SECXJT",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:582967534d0f909d196b97f9e6921342777aea87b46fa52df165389db1fb8ccf",
+      "ref_handle": "blk-secxjt",
+      "text": "in  "
+    },
+    {
+      "id": "01M0G9R8T5ZTNQZRRK7CK3G1BF",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:ade80b30158e51703cf59d8ae5fca8559e2cb284db2230f0d074e4e2c235798c",
+      "ref_handle": "blk-k3g1bf",
+      "text": "`app/Http/Kernel.php`"
+    },
+    {
+      "id": "01M0G9R8T5DBAZ824YZW6ED2HC",
+      "line": 8,
+      "indent": 0,
+      "content_hash": "sha256:98228726b796ea54155d6786656ce7e8a38a8df6d9428a58495124614b46c58d",
+      "ref_handle": "blk-6ed2hc",
+      "text": "In this kernel, the app runs logging, error handling, read .env files and after, handles the request itself."
+    },
+    {
+      "id": "01M0G9R8T5MC935HBCJFMYVMAJ",
+      "line": 9,
+      "indent": 0,
+      "content_hash": "sha256:5c004a111a5ba0549b87ed0519de97d0187b06ef05af7a5b4e833f8b00286769",
+      "ref_handle": "blk-myvmaj",
+      "text": "The HTTP kernel set and handles all HTTP middleware that must run before the app handles the request."
+    },
+    {
+      "id": "01M0G9R8T5YW9KQZ25P7FPWKZC",
+      "line": 10,
+      "indent": 0,
+      "content_hash": "sha256:156d613fc970b67f2e4a190574150a2de9df66d8c117971fcdaac9dcc39cca5a",
+      "ref_handle": "blk-fpwkzc",
+      "text": "## Middleware"
+    },
+    {
+      "id": "01M0G9R8T56SQ2297M2HF3YE9J",
+      "line": 11,
+      "indent": 0,
+      "content_hash": "sha256:b6a28e714b69508c96d719aff47a4198e36b81b4eaf1cfe8d7b3401c69e89169",
+      "ref_handle": "blk-f3ye9j",
+      "text": "Automates some routing and verification, for example, the user auth. It allows an easy abstraction for, like the name says, between event handling."
+    },
+    {
+      "id": "01M0G9R8T5Q4DGCY6N8DHY4BRA",
+      "line": 12,
+      "indent": 0,
+      "content_hash": "sha256:bf3f7e8d0d8ef460764b652acf8893fb8c6e549784df72c5c147b9a50854eae0",
+      "ref_handle": "blk-hy4bra",
+      "text": "They can handle HTTP sessions, CSRF token and more."
+    },
+    {
+      "id": "01M0G9R8T5QZQ39Q4PR9YVDKKH",
+      "line": 13,
+      "indent": 0,
+      "content_hash": "sha256:c79c0a1f6d0d296ed54271d1333398db1f525fe7cce5b941333ac43a31fd3b0f",
+      "ref_handle": "blk-yvdkkh",
+      "text": "## HTTP Kernel Methods"
+    },
+    {
+      "id": "01M0G9R8T59RCFNW0PMAYXGA6H",
+      "line": 14,
+      "indent": 0,
+      "content_hash": "sha256:59f03d642b41e22f4575061e817f9e87c3ced5a0e77d5c92364bd45b7f90d0c9",
+      "ref_handle": "blk-yxga6h",
+      "text": "Request"
+    },
+    {
+      "id": "01M0G9R8T514G58PQ629NTV8XM",
+      "line": 15,
+      "indent": 0,
+      "content_hash": "sha256:9061383b8e228ef3ac36ddc06d128d0fc5c93edf924cefb5a65392f6104798bd",
+      "ref_handle": "blk-ntv8xm",
+      "text": "Response"
+    },
+    {
+      "id": "01M0G9R8T5SZSW8D1E9197TACK",
+      "line": 16,
+      "indent": 0,
+      "content_hash": "sha256:c990d69ce5b3df98ab2ef6e129fc46931c440dad827684262b3c459c26166b86",
+      "ref_handle": "blk-97tack",
+      "text": "## Service Providers"
+    },
+    {
+      "id": "01M0G9R8T5PKEMQCTFBMTP838M",
+      "line": 17,
+      "indent": 0,
+      "content_hash": "sha256:a37dcaa98d6f801844e8abcad0887de55c3c9d869aafd8f18e165ff9a3201c71",
+      "ref_handle": "blk-tp838m",
+      "text": "This layer works on registering service container bindings, event listeners, middleware, and even routes. Basically, where you will config the application."
+    },
+    {
+      "id": "01M0G9R8T56701R6QBPNQ0VNCZ",
+      "line": 18,
+      "indent": 0,
+      "content_hash": "sha256:c94d9df4555a2d1030a26de4a19d60967847ab6d09ed752c4803bfedd547437a",
+      "ref_handle": "blk-q0vncz",
+      "text": "### List of providers set on config/app.php"
+    },
+    {
+      "id": "01M0G9R8T584PH4SBNWV4WM942",
+      "line": 19,
+      "indent": 0,
+      "content_hash": "sha256:f605256cd488b45c19c67e3d66beda1867cdcbf8e3d90cd701e14842ef48d539",
+      "ref_handle": "blk-4wm942",
+      "text": "Firstly, the function `register` registers 👍 all providers set on the array of config/app.php"
+    },
+    {
+      "id": "01M0G9R8T5R6W4E32A1TN7TA50",
+      "line": 20,
+      "indent": 0,
+      "content_hash": "sha256:bbccf9feadd0a10b26d6bdc8592b399de2dd3375475aad92ac815133082cde0c",
+      "ref_handle": "blk-n7ta50",
+      "text": "Then, `boot` function is called upon each provider set on the list"
+    },
+    {
+      "id": "01M0G9R8T5KFEZA24FNXAVCEM6",
+      "line": 21,
+      "indent": 0,
+      "content_hash": "sha256:41b390b3f98cfec1f1e9e9cdc4b0b464a737ce3f4af293fe47b8120c197d0bae",
+      "ref_handle": "blk-avcem6",
+      "text": "# Routing"
+    },
+    {
+      "id": "01M0G9R8T5VGVQKZ415VT763RK",
+      "line": 22,
+      "indent": 0,
+      "content_hash": "sha256:55dc6225c23a1179a6616ebe191ec331faaa1ea7ce062ea63dd8fdae55af9fd9",
+      "ref_handle": "blk-t763rk",
+      "text": "Just enter there, future me, don't be that lazy"
+    },
+    {
+      "id": "01M0G9R8T5Q3SCXF7E2AR2EH1N",
+      "line": 23,
+      "indent": 0,
+      "content_hash": "sha256:6a15adcce1bd09b1146c24d893b4ed0eb2991872fdc0eb44600cdff7721ab254",
+      "ref_handle": "blk-r2eh1n",
+      "text": "[[Routing]]"
+    }
+  ],
+  "pipeline_version": 4
+}

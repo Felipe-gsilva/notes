@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "page_id": "5625HHN127XDR24QTG4HWPQXKS",
+  "last_synced_hash": "sha256:b6cf8041a2ae05f3418b7bde8cde61dfe68d602421b1992c86cbb27646b9a2e4",
+  "last_synced_at": "2026-08-20T16:17:46.647719597-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9Q9GQ8TBNN2C5C5W821ET",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:25c67c467474ee3b4c264b33808bd25c1b02cf7e18fe0e70a9621c38d6e6dce9",
+      "ref_handle": "blk-w821et",
+      "text": "# Manha "
+    },
+    {
+      "id": "01M0G9Q9GQCM3RT64ZW5JGCXSK",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:697b4f4bed6896e3ccfc96a5d97b537042dcb3519039076714b95674756a3319",
+      "ref_handle": "blk-jgcxsk",
+      "text": "[X] fix identify wine with response schema - not tested because hit quota"
+    },
+    {
+      "id": "01M0G9Q9GQ83PW9Q0N127MYFB1",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:edd61a257860f603e8ac8f81da9af79650903c439137f457576857d274a5472e",
+      "ref_handle": "blk-7myfb1",
+      "text": "[X] fix ui"
+    },
+    {
+      "id": "01M0G9Q9GQCKN32FF1PFHC9D49",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:94df082309206da8d3f1d0ede09a2097ab2a15db98e18ab710de3373dab9f898",
+      "ref_handle": "blk-hc9d49",
+      "text": "# Tarde"
+    },
+    {
+      "id": "01M0G9Q9GQ874G5J27K8TQF71D",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:25bd9047bc00a96178e460aa20fa01594e50455805482a163bf593ab9e547a67",
+      "ref_handle": "blk-tqf71d",
+      "text": "[ ] escrever metodologia e testar merf"
+    }
+  ],
+  "pipeline_version": 4
+}

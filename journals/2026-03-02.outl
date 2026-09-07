@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "page_id": "0SPTTYYC9EWBD11Y90NJ4RQY4M",
+  "last_synced_hash": "sha256:605f34b7b37e4732c341f93421e8504e6c6fe34eb3ecd28ed8de33ff369e7fee",
+  "last_synced_at": "2026-08-20T16:17:42.472567914-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9Q5E8D4YCS7ADV7S1VNB1",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:357c96e95fa6533668bf76632ac87b72f0f911cb46920da32c1f19e447420759",
+      "ref_handle": "blk-s1vnb1",
+      "text": "# Vinellu"
+    },
+    {
+      "id": "01M0G9Q5E88EQH117NA824BT1F",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:b8c2fb6d560b9ea450339f3de6a6b12cc2d029b798424deb22a2e81db56ed977",
+      "ref_handle": "blk-24bt1f",
+      "text": "fix offline manager e sync response"
+    },
+    {
+      "id": "01M0G9Q5E8Y5V6V8YDQKHM1P06",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:52b11c3eb6df9a2a179e6c8f5e2bccc6343e9df6784903dc768044c32d1aa460",
+      "ref_handle": "blk-hm1p06",
+      "text": "new feature: infinity scroll"
+    }
+  ],
+  "pipeline_version": 4
+}

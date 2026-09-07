@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "page_id": "5W3V0G6NBYZ9RRRNVSZWZD9NVR",
+  "last_synced_hash": "sha256:f17fecccdf426207cba4c9e5601b3f9238782d184dfb4f9bfd53f7febf534cbc",
+  "last_synced_at": "2026-08-20T16:18:06.354074663-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QWRHC4VN493AW4N7VJ97",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:c5526a20f149a848322ee4f6d374149b1712ae8742bae00a2fb13f27e7d076f0",
+      "ref_handle": "blk-n7vj97",
+      "text": "# Sorts and types "
+    },
+    {
+      "id": "01M0G9QWRH6THFCRWHT95DP0E5",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:97af7866f007f404f4d835b417f66a32154ee6a8de37045af47b5839692928af",
+      "ref_handle": "blk-5dp0e5",
+      "text": "## Common Sorts"
+    },
+    {
+      "id": "01M0G9QWRHN69NYXBWNRCQY92C",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:faeb27616842a10752c4293cb8dea76c8520286fcdc6f5e459cbd927da39f0a2",
+      "ref_handle": "blk-cqy92c",
+      "text": "Bubble Sort"
+    },
+    {
+      "id": "01M0G9QWRH0H40SJYWVXVDH77S",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:74bc2f45b5bb2044a9dc3855e04a0c0ef73056392ee9e0d05c97247876cd954a",
+      "ref_handle": "blk-vdh77s",
+      "text": "Insertion Sort "
+    },
+    {
+      "id": "01M0G9QWRHP19DD47ZJND760EZ",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:b370a07096374355e2cb1554b45e384727bae1ad11b3db6a7a828414fad8fb5f",
+      "ref_handle": "blk-d760ez",
+      "text": "## n Log n sorts"
+    },
+    {
+      "id": "01M0G9QWRHREC6X9C554GRR9KQ",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:cb06e15d30249432542ddbddaddb210bd1ae37eb6640e2154c2b1140e47c69f5",
+      "ref_handle": "blk-grr9kq",
+      "text": "Merge Sort "
+    },
+    {
+      "id": "01M0G9QWRHYJQCKRGR8W8GK7RE",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:8c72cd2803d8ceabef76e28ff417c18c25c4856a447c414756111d5b55098b23",
+      "ref_handle": "blk-8gk7re",
+      "text": "Heap Sort"
+    },
+    {
+      "id": "01M0G9QWRHZBYZS7ZF077JMXD8",
+      "line": 8,
+      "indent": 0,
+      "content_hash": "sha256:7295eb633211904d6b61a26aeb07e1ce00b0de4e46694b51f91d609b82ff2393",
+      "ref_handle": "blk-7jmxd8",
+      "text": "## Linear Time Sorts"
+    },
+    {
+      "id": "01M0G9QWRHZ5JEHB53X7SSW07W",
+      "line": 9,
+      "indent": 0,
+      "content_hash": "sha256:4523b9a8739434c0b0931faf8155dd76d9e41edb63e82f1e717e577cb7ba51c8",
+      "ref_handle": "blk-ssw07w",
+      "text": "Couting Sort "
+    },
+    {
+      "id": "01M0G9QWRHPF8ACJ53Z1WANKM5",
+      "line": 10,
+      "indent": 0,
+      "content_hash": "sha256:5400b7f3eec3c4ec32f539fb4137d9b96411e5d6a27bca79e9b35495543da663",
+      "ref_handle": "blk-wankm5",
+      "text": "Radix Sort"
+    }
+  ],
+  "pipeline_version": 4
+}

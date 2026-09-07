@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "page_id": "1B8J3699YBN7PT3FNPYD42GG95",
+  "last_synced_hash": "sha256:2e5354cc496d91cd6f01652c75eca762fbc560c0a7d5376eee14098055020750",
+  "last_synced_at": "2026-08-20T16:17:44.511591893-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9Q7DZP09FSPDW60TV98T9",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:c0037146dbb6ea7711d903e803e944de60bb7f4411dcc1da507fa695abd4018b",
+      "ref_handle": "blk-tv98t9",
+      "text": "[possibilidades do mestrado](\"../backlog/tasks/task-7 - possibilidades-do-mestrado.md\")"
+    },
+    {
+      "id": "01M0G9Q7DZZ46VWZM0K4W1CBRW",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "ref_handle": "blk-w1cbrw",
+      "text": "---"
+    },
+    {
+      "id": "01M0G9Q7DZKGXSTZKB5B5DKQFS",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:2c90df4a45bb257d68603ad2c4ca34f0ac1c24e9db7220915066ae04a42a18c0",
+      "ref_handle": "blk-5dkqfs",
+      "text": "# Manhã"
+    },
+    {
+      "id": "01M0G9Q7DZXJYHC5BVYCZGHDZX",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:abfecaec7b244851c4051ffbb940a9aa1f1c705b4f402098a54e6e9b5a971e73",
+      "ref_handle": "blk-zghdzx",
+      "text": "[ ] writing tests - comecei mas parei"
+    },
+    {
+      "id": "01M0G9Q7DZ9V48A641YQMR0HQS",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:94df082309206da8d3f1d0ede09a2097ab2a15db98e18ab710de3373dab9f898",
+      "ref_handle": "blk-mr0hqs",
+      "text": "# Tarde"
+    }
+  ],
+  "pipeline_version": 4
+}

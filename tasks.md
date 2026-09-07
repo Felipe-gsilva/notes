@@ -4,17 +4,14 @@
 - [ ] Seminário sobre AI Governance - TBD
 
 # IC/TCC
-- [ ] relatório final finalizado - 01/09
-- [ ] começar TCC - 02/09
 - [ ] TCC texto pronto - 10/10
 - [ ] publicação do artigo: 
-    - visapp - Sep 15 - acho que nao da tempo
+    - visapp - Sep 15
     - data do ICEIS 2027 - 17 de Novembro
     - SIGGRAPH 2027 - Jan 21
 
 ## Planejamento de posts linkedin
-- nerf ann paper
-- survey comp gráfica
+- generalizable and per scene 
 - ann architectures 
 - ic
 

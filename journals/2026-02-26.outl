@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "page_id": "736WSAEYAP03V4MJC8RM6VGHJG",
+  "last_synced_hash": "sha256:985fa2b6cf48d47231a1e6f5c6fb3e37765f62af0131f77f85669a187cea35cf",
+  "last_synced_at": "2026-08-20T16:17:46.123092903-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9Q90BQ4N9RGB6XZ4VYP3T",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:ffc0a8436b96c9700a21844a925ef5f6ab31d799dbf8bb1375541dc9baab844e",
+      "ref_handle": "blk-4vyp3t",
+      "text": "# feito"
+    },
+    {
+      "id": "01M0G9Q90BB4S1EGHD68G2W2M8",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:6c82b6edb8980534d59e8fe6752395dcbf1a6b420ab3c5b719d0d9e3473ce5e3",
+      "ref_handle": "blk-g2w2m8",
+      "text": "[X] lido e entendido Merf (parcial) - ic"
+    },
+    {
+      "id": "01M0G9Q90BFXZQKM41F1EMZHVA",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:16f57eb941d5d3c25b296d9e94c2ac79bee8e7844121f8726fcf3d271b3d712e",
+      "ref_handle": "blk-emzhva",
+      "text": "[X] refactor no flush da sstable rust - study"
+    },
+    {
+      "id": "01M0G9Q90BFRPME62E8QZ4XV17",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:6b56c268adbc4534132bb11a651ac9074ece461df76e1d3712ce7ad6263333e8",
+      "ref_handle": "blk-z4xv17",
+      "text": "[X] melhoria network manager com polling constante - vinellu"
+    },
+    {
+      "id": "01M0G9Q90BJ0D7XM9YGX8A1R2C",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:d5f7f72356e44bab4c5bc43bf4e8cd3145b9a4bb22cb38dcddfdbff68089c0b5",
+      "ref_handle": "blk-8a1r2c",
+      "text": "[X] visto stg sobre aproveitamento de disciplina."
+    }
+  ],
+  "pipeline_version": 4
+}

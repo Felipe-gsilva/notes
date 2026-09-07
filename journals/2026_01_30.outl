@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "page_id": "0QA0KAT66KMEK2GV0PRA8YF9FE",
+  "last_synced_hash": "sha256:025d851e71fe6ccfe29ca95fdb96d46267965340f463b251840b4549c8db9767",
+  "last_synced_at": "2026-08-20T16:17:56.670964804-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QK9YKRZCQ7MYTWQ6ERJQ",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:3f9d3d5fe350d736a5fa6f4c08410df2dbbcc8a74171ef6f0629946ca8bac4c9",
+      "ref_handle": "blk-q6erjq",
+      "text": "[X] 1 ou 2 issues no trampo"
+    },
+    {
+      "id": "01M0G9QK9YV67F7XHKRH9DW368",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:0d3a16e0c88cf4d807d1faa7d083e7c0d143cb0f640bc9205859167e24e9397a",
+      "ref_handle": "blk-9dw368",
+      "text": "[X] escrever mais coisa na metodologia"
+    },
+    {
+      "id": "01M0G9QK9Y7Z6NCA9BTYAQCDFW",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:f5117e156c53b0386e4d7e8707b19ff8dc7a098a2e0beed9324e2127adecb98c",
+      "ref_handle": "blk-aqcdfw",
+      "text": "[ ] subir projeto ao servidor"
+    },
+    {
+      "id": "01M0G9QK9Y3XK1XY1AAZYP8ZNF",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:d48bfccb0e3e875f926b593c4f0630667a6cd18480c4fff84b5ad917dcccabd8",
+      "ref_handle": "blk-yp8znf",
+      "text": "[ ] 1 problema leetcode"
+    }
+  ],
+  "pipeline_version": 4
+}

@@ -1,0 +1,545 @@
+{
+  "version": 2,
+  "page_id": "39CJYKP5S2FCEE0GTX0FXKAR7Q",
+  "last_synced_hash": "sha256:fed33bd50fb8208c60d276e81d8186608dc2b7c332938415b1d73928aaa2b129",
+  "last_synced_at": "2026-08-20T16:18:07.024434833-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QXDGFZHYDTF5J1A0P548",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:6917a024b4174aa646b32a078dcc95fbe473a5417be4179d8e6b23e924fe3123",
+      "ref_handle": "blk-a0p548",
+      "text": "# Data Types"
+    },
+    {
+      "id": "01M0G9QXDGPT8M2HM4NKZSP72V",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:ec7bb09dd3a13e6fc6fa1afdfb883b3f421dd9943a6e3b56ffe30cc64dfa4b8d",
+      "ref_handle": "blk-zsp72v",
+      "text": "==It is what you would expect it to be, types of data, which you write to create data fields=="
+    },
+    {
+      "id": "01M0G9QXDGVB1H1RWCYHDNCAY7",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:b8158ee30779d6622ba1f1242a656f85c789804858ad42e0aad101eb79b750c4",
+      "ref_handle": "blk-dncay7",
+      "text": "INT - Name for integer"
+    },
+    {
+      "id": "01M0G9QXDGAJ2GWT18H0P3B32Y",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:bb4aee3090b9374164fc7cff1e980c3b7c384348087e172b4425849cfc4a1b6c",
+      "ref_handle": "blk-p3b32y",
+      "text": "DECIMAL - Floats"
+    },
+    {
+      "id": "01M0G9QXDG0XDCJPKNJ9ZTZBEX",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:f88865b8d96eb2d8dbc3fbc65cc3e1b76b497931e6b98ffc4f333439f4f3616c",
+      "ref_handle": "blk-ztzbex",
+      "text": "CHAR(size) - Char."
+    },
+    {
+      "id": "01M0G9QXDGB1QDSK2V09HHJKVJ",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:dd6c3acbe60a8c5ee383f7031f916fc30ffb10754a17c4d9314b15c59b6fbe3d",
+      "ref_handle": "blk-hhjkvj",
+      "text": "VARCHAR(size) - literally variable chars"
+    },
+    {
+      "id": "01M0G9QXDGKXBBGJD708EN966P",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:9408374550327b61bc97bbf41eec736853d77f6d5dafa877872ead2619dc8b00",
+      "ref_handle": "blk-en966p",
+      "text": "STRING - bunch of char inside a memory pointed by a pointer"
+    },
+    {
+      "id": "01M0G9QXDG5D4SASDM958GSRT6",
+      "line": 8,
+      "indent": 0,
+      "content_hash": "sha256:7b9154f9c18adbc2756a09d7528d8499c2cc44f70b5c2baaf8b7fba95634a28c",
+      "ref_handle": "blk-8gsrt6",
+      "text": "BOOLEAN - Abstraction for 0s and 1s"
+    },
+    {
+      "id": "01M0G9QXDGHR6TG68CED3XMJSG",
+      "line": 9,
+      "indent": 0,
+      "content_hash": "sha256:8763a53f195332eed8d8d07986a5ef4acdeb9ffd79a1b4405c5ccdc1efb260bb",
+      "ref_handle": "blk-3xmjsg",
+      "text": "DATE - date, but useless"
+    },
+    {
+      "id": "01M0G9QXDG15KN336GQ969YTXN",
+      "line": 10,
+      "indent": 0,
+      "content_hash": "sha256:017e76aedbfa7a1a2cde544339350c79e632e09691e5494e9b4e842b99aabc14",
+      "ref_handle": "blk-69ytxn",
+      "text": "# CONSTRAINTS"
+    },
+    {
+      "id": "01M0G9QXDGGC6A6YJ4GGM1NXB5",
+      "line": 11,
+      "indent": 0,
+      "content_hash": "sha256:253fbdff5067725c01a3c54cdf8c4d751df718a517de15503f8a7f85463845ae",
+      "ref_handle": "blk-m1nxb5",
+      "text": "==Restrictions inside a table’s data, making some inputs unacceptable=="
+    },
+    {
+      "id": "01M0G9QXDGWV67PK7ZGEH37ZTV",
+      "line": 12,
+      "indent": 0,
+      "content_hash": "sha256:a89d411910011d1ea043a4eb711344691aab0aaeb061d16886709352cf3dcdad",
+      "ref_handle": "blk-h37ztv",
+      "text": "UNIQUE - Only one value can be inserted on a field with this type"
+    },
+    {
+      "id": "01M0G9QXDGQHADN5MAHP5S3XPX",
+      "line": 13,
+      "indent": 0,
+      "content_hash": "sha256:66a013f7b92196fed31d8cedbf59fa753df2aeade93b937ff4c647fa03223e18",
+      "ref_handle": "blk-5s3xpx",
+      "text": "NOT NULL - exactly what it suggests"
+    },
+    {
+      "id": "01M0G9QXDG1PBEDTZE98WGMF2E",
+      "line": 14,
+      "indent": 0,
+      "content_hash": "sha256:b74d7fee2f48e544b31648e710e80966e8f40559034be5ef8495975d85c91f40",
+      "ref_handle": "blk-wgmf2e",
+      "text": "PRIMARY KEY - The ID of a table insert, mixing UNIQUE and NOT NULL"
+    },
+    {
+      "id": "01M0G9QXDG37WC1AFMJBXF4QEH",
+      "line": 15,
+      "indent": 0,
+      "content_hash": "sha256:26a459461b0aae4fba96f3a374f3c45a192c4d1e21ca2af8fd87da100f439840",
+      "ref_handle": "blk-xf4qeh",
+      "text": "CHECK - Verifies if the values of some line in the table match some value you specify."
+    },
+    {
+      "id": "01M0G9QXDGDS1ZF40HVKKWFCSK",
+      "line": 16,
+      "indent": 0,
+      "content_hash": "sha256:715a25fc26fe32c8cc2389429f20f8c79bfe2d5d21e3b37daf7492ac210f8df1",
+      "ref_handle": "blk-kwfcsk",
+      "text": "```SQL"
+    },
+    {
+      "id": "01M0G9QXDG2C4FJNY4G467R88F",
+      "line": 17,
+      "indent": 0,
+      "content_hash": "sha256:9621d8aff4ab5e71bd8ba175b5ef1bcb974e0631a1a622d8affc2fae37b6ea8a",
+      "ref_handle": "blk-67r88f",
+      "text": "CREATE TABLE Persons ("
+    },
+    {
+      "id": "01M0G9QXDGQ8BXQHPQH88YBYDE",
+      "line": 18,
+      "indent": 0,
+      "content_hash": "sha256:8436805a4754225ded3505cf9d42538e35ce35ff092da71825baf8f9739c7c46",
+      "ref_handle": "blk-8ybyde",
+      "text": "ID int NOT NULL,"
+    },
+    {
+      "id": "01M0G9QXDG0AQJVS0590SK0QQM",
+      "line": 19,
+      "indent": 0,
+      "content_hash": "sha256:9449eea5868a28c867d6c55baa06727dcd82b519ca5b536daac9d14d19350ad5",
+      "ref_handle": "blk-sk0qqm",
+      "text": "LastName varchar(255) NOT NULL,"
+    },
+    {
+      "id": "01M0G9QXDGBPHXBK4YKXSAVDAF",
+      "line": 20,
+      "indent": 0,
+      "content_hash": "sha256:a13ca03dab19caf7ae18ea7218b94d04f72db283e257009a84d508835d279df3",
+      "ref_handle": "blk-savdaf",
+      "text": "FirstName varchar(255),"
+    },
+    {
+      "id": "01M0G9QXDG3XMPRGG731864QY7",
+      "line": 21,
+      "indent": 0,
+      "content_hash": "sha256:fc5d75953f3d32c7d927befd8a1d3fa95c59ebace6d2abbf9d21d10ac25eacdb",
+      "ref_handle": "blk-864qy7",
+      "text": "Age int,"
+    },
+    {
+      "id": "01M0G9QXDGKTJPDPTE7T1AB4JH",
+      "line": 22,
+      "indent": 0,
+      "content_hash": "sha256:5d850f19281e314d84d2ac27e4df579de77a12773347a24edac20f5f09872fe3",
+      "ref_handle": "blk-1ab4jh",
+      "text": "CHECK (Age>=18)"
+    },
+    {
+      "id": "01M0G9QXDGRN6VG1YNPRGSKRTP",
+      "line": 23,
+      "indent": 0,
+      "content_hash": "sha256:9d8b2b5670d18da8a99f6152f7ee75558019cd106d8032bf7c1117bd37273e37",
+      "ref_handle": "blk-gskrtp",
+      "text": ");"
+    },
+    {
+      "id": "01M0G9QXDGNXNQB91PXHT1751W",
+      "line": 24,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-t1751w",
+      "text": "```"
+    },
+    {
+      "id": "01M0G9QXDG4HM3CPQT926Q0HR3",
+      "line": 25,
+      "indent": 0,
+      "content_hash": "sha256:9b672bb165bf5b46185899a896b7d23c6ba5499a6c06d4c80569f5c88918a9a9",
+      "ref_handle": "blk-6q0hr3",
+      "text": "# CREATING A DATABASE"
+    },
+    {
+      "id": "01M0G9QXDGC3Z0DJ400WFM12RQ",
+      "line": 26,
+      "indent": 0,
+      "content_hash": "sha256:715a25fc26fe32c8cc2389429f20f8c79bfe2d5d21e3b37daf7492ac210f8df1",
+      "ref_handle": "blk-fm12rq",
+      "text": "```SQL"
+    },
+    {
+      "id": "01M0G9QXDGMTX9P9SH9DGEPAP8",
+      "line": 27,
+      "indent": 0,
+      "content_hash": "sha256:3cb8978086b18cadb1acb08e976275987fcfe34d86b52cbb8c5e218c138e324f",
+      "ref_handle": "blk-gepap8",
+      "text": "CREATE DATABASE DATABASE1;"
+    },
+    {
+      "id": "01M0G9QXDGCHXYAJ5GANHZ10YY",
+      "line": 28,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-hz10yy",
+      "text": "```"
+    },
+    {
+      "id": "01M0G9QXDGZECMGS6E3Q5MSN88",
+      "line": 29,
+      "indent": 0,
+      "content_hash": "sha256:0bea60fd8aca56fc647db63521378e30b25e8306cfb33154705879444d105e4a",
+      "ref_handle": "blk-5msn88",
+      "text": "## CREATING A TABLE"
+    },
+    {
+      "id": "01M0G9QXDGQKBTH1RY2BN2XJ5M",
+      "line": 30,
+      "indent": 0,
+      "content_hash": "sha256:715a25fc26fe32c8cc2389429f20f8c79bfe2d5d21e3b37daf7492ac210f8df1",
+      "ref_handle": "blk-n2xj5m",
+      "text": "```SQL"
+    },
+    {
+      "id": "01M0G9QXDG6W91WEYPCBE3DDXJ",
+      "line": 31,
+      "indent": 0,
+      "content_hash": "sha256:12062aaf50574865592eb35c130be1eef43a14349a3ce2e04eb0c14d17cd61a1",
+      "ref_handle": "blk-e3ddxj",
+      "text": "CREATE TABLE TABE ("
+    },
+    {
+      "id": "01M0G9QXDG54TKWQ7BY00QD1JQ",
+      "line": 32,
+      "indent": 0,
+      "content_hash": "sha256:8436805a4754225ded3505cf9d42538e35ce35ff092da71825baf8f9739c7c46",
+      "ref_handle": "blk-0qd1jq",
+      "text": "ID int NOT NULL,"
+    },
+    {
+      "id": "01M0G9QXDGTZTZTD0YHQ9SA0PD",
+      "line": 33,
+      "indent": 0,
+      "content_hash": "sha256:7d372472018a8da76fbf1b47ff0cbd36f7a99213eef157f73f65698f7d0c4c7c",
+      "ref_handle": "blk-9sa0pd",
+      "text": "LILCHAR varchar(255),"
+    },
+    {
+      "id": "01M0G9QXDGZKK2340BV78RBM90",
+      "line": 34,
+      "indent": 0,
+      "content_hash": "sha256:dd1e1ac4b4724ee6d98bb1fa950e495d658a12a4afe16fc1e0ebff433547dfe6",
+      "ref_handle": "blk-8rbm90",
+      "text": "MYGOD int"
+    },
+    {
+      "id": "01M0G9QXDGJ5YJRA54NXAKD39T",
+      "line": 35,
+      "indent": 0,
+      "content_hash": "sha256:9d8b2b5670d18da8a99f6152f7ee75558019cd106d8032bf7c1117bd37273e37",
+      "ref_handle": "blk-akd39t",
+      "text": ");"
+    },
+    {
+      "id": "01M0G9QXDG7FG7GBZMDZAFWRWF",
+      "line": 36,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-afwrwf",
+      "text": "```"
+    },
+    {
+      "id": "01M0G9QXDGETH8FWJCK5VTDWF8",
+      "line": 37,
+      "indent": 0,
+      "content_hash": "sha256:eeda10959409710beb5b5c442cefeb91de8cccfbe58f08caa1d46154eb0f6e36",
+      "ref_handle": "blk-vtdwf8",
+      "text": "## INSERTING DATA"
+    },
+    {
+      "id": "01M0G9QXDGSRXG8B1DXXYVEZ57",
+      "line": 38,
+      "indent": 0,
+      "content_hash": "sha256:715a25fc26fe32c8cc2389429f20f8c79bfe2d5d21e3b37daf7492ac210f8df1",
+      "ref_handle": "blk-yvez57",
+      "text": "```SQL"
+    },
+    {
+      "id": "01M0G9QXDG53CT08GR0D3MVF9Y",
+      "line": 39,
+      "indent": 0,
+      "content_hash": "sha256:d5a8bb0a427dda9e3f50473d8dec5d8b311a3992ccab0711896dfc3a2305b647",
+      "ref_handle": "blk-3mvf9y",
+      "text": "INSERT INTO TABLE (LILCHAR, MYGOD) VALUES ('AAAAAAAA', 1)"
+    },
+    {
+      "id": "01M0G9QXDG1DXNEGSVWABP858E",
+      "line": 40,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-bp858e",
+      "text": "```"
+    },
+    {
+      "id": "01M0G9QXDGVDWRE6YYEZP194TX",
+      "line": 41,
+      "indent": 0,
+      "content_hash": "sha256:29a981cc7217fb583a3a7a64e450b5596295ebf9b4a0fb4201ee275950fb3258",
+      "ref_handle": "blk-p194tx",
+      "text": "## SEARCHING DATA"
+    },
+    {
+      "id": "01M0G9QXDGBSSKX2DPCHR8QEJW",
+      "line": 42,
+      "indent": 0,
+      "content_hash": "sha256:715a25fc26fe32c8cc2389429f20f8c79bfe2d5d21e3b37daf7492ac210f8df1",
+      "ref_handle": "blk-r8qejw",
+      "text": "```SQL"
+    },
+    {
+      "id": "01M0G9QXDG0P5E8AJ32T7P1V12",
+      "line": 43,
+      "indent": 0,
+      "content_hash": "sha256:b2bacf80f1f2948c1e78603ff56ed03ec4f469f07d46e2cd551f6293fbacbc65",
+      "ref_handle": "blk-7p1v12",
+      "text": "SELECT * FROM TABE"
+    },
+    {
+      "id": "01M0G9QXDGEVZMZKMPPHB2JSH6",
+      "line": 44,
+      "indent": 0,
+      "content_hash": "sha256:ab29a032acfb035a8e383e62a3f215010a42eccddd3c2a70977a75da04109582",
+      "ref_handle": "blk-b2jsh6",
+      "text": "SELECT LILCHAR, MYGOD FROM TABEL"
+    },
+    {
+      "id": "01M0G9QXDG5APTF7PFPVB3HKCG",
+      "line": 45,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-b3hkcg",
+      "text": "```"
+    },
+    {
+      "id": "01M0G9QXDG96XJ1FZR0F9V6VZM",
+      "line": 46,
+      "indent": 0,
+      "content_hash": "sha256:9e87113eb7b1ec44f0f186016cbedb04fb9626560e0d4a4351e609c6e399590a",
+      "ref_handle": "blk-9v6vzm",
+      "text": "## UPDATING DATA"
+    },
+    {
+      "id": "01M0G9QXDGQWJHRNN1Q90Z4WRD",
+      "line": 47,
+      "indent": 0,
+      "content_hash": "sha256:715a25fc26fe32c8cc2389429f20f8c79bfe2d5d21e3b37daf7492ac210f8df1",
+      "ref_handle": "blk-0z4wrd",
+      "text": "```SQL"
+    },
+    {
+      "id": "01M0G9QXDGTGC6Y274DJB5FXXE",
+      "line": 48,
+      "indent": 0,
+      "content_hash": "sha256:3ebace87ccd7289bda51aa435fc6b261952011601154cc1a190495e248a9ae10",
+      "ref_handle": "blk-b5fxxe",
+      "text": "UPDATE TABE SET CAMPO1 = 'VALOR ALTERADO';"
+    },
+    {
+      "id": "01M0G9QXDG33Z2JTWESP231VCV",
+      "line": 49,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-231vcv",
+      "text": "```"
+    },
+    {
+      "id": "01M0G9QXDGHTDZ1XSKKWAPKWP2",
+      "line": 50,
+      "indent": 0,
+      "content_hash": "sha256:d01081291b98e4b0f12663ed04a48997bf882f12ed96d4135803ba5e57f47e7f",
+      "ref_handle": "blk-apkwp2",
+      "text": "## DELETING DATA"
+    },
+    {
+      "id": "01M0G9QXDGDTEJZN767A3WFKY2",
+      "line": 51,
+      "indent": 0,
+      "content_hash": "sha256:715a25fc26fe32c8cc2389429f20f8c79bfe2d5d21e3b37daf7492ac210f8df1",
+      "ref_handle": "blk-3wfky2",
+      "text": "```SQL"
+    },
+    {
+      "id": "01M0G9QXDG8C4Y99Z71M02JPHF",
+      "line": 52,
+      "indent": 0,
+      "content_hash": "sha256:82c9c4d7321452880335996a92e8a75a93b5bb07efd61451aed98747d1ad087c",
+      "ref_handle": "blk-02jphf",
+      "text": "DELETE * FROM TABELA;"
+    },
+    {
+      "id": "01M0G9QXDGWX3D5ZGHBGD2Z8RD",
+      "line": 53,
+      "indent": 0,
+      "content_hash": "sha256:d4d6a561ca949b3ec144aeda9becb8cd13f677336ee7eac5d49a1db860e50ec8",
+      "ref_handle": "blk-d2z8rd",
+      "text": "DELETE FROM TABELA WHERE ID = 1;"
+    },
+    {
+      "id": "01M0G9QXDGZAGJTAY0CA98TC4G",
+      "line": 54,
+      "indent": 0,
+      "content_hash": "sha256:3601de0e6f83f75a1632d6e8ea475ea86db8fae9e09e58036b184a42a6d27dde",
+      "ref_handle": "blk-98tc4g",
+      "text": "// You can also select data using command where"
+    },
+    {
+      "id": "01M0G9QXDGWW9H1MHMYNWT48D5",
+      "line": 55,
+      "indent": 0,
+      "content_hash": "sha256:e83e602eb3ee15c78186850dcc2a92f440040154f5bc130977fc235588768c67",
+      "ref_handle": "blk-wt48d5",
+      "text": "SELECT * FROM TABELA WHERE ID = 1;"
+    },
+    {
+      "id": "01M0G9QXDGB970774FBZS1X5M2",
+      "line": 56,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-s1x5m2",
+      "text": "```"
+    },
+    {
+      "id": "01M0G9QXDG5Y7B91NH3HJ9YTFA",
+      "line": 57,
+      "indent": 0,
+      "content_hash": "sha256:0970399ebcb6ec708296d92a3fb906bcb0b1ca061fc24877df09d1fc0e1febb2",
+      "ref_handle": "blk-j9ytfa",
+      "text": "## AND/OR"
+    },
+    {
+      "id": "01M0G9QXDGMPC1ZV7GGRQ4C67X",
+      "line": 58,
+      "indent": 0,
+      "content_hash": "sha256:715a25fc26fe32c8cc2389429f20f8c79bfe2d5d21e3b37daf7492ac210f8df1",
+      "ref_handle": "blk-q4c67x",
+      "text": "```SQL"
+    },
+    {
+      "id": "01M0G9QXDGDJ2SK5H9ZATFEC2A",
+      "line": 59,
+      "indent": 0,
+      "content_hash": "sha256:30a0508b6c5c7571206998804924ec3d690313f9024afb3df14c9bbc5800889d",
+      "ref_handle": "blk-tfec2a",
+      "text": "SELECT * FROM TABELA WHERE ID = 1 OR ID = 2;"
+    },
+    {
+      "id": "01M0G9QXDG85PQBDC71XEJ0N6K",
+      "line": 60,
+      "indent": 0,
+      "content_hash": "sha256:3c6752098284802c72c22534bcf74a53ef08c71441f4802e18ae42cb386a969b",
+      "ref_handle": "blk-ej0n6k",
+      "text": "SELECT * FROM TABELA WHERE CAMPO1 = 'MYSQL' AND CAMPO2 = '4NOOBS';"
+    },
+    {
+      "id": "01M0G9QXDG0VY86S1FJYJPZTE9",
+      "line": 61,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-jpzte9",
+      "text": "```"
+    },
+    {
+      "id": "01M0G9QXDGEHDZZ7Z0D0Y3NN40",
+      "line": 62,
+      "indent": 0,
+      "content_hash": "sha256:b4c511fc959c1550063ca5619c1be5bd3a2b78df6f8337e5711c9238b07c582f",
+      "ref_handle": "blk-y3nn40",
+      "text": "## LIKE"
+    },
+    {
+      "id": "01M0G9QXDG7TGN3T0V2Y14SNDH",
+      "line": 63,
+      "indent": 0,
+      "content_hash": "sha256:b738e2931396756a4fa2726387aca759367cf8b3625ed5a3f53a59e21f3c5b28",
+      "ref_handle": "blk-14sndh",
+      "text": "You can select an similar value on tables, using LIKE."
+    },
+    {
+      "id": "01M0G9QXDG9N36TQ4RAH6B1G7K",
+      "line": 64,
+      "indent": 0,
+      "content_hash": "sha256:715a25fc26fe32c8cc2389429f20f8c79bfe2d5d21e3b37daf7492ac210f8df1",
+      "ref_handle": "blk-6b1g7k",
+      "text": "```SQL"
+    },
+    {
+      "id": "01M0G9QXDG38YXZNMNYD2WW3PN",
+      "line": 65,
+      "indent": 0,
+      "content_hash": "sha256:e4757ca3f926dbdeddb4130508921041f64faebc604553bcebfa9d7313521f31",
+      "ref_handle": "blk-2ww3pn",
+      "text": "SELECT * FROM TABELA WHERE CAMPO1 LIKE '%MYSQL%'; // ANYTHING WRITTEN AFTER AND BEFORE WILL BE IGNORED, ONLY FOCUSING ON MYSQL APPEARENCES ON EACH FIELDS"
+    },
+    {
+      "id": "01M0G9QXDGWEN450RKVKX4S7JS",
+      "line": 66,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-x4s7js",
+      "text": "```"
+    },
+    {
+      "id": "01M0G9QXDGF4T7XSVZCCRT0SDP",
+      "line": 67,
+      "indent": 0,
+      "content_hash": "sha256:a269dc05a69d00d403666fb2c7a1c49bfc95a3800afd94dc0bc452e2488b2515",
+      "ref_handle": "blk-rt0sdp",
+      "text": "## JOINS"
+    }
+  ],
+  "pipeline_version": 4
+}

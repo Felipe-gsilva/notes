@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "page_id": "2X3CF9E3E6GNFKKK9XH4YJ0WAW",
+  "last_synced_hash": "sha256:861e1d1ce3990f6d661b5a1ab9fbe4956ea944700fc01da8e65f2b6c3cacec85",
+  "last_synced_at": "2026-08-20T16:17:51.591608879-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QEB7A8V6E50J3NQJTR3B",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:dae60bd41be5768d0fa8a7b3e91d88c284f2203cdd87c9625915360193a68fe3",
+      "ref_handle": "blk-qjtr3b",
+      "text": "continuar leitura sobre Query Processing"
+    },
+    {
+      "id": "01M0G9QEB7Z6P2A2VKMMJ4SCDT",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:656b249e202275584c489bb2f72dd89ab5f80c57c5b77a4dd642e2d93b4b8af1",
+      "ref_handle": "blk-j4scdt",
+      "text": "continuar CIC"
+    },
+    {
+      "id": "01M0G9QEB7Q74K58AYP5XBZQ7T",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:c6dedfd9f701a89ca1ef5dfe5b9b6c70fff642d21c5ba4ddff133b3a0b8a017a",
+      "ref_handle": "blk-xbzq7t",
+      "text": "trampo"
+    }
+  ],
+  "pipeline_version": 4
+}

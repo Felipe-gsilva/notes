@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "page_id": "54GEAVVKX0EFMZY6VSH0YNYPYQ",
+  "last_synced_hash": "sha256:7d0793b5690d6cca6f12c6f7b4de43f2d72ae2ec14eaf3bbec63264a20460f77",
+  "last_synced_at": "2026-08-20T16:17:50.337768266-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QD41ZA9T786Y89PYGMV7",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:e756468025138786574f3a84d4b6db64d2176e10b12f914a3ce479c2363c2e25",
+      "ref_handle": "blk-pygmv7",
+      "text": "algumas issues feitas"
+    },
+    {
+      "id": "01M0G9QD41G359T1AN946M7CCK",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "ref_handle": "blk-6m7cck",
+      "text": ""
+    }
+  ],
+  "pipeline_version": 4
+}

@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "page_id": "267PAF33D0T2A45WVRDC557CZ3",
+  "last_synced_hash": "sha256:d257b3debb619eea54f6235fda2efb33864b9a308ce8637ff987e12081d95d52",
+  "last_synced_at": "2026-08-20T16:18:40.042008899-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9RXN9DQSHYGXNFD7791GB",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:c53e9a5e0fd91921fe3db0a6acd667888c01713fddfe468f5fa24439531cb321",
+      "ref_handle": "blk-7791gb",
+      "text": "# Helix"
+    },
+    {
+      "id": "01M0G9RXN9VT5GHG6GBAQT73CJ",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:4ab0b96198ec494aec8e08d0fe99003dd7ea3e904474697dffe3f03dd9348355",
+      "ref_handle": "blk-qt73cj",
+      "text": "used to create react components"
+    },
+    {
+      "id": "01M0G9RXN9QNW4WKY3G0BMAJX8",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:b33a02c7695af30b80595bac957da42f635c6625322e840633f4b91d2dc948b3",
+      "ref_handle": "blk-bmajx8",
+      "text": "# Refx"
+    },
+    {
+      "id": "01M0G9RXN9AKH7W6SZ9MD0BAFD",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:dfe601d65b41668283c56930019df2ac84efe5f2357b420fd22503ef391f4da3",
+      "ref_handle": "blk-d0bafd",
+      "text": "refx is a rework of reframe"
+    },
+    {
+      "id": "01M0G9RXN9ZNSABWD3XTNWGGJW",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:e7903d37b2f0d820ac58d293aae89a2452d60abf052516be50477e0d7191f24e",
+      "ref_handle": "blk-nwggjw",
+      "text": "used to wrap react components on clojure script"
+    }
+  ],
+  "pipeline_version": 4
+}

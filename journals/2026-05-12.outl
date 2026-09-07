@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "page_id": "1449HMSWY01TZXXSJ0VTBHAX7Y",
+  "last_synced_hash": "sha256:786e243cdccf187ae665c47863b944d157fd72efffc0497fd8e10b6dbf90a961",
+  "last_synced_at": "2026-08-20T16:17:54.982628565-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QHN6S0375TH2ZTTZXX16",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:53cdfdddb57be26b65a4d9191a61dee9221414ef6c36ea5221f1a836416df6ea",
+      "ref_handle": "blk-tzxx16",
+      "text": "[ ] finalizar estudo dart"
+    }
+  ],
+  "pipeline_version": 4
+}

@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "page_id": "7Z5RVR53PGNN8FS9KDAFYPET0J",
+  "last_synced_hash": "sha256:b6766e2c81c5aa39345ed68b22aaa8ec8970c55dcd51b652cc29df8bb1008978",
+  "last_synced_at": "2026-08-20T16:17:50.561762613-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QDB10PRAP8B9W30FAVWG",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:b155115ac0832d67bf4f54b0a96b61621b9dd6751975ddd5ee60125d3b429957",
+      "ref_handle": "blk-0favwg",
+      "text": "# Trampo"
+    },
+    {
+      "id": "01M0G9QDB1Y1YS90CPDK2MT6KK",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:d23ce7a7d4bc1ce47a34d54e15b2af727d6ae88594dbfbca121488adbbce3bc7",
+      "ref_handle": "blk-2mt6kk",
+      "text": "[X] falta arrumar o erro de keyboard e finalização do onboarding"
+    },
+    {
+      "id": "01M0G9QDB1R0XDKGN765E851TF",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:ffcfcbd05a583dfaffef07c13a2a0a59c427eda34cf3bef598048612681576ea",
+      "ref_handle": "blk-e851tf",
+      "text": "[ ] mais testes unitários e está pronto o projeto. Fica pra outro dia"
+    },
+    {
+      "id": "01M0G9QDB1A3XPT83AC8C19BMP",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:d5cdc1a9653615120517c01778b63d393ac4c361a1fe24c3f90423d8f1added8",
+      "ref_handle": "blk-c19bmp",
+      "text": "# IC"
+    },
+    {
+      "id": "01M0G9QDB1NNXRB9GE0KC0C8GH",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:066c3f852e20ee0fca47804dd4b1762e03f461f593b1354ca55f4f5918baa600",
+      "ref_handle": "blk-c0c8gh",
+      "text": "[X] Escrever um pouco mais do documento"
+    },
+    {
+      "id": "01M0G9QDB1ZPAW7VZ1EBGEZT5E",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "ref_handle": "blk-gezt5e",
+      "text": ""
+    },
+    {
+      "id": "01M0G9QDB1AH2FQ46E2WK22TY9",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:52d837d773fb141f0019cc04ea74125096a1e14c0b4c47b84cbc2c38378d5c0e",
+      "ref_handle": "blk-k22ty9",
+      "text": "Amanhã é focar nos projetos. Um pouco de estudos e o projeto-rec-filmes"
+    }
+  ],
+  "pipeline_version": 4
+}

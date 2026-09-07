@@ -1,0 +1,201 @@
+{
+  "version": 2,
+  "page_id": "1RF1Y4QAEJYEKQ86WMEPRHHKN9",
+  "last_synced_hash": "sha256:3e38ec7058b5d903ad9dd144cc2180d2cf259ce448f37c293198c81aef334ea6",
+  "last_synced_at": "2026-08-20T16:17:57.008614629-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QKMG6ZF10HPBBJKVGX6P",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:30f11c82b762aae3b00a12653d8f64bb9bca507a4892edf5f1ba32ee98c3fb9a",
+      "ref_handle": "blk-kvgx6p",
+      "text": "# Faiss -  High-Performance Vector Similarity Search and GPU K-Selection"
+    },
+    {
+      "id": "01M0G9QKMGNWXAASTX912KDRNX",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:e5ac2875c1f92ca978be289801d9bea5bb3a259a8f954516479c2829426d1088",
+      "ref_handle": "blk-2kdrnx",
+      "text": "A biblioteca faiss é uma biblioteca feita pela Meta de alta performance para pesquisa em vetores por similaridade, especialmente eficiente para vetores densos."
+    },
+    {
+      "id": "01M0G9QKMGZYRHFCKNWDDF0H6D",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:9aa3ae9e698608066ad3d6d143bc9ec5845524a660053ac9bd362e8830d6b212",
+      "ref_handle": "blk-df0h6d",
+      "text": "Abaixo, vou elencar os principais tópicos de funcionalidade e aplicações possiveis (na apresentação esta ordem pode ser distinta):"
+    },
+    {
+      "id": "01M0G9QKMGP9G62SAD2WH9DE68",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:3670ab0ddea535f621ed589d2fb049cd1ce8ed5a427eae0587b86fdd1d40ec34",
+      "ref_handle": "blk-h9de68",
+      "text": "## Fundamentos "
+    },
+    {
+      "id": "01M0G9QKMGDC2MQ9H6DVXC0C5P",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:3856dc99e807d729a0ea81e482927e22ea821d9dce255f4dfbe1e27bd8802301",
+      "ref_handle": "blk-xc0c5p",
+      "text": "Dado um conjunto de vetores $x_i$ em uma dimensão qualquer $d$, a biblioteca constrói uma estrutura de dados chamada de índice em memória RAM. Após mapear todos os vetores nesse espaço de $d$ dimensões, podemos comparar agora um vetor qualquer (de mesma dimensão) com a base de dados em memória INTEIRA, sendo  o objetivo final encontrar o vetor que:"
+    },
+    {
+      "id": "01M0G9QKMG2QMM1SD41EFZN15Q",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:6aaae98f49dba989e8f2f2afa058ef1d17441a9f54fb7937da9632facbcbe7fc",
+      "ref_handle": "blk-fzn15q",
+      "text": "maximiza o produto escalar entre ambos"
+    },
+    {
+      "id": "01M0G9QKMGDENHKKMAWSATGGMG",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:2b5398ec8482f5c0a19494df7709262b79c609c39a82b2a77def13ec83ec5f83",
+      "ref_handle": "blk-atggmg",
+      "text": "minimiza a distância euclidiana ($L^2$) entre ambos"
+    },
+    {
+      "id": "01M0G9QKMG3PE627PM8CJNJQ33",
+      "line": 8,
+      "indent": 0,
+      "content_hash": "sha256:3e6cd994d8b85a80f26262d46d0e6e1df4b5b2846fa46f48de5660c43bedafa5",
+      "ref_handle": "blk-jnjq33",
+      "text": "maximiza a similaridade de cosseno (via normalização $L^2$)"
+    },
+    {
+      "id": "01M0G9QKMGF950QDX6W835CXGB",
+      "line": 9,
+      "indent": 0,
+      "content_hash": "sha256:9734af003d4b32f6f84e3420218e0a9cb04303c7728351ce05200e54269e9fd1",
+      "ref_handle": "blk-35cxgb",
+      "text": "> Espera-se que os vetores dados sejam identificados cada um por um valor inteiro distinto."
+    },
+    {
+      "id": "01M0G9QKMGQ6KF87N6QC0QQS49",
+      "line": 10,
+      "indent": 0,
+      "content_hash": "sha256:d03cc689fd2b37494080c1938630de92304ed890179d9576f49cd25720ce04f6",
+      "ref_handle": "blk-0qqs49",
+      "text": "Para isso, o faiss utiliza-se do conceito HNSW - Hierarchical Navigable Small World"
+    },
+    {
+      "id": "01M0G9QKMG14S4Z0A0PW69HKBV",
+      "line": 11,
+      "indent": 0,
+      "content_hash": "sha256:eb6bc4237fe8eb2aad71d2612d64d827f6492b64fd229fad7527fea088ea6629",
+      "ref_handle": "blk-69hkbv",
+      "text": "## Otimizações "
+    },
+    {
+      "id": "01M0G9QKMGWDF6R3D9MTJZQA9T",
+      "line": 12,
+      "indent": 0,
+      "content_hash": "sha256:8c4b5ad147b56fd23a57757a58f30ec3433bf25de168595598c817b6650128f8",
+      "ref_handle": "blk-jzqa9t",
+      "text": "### Clustering"
+    },
+    {
+      "id": "01M0G9QKMGEGP0T678TCCTF5HF",
+      "line": 13,
+      "indent": 0,
+      "content_hash": "sha256:c6645b23de41f270938ac3311ba21b6dccde52f3f486ca33c2abc40ca45198e0",
+      "ref_handle": "blk-ctf5hf",
+      "text": "o faiss calcula o centroide de um vetor, utilizando-se o algoritmo lloyd's k-means. O usuario insere um valor que diz quantos centroides quer usar, normalmente $\\sqrt{l}$ onde $l$ é o número de vetores no espaço, ai, o cálculo de média entre os vetores naquela célula é o que define o melhor centróide, gerando o quantizador q1 e as listas das células num arquivo de indice invertido."
+    },
+    {
+      "id": "01M0G9QKMG5CRG8VBRYB5K52A4",
+      "line": 14,
+      "indent": 0,
+      "content_hash": "sha256:2fb99e8c66340fcb48b3b2366715342983e513e78d2d2199914249f028ada584",
+      "ref_handle": "blk-5k52a4",
+      "text": "Isso permite comparar o vetor de consulta com uma fração muito menor do dataset. Ai quando o centróide é promissor, o cálculo passa a ser entre os vetores completos dentro dos $\\omega$ centroides mais proximos."
+    },
+    {
+      "id": "01M0G9QKMGXXP6M8EYKD2KER5T",
+      "line": 15,
+      "indent": 0,
+      "content_hash": "sha256:34e60654c9ab0dd905ce90049fd4fae2dd8bbad2435c5daa74d44bdcb3ec743e",
+      "ref_handle": "blk-2ker5t",
+      "text": "Temos que:"
+    },
+    {
+      "id": "01M0G9QKMGKCHQ8JP8RW9GWJQB",
+      "line": 16,
+      "indent": 0,
+      "content_hash": "sha256:90854cf6a572a20a25aba5f97783428175c3ffcccfc0141a8824801522937dbf",
+      "ref_handle": "blk-9gwjqb",
+      "text": "$q_1(y) = argmin_{c\\inC_1}\\lVert y - c \\rVert^2$"
+    },
+    {
+      "id": "01M0G9QKMG22TN285GTEXJE26T",
+      "line": 17,
+      "indent": 0,
+      "content_hash": "sha256:463bd4c4598a30a54a3fd5a2ef46a5bf7f28afb682eebca673b8860f71d9c888",
+      "ref_handle": "blk-xje26t",
+      "text": "assim, temos a(s) lista(s) de maior similaridade."
+    },
+    {
+      "id": "01M0G9QKMGYCBKA1S53587S2ZJ",
+      "line": 18,
+      "indent": 0,
+      "content_hash": "sha256:d5f6301ecff4efafa98819c63de9862fb9ae13120387c3951100cecc94b78dda",
+      "ref_handle": "blk-87s2zj",
+      "text": "Tabelas de Busca Pré-computadas"
+    },
+    {
+      "id": "01M0G9QKMGGJ629R8WFPPTC6M2",
+      "line": 19,
+      "indent": 0,
+      "content_hash": "sha256:85f514d363d211ea4df6ee578baebd3ed1812d8ce502dba237dc1238666b1ee3",
+      "ref_handle": "blk-ptc6m2",
+      "text": "Algoritmo WarpSelect (k-selection)"
+    },
+    {
+      "id": "01M0G9QKMGVQ28YWDMF93W0K87",
+      "line": 20,
+      "indent": 0,
+      "content_hash": "sha256:f43806bcf7a10d4d4912733a896b4e580928dd6b91e15d2c234c34050c9b67ea",
+      "ref_handle": "blk-3w0k87",
+      "text": "## Funcionalidades diretas"
+    },
+    {
+      "id": "01M0G9QKMGGD9JTW0BS2ZFTWCK",
+      "line": 21,
+      "indent": 0,
+      "content_hash": "sha256:446b4cedd9704a328805698e366ad4d149c3e9ad9e09dc81933d801eb3532a13",
+      "ref_handle": "blk-zftwck",
+      "text": "Busca exata: brute force mesmo onde se compara com boa parte do índice para o maior retorno."
+    },
+    {
+      "id": "01M0G9QKMGXAVGPS9AGH5RFQ44",
+      "line": 22,
+      "indent": 0,
+      "content_hash": "sha256:015d5da73b85c75345a3b4d3e97b469f93cc8b97e83347655f4ea137916e04e4",
+      "ref_handle": "blk-5rfq44",
+      "text": "Busca por range: retorna todos os k vizinhos dentro de um raio de distância especifico"
+    },
+    {
+      "id": "01M0G9QKMGF2NK2HGWYK67EB5V",
+      "line": 23,
+      "indent": 0,
+      "content_hash": "sha256:20605fa57fe7891e1a103274165c677536a61d38e93980da948dbf6d79698a18",
+      "ref_handle": "blk-67eb5v",
+      "text": "Busca em lote:  exatamente o que se espera, vale pras 2 acima"
+    },
+    {
+      "id": "01M0G9QKMGEMQ8JS45PNKKJT16",
+      "line": 24,
+      "indent": 0,
+      "content_hash": "sha256:cd45c84a575fb13881359dbe019386ff095c511a0f19bc4144b092542ce2c7c3",
+      "ref_handle": "blk-kkjt16",
+      "text": "## Aplicações"
+    }
+  ],
+  "pipeline_version": 4
+}

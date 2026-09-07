@@ -1,0 +1,257 @@
+{
+  "version": 2,
+  "page_id": "3R5ZRQKHG7QJAT757AMZJ4HVBX",
+  "last_synced_hash": "sha256:ec32c97ebdf3138d81ebffa260f5d08b15b26e1606937966ec6a134ac52135c8",
+  "last_synced_at": "2026-08-20T16:18:00.093014715-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QPMWE51D4GWPCTF93EBY",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:6398a9ca0c7d4a602575e12ac0a6166ee5b6c463d8c7f32b9fafa5a4f879513c",
+      "ref_handle": "blk-f93eby",
+      "text": "[ ] logger"
+    },
+    {
+      "id": "01M0G9QPMWS9NWRPMZJT086KFF",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:2c98e1318d4578791246fc27351f55ca8faa45c003770c10c9e4f179d4edb5e8",
+      "ref_handle": "blk-086kff",
+      "text": "[ ] Change Physical Device Priority by giving it a score"
+    },
+    {
+      "id": "01M0G9QPMWHC9Q0FK25058KX0N",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:7d22205f8a9398e4a9462e6becaed988c423af9491164fa01339d03eaf722c80",
+      "ref_handle": "blk-58kx0n",
+      "text": "[ ] Vertex Shader"
+    },
+    {
+      "id": "01M0G9QPMWJJ1WM8EAE7889BQ1",
+      "line": 4,
+      "indent": 1,
+      "content_hash": "sha256:9b71d5431597720b716c2da9fef12cb267f413a13736cedba2b07087525a4e31",
+      "ref_handle": "blk-889bq1",
+      "text": "[ ] Explicit flushing on mem allocation"
+    },
+    {
+      "id": "01M0G9QPMWNFGYW7Y7Z3YY643H",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:f30846f52bd51950e963b5af671b4aead5eba9e1df6b9e27028cf86b0409d22a",
+      "ref_handle": "blk-yy643h",
+      "text": "[ ] Render SubPass fix"
+    },
+    {
+      "id": "01M0G9QPMWBQXWV3YEX4N4FXH8",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:da90749624da7536d21b41a5ca02efd4ab082bf9b1ff45c600fea0095a9728cd",
+      "ref_handle": "blk-n4fxh8",
+      "text": "[x] Pipeline creation"
+    },
+    {
+      "id": "01M0G9QPMW0TQJ34MK4CZHWN65",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:8613c9f3c5c4313a07413cb3a9cce2e86aa3fc4c1da23e7b8aa30b819dd3289e",
+      "ref_handle": "blk-zhwn65",
+      "text": "[x] Semaphores and fences"
+    },
+    {
+      "id": "01M0G9QPMWKB8PNAJDZTJ2ZMXF",
+      "line": 8,
+      "indent": 0,
+      "content_hash": "sha256:9a964f0198b3f3e68b7b1123ade3ec7cea74fbad50dca9efb69da8ec9271b0c6",
+      "ref_handle": "blk-j2zmxf",
+      "text": "[x] Queues"
+    },
+    {
+      "id": "01M0G9QPMW42WY9RZ2C2GT3H3J",
+      "line": 9,
+      "indent": 0,
+      "content_hash": "sha256:fa1754f50992dc6ce9d2c73426a261897830d9707b9ac35dafa698ddd9748ba9",
+      "ref_handle": "blk-gt3h3j",
+      "text": "[ ] Fragment Shader"
+    },
+    {
+      "id": "01M0G9QPMW224GZS96SRBG386B",
+      "line": 10,
+      "indent": 0,
+      "content_hash": "sha256:f988c7d7e92a296c5d31d446e07a8e54f1c2c111600b681abe08100438bbea4f",
+      "ref_handle": "blk-bg386b",
+      "text": "[ ] Rasterization"
+    },
+    {
+      "id": "01M0G9QPMWN3YYCMM3PD6EXPVJ",
+      "line": 11,
+      "indent": 0,
+      "content_hash": "sha256:10810c325ca628a9071ce432e390713273a9ef5644939af149b7674897e28fdc",
+      "ref_handle": "blk-6expvj",
+      "text": "[x] Recreate Swap chain"
+    },
+    {
+      "id": "01M0G9QPMW77CDTHN8JDEF6SP1",
+      "line": 12,
+      "indent": 0,
+      "content_hash": "sha256:f8322d8bca3eba4591186c99e6e5c792ffc4dca1d980466b80f7d152fe133bd3",
+      "ref_handle": "blk-ef6sp1",
+      "text": "[x] Add shader modules cleanup"
+    },
+    {
+      "id": "01M0G9QPMWTTYQ0SS0YF6N8YKD",
+      "line": 13,
+      "indent": 0,
+      "content_hash": "sha256:ac595f2b3f7c7f5030053f9a8076b232a21c4871cc6100f06bc990251bbc1cf4",
+      "ref_handle": "blk-6n8ykd",
+      "text": "[x] Presentation"
+    },
+    {
+      "id": "01M0G9QPMWVXMPE0ENY0FB1FMZ",
+      "line": 14,
+      "indent": 0,
+      "content_hash": "sha256:3971794bf68cc1e25e87e6eb0fc6d50ccb2fb537d0589d503594dd10db9e2d28",
+      "ref_handle": "blk-fb1fmz",
+      "text": "[x] Fix core dumping on Command Buffer"
+    },
+    {
+      "id": "01M0G9QPMWSXM8KKAM0K5QWBSF",
+      "line": 15,
+      "indent": 0,
+      "content_hash": "sha256:ba2699965d2095881bddae2142116c453869a618ac0ff04235e76dd51785d606",
+      "ref_handle": "blk-5qwbsf",
+      "text": "[x] Semaphores and Fences on current frame"
+    },
+    {
+      "id": "01M0G9QPMWC46TJAK09DBZ6STV",
+      "line": 16,
+      "indent": 0,
+      "content_hash": "sha256:6e16acf9a62abb2d38f85e3fd2ce1b1e5327f11b9f4381178dd785e9d549f9ed",
+      "ref_handle": "blk-bz6stv",
+      "text": "[x] Shader modules"
+    },
+    {
+      "id": "01M0G9QPMW1D6HE31TF29A64GD",
+      "line": 17,
+      "indent": 0,
+      "content_hash": "sha256:d8760dfd14fe38c865ac3e3370db677a60cbd26637568ddf6eb53367585236b9",
+      "ref_handle": "blk-9a64gd",
+      "text": "[x] Swap Chain"
+    },
+    {
+      "id": "01M0G9QPMWQ3QQF9CDD5ZSCZTQ",
+      "line": 18,
+      "indent": 0,
+      "content_hash": "sha256:fbe3e6093b9c63f13161b1c6cb92aa15f1ce49d633b1b3933cba0021265f7aed",
+      "ref_handle": "blk-zscztq",
+      "text": "[x] Fix Message Callback"
+    },
+    {
+      "id": "01M0G9QPMW99NNAXPS38D7NBPF",
+      "line": 19,
+      "indent": 0,
+      "content_hash": "sha256:e8fef10b49d107aee4d42ca26ec91687cea1acd8ffd43ccc50bacbb6b910a7cf",
+      "ref_handle": "blk-d7nbpf",
+      "text": "[x] Validation Layers (to decide)"
+    },
+    {
+      "id": "01M0G9QPMWJT5Q6W8GWXKYMDKC",
+      "line": 20,
+      "indent": 0,
+      "content_hash": "sha256:cad3e8e4c34d1915ddc7656464657247545a4f67a7bbe7a3129a7e88e5cc6591",
+      "ref_handle": "blk-kymdkc",
+      "text": "[x] fix swap chain details core dumping"
+    },
+    {
+      "id": "01M0G9QPMWXN6M8KNM2K6CTDCA",
+      "line": 21,
+      "indent": 0,
+      "content_hash": "sha256:e01f145d052aafb4199cd9435a1bd09eb202b3e9dea0071ed8f6ab934a7047da",
+      "ref_handle": "blk-6ctdca",
+      "text": "[x] Logical devices and queues"
+    },
+    {
+      "id": "01M0G9QPMW0ZTPWY8KJ17QJJET",
+      "line": 22,
+      "indent": 0,
+      "content_hash": "sha256:58e94bcd10e77e1f53fd2c2129d35cc894c538a614e1fa73590dc8a316528e43",
+      "ref_handle": "blk-7qjjet",
+      "text": "[x] Extension support"
+    },
+    {
+      "id": "01M0G9QPMWQQWQ0YP9GF45S0AT",
+      "line": 23,
+      "indent": 0,
+      "content_hash": "sha256:f311cdfee7433e9cc9232f5a66b8ad4194587fb4890892c32cd649c24798a4a6",
+      "ref_handle": "blk-45s0at",
+      "text": "[x] Fix builder for glfw"
+    },
+    {
+      "id": "01M0G9QPMWJ3P4GYXZRTSS0JNH",
+      "line": 24,
+      "indent": 0,
+      "content_hash": "sha256:0cf582300c155354595fcf11dfeccae84d9611346575ce8e7a03fa55efa80f4b",
+      "ref_handle": "blk-ss0jnh",
+      "text": "[x] Cmake for Linux later on"
+    },
+    {
+      "id": "01M0G9QPMWHYFB2151F0J53JMD",
+      "line": 25,
+      "indent": 0,
+      "content_hash": "sha256:19fb6568470426afd6535a5e7de99099b1018576913ef8389e36aa8254159e48",
+      "ref_handle": "blk-j53jmd",
+      "text": "[ ] cmake for windows"
+    },
+    {
+      "id": "01M0G9QPMWFVJMZM9JNKZZMWCD",
+      "line": 26,
+      "indent": 0,
+      "content_hash": "sha256:99d7c56206e46e4fc81408d380367426b4fabf1f9bdbbedf69c14d6efe4c6b2e",
+      "ref_handle": "blk-zzmwcd",
+      "text": "[ ]  3D object parsing"
+    },
+    {
+      "id": "01M0G9QPMWCNBENWJAHHX1894K",
+      "line": 27,
+      "indent": 0,
+      "content_hash": "sha256:a1613229f3af79dda2749f3131453774bbfeeddf2c0a6cc186afa375b7f6c46d",
+      "ref_handle": "blk-x1894k",
+      "text": "[ ] z-buffer"
+    },
+    {
+      "id": "01M0G9QPMWJ2FVC8ANRZM9JXYQ",
+      "line": 28,
+      "indent": 0,
+      "content_hash": "sha256:9f1947864a363b200d5423b024443ab2e2a25316a9558d1b82d102d110fb9de6",
+      "ref_handle": "blk-m9jxyq",
+      "text": "[ ] camera"
+    },
+    {
+      "id": "01M0G9QPMWE04M8FNN68R5T58V",
+      "line": 29,
+      "indent": 0,
+      "content_hash": "sha256:30ff1579f454cc7c767c1791ba3a2d256a0f22542567598f0ad70ecf412db952",
+      "ref_handle": "blk-r5t58v",
+      "text": "[ ] view transform"
+    },
+    {
+      "id": "01M0G9QPMW8Q7HJD1V89Y2QQ32",
+      "line": 30,
+      "indent": 0,
+      "content_hash": "sha256:01c876b5fa31154ba4645b84641e6a71edcb36a2af206b4fbc5ffe7576c6d0f1",
+      "ref_handle": "blk-y2qq32",
+      "text": "[ ] world generation (pairling noise problably) into a 3d mash"
+    },
+    {
+      "id": "01M0G9QPMWK6R1V86DAN0FQ44D",
+      "line": 31,
+      "indent": 0,
+      "content_hash": "sha256:0106e8f99769fd08849419baf6573754d350bd9e4359e94e234d80a8eafaf0ec",
+      "ref_handle": "blk-0fq44d",
+      "text": "[[Audio Handler]]"
+    }
+  ],
+  "pipeline_version": 4
+}

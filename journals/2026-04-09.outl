@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "page_id": "7EXVXTYMWSDCCJT73JYR8CJ8HX",
+  "last_synced_hash": "sha256:49117b299157a0e659f41ce5a1bd138c7489900fc66d47218c12d77bba5f16f4",
+  "last_synced_at": "2026-08-20T16:17:52.139710756-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QEWBK2XE026GCZQ1X3ZJ",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:46e14cc92bb6215ee80798bb2b72a29f8fd8185cbcf60c69a463b8029e569fcf",
+      "ref_handle": "blk-q1x3zj",
+      "text": "# Hoje"
+    },
+    {
+      "id": "01M0G9QEWBKF68JC7FDP8CDD7X",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:4a6e3afa438f6a2825cc87a305099a0ac1ad9f5df5862481e14c84aef340d583",
+      "ref_handle": "blk-8cdd7x",
+      "text": "[X] melhorar NerfModel Wrapper"
+    },
+    {
+      "id": "01M0G9QEWB5WRJPN6MVHJEZRJT",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:7cd32a4e075195d498bd8e7464f0dc91c796697e2008ce2c491b00e497b10e69",
+      "ref_handle": "blk-jezrjt",
+      "text": "[X] GNT - Is Attention All that Nerf Needs"
+    },
+    {
+      "id": "01M0G9QEWBTP60FEAN0TCXGN6R",
+      "line": 4,
+      "indent": 1,
+      "content_hash": "sha256:4a239ef8da037ecbea3e93d7b5b661e15864d69258efa279fd8b775a9afd6f0f",
+      "ref_handle": "blk-cxgn6r",
+      "text": "entender os v/r transformers a fundo?"
+    },
+    {
+      "id": "01M0G9QEWBW4V8ZNFBJW4EJSNS",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:2c80b14e494f7d746314a76c5878b6f3d14d98f1efabead3d7850f5f83e752e2",
+      "ref_handle": "blk-4ejsns",
+      "text": "[X] slide 5 - RNA"
+    }
+  ],
+  "pipeline_version": 4
+}

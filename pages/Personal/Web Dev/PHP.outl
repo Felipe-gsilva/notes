@@ -1,0 +1,449 @@
+{
+  "version": 2,
+  "page_id": "39QNMH47WSFZ1YY63EC60EFWC1",
+  "last_synced_hash": "sha256:a6ca0f95144d148661f4b42ad3ccfc3135b5079114b0615e8374cea459d22063",
+  "last_synced_at": "2026-08-20T16:18:40.467206112-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9RY2JD45XSYD6A3ZFKGV6",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:85250d0dd1d9e09f39c567ef1df085626b200138531d4126435b6f25b5963a79",
+      "ref_handle": "blk-zfkgv6",
+      "text": "Server side programming lang"
+    },
+    {
+      "id": "01M0G9RY2JNX8ZNJ3JBTQWDRP1",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:76eec9680d4379e3dc0dfc8f3a8be9a29645b641dc4ee1f19e15e398fb8838e3",
+      "ref_handle": "blk-qwdrp1",
+      "text": "Hypertext Preprocessor"
+    },
+    {
+      "id": "01M0G9RY2JN2J5B9DV5RNZZAQX",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:10867e7991276d9826a783a88327a107041fabce3e1681c0bd7800ed26a3fcb4",
+      "ref_handle": "blk-nzzaqx",
+      "text": "Prefer using Docker."
+    },
+    {
+      "id": "01M0G9RY2JSPY20F0CDPGBTQ6M",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:bca150c716a8390fe15193332eb4b9c42cd0e052e7fb8653d07334d03d91f004",
+      "ref_handle": "blk-gbtq6m",
+      "text": "PHP uses tags for starting a script `<?php [...] ?>`"
+    },
+    {
+      "id": "01M0G9RY2J2F5GRQVJZQ10J9HC",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:f194409fbdca7d2cad581f94ea93de70e36ee62e64081929911544102cd17d7f",
+      "ref_handle": "blk-10j9hc",
+      "text": "## Basic functions"
+    },
+    {
+      "id": "01M0G9RY2JF3XAQGXRVEMTVBM1",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:f2071b3800f78dc75ffae73de0fcb1790613c0fba3888e73ab202ab3b577ccc0",
+      "ref_handle": "blk-mtvbm1",
+      "text": "`echo()` → return a specified value to the terminal."
+    },
+    {
+      "id": "01M0G9RY2JY5X3EMYYFCJG2BAP",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:60bc13af73d87d6ab4a3507c47b7c4fe33038790b2d372ef2ed1d3a75b21d168",
+      "ref_handle": "blk-jg2bap",
+      "text": "`var_dump()` → return the type and some specific info about a var send in its argument."
+    },
+    {
+      "id": "01M0G9RY2JG4NBSHE7QNAP0MPG",
+      "line": 8,
+      "indent": 0,
+      "content_hash": "sha256:854a9c965e1ac3f51c4554f522b9e34f46e8df7ce9372aae7ca7fe0d075f7423",
+      "ref_handle": "blk-ap0mpg",
+      "text": "`//` or `/** [..] */`→ comments"
+    },
+    {
+      "id": "01M0G9RY2J162PPX5155BZQV10",
+      "line": 9,
+      "indent": 0,
+      "content_hash": "sha256:7c101220544bb75f8f36e2dc3c2986f57ec12398a8d7231c97bfb5c9f50094ca",
+      "ref_handle": "blk-bzqv10",
+      "text": "## Data types"
+    },
+    {
+      "id": "01M0G9RY2J1J71MQ8FY5CPS00M",
+      "line": 10,
+      "indent": 0,
+      "content_hash": "sha256:1e9cad8d4d3e5a848073ff167bab0cbbb0cb79fe9e6ff554d88e2c53e684af85",
+      "ref_handle": "blk-cps00m",
+      "text": "`bool` → boolean"
+    },
+    {
+      "id": "01M0G9RY2J235W0HZK0DDGKYBD",
+      "line": 11,
+      "indent": 0,
+      "content_hash": "sha256:d1ef6b32e2bbb9e5a6ef484e88fca2fcb866149fc4e6a3a53e11f19145a8a4f4",
+      "ref_handle": "blk-dgkybd",
+      "text": "`int` → integer"
+    },
+    {
+      "id": "01M0G9RY2JBP41RN72DQD36VRT",
+      "line": 12,
+      "indent": 0,
+      "content_hash": "sha256:933e9cca35d6e43e5685b1dbf8d9a8eb9c0f130cc964aa140915d2c3ee392df9",
+      "ref_handle": "blk-d36vrt",
+      "text": "`$[var_name] = value` - floats"
+    },
+    {
+      "id": "01M0G9RY2JMCJCKFG26CPMRE49",
+      "line": 13,
+      "indent": 0,
+      "content_hash": "sha256:aec9e6aff0f97cd50c5e8fb018df2174f1f182477ec449d2185a973fd50ffbef",
+      "ref_handle": "blk-pmre49",
+      "text": "`$[var_name] = ' '` or `\" \"` - strings"
+    },
+    {
+      "id": "01M0G9RY2JST099NB8EP4MSD6P",
+      "line": 14,
+      "indent": 0,
+      "content_hash": "sha256:5800d38b4fc253817e35d2353aa7c5baccf4c42a303bda513391043aac0e46d3",
+      "ref_handle": "blk-4msd6p",
+      "text": "`arrays` →"
+    },
+    {
+      "id": "01M0G9RY2JWYAY9439SK68NBM8",
+      "line": 15,
+      "indent": 0,
+      "content_hash": "sha256:aa60f64c22738558af04695c0dcad6f89af71e8779fccfbf13076812debe04d1",
+      "ref_handle": "blk-68nbm8",
+      "text": "```PHP"
+    },
+    {
+      "id": "01M0G9RY2JZ246FBQ9W46N0V3J",
+      "line": 16,
+      "indent": 0,
+      "content_hash": "sha256:d1753ba3bd9d64baa1641b70d8da4aab215d0529856f9031619f995f37c2f165",
+      "ref_handle": "blk-6n0v3j",
+      "text": "$array1 = array("
+    },
+    {
+      "id": "01M0G9RY2JC289XEKHW3DZ1SV7",
+      "line": 17,
+      "indent": 0,
+      "content_hash": "sha256:a269d79525b96a8539c9cbb3370d9751b72a72173cf1c9b42c228f276970cb0d",
+      "ref_handle": "blk-dz1sv7",
+      "text": "\"key1\" => \"value1\","
+    },
+    {
+      "id": "01M0G9RY2J4WSFTCHHT9WSB53T",
+      "line": 18,
+      "indent": 0,
+      "content_hash": "sha256:e625c9f33c10ccbdd252b70fe729f5fd22483c122c8adbde87080c457f554896",
+      "ref_handle": "blk-wsb53t",
+      "text": "\"k2\" => \"v2\""
+    },
+    {
+      "id": "01M0G9RY2J1R99H4S6V33K754N",
+      "line": 19,
+      "indent": 0,
+      "content_hash": "sha256:9d8b2b5670d18da8a99f6152f7ee75558019cd106d8032bf7c1117bd37273e37",
+      "ref_handle": "blk-3k754n",
+      "text": ");"
+    },
+    {
+      "id": "01M0G9RY2JV9JR8C7EQCP4XKMF",
+      "line": 20,
+      "indent": 0,
+      "content_hash": "sha256:3ebf16fa66830f393cf38453c96063982b25ae723c376895fb02fb9f236edb26",
+      "ref_handle": "blk-p4xkmf",
+      "text": "//or"
+    },
+    {
+      "id": "01M0G9RY2J5ERSK3MXFVXVG9NB",
+      "line": 21,
+      "indent": 0,
+      "content_hash": "sha256:e0eaa309d7faf6183264be314bc2a0584e1653b5769d4785a37499cf92c18411",
+      "ref_handle": "blk-xvg9nb",
+      "text": "$array2 = ["
+    },
+    {
+      "id": "01M0G9RY2JMD3M7B3K7Y0DHZWZ",
+      "line": 22,
+      "indent": 0,
+      "content_hash": "sha256:b768c2e4fcb8f8d7f9804d69052394ccb541def0febb6c7acb1ca5198c20aecc",
+      "ref_handle": "blk-0dhzwz",
+      "text": "\"value1\","
+    },
+    {
+      "id": "01M0G9RY2JJDMA7TJTVC90WSQR",
+      "line": 23,
+      "indent": 0,
+      "content_hash": "sha256:576506f61f53440f1edd95d28631a17e26f50d613eef2943a030220b66c5f5b3",
+      "ref_handle": "blk-90wsqr",
+      "text": "\"v2\""
+    },
+    {
+      "id": "01M0G9RY2JEZWPW1HQRKJDEH5V",
+      "line": 24,
+      "indent": 0,
+      "content_hash": "sha256:358ba3f2223784d800ea2ba8df77338f4c08cb3b2c280ec8b3020925fa2bc4ef",
+      "ref_handle": "blk-jdeh5v",
+      "text": "];"
+    },
+    {
+      "id": "01M0G9RY2JY7YTPVFQ1DV1QJF4",
+      "line": 25,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-v1qjf4",
+      "text": "```"
+    },
+    {
+      "id": "01M0G9RY2JHM1VBMHWY7KQ8M2H",
+      "line": 26,
+      "indent": 0,
+      "content_hash": "sha256:6e16934b432d20c4bcbb15e060fb97a2306f1a7be3727ade7a0beda0e9d3d47f",
+      "ref_handle": "blk-kq8m2h",
+      "text": "### Using var in echoes"
+    },
+    {
+      "id": "01M0G9RY2JD8TNH7FFX2YMXTJC",
+      "line": 27,
+      "indent": 0,
+      "content_hash": "sha256:aa60f64c22738558af04695c0dcad6f89af71e8779fccfbf13076812debe04d1",
+      "ref_handle": "blk-ymxtjc",
+      "text": "```PHP"
+    },
+    {
+      "id": "01M0G9RY2J9BSN12WJSA52395S",
+      "line": 28,
+      "indent": 0,
+      "content_hash": "sha256:fe5bcb54c56e0b9f456a060364dd28b2248f3a0e21c168d4ce9d009b73e83e3c",
+      "ref_handle": "blk-52395s",
+      "text": "<?php"
+    },
+    {
+      "id": "01M0G9RY2JN390K1E42P09B1AJ",
+      "line": 29,
+      "indent": 0,
+      "content_hash": "sha256:276943fa29ff2f4df8b40d085e6ee75ce9e743b70318d8bcc1f80aa6c2dd9a80",
+      "ref_handle": "blk-09b1aj",
+      "text": "$idade = '18 Anos';"
+    },
+    {
+      "id": "01M0G9RY2JHPKKYMN5B3P0TS0T",
+      "line": 30,
+      "indent": 0,
+      "content_hash": "sha256:c256752da8ef81def4fc220690243b8f939914d03ea8508c6a14defd7fff8578",
+      "ref_handle": "blk-p0ts0t",
+      "text": "echo \"Me chamo João e tenho \" .$idade . \"\\n\";"
+    },
+    {
+      "id": "01M0G9RY2JW461BEB8GSN9424M",
+      "line": 31,
+      "indent": 0,
+      "content_hash": "sha256:1bce5c699b4d3d3329e1640a5c9cc378792c2d679e08de571a01bd839272b032",
+      "ref_handle": "blk-n9424m",
+      "text": "$idade = '19 Anos';"
+    },
+    {
+      "id": "01M0G9RY2JW3BZRGEFDDFHQ7VR",
+      "line": 32,
+      "indent": 0,
+      "content_hash": "sha256:6a4616d8d9b9faf1b4584bc55644a26876e67b579b12197ae97ab24b52273b08",
+      "ref_handle": "blk-fhq7vr",
+      "text": "echo \"Porém fiz aniversário e agora tenho \" .$idade;"
+    },
+    {
+      "id": "01M0G9RY2JK4VBA3319V0300A7",
+      "line": 33,
+      "indent": 0,
+      "content_hash": "sha256:1a5cee339848aa3e9846b6f6a1607aa532b43a5161319bbdeb6c5bdbb529784e",
+      "ref_handle": "blk-0300a7",
+      "text": "// Answer"
+    },
+    {
+      "id": "01M0G9RY2J4RVNVDFJJ7AAP788",
+      "line": 34,
+      "indent": 0,
+      "content_hash": "sha256:4b1daa2577bb8338907308239de3cba91861bbb6d4f13cf7150a0286a3f8a559",
+      "ref_handle": "blk-aap788",
+      "text": "// Me chamo João e tenho 18 Anos"
+    },
+    {
+      "id": "01M0G9RY2J5WC4Z00GSH9T3HT9",
+      "line": 35,
+      "indent": 0,
+      "content_hash": "sha256:e607d25c2f9e62c7c2906a2206a4a55c7a375d49349623247eb1761d279c700c",
+      "ref_handle": "blk-9t3ht9",
+      "text": "// Porém fiz aniversário e agora tenho 19 Anos"
+    },
+    {
+      "id": "01M0G9RY2JD27Y5152FG8FA3S3",
+      "line": 36,
+      "indent": 0,
+      "content_hash": "sha256:e4d80e521456ad4fb6c34ef4f11673116217852a151dca76fe9c33675e82a375",
+      "ref_handle": "blk-8fa3s3",
+      "text": "?>"
+    },
+    {
+      "id": "01M0G9RY2J3QQ1JXS6589H45ET",
+      "line": 37,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-9h45et",
+      "text": "```"
+    },
+    {
+      "id": "01M0G9RY2JRZDG5QZWKVGGF4ES",
+      "line": 38,
+      "indent": 0,
+      "content_hash": "sha256:e844bf426fa30926face0ef155f4d8ad3693344ff2bc0913b09c79844bf3264c",
+      "ref_handle": "blk-ggf4es",
+      "text": "## Operators"
+    },
+    {
+      "id": "01M0G9RY2J1CKKZ4QB7QMXYDWC",
+      "line": 39,
+      "indent": 0,
+      "content_hash": "sha256:492526d73f26b5ea44dae2fc6a221c3570c72a1db0874f3d75c2d8a42fa6e67d",
+      "ref_handle": "blk-mxydwc",
+      "text": "Addition `+`"
+    },
+    {
+      "id": "01M0G9RY2J3TFN3KM25PTMKWSK",
+      "line": 40,
+      "indent": 0,
+      "content_hash": "sha256:3547e35d30034a7b19ca4e8e10e3029020fabbd6a6dadbbacbb86d94301047ee",
+      "ref_handle": "blk-tmkwsk",
+      "text": "Subtraction"
+    },
+    {
+      "id": "01M0G9RY2JC4XHJTXZA1TZSPFF",
+      "line": 41,
+      "indent": 0,
+      "content_hash": "sha256:48849f52c79abc16899163af1dd366899cb95a8e99c7354025a9c29035ec59e8",
+      "ref_handle": "blk-tzspff",
+      "text": "Multiplication"
+    },
+    {
+      "id": "01M0G9RY2JRYPKFVK4TY7WZN00",
+      "line": 42,
+      "indent": 0,
+      "content_hash": "sha256:11aeb5da67435f49ed9f96ccb8c29c03a6950a3b6e374eb5dc357d05f0ae0b92",
+      "ref_handle": "blk-7wzn00",
+      "text": "Division `/`"
+    },
+    {
+      "id": "01M0G9RY2J4H2TQ2K426108AT6",
+      "line": 43,
+      "indent": 0,
+      "content_hash": "sha256:9e69c396a7a4991913faeaa098a385ee28cbab9cb31b1ab6c6c6afdcd2357098",
+      "ref_handle": "blk-108at6",
+      "text": "Modulus (remainder of a division) `%`"
+    },
+    {
+      "id": "01M0G9RY2J95X7PSYAPYRN82F8",
+      "line": 44,
+      "indent": 0,
+      "content_hash": "sha256:663e39cb1f03e608decd6cce78e54f0e66bc771e3b1a6b6bde9a90f9280c9adf",
+      "ref_handle": "blk-rn82f8",
+      "text": "exponential `**`"
+    },
+    {
+      "id": "01M0G9RY2J4C2YQ3SVCK4Z7GSE",
+      "line": 45,
+      "indent": 0,
+      "content_hash": "sha256:25524c3d833f57f06abb06d0eeee2b9e5dbce78bbd5817db714a1ad57f221c39",
+      "ref_handle": "blk-4z7gse",
+      "text": "## BIT WISE OPS"
+    },
+    {
+      "id": "01M0G9RY2JXZR6B8FWQAK464TF",
+      "line": 46,
+      "indent": 0,
+      "content_hash": "sha256:d506533ca22c1e21533a5056db01915e323adbcb90ae0eb6e563c9b17f65ae7c",
+      "ref_handle": "blk-k464tf",
+      "text": "AND `&`"
+    },
+    {
+      "id": "01M0G9RY2J08XB7KX2GRKGF3KC",
+      "line": 47,
+      "indent": 0,
+      "content_hash": "sha256:0519c95e56c0e21090ad4ecc3df40cf691a8ff3d5d2181e39674eb1045716059",
+      "ref_handle": "blk-kgf3kc",
+      "text": "OR `|`"
+    },
+    {
+      "id": "01M0G9RY2JBYRREES6QBG7F4Y0",
+      "line": 48,
+      "indent": 0,
+      "content_hash": "sha256:8374557739a10b77dd39abe52ca5bdb8df05b54e420b77fc96b11c143fb8644e",
+      "ref_handle": "blk-g7f4y0",
+      "text": "Exclusive OR `^`"
+    },
+    {
+      "id": "01M0G9RY2JZV4PNPRFB9KE5W60",
+      "line": 49,
+      "indent": 0,
+      "content_hash": "sha256:796968cc4ad7912106062b62fde92c326366e7cdd04107b6788d22ba431c47c3",
+      "ref_handle": "blk-ke5w60",
+      "text": "NOT `~`"
+    },
+    {
+      "id": "01M0G9RY2J4WZN1X7J2494DKG3",
+      "line": 50,
+      "indent": 0,
+      "content_hash": "sha256:2ec0aa6bd3c13e2d70c30040e6e815af4b417a3acee1f14188c13860993e91ad",
+      "ref_handle": "blk-94dkg3",
+      "text": "Shift left `<<`"
+    },
+    {
+      "id": "01M0G9RY2J81G6JRZSTZYR5MAS",
+      "line": 51,
+      "indent": 0,
+      "content_hash": "sha256:424fc1d6304cbaaab71f53fb295a4e57667adb3bdcb8afb63cf79700d3c69475",
+      "ref_handle": "blk-yr5mas",
+      "text": "Shift right `>>`"
+    },
+    {
+      "id": "01M0G9RY2J75TZ8A232YFB6FA2",
+      "line": 52,
+      "indent": 0,
+      "content_hash": "sha256:aa7f4bbce08be4a3e6927e16c9158224565dccddc57410a7e6e529e229ecf439",
+      "ref_handle": "blk-fb6fa2",
+      "text": "## COMPARISONS"
+    },
+    {
+      "id": "01M0G9RY2J45R5BHRD29AGMN9C",
+      "line": 53,
+      "indent": 0,
+      "content_hash": "sha256:f295cad797aefd0664bfe9e35d3efae6c7ab7135b84ca030427e7378b2b6376b",
+      "ref_handle": "blk-agmn9c",
+      "text": "`==` `!=` convert the values, such as `'123'` == `123`"
+    },
+    {
+      "id": "01M0G9RY2JV8NBP5GR8QA8QZ09",
+      "line": 54,
+      "indent": 0,
+      "content_hash": "sha256:0462132b58e8f510c64f8997efabeaa1ecc5af5c0dfcf770944c069a30835385",
+      "ref_handle": "blk-a8qz09",
+      "text": "`===` `!==` (verify types)"
+    },
+    {
+      "id": "01M0G9RY2JCSPKJZNCQM6HDWHQ",
+      "line": 55,
+      "indent": 0,
+      "content_hash": "sha256:eef1e5476392d6d016009d2337c82be8c1dcf65f6151d4f9209acce1a8b97349",
+      "ref_handle": "blk-6hdwhq",
+      "text": "`<` `>` `<=` `>=`"
+    }
+  ],
+  "pipeline_version": 4
+}

@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "page_id": "7ANMPA26KCVW95W353TK8EK6Z9",
+  "last_synced_hash": "sha256:064adacf1c65aa2cecc1c56fc4e3fa1fa7042ca9756d500d43e878a115d12284",
+  "last_synced_at": "2026-08-20T16:18:02.183782330-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QRP744EPE4R9NJT5Z5GY",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:c041ebec533907ab72dd6995c71c94058cff25926ad7e15cbe63a02731ac6a9c",
+      "ref_handle": "blk-t5z5gy",
+      "text": "[[Rust]]"
+    },
+    {
+      "id": "01M0G9QRP7H8W05KSKVHK11Y2Z",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:a381a533b4408fd3437a1261a3e624f81b2db0d7c12d23de7a7414ccd6756508",
+      "ref_handle": "blk-k11y2z",
+      "text": "[[Pipeline]]"
+    },
+    {
+      "id": "01M0G9QRP77TK6HXZ0RDJ19622",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:0b0dd50502eb83326d919a7774fd866e2d608befd49227a20142fa81e333099b",
+      "ref_handle": "blk-j19622",
+      "text": "[[Tests]]"
+    }
+  ],
+  "pipeline_version": 4
+}

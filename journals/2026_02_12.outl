@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "page_id": "5XYEX1089WCGQC9G7MHYS7Y6VQ",
+  "last_synced_hash": "sha256:2d1d522a95b8616f46c289708aa9f1ee7dfd68a3c692ba52202e4c4f981f4244",
+  "last_synced_at": "2026-08-20T16:17:47.721592171-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QAJ9EG7JFXX78SCMJW9Y",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:9274d22546671f2e113c2c3967a5a290700a328df9167e6e651091873c7b71a8",
+      "ref_handle": "blk-cmjw9y",
+      "text": "fix codingpedia"
+    },
+    {
+      "id": "01M0G9QAJ9M56QC73EV6K1QG7P",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:9102b9e764da5051139ffffded6dd60ab956f7120df56d6cd57e3990696941a3",
+      "ref_handle": "blk-k1qg7p",
+      "text": "fix errors of vinellu"
+    }
+  ],
+  "pipeline_version": 4
+}

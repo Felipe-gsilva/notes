@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "page_id": "2C4C7WJXNJJWN3DSEK54Y2NCGY",
+  "last_synced_hash": "sha256:82c7e1c48b20246effe142030087796adb7d193b522ea1fd042de70c3c119450",
+  "last_synced_at": "2026-08-20T16:17:52.597676785-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QFANHE31EW918SE4QR0K",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:20becc71e52961dc4828823329ab4f8d8878f1c3d6569bb1a8105ba8aa8bf584",
+      "ref_handle": "blk-e4qr0k",
+      "text": "# heuristicas pra cabeça"
+    },
+    {
+      "id": "01M0G9QFAND1Y4PJ1HDQBPP5AV",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:2ad13e6dcbd56a803f86e17423a8db984f140dd93e57dd21a20607fdb8c38220",
+      "ref_handle": "blk-bpp5av",
+      "text": "desacoplar features intensivas via Feature Flags: sempre que mexer em lógicas core (como feed e busca), proteja as novas features com Feature Flags. Isso permite colocar o código em produção silenciosamente, ligar/desligar de forma isolada, e testar na infra real sem impacto ao usuário final."
+    },
+    {
+      "id": "01M0G9QFAN8ZGZ0SP2E8PFG54H",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:1e68327e5afe810f55f7e5aaf3e0b8fe14b2cc1fffca0bd2c03b9c3dd03ddf6b",
+      "ref_handle": "blk-pfg54h",
+      "text": "ao indexar tabelas grandes em produção, sempre use CREATE INDEX CONCURRENTLY e rode isso fora de transações (no Supabase, adicionando -- supabase: no-transaction). O banco construirá o índice em background sem travar a aplicação."
+    },
+    {
+      "id": "01M0G9QFANDBA0BR0N1WJ052V5",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:d5191b3f5b8c0ced6c4b639e92f11ffa9f2442206fa5276cec025137331b96c9",
+      "ref_handle": "blk-j052v5",
+      "text": "migrations não são apenas o \"resultado final\", mas um passo a passo. Garanta que cada migration intermediária deixe o banco num estado totalmente funcional. Se perceber que fez uma gambiarra numa migration recente que ainda não foi pra produção, consolide-a logo ou apague-a em vez de criar uma nova migration de \"correção\"."
+    }
+  ],
+  "pipeline_version": 4
+}

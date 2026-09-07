@@ -1,0 +1,153 @@
+{
+  "version": 2,
+  "page_id": "68K5W8J8BGNEH3YA0HSMWNFDTC",
+  "last_synced_hash": "sha256:473630e04f1b25ab3bc95582cb795020230b3fa3520aba065f5a81ea7648dfbd",
+  "last_synced_at": "2026-08-20T16:18:16.040733093-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9R6785FXXJ8H28FJ5ZT92",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:064aeeb9cc866f0c0094ec10121c55cbefa9ece3cb7655a906293c1134afbd04",
+      "ref_handle": "blk-j5zt92",
+      "text": "bootstrap → contains `app.php` and also `cached` info."
+    },
+    {
+      "id": "01M0G9R678WM5GK8G4B9DHYHJ4",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:06fc46270cb90fcb16ba89ad290416b1637ddffe617c083e154d713a2b232475",
+      "ref_handle": "blk-dhyhj4",
+      "text": "config → all configuration files"
+    },
+    {
+      "id": "01M0G9R6787DXAR1F714G6FXYP",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:b84498e98bebd93532e365172306e63a5b3e416431c16dd7a93e3da443f02320",
+      "ref_handle": "blk-g6fxyp",
+      "text": "database → contains your database migrations, model factories and seeds."
+    },
+    {
+      "id": "01M0G9R678M6DKABRBJG7K65S5",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:26ffd87d837ca54cb6972dc88ae1bbbbacd64a0306adcfa6c131c1822482aeff",
+      "ref_handle": "blk-7k65s5",
+      "text": "public → contains the entry point for all requests, on `index.php` file."
+    },
+    {
+      "id": "01M0G9R678DC4WCP45H64A1C3D",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:5813d539a172f2bfb7ee52c5f398438b98f7c127ec8c746b127a66b3730bd2d5",
+      "ref_handle": "blk-4a1c3d",
+      "text": "resources → CSS and JS uncompiled assets."
+    },
+    {
+      "id": "01M0G9R678FPQ1ACMYXFSM056C",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:9239c0d2bd4cec32f8ca96f0f6ab2ad3f5f764ac4012763b2f9ca8c75839736c",
+      "ref_handle": "blk-sm056c",
+      "text": "routes → Several route files are included with Laravel: `web.php`, `api.php`, `console.php`, and `channels.php`."
+    },
+    {
+      "id": "01M0G9R6783BBZ0EG5HKNB1238",
+      "line": 7,
+      "indent": 1,
+      "content_hash": "sha256:a56b6724d25333b323660ff9f5fb0b32ec3df62f3b7a4b7f7a9d5350dd5148d3",
+      "ref_handle": "blk-nb1238",
+      "text": "The `web.php` file contains routes that the `RouteServiceProvider` places in the `web` middleware group."
+    },
+    {
+      "id": "01M0G9R678JWZXDNKM81K5MZMN",
+      "line": 8,
+      "indent": 1,
+      "content_hash": "sha256:9a07bbad7364017906d1c36fd77244eed48daff63b921c736cc5c6cf1f57a622",
+      "ref_handle": "blk-k5mzmn",
+      "text": "The `api.php` file contains routes that the `RouteServiceProvider` places in the `api`"
+    },
+    {
+      "id": "01M0G9R678TJQH32P223XY7JNA",
+      "line": 9,
+      "indent": 1,
+      "content_hash": "sha256:1bfbe99faf4591dcf9e62b6daf7891f505ca6c6acab40d73b133fad2e68dd5ae",
+      "ref_handle": "blk-xy7jna",
+      "text": "middleware group. These routes are intended to be stateless, so  "
+    },
+    {
+      "id": "01M0G9R6784WBY536YGD0FB0XT",
+      "line": 10,
+      "indent": 1,
+      "content_hash": "sha256:3c642f7440d374fc32dabfda2817cdb64a6fe06df96ab4da9002c02043bad94a",
+      "ref_handle": "blk-0fb0xt",
+      "text": "requests entering the application through these routes are intended to  "
+    },
+    {
+      "id": "01M0G9R67824Q6BP8JZN2W7WJH",
+      "line": 11,
+      "indent": 1,
+      "content_hash": "sha256:e84fc96dcae9be176b6b52a5d86e14d279e47113e736d3307ad285b006fb7939",
+      "ref_handle": "blk-2w7wjh",
+      "text": "be authenticated via tokens.  "
+    },
+    {
+      "id": "01M0G9R678J6TQYWZT9S499XTH",
+      "line": 12,
+      "indent": 1,
+      "content_hash": "sha256:ff597e80a763ae9abf789ede84220e64dd642ce811f03e9f24742c7905376fe3",
+      "ref_handle": "blk-499xth",
+      "text": "The `console.php` file is where you may define all of your closure based console commands."
+    },
+    {
+      "id": "01M0G9R678MDJME7ZZ11YHC35E",
+      "line": 13,
+      "indent": 1,
+      "content_hash": "sha256:8bf073126d4e5a04e6e6d0ff54f60aee0c7c050bc5444f2cf06849dab052bc82",
+      "ref_handle": "blk-yhc35e",
+      "text": "The `channels.php` file is where you may register all of the event broadcasting channels that your application supports."
+    },
+    {
+      "id": "01M0G9R678YH2BEYQHNTFNGR4J",
+      "line": 14,
+      "indent": 0,
+      "content_hash": "sha256:7d2a11e9dc1c781fc99f96e97e5845dfbc0a14db548d6e1d60c070f7d5ca88d9",
+      "ref_handle": "blk-fngr4j",
+      "text": "storage → The `storage` directory contains your logs, compiled Blade\n  templates, file based sessions, file caches, and other files generated\n  by the framework."
+    },
+    {
+      "id": "01M0G9R67894KV2PKH5P12DCKN",
+      "line": 15,
+      "indent": 0,
+      "content_hash": "sha256:ed69fd53c83d9c3463b0a7c35d1f6d5264b110664153f5038b366c673cd10eb5",
+      "ref_handle": "blk-12dckn",
+      "text": "tests → contain all automated tests, which can be run using the command `phpunit`"
+    },
+    {
+      "id": "01M0G9R6783FQQ5J1PST86BVSX",
+      "line": 16,
+      "indent": 0,
+      "content_hash": "sha256:107921de66f557348ed1a42ec0369ba9be00160859a0f23d6b9522748437d486",
+      "ref_handle": "blk-86bvsx",
+      "text": "vendor → composer, basically"
+    },
+    {
+      "id": "01M0G9R6786AV1ZSMD740KA8HR",
+      "line": 17,
+      "indent": 0,
+      "content_hash": "sha256:31b8fd628136585fd8206bd5b6ed572e3150b55439efd72c152633f23b3bf2ab",
+      "ref_handle": "blk-0ka8hr",
+      "text": "## THE `APP` DIR"
+    },
+    {
+      "id": "01M0G9R678KT55DD6E3GG5DV8D",
+      "line": 18,
+      "indent": 0,
+      "content_hash": "sha256:5833c3c52c161b84bf716948df34363e36d8a62d902ac34c6b37ca15058be5a2",
+      "ref_handle": "blk-g5dv8d",
+      "text": "// TODO"
+    }
+  ],
+  "pipeline_version": 4
+}

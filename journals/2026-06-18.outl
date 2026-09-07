@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "page_id": "5Q3DRA3GVAESGYY6Q0M5PRHS9D",
+  "last_synced_hash": "sha256:d16a12ae202d728ddf5a86e8c53282092ec46a9697ff16a8355c6da6733c2d48",
+  "last_synced_at": "2026-08-20T16:17:54.198641511-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QGWPSBGB5K2PM1G7YD3C",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:a8cd3be90b04713ee3654f38d546ae4ba97742b0eb975f6bba71f3122f64cea5",
+      "ref_handle": "blk-g7yd3c",
+      "text": "## Leituras sobre APIs aqui"
+    },
+    {
+      "id": "01M0G9QGWPDXZMJP9S3GQBEC0C",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:1f30e81179c96446477e0e294f2f2eb0ca3680a8b118b0039cb941ddc75be969",
+      "ref_handle": "blk-qbec0c",
+      "text": "anon: limitante sobre IP desconhecido."
+    },
+    {
+      "id": "01M0G9QGWP430XDE8JH017AMAT",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:bf4b8d76ef281359cbf9590a34eb7e779fcc8403c4bcb3ab22ca8719076841ac",
+      "ref_handle": "blk-17amat",
+      "text": "auth: limitante sobre user já conhecido e devidamente cadastrado."
+    }
+  ],
+  "pipeline_version": 4
+}

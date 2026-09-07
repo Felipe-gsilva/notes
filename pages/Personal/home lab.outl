@@ -1,0 +1,113 @@
+{
+  "version": 2,
+  "page_id": "49MMPTRCBCGRD0NGBXCFTRS7BT",
+  "last_synced_hash": "sha256:2d29356c40b60722482e5abfa21c7c62bcdd969067f0e4b9cbb19ecc41efa7e8",
+  "last_synced_at": "2026-08-20T16:18:05.539054534-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QVZ2Q46VRC08241SA4NY",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:67af9e6e8dc51ff809a9c602678421d4fa4fd482a64a614a5e3673209e2bfe6b",
+      "ref_handle": "blk-1sa4ny",
+      "text": "My future home lab links "
+    },
+    {
+      "id": "01M0G9QVZ2YRFD3VSS5GGY2PHS",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:c20a753d17d4edddd18f639bf680eef9b7e2277e1985588d38904157e36cc323",
+      "ref_handle": "blk-gy2phs",
+      "text": "> [!important] Arch Linux ARM  "
+    },
+    {
+      "id": "01M0G9QVZ2S1GATNXCQA9XYGJY",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:ba57e146d265946c07babc875c899fb1c469a43a3124bfb581d88759f3ebe8fa",
+      "ref_handle": "blk-9xygjy",
+      "text": "> We are a port of Arch Linux, which aims for simplicity and full control to the end user.  "
+    },
+    {
+      "id": "01M0G9QVZ2YZ099EVP2SRYYYR2",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:002df834af1848d94af6943441b38f3faee3a7c4f0f7cd38283d313a198f22d5",
+      "ref_handle": "blk-ryyyr2",
+      "text": "> [https://archlinuxarm.org/](https://archlinuxarm.org/)  "
+    },
+    {
+      "id": "01M0G9QVZ2YE6QAX4EXS1QKENQ",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:08a7a11e35cec6172ed552a1e93cf80eb284d52a6de638114b6db51624de4ce4",
+      "ref_handle": "blk-1qkenq",
+      "text": "> [!info] Minecraft Server"
+    },
+    {
+      "id": "01M0G9QVZ24Z52GWNW308EYYPQ",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:62b67e1f685b7fef51102005dddd27774be3fee38c42965c53aab035d0b6b221",
+      "ref_handle": "blk-8eyypq",
+      "text": "> "
+    },
+    {
+      "id": "01M0G9QVZ25NYPNDADANHNTDX8",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:8668e0f12126f0fa3f87f036caec5f5ccba7a48b5b9c7c74e32681709a7d3ee7",
+      "ref_handle": "blk-hntdx8",
+      "text": ">https://github.com/itzg/docker-minecraft-server"
+    },
+    {
+      "id": "01M0G9QVZ28Z37SJCYVW8KTZ8M",
+      "line": 8,
+      "indent": 0,
+      "content_hash": "sha256:30bdbaf4620925ca931b6757f011ccdcfd9cb94396cbbd82a4ddfdaa0bb3776c",
+      "ref_handle": "blk-8ktz8m",
+      "text": "> [!info] OpenSSH  "
+    },
+    {
+      "id": "01M0G9QVZ2PB3XHWTT262R2TD3",
+      "line": 9,
+      "indent": 0,
+      "content_hash": "sha256:db77b4f7923b771ffbcd3b1359fde592946201551b18118b21827c6c17e69e06",
+      "ref_handle": "blk-2r2td3",
+      "text": "> the main OpenSSH page  "
+    },
+    {
+      "id": "01M0G9QVZ2MBDWKCH9EYTFFVW2",
+      "line": 10,
+      "indent": 0,
+      "content_hash": "sha256:852af62479ccbf3e9aacddcb7731c606a864c43e07209343dad7eabd39c92e28",
+      "ref_handle": "blk-tffvw2",
+      "text": "> [https://www.openssh.com/](https://www.openssh.com/)"
+    },
+    {
+      "id": "01M0G9QVZ20R574MAXK3THW3H6",
+      "line": 11,
+      "indent": 0,
+      "content_hash": "sha256:4f38caacfd4d4af857210bd013c728aa4d6540deb3b16833628fe62ac4bcdf8a",
+      "ref_handle": "blk-thw3h6",
+      "text": ">[!important] PiHole"
+    },
+    {
+      "id": "01M0G9QVZ2M67ZHFEA9B4ZFP39",
+      "line": 12,
+      "indent": 0,
+      "content_hash": "sha256:eb8cfabd5124bc4f27245c2de44388d5bc384d054d5594b3fd0d3b8814cec0cf",
+      "ref_handle": "blk-4zfp39",
+      "text": ">pihole - dns server"
+    },
+    {
+      "id": "01M0G9QVZ2SYK4KYYJ6HSWVFGX",
+      "line": 13,
+      "indent": 0,
+      "content_hash": "sha256:1d3f423c8e2cc3af45144a5fc7f378a5d1cba5e469a8585d913d13cb8939fb96",
+      "ref_handle": "blk-swvfgx",
+      "text": ">[pi](https://pi-hole.net/)"
+    }
+  ],
+  "pipeline_version": 4
+}

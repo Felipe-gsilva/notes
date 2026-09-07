@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "page_id": "1GMB2M4J0KNX6FSAF1Q5X3G0EY",
+  "last_synced_hash": "sha256:d9f1a207aae87d442034f1b6b5ae1cac38de4c7d2207c6369b314882af6e6c7b",
+  "last_synced_at": "2026-08-20T16:18:01.568875016-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QR30KZDB4X6VPGC2H2FJ",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:8317f3f738ea402864c1205448451dff86dfdce366d7cc2980e4e687234fea85",
+      "ref_handle": "blk-c2h2fj",
+      "text": "[[(Game) Kind of hotline miami bullshit]]"
+    },
+    {
+      "id": "01M0G9QR30H6GT3ZYZWWRPJ5Y2",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:5bff0f9d11a17532e044ccea35430ded854833f7716b8598236f05e3195f7876",
+      "ref_handle": "blk-rpj5y2",
+      "text": "[[Godot]]"
+    },
+    {
+      "id": "01M0G9QR30Y4NRGMT079SHNRGP",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:77d381c4d489b591a19f7ed379cbdf1749713a72e42c340d25b57641ccd0ee51",
+      "ref_handle": "blk-shnrgp",
+      "text": "[[C++]]"
+    },
+    {
+      "id": "01M0G9QR30VVVWC997AE0AP7QV",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:3e949d4ff98f16152850f1a7386efc599bf66b60d78f6fd0bfc9c90f354bea16",
+      "ref_handle": "blk-0ap7qv",
+      "text": "[[SDL2]]"
+    },
+    {
+      "id": "01M0G9QR30NQS5A5NBKC80MK8E",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:be56966fe1c51c0c00e939e862ee52b9198ea09ef1c9d0cce43b6710d6c92f1a",
+      "ref_handle": "blk-80mk8e",
+      "text": "[[Vulkan Engine]]"
+    }
+  ],
+  "pipeline_version": 4
+}

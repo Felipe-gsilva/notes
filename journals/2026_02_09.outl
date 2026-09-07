@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "page_id": "25KXFGV88B6MPBNM7WTP83XP6Q",
+  "last_synced_hash": "sha256:b57e76632ced5c1db8eed9d7577966655fb0c4bf38cf693d921b5136878f7472",
+  "last_synced_at": "2026-08-20T16:17:42.036792079-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9Q50MKNX69X67RR9GK8RA",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:7211b718d5f60410d3588b9255f65427f605fd95414a87a5d9dfc0374382852d",
+      "ref_handle": "blk-9gk8ra",
+      "text": "# TODO "
+    },
+    {
+      "id": "01M0G9Q50MEVPRN5XEB233E4VS",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:2c90df4a45bb257d68603ad2c4ca34f0ac1c24e9db7220915066ae04a42a18c0",
+      "ref_handle": "blk-33e4vs",
+      "text": "# Manhã"
+    },
+    {
+      "id": "01M0G9Q50M1GCR8H5PBEKEWPAP",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:0b5e8e6c2a023093d8cc45e63dbc46618d547030191c01375612107616c1ca32",
+      "ref_handle": "blk-kewpap",
+      "text": "[X] adiantar trampo"
+    },
+    {
+      "id": "01M0G9Q50MGMF5FJ6VBEM44CQZ",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:94df082309206da8d3f1d0ede09a2097ab2a15db98e18ab710de3373dab9f898",
+      "ref_handle": "blk-m44cqz",
+      "text": "# Tarde"
+    },
+    {
+      "id": "01M0G9Q50M86B9PGDZT11NSC5G",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:d4afbdaea86ab24aa8ec47430fe06536752b0c5d996bead4ab1c3d3f697a8f6c",
+      "ref_handle": "blk-1nsc5g",
+      "text": "[X] separar docs para a pos - separados no whatsapp"
+    },
+    {
+      "id": "01M0G9Q50MAM7TYPW6SNEZMFQ0",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:9719fc72649e2013e67bd5dcce565ee3352760d23d462ed0809e70adf051d549",
+      "ref_handle": "blk-ezmfq0",
+      "text": "[ ] começar outra bateria de testes, entendo o por quê do loss vanishing que está rolando - 32 epocas e hiperparametros iguais"
+    },
+    {
+      "id": "01M0G9Q50M5XTSWRKBWDNTAG9W",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:49a5548c2690b3877635aaf38d42fc013cc91cbd63d9bcb3c53f92dbecd7c59b",
+      "ref_handle": "blk-ntag9w",
+      "text": "[ ] estudar rust, gen de memoria e disco"
+    }
+  ],
+  "pipeline_version": 4
+}

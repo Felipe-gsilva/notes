@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "page_id": "5HMJCDDEXDXQG06EQB71QYHXV2",
+  "last_synced_hash": "sha256:00578aaed8c504d2a4941ac76e99c8939786d2fa8551b19fd5e2f1075888800f",
+  "last_synced_at": "2026-08-20T16:18:39.706865025-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9RXATHQK6GR5Y14Z3H12F",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:effa2c826f800e6e24a02e62c45c241a2729f848318a97e72e90f5b5ac3b5cea",
+      "ref_handle": "blk-z3h12f",
+      "text": "Redis is a completely hash map based nosql only on ram."
+    },
+    {
+      "id": "01M0G9RXATH5YM916BWDRVPQQV",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:e03cc7f15ac21e518551dbd5e088a1acd4cc248e49f997e5dc6351813e04ca14",
+      "ref_handle": "blk-rvpqqv",
+      "text": "redis manages lifecycles of memory with a TTL (time to live) value, which will trigger a gc after this timer ends."
+    }
+  ],
+  "pipeline_version": 4
+}

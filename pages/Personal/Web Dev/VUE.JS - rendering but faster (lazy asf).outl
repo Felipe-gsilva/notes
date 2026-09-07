@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "page_id": "79BYHNSN0DRB2Y4VG0A9R5YAJG",
+  "last_synced_hash": "sha256:058d427bfae4bf34480411eec93e4ec9f6579184ca35972c3c2b87cd842f4b43",
+  "last_synced_at": "2026-08-20T16:18:10.519558824-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9R0TQ1NESBAP7XWRZ6ZZZ",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:ff950ccb5f1c1fbb7117b4a0935cbdc61cfafb165060a1af3baf0331515c277b",
+      "ref_handle": "blk-rz6zzz",
+      "text": "A declarative and component-based programming model."
+    },
+    {
+      "id": "01M0G9R0TQPGTPBPDXD40CDPX6",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:9a9962dec124f56f5bd3c418ab62ab2016ab518e9769f0166eb4c30fa4d01be5",
+      "ref_handle": "blk-0cdpx6",
+      "text": "**Declarative Rendering**: Vue extends standard HTML with a template syntax that allows us to declaratively describe HTML output based on JavaScript state."
+    },
+    {
+      "id": "01M0G9R0TQZNB6WES82M3R1CJ0",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:9bdc12c321c470a474829ee85ef6ab8a2095b618b02b249294d7722a808d0fa7",
+      "ref_handle": "blk-3r1cj0",
+      "text": "**Reactivity**: Vue automatically tracks JavaScript state changes and efficiently updates the DOM when changes happen."
+    },
+    {
+      "id": "01M0G9R0TQ8V8PS3CMPZSXGE9W",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:ec5424ad9e89671803828b5de8d3a17d066faccc1a07bee465eee27182a2206d",
+      "ref_handle": "blk-sxge9w",
+      "text": "`*.vue` as file extension which encapsulates the component's logic (JavaScript), template (HTML), and styles (CSS) in a single file."
+    },
+    {
+      "id": "01M0G9R0TQ5ZX7KZYZWFJTEZSY",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:c9c8a8b14716afe1f3fd5b33f2aceec5d2a2a3ccb5e983c6ac28ed18c5c59067",
+      "ref_handle": "blk-jtezsy",
+      "text": "## Inertia"
+    }
+  ],
+  "pipeline_version": 4
+}

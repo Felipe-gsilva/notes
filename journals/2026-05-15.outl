@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "page_id": "6TC6C1HDBNSDM9BH7VX7FYKBYG",
+  "last_synced_hash": "sha256:255e57645220fea7e2f23d89a04f145dee929c7a73c768a4ec24cb0795ddae09",
+  "last_synced_at": "2026-08-20T16:17:53.919043480-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QGKZ2HTK2EKZVW478SM4",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:17056ebfa4641f13ce79cbda5cf02c885a24ee7d6eb12aa2279bed355a7d6aef",
+      "ref_handle": "blk-478sm4",
+      "text": "falta min_value no GNT"
+    }
+  ],
+  "pipeline_version": 4
+}

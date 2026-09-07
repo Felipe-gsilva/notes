@@ -1,0 +1,297 @@
+{
+  "version": 2,
+  "page_id": "0P9NESH690K7J0DAKACF5B3TYN",
+  "last_synced_hash": "sha256:818c42d0d6da8263a3dc9427276015a2970c47cf39a50b4b9f76eaeb6caaff2d",
+  "last_synced_at": "2026-08-20T16:17:58.236622872-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QMTW8RJA20XJNKBTNVK2",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:a6b472149ed47b935d3e760ac8299c1af568f4b45a6763097ede7155d4d7f4e8",
+      "ref_handle": "blk-btnvk2",
+      "text": "# bugs and issues:"
+    },
+    {
+      "id": "01M0G9QMTWW93WTNVZHBSP4GW3",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:207a73c599fefef8c1bba68675703de64110b5fff74ba06ce79694b767d74c16",
+      "ref_handle": "blk-sp4gw3",
+      "text": "fix menu buttons"
+    },
+    {
+      "id": "01M0G9QMTWDQFHJG98HJGTMKYJ",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:a7707b3ebba3b8b3247d50721ed8972b9975a468ea80a1e8c7157a403323bd31",
+      "ref_handle": "blk-gtmkyj",
+      "text": "# Implement"
+    },
+    {
+      "id": "01M0G9QMTWDG42KZ47BZQMZ05M",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:34caf0280586f3f556cbf7e653227ff59ad0944015f78f3f2f2f2cc860d8f66d",
+      "ref_handle": "blk-qmz05m",
+      "text": "[x] event handler"
+    },
+    {
+      "id": "01M0G9QMTWW6EDRT45WQ9025MC",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:0d8fa68be707902c59798abd3768e8157ea49d532f45eabf13ac2bc49834c096",
+      "ref_handle": "blk-9025mc",
+      "text": "[x] input handler"
+    },
+    {
+      "id": "01M0G9QMTWEBZW9EVC5NVYDA5A",
+      "line": 6,
+      "indent": 1,
+      "content_hash": "sha256:29d9dc8895cc860865cfbcdef856748ad03354ce441f994186cc39ea9efe6854",
+      "ref_handle": "blk-vyda5a",
+      "text": "[x] mouse input"
+    },
+    {
+      "id": "01M0G9QMTWM5DEWJ3N8773CV5N",
+      "line": 7,
+      "indent": 1,
+      "content_hash": "sha256:913bed32248c1e602672ac7ca44d9c1af66641be6891ebccdcf3733acf13ae52",
+      "ref_handle": "blk-73cv5n",
+      "text": "[x] keyboard input"
+    },
+    {
+      "id": "01M0G9QMTW6FF8Y4ZRBY717KNQ",
+      "line": 8,
+      "indent": 0,
+      "content_hash": "sha256:3b623bf69b3fe02f5cd216955b2bc8f138e02f6a60604cfaa3ea1640ee4f742f",
+      "ref_handle": "blk-717knq",
+      "text": "[x] texture handler"
+    },
+    {
+      "id": "01M0G9QMTW4E3HHH41PYHVSZRC",
+      "line": 9,
+      "indent": 0,
+      "content_hash": "sha256:f86a750ef33c7f6e4f0615d2af14469644ea9e9f1f5d3e01390b5fe76f6d2456",
+      "ref_handle": "blk-hvszrc",
+      "text": "[x] game object"
+    },
+    {
+      "id": "01M0G9QMTW5GAP25STF1PYYDZH",
+      "line": 10,
+      "indent": 0,
+      "content_hash": "sha256:2a71e4086331ad7daa01254755434b4ca1e97fafa14ff1aad83661d2a873ca82",
+      "ref_handle": "blk-pyydzh",
+      "text": "[x] vector2D"
+    },
+    {
+      "id": "01M0G9QMTWM6WVFMEHF6F9JG06",
+      "line": 11,
+      "indent": 1,
+      "content_hash": "sha256:69a4db3038d48a69a1f4a69f26ec6901856f4ef42fc1bc23785a36e5cb831a85",
+      "ref_handle": "blk-f9jg06",
+      "text": "[x] operations"
+    },
+    {
+      "id": "01M0G9QMTWJHTMGYY2KA5EPAFS",
+      "line": 12,
+      "indent": 0,
+      "content_hash": "sha256:54700b0b2a23b3b62753656384e4d8b3737778d31a851a9c09feebd3999e8e33",
+      "ref_handle": "blk-5epafs",
+      "text": "[x] animation player"
+    },
+    {
+      "id": "01M0G9QMTWCPWWHKWK17YFBEJT",
+      "line": 13,
+      "indent": 1,
+      "content_hash": "sha256:31a3e2906f1826fd90c3a24613b2663fb68d1ce5bc42fedc2e062157e21ba3fe",
+      "ref_handle": "blk-yfbejt",
+      "text": "[x] direction of animation"
+    },
+    {
+      "id": "01M0G9QMTWCG36QHP28DAK8ETP",
+      "line": 14,
+      "indent": 0,
+      "content_hash": "sha256:412880a73e0973ee839009c32d89a4d95c762a910acdd41362d2f93ae8a09d3f",
+      "ref_handle": "blk-ak8etp",
+      "text": "[ ] collision"
+    },
+    {
+      "id": "01M0G9QMTW55QKW7WQDZ6MRN5X",
+      "line": 15,
+      "indent": 1,
+      "content_hash": "sha256:91984607c09e61da66f6f785c1ab1b164d615778511cde94ebf038646e61cf47",
+      "ref_handle": "blk-6mrn5x",
+      "text": "[ ] floor <-> player,"
+    },
+    {
+      "id": "01M0G9QMTWGGBAXTB5HC84XC21",
+      "line": 16,
+      "indent": 1,
+      "content_hash": "sha256:b3f08177f7eab19904348c4fa5a76889ebd416457fe1033f9ab41f7a0c97a70e",
+      "ref_handle": "blk-84xc21",
+      "text": "[ ] player <-> objects"
+    },
+    {
+      "id": "01M0G9QMTWX52E7YMVHPD6SEJ4",
+      "line": 17,
+      "indent": 1,
+      "content_hash": "sha256:6667bce385a958123ab682caf0b4e8e9d99da617268f7644e31e326a7caf4306",
+      "ref_handle": "blk-d6sej4",
+      "text": "[ ] player <-> enemy"
+    },
+    {
+      "id": "01M0G9QMTW8SY9EHBR68CH3F10",
+      "line": 18,
+      "indent": 1,
+      "content_hash": "sha256:15db4520e2236e1148046f35c9d7875ab274529507b588e9dec6e119ec1d2109",
+      "ref_handle": "blk-ch3f10",
+      "text": "[ ] enemy <-> objects"
+    },
+    {
+      "id": "01M0G9QMTWJRVKR80M0302XTSC",
+      "line": 19,
+      "indent": 0,
+      "content_hash": "sha256:28d8156381baee3ce48252087e3c2b982df4ae1fa1b148b8699bfd2e82bb5891",
+      "ref_handle": "blk-02xtsc",
+      "text": "[ ] player"
+    },
+    {
+      "id": "01M0G9QMTWVCA3Q9JT8WNKRPZ5",
+      "line": 20,
+      "indent": 1,
+      "content_hash": "sha256:fd791311913a65cd58c28499092beeac0b8878e2fd01f411cd775437495eaa15",
+      "ref_handle": "blk-nkrpz5",
+      "text": "[x] player basics"
+    },
+    {
+      "id": "01M0G9QMTWCKY440QCZC4CGY63",
+      "line": 21,
+      "indent": 0,
+      "content_hash": "sha256:f224aa4dd0e8e48ac9309ca5ff69efcf1b539fa204b9e9c545e9a0d8f9ca7039",
+      "ref_handle": "blk-4cgy63",
+      "text": "[ ] enemy"
+    },
+    {
+      "id": "01M0G9QMTW341XA6MAWKR1NZXR",
+      "line": 22,
+      "indent": 0,
+      "content_hash": "sha256:2dac973aeae0830a5b96aaf46884f19036ae0adf6d73254cd77fde0c551daccb",
+      "ref_handle": "blk-r1nzxr",
+      "text": "[ ] projectile"
+    },
+    {
+      "id": "01M0G9QMTWX27FBYVJ2S942Z53",
+      "line": 23,
+      "indent": 0,
+      "content_hash": "sha256:04cd8f5fde03daffebb9ffab589cedd8ab7f23c6bf497cd6fe564c8514ddbe4a",
+      "ref_handle": "blk-942z53",
+      "text": "[ ] life subsystem"
+    },
+    {
+      "id": "01M0G9QMTWP5QWCNVBS0K8ZB5Z",
+      "line": 24,
+      "indent": 0,
+      "content_hash": "sha256:3f694de090a1ff0550e38d58ddf57add94605186cf25275886e656852e2aaa04",
+      "ref_handle": "blk-k8zb5z",
+      "text": "[x] states"
+    },
+    {
+      "id": "01M0G9QMTWK4RNSDM3QA9V5AEG",
+      "line": 25,
+      "indent": 0,
+      "content_hash": "sha256:1545d804ed391ff014ebbee0112b21472748151b3cbb47036f8935eaea7cfb9b",
+      "ref_handle": "blk-9v5aeg",
+      "text": "[x] scene loader"
+    },
+    {
+      "id": "01M0G9QMTW4YMAZDEFZNTFAG8D",
+      "line": 26,
+      "indent": 0,
+      "content_hash": "sha256:ed5bc2e4318b26c53c51e2761630f01aa8633ad6457519bf2431c0dd9f21283a",
+      "ref_handle": "blk-tfag8d",
+      "text": "[ ] map"
+    },
+    {
+      "id": "01M0G9QMTWF1V7WAXJPR6MZ634",
+      "line": 27,
+      "indent": 0,
+      "content_hash": "sha256:2802997481dc3a925d1044030bad241c8286a46c146ac7fd7ded8d3b1a5038e0",
+      "ref_handle": "blk-6mz634",
+      "text": "[ ] map loader"
+    },
+    {
+      "id": "01M0G9QMTWXCM49CTHY7MWFM3P",
+      "line": 28,
+      "indent": 0,
+      "content_hash": "sha256:ab6e8f7c2f06d8244ee9650928a3f8baf866d8e98e4d056233aa980badcec682",
+      "ref_handle": "blk-mwfm3p",
+      "text": "[ ] menu"
+    },
+    {
+      "id": "01M0G9QMTWWG0YXQMQ9Q48H9B7",
+      "line": 29,
+      "indent": 0,
+      "content_hash": "sha256:5254b75ffcb7ec4cf337ada10c4f610645c95437fc265bda6e43fe6ac10f537b",
+      "ref_handle": "blk-48h9b7",
+      "text": "## adtional"
+    },
+    {
+      "id": "01M0G9QMTW2V2Z9D00AEPDHNYC",
+      "line": 30,
+      "indent": 0,
+      "content_hash": "sha256:8e5ef2ed89c422e64a0cf771d260aadf62ed8803a1e51f25cc59cf3490a062fe",
+      "ref_handle": "blk-pdhnyc",
+      "text": "[ ] camera movement?"
+    },
+    {
+      "id": "01M0G9QMTWQ762GS8R6HAF1KC6",
+      "line": 31,
+      "indent": 1,
+      "content_hash": "sha256:5a4f33fde8d48bfb806172b90caff90ec7fff656efb1955b2f3884d4a40baae7",
+      "ref_handle": "blk-af1kc6",
+      "text": "[ ] window edges?"
+    },
+    {
+      "id": "01M0G9QMTWCHY2YR1VFD5S3PEJ",
+      "line": 32,
+      "indent": 0,
+      "content_hash": "sha256:15cad43af0427aac5bf3b5430576b49c7bdacbe9c03f496a8c597c26b7a55971",
+      "ref_handle": "blk-5s3pej",
+      "text": "[ ] sound"
+    },
+    {
+      "id": "01M0G9QMTW5Z19ZX788BMMEYV3",
+      "line": 33,
+      "indent": 1,
+      "content_hash": "sha256:8a42f8a03b8133866c24c49f6590591204b87b20d8b02959f6bd5ff8d783308a",
+      "ref_handle": "blk-mmeyv3",
+      "text": "[ ] sound effetcts"
+    },
+    {
+      "id": "01M0G9QMTWM381RCMMZN2VSTA3",
+      "line": 34,
+      "indent": 1,
+      "content_hash": "sha256:2462d9d1ecefc627641ad4297a5dc832f0cae6b8b4b3805773b593cb05fe3d76",
+      "ref_handle": "blk-2vsta3",
+      "text": "[ ] songs"
+    },
+    {
+      "id": "01M0G9QMTW1GQ1M0B5Z1NW5QHM",
+      "line": 35,
+      "indent": 0,
+      "content_hash": "sha256:1f671dfd384be18ecb5ac0678093d09f378c3c988452fcbfd38c31646498c428",
+      "ref_handle": "blk-nw5qhm",
+      "text": "[ ] different sprites"
+    },
+    {
+      "id": "01M0G9QMTWQKHF8XVJQKAS5ZP7",
+      "line": 36,
+      "indent": 0,
+      "content_hash": "sha256:3505a8b611e47158195b220f0ad7b6f7c6019ad65cdd80ff580ddd5af5fa479d",
+      "ref_handle": "blk-as5zp7",
+      "text": "[ ] more enemies"
+    }
+  ],
+  "pipeline_version": 4
+}

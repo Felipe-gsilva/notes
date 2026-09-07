@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "page_id": "2MKWDE3Z5NV0S0BV6BDXSJZVNC",
+  "last_synced_hash": "sha256:7bf086e8d3c5f441c15e7639e021af17321d47e7dee11fea0dc94b8cb0287728",
+  "last_synced_at": "2026-08-20T16:17:44.969683857-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9Q7W9MS44TXMXS8P86Y98",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:46e14cc92bb6215ee80798bb2b72a29f8fd8185cbcf60c69a463b8029e569fcf",
+      "ref_handle": "blk-p86y98",
+      "text": "# Hoje"
+    },
+    {
+      "id": "01M0G9Q7W9EV67MD5P04J1W25P",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:100885faae8238b2ae9a0828cc74d9651d1be59e638892f7d742c73d839a8bd2",
+      "ref_handle": "blk-j1w25p",
+      "text": "[X] Servico"
+    },
+    {
+      "id": "01M0G9Q7W9A1EZ04QRS6ZZER9A",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:2c80b14e494f7d746314a76c5878b6f3d14d98f1efabead3d7850f5f83e752e2",
+      "ref_handle": "blk-zzer9a",
+      "text": "[X] slide 5 - RNA"
+    },
+    {
+      "id": "01M0G9Q7W90JDHGR49XV30TKB4",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:59a72f1b7eb95914ca945313c2ecf0762732b3abba1500971df72de0b4f499d5",
+      "ref_handle": "blk-30tkb4",
+      "text": "[X] Rust Atomics Capitulo 1"
+    },
+    {
+      "id": "01M0G9Q7W9NGHWQMSFC82EHD80",
+      "line": 5,
+      "indent": 1,
+      "content_hash": "sha256:e2e9ce8dff5529139c7786ad1f6b958c31989e8951ad8b1bbaa6af0494c8a23c",
+      "ref_handle": "blk-2ehd80",
+      "text": "Continuar no #Atomics"
+    },
+    {
+      "id": "01M0G9Q7W951PM0WYEPPZNFG2Q",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:6c5c2add4c3b447de6ac5fbd19166533f22e681acdd9ce1fc45a409425fe9ade",
+      "ref_handle": "blk-znfg2q",
+      "text": "[X] MLP Ribas"
+    }
+  ],
+  "pipeline_version": 4
+}

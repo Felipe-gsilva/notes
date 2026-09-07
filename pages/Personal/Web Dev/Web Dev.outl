@@ -1,0 +1,97 @@
+{
+  "version": 2,
+  "page_id": "7RN8XSRRPB65EJ3NSCWMC4HE6D",
+  "last_synced_hash": "sha256:579a24110f8d5b837f0a76cc32db46044e3b2bfb9c737a9fe8394567e6f80f57",
+  "last_synced_at": "2026-08-20T16:18:39.101132704-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9RWQXJ1FXQ0CC9Z56C8SB",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:1645e9d645fdd9081f95509011b9c26051e0f859fd5b1061e4f116e299ee07f0",
+      "ref_handle": "blk-56c8sb",
+      "text": "My journey into earning some cash and trying not to freak out (just studying web development)"
+    },
+    {
+      "id": "01M0G9RWQX8R9C6F88GT6YWHBG",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:bf97d310ab224d15ad886a102608e0d5d011377218617f5c262f59a98c3bb6f1",
+      "ref_handle": "blk-6ywhbg",
+      "text": "| Name                                           |"
+    },
+    {
+      "id": "01M0G9RWQX1994KDC73T982CBJ",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:57920dae61d373c7271c8da20116d092f6085e9cc7a1763474875569258015c0",
+      "ref_handle": "blk-982cbj",
+      "text": "| ---------------------------------------------- |"
+    },
+    {
+      "id": "01M0G9RWQXXN7XBHPWHDKT8QT7",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:f874cd680ae97593cea292c251ba0a4b1555639d48f49c9dccadd4ac23741654",
+      "ref_handle": "blk-kt8qt7",
+      "text": "| [[DATABASE (MySQL)]]                           |"
+    },
+    {
+      "id": "01M0G9RWQXFF6292RZCT110E9A",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:b9c5ea3df20efd751e208df4959ac9a3f4731a4f108be064ae1d0fb84d09bb0c",
+      "ref_handle": "blk-110e9a",
+      "text": "| [[PHP]]                                        |"
+    },
+    {
+      "id": "01M0G9RWQXJDSGG5Q2J4VXDJ62",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:52a3368c80bbffbd04dde13c3947523b01dbfd7ae0ef6c1efd7be317504b83b7",
+      "ref_handle": "blk-vxdj62",
+      "text": "| [[Laravel]]                                    |"
+    },
+    {
+      "id": "01M0G9RWQXEVTPQJ5KECQWKQ4R",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:dee55b035799464ecd8df75badc56cd7c0cc762bff6759d61bc920badad32644",
+      "ref_handle": "blk-qwkq4r",
+      "text": "| [[VUE.JS - rendering but faster (lazy asf)]]   |"
+    },
+    {
+      "id": "01M0G9RWQXJQRXXBK4TK966C7V",
+      "line": 8,
+      "indent": 0,
+      "content_hash": "sha256:61dad920ca093f186fd69f7016ca1f52ea83860650a10c823e4535147119e823",
+      "ref_handle": "blk-966c7v",
+      "text": "| [[Docker]]                                     |"
+    },
+    {
+      "id": "01M0G9RWQXFXG0FYTF64Q8RHXA",
+      "line": 9,
+      "indent": 0,
+      "content_hash": "sha256:19e1fd07bdbbc26aa5175afc85d2291838269e860d864ad0f40b7b1b1a4f807b",
+      "ref_handle": "blk-q8rhxa",
+      "text": "| [[Clojure (a savior on this trash web world)]] |"
+    },
+    {
+      "id": "01M0G9RWQX9DT8SH10PQ3RAA3P",
+      "line": 10,
+      "indent": 0,
+      "content_hash": "sha256:35f42eca3afb64243f863b9dfbb52eed85dd546b4aff22bc97f06b44d0dc4e0b",
+      "ref_handle": "blk-3raa3p",
+      "text": "| [[Helix and Refx]]                             |"
+    },
+    {
+      "id": "01M0G9RWQXHJX941FVCVPXWDSQ",
+      "line": 11,
+      "indent": 0,
+      "content_hash": "sha256:eeafa2530da408334bf97bfceb74be764d8285ebf11dd123d9a131c5ab7fa052",
+      "ref_handle": "blk-pxwdsq",
+      "text": "| [[Moclojer]]                                   |"
+    }
+  ],
+  "pipeline_version": 4
+}

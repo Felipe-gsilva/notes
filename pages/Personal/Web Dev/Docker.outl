@@ -1,0 +1,153 @@
+{
+  "version": 2,
+  "page_id": "4QH9HQ6XY8NSG89STRG41KTC83",
+  "last_synced_hash": "sha256:a8c1ac3915e3d3f77e8b021cb16e6fe38d0b1facb8e64714c4b56a0831dbf1e3",
+  "last_synced_at": "2026-08-20T16:18:38.185606348-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9RVV95FDGBXZ89YMH6K72",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:496c95f59ae9f87e2c408a90b9f3ac1e841e86ea0719f7118eb8e11ce843ac2d",
+      "ref_handle": "blk-mh6k72",
+      "text": "```YAML"
+    },
+    {
+      "id": "01M0G9RVV93D0R2YNRTTW5TYE1",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:449ac08afea01adb68f1e364325581cfd249497e7e57c7b7d539feae77245dbb",
+      "ref_handle": "blk-w5tye1",
+      "text": "services:"
+    },
+    {
+      "id": "01M0G9RVV96FDSNEY06T06ZSTT",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:d5d435cca7c7d94d451938b89bc991a9039556a1b9cf28d31cb963c8126a9e61",
+      "ref_handle": "blk-06zstt",
+      "text": "front:"
+    },
+    {
+      "id": "01M0G9RVV9RN5Z3NBVF6S1SRV2",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:e07d8f89fb9cecd6f2eb057f4c2412a23029421e8e7b982d1824986f10aeaa0b",
+      "ref_handle": "blk-s1srv2",
+      "text": "build: front"
+    },
+    {
+      "id": "01M0G9RVV92XXWB6APHD0SAZCT",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:0ff65a1a842d2f3a3dedfe98b9e5377742bb35a6e6fb938120c3eb7e308a318f",
+      "ref_handle": "blk-0sazct",
+      "text": "ports:"
+    },
+    {
+      "id": "01M0G9RVV98XM7RYXWXD6N39ZG",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:4fc1e5d753f2d1709652155a05412d533fd37fa0569acb1834bd3becf7a2d43d",
+      "ref_handle": "blk-6n39zg",
+      "text": "\"5173:5173\""
+    },
+    {
+      "id": "01M0G9RVV9SZAC9V5ZPD64ZABF",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:0c4237f14c86fc5448cfb2c04917831dd61fb0365d1b1c5542aa631626fba02c",
+      "ref_handle": "blk-64zabf",
+      "text": "app:"
+    },
+    {
+      "id": "01M0G9RVV96NE12WY2MMCY590X",
+      "line": 8,
+      "indent": 0,
+      "content_hash": "sha256:2cb6ff177e1180ba9abbf0ad7508c0f2e6433dc89260dce3e054e13987a5fca6",
+      "ref_handle": "blk-cy590x",
+      "text": "build: app"
+    },
+    {
+      "id": "01M0G9RVV9FJMSE36CEYTASTXV",
+      "line": 9,
+      "indent": 0,
+      "content_hash": "sha256:0ff65a1a842d2f3a3dedfe98b9e5377742bb35a6e6fb938120c3eb7e308a318f",
+      "ref_handle": "blk-tastxv",
+      "text": "ports:"
+    },
+    {
+      "id": "01M0G9RVV942ZTM6965BJKVRRY",
+      "line": 10,
+      "indent": 0,
+      "content_hash": "sha256:12f61a37fbc85baebf0f97abb4159f91c16046fb84512e25e6ba1a9c4cc56e68",
+      "ref_handle": "blk-jkvrry",
+      "text": "\"8000:8000\""
+    },
+    {
+      "id": "01M0G9RVV97Q25X33B67F0K4XS",
+      "line": 11,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-f0k4xs",
+      "text": "```"
+    },
+    {
+      "id": "01M0G9RVV9SQ6RCSE0VGCXH4JK",
+      "line": 12,
+      "indent": 0,
+      "content_hash": "sha256:b2ec20424654d47a80abc007c2108639645530c82d4c39bfbbd45a8d0178019f",
+      "ref_handle": "blk-cxh4jk",
+      "text": "```Docker"
+    },
+    {
+      "id": "01M0G9RVV9F92VZW8PTDMT3E6C",
+      "line": 13,
+      "indent": 0,
+      "content_hash": "sha256:5be9530ec7bdf0fac2b9ac1a4c97510ed870c85ea7b297a0f2c1489742d4f3c9",
+      "ref_handle": "blk-mt3e6c",
+      "text": "FROM docker.io/clojure:temurin-21-tools-deps-alpine"
+    },
+    {
+      "id": "01M0G9RVV95SDGWJA08AJ1XAHS",
+      "line": 14,
+      "indent": 0,
+      "content_hash": "sha256:97894cf7fbb08b94667cc6ce131f26af66251fbb4ce410803948eb3b58b529e9",
+      "ref_handle": "blk-j1xahs",
+      "text": "WORKDIR /app/"
+    },
+    {
+      "id": "01M0G9RVV98VMW6Q02BW51EJW2",
+      "line": 15,
+      "indent": 0,
+      "content_hash": "sha256:9e3ad4a1beb66b2ddac819aafd115338e18629b3bdbf0b04ae5cb7b657e5f7dd",
+      "ref_handle": "blk-51ejw2",
+      "text": "COPY . ."
+    },
+    {
+      "id": "01M0G9RVV9QWZ6DZWF0BDGR8GP",
+      "line": 16,
+      "indent": 0,
+      "content_hash": "sha256:40218518ba1a13e3de3a1640e750f6f1b2f9cb78b5096548f4dc2938b9ba5b8a",
+      "ref_handle": "blk-dgr8gp",
+      "text": "EXPOSE 8000"
+    },
+    {
+      "id": "01M0G9RVV9S155XMECF1X3RASF",
+      "line": 17,
+      "indent": 0,
+      "content_hash": "sha256:07eeab7bf70fb98bb408e42f595caf3af1a4731e3a6422ea77e1fe8b32b8161d",
+      "ref_handle": "blk-x3rasf",
+      "text": "CMD [ \"clojure\", \"-M:dev\", \"-m\", \"dev.core\"]"
+    },
+    {
+      "id": "01M0G9RVV9GF4WY8D9Q6WXG4V9",
+      "line": 18,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-wxg4v9",
+      "text": "```"
+    }
+  ],
+  "pipeline_version": 4
+}

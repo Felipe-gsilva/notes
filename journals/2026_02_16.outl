@@ -1,0 +1,73 @@
+{
+  "version": 2,
+  "page_id": "3AJ3GAFV8ZMWYYCG2GM1F3C320",
+  "last_synced_hash": "sha256:260e7ede66a678ca18a30ecf568d1bd53fe09065c36e0f589ef21e5f84f441bf",
+  "last_synced_at": "2026-08-20T16:17:47.118717567-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9Q9ZE958JTBPA6G3JHNGV",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:25c67c467474ee3b4c264b33808bd25c1b02cf7e18fe0e70a9621c38d6e6dce9",
+      "ref_handle": "blk-3jhngv",
+      "text": "# Manha "
+    },
+    {
+      "id": "01M0G9Q9ZE95N0C9B1NYQ3AS8H",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:90d3bc648206666dd045f909fef36ef86ce8317313b04be26b050457380969b9",
+      "ref_handle": "blk-q3as8h",
+      "text": "[x] integration testing on vinellu"
+    },
+    {
+      "id": "01M0G9Q9ZEYCJY4S662BD3DAYH",
+      "line": 3,
+      "indent": 1,
+      "content_hash": "sha256:820823ed921594833a8d9ecfef10f676089455d63423a7069c95363fccba61e7",
+      "ref_handle": "blk-d3dayh",
+      "text": "fixing seed.sql and validate.sh"
+    },
+    {
+      "id": "01M0G9Q9ZETX32BYZ7T6N6YCNJ",
+      "line": 4,
+      "indent": 1,
+      "content_hash": "sha256:ca4080cf09a2106503d6e187c5b3c314f7ab6fdee33aec741ef6df620b4b7a0c",
+      "ref_handle": "blk-n6ycnj",
+      "text": "fixing need integration tests"
+    },
+    {
+      "id": "01M0G9Q9ZEAG5W77WW23R98Q7E",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:94df082309206da8d3f1d0ede09a2097ab2a15db98e18ab710de3373dab9f898",
+      "ref_handle": "blk-r98q7e",
+      "text": "# Tarde"
+    },
+    {
+      "id": "01M0G9Q9ZEZRR0MNYR67B3DYDB",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:920af5a10f80cb1ef4e167c2b3a9df7d3a7f5432984fe1c9af41082daeae8e1a",
+      "ref_handle": "blk-b3dydb",
+      "text": "[ ] Lifetime in rust"
+    },
+    {
+      "id": "01M0G9Q9ZEN35A2WHT8BH88J24",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:9027de5322208b8b78b867d35b371f8f61a8cd2bd9619227f97d927d68616010",
+      "ref_handle": "blk-h88j24",
+      "text": "[ ] LSM in rust"
+    },
+    {
+      "id": "01M0G9Q9ZEAQKEP208FKWB9A7D",
+      "line": 8,
+      "indent": 0,
+      "content_hash": "sha256:1c511bae57d57b5ec1cafbd5545e9535ca70213027459be2d5472fd12e271e01",
+      "ref_handle": "blk-wb9a7d",
+      "text": "[ ] Melhorar MetricsLogger para printar os hiperparametros"
+    }
+  ],
+  "pipeline_version": 4
+}

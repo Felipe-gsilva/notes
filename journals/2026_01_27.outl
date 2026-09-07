@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "page_id": "11ZE6GAER8Z27VF1Y56NA3Z95B",
+  "last_synced_hash": "sha256:94d634a56565650685981877731c96dfc0fe1129403bb97884ec04cc2a948aa0",
+  "last_synced_at": "2026-08-20T16:17:44.243215115-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9Q75KYCN3XM3FKAK7S6NA",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:5497edef733cbb9aae32c9874bb1c3c4647c4847879d2b2ac3ec93abdc58b5be",
+      "ref_handle": "blk-k7s6na",
+      "text": "[X] algumas poucas issues a serem feitas hoje"
+    },
+    {
+      "id": "01M0G9Q75KA9ZVZ0FPZ4HQF8Z0",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:d7fba8eb25b62328394f94eb5142f667c4fd9cdcd3c0bf3f121b0b84df5a04e1",
+      "ref_handle": "blk-hqf8z0",
+      "text": "[ ] escrever metodologia mais a fundo"
+    }
+  ],
+  "pipeline_version": 4
+}

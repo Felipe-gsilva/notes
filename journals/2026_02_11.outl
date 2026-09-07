@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "page_id": "4QVBVZ7G2WXPYFVPH4932NG8CT",
+  "last_synced_hash": "sha256:bdfb04c765896f679b66edadffda627ed0f527caab1f43857eb5ad398b1e4bed",
+  "last_synced_at": "2026-08-20T16:17:54.567426176-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QH87ZY0T7077YJABTGWB",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:2c90df4a45bb257d68603ad2c4ca34f0ac1c24e9db7220915066ae04a42a18c0",
+      "ref_handle": "blk-abtgwb",
+      "text": "# Manhã"
+    },
+    {
+      "id": "01M0G9QH87N8QG3GDCM6NZFBWZ",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:218427b85308df7d21a23978dfe99f20b9975bd00ea195c241e51815f70ce4b8",
+      "ref_handle": "blk-nzfbwz",
+      "text": "[X] Resolver telas monolíticas [138](https://github.com/avelino/vinellu-app/issues/138)"
+    },
+    {
+      "id": "01M0G9QH87P8KG4E36TZDXMFBS",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:fff147934a0b2ea5bc303338dac4b030ec56a8f01a2b39f2088231b52995de89",
+      "ref_handle": "blk-dxmfbs",
+      "text": "[X] Estudar DCGAN e WCGAN"
+    },
+    {
+      "id": "01M0G9QH87QQAGR4Y5CEMAHKVS",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:94df082309206da8d3f1d0ede09a2097ab2a15db98e18ab710de3373dab9f898",
+      "ref_handle": "blk-mahkvs",
+      "text": "# Tarde"
+    },
+    {
+      "id": "01M0G9QH87QX9BM74THCJ9H6ZX",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:5b510cf9519dfdf9b391b26a90d97a740adb21dc491954e2410652208442d52a",
+      "ref_handle": "blk-j9h6zx",
+      "text": "[ ]  implementar linked list in rust"
+    }
+  ],
+  "pipeline_version": 4
+}

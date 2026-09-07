@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "page_id": "6AQWP496R3RVWG355HC47XZ32G",
+  "last_synced_hash": "sha256:30d84a31e8fb757ed0c63f9dac5317f8eb9b870b9bee1db9b66520fc65b69a3b",
+  "last_synced_at": "2026-08-20T16:17:56.201664906-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QJV95DKR236RDZEP3KGK",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:3c9603b97dd9e0e026143ff466843dc97c2b2064e0ae50ae86a168bbb874eecd",
+      "ref_handle": "blk-ep3kgk",
+      "text": "# Slides"
+    },
+    {
+      "id": "01M0G9QJV9M1TNCMPXD6S535RZ",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:5821a9355896e5266da581e73729b2a97576ecff0ba12b5a0764ca79f5b2edca",
+      "ref_handle": "blk-s535rz",
+      "text": "[X] SNeRG"
+    },
+    {
+      "id": "01M0G9QJV9W7P7M8WM7QPV63T7",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:3762186a707b3dc7ccb2176b1f99bd7d3387f4cf0b31774b45d3a67a50e4bee1",
+      "ref_handle": "blk-pv63t7",
+      "text": "[X] formato do arquivo e transforms.json"
+    },
+    {
+      "id": "01M0G9QJV9V1ZVBERRT90N40W2",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:bbc6e96b4e86201e8e744864485963c67eaafac560a69cbcc1c12c63f62f14a3",
+      "ref_handle": "blk-0n40w2",
+      "text": "[ ] resultados reais GAN e Classificadores"
+    },
+    {
+      "id": "01M0G9QJV9DC804675AFZ2C6TY",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:47024834430343c08d432531273b57b64d2a3d92ac7cae28dee9317871feba15",
+      "ref_handle": "blk-z2c6ty",
+      "text": "# tableware "
+    },
+    {
+      "id": "01M0G9QJV9TCVJ2K0TSN4TDH6J",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:1005575a1af635e2c00809b1be6147b8d52255241a1433e8b4ff834200b1ab72",
+      "ref_handle": "blk-4tdh6j",
+      "text": "fazer o flush do memtable? verei"
+    }
+  ],
+  "pipeline_version": 4
+}

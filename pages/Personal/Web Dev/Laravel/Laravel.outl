@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "page_id": "0Q9W83G2G0YA09X60E255PMP8B",
+  "last_synced_hash": "sha256:966a38411ea28e1a8ade58a33dae5dde86742f4546228a34360cf0c52ed21ca2",
+  "last_synced_at": "2026-08-20T16:18:11.134496843-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9R1DYFNNNXP6V4P3DRVK9",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:d17e44a08120cb39d6a825267f1c872580f79c363026a54c61d2e2aeb369ac19",
+      "ref_handle": "blk-3drvk9",
+      "text": "[[Directory structure]]"
+    },
+    {
+      "id": "01M0G9R1DYJMMDN91PY45XX9D4",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:effaad04e2771defe78ed2d19453c7775c583203286f79a765d3e074fe46aa2f",
+      "ref_handle": "blk-5xx9d4",
+      "text": "[[VUE.JS - rendering but faster (lazy asf)]]"
+    },
+    {
+      "id": "01M0G9R1DY762ARK4521ZWRFZC",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:62750cf284d6572ff9188f37d8adc79ae2296092f2ff4aa74b404f36e3276760",
+      "ref_handle": "blk-zwrfzc",
+      "text": "[[Service Container]]"
+    },
+    {
+      "id": "01M0G9R1DY75X7YCWB3N223EYQ",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:b88728c8e157355958211c1c80ac426f25ce27c14d0e5735d10c91747a0a814b",
+      "ref_handle": "blk-223eyq",
+      "text": "[[Facades]]"
+    },
+    {
+      "id": "01M0G9R1DYRXFNY08706W083ZG",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:6a15adcce1bd09b1146c24d893b4ed0eb2991872fdc0eb44600cdff7721ab254",
+      "ref_handle": "blk-w083zg",
+      "text": "[[Routing]]"
+    }
+  ],
+  "pipeline_version": 4
+}

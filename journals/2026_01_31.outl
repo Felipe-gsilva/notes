@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "page_id": "5TZJ4G16C570M85X3BE2NC8NNK",
+  "last_synced_hash": "sha256:ef9cd2758e4392f0d9effe35ceaadeb56f00d802f7a86273ea6169f85542d9fc",
+  "last_synced_at": "2026-08-20T16:17:42.774655694-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9Q5QP8A5Y701HZTJ3A82P",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:01ca49229081185f8fddf60741a0038d8d27277f89629c22e9bb012f39c31835",
+      "ref_handle": "blk-j3a82p",
+      "text": "minha issue do a-sos"
+    }
+  ],
+  "pipeline_version": 4
+}

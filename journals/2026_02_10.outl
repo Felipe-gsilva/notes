@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "page_id": "6SQZ99KANEYY11SC1WV3F5PWFM",
+  "last_synced_hash": "sha256:84ed225e29af7984ac91f0bc1f131cd53b2ffbe29c79b983c1be77e8f6814720",
+  "last_synced_at": "2026-08-20T16:17:48.202686733-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QB1A7835T1HG2RGD8QZ7",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:ec9a9b85d6b5992fc71e305334df0463a6bbe43d0579b09681b9e288e0b602af",
+      "ref_handle": "blk-gd8qz7",
+      "text": "# manhã"
+    },
+    {
+      "id": "01M0G9QB1ASQTKK9JC5C0M81H4",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:e995781d8479c2806ed3af11aa37d72d1ea6e8d812305e2b5a5f82c7c1413c8b",
+      "ref_handle": "blk-0m81h4",
+      "text": "[X] Pull to refresh | Vinellu [155](https://github.com/avelino/vinellu-app/issues/155)"
+    },
+    {
+      "id": "01M0G9QB1AF8DD1TYEVMKRB96M",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:9b5b07df5a39ae9a772e4d2bfc8e4a5219bc82947f6bf6dd14ee2c4df8e0686c",
+      "ref_handle": "blk-krb96m",
+      "text": "[X] atualizar curriculo para melhor ATS (Applicant Tracking System) e legibilidade"
+    },
+    {
+      "id": "01M0G9QB1AW2GP2QXKT5ZAHBHQ",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:9c2b7e0d100d7225496ff07f7aa55f6c3ee953e34bccc46640fe22c4af516523",
+      "ref_handle": "blk-zahbhq",
+      "text": "# tarde"
+    },
+    {
+      "id": "01M0G9QB1AVR79A4RDFFCJAD3M",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:af4ad9d6872ed566378a9865f35f46e97d7b8a7e7436a10e11317a676d3c8a89",
+      "ref_handle": "blk-cjad3m",
+      "text": "[X] Copiar ic para o servidor ou rodar local um pouco"
+    },
+    {
+      "id": "01M0G9QB1AJDBH0VGJ2P0KSMDW",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:8e56a31e95b2433ddbf0a8f894959b2aab6fb31b20ac2fe5c6877dd9e18831a9",
+      "ref_handle": "blk-0ksmdw",
+      "text": "[X] escrever um pouco mais da metodologia"
+    },
+    {
+      "id": "01M0G9QB1A71HCHJ3QM31MDA8W",
+      "line": 7,
+      "indent": 1,
+      "content_hash": "sha256:61b347f9395b635164a948bdc8c20049b195226325b25acf01d37d85270d32f3",
+      "ref_handle": "blk-1mda8w",
+      "text": "intro a WCGAN escrito e melhor organizacao"
+    },
+    {
+      "id": "01M0G9QB1ASDP9HD7RTDVB3G92",
+      "line": 8,
+      "indent": 1,
+      "content_hash": "sha256:33987d0783fa07572fc43a34f73b3111cd709e5ec949f4412fa161ad303f99f3",
+      "ref_handle": "blk-vb3g92",
+      "text": "falta, pra amanha, DCGAN e GP na WCGAN"
+    },
+    {
+      "id": "01M0G9QB1A8478ZTMFAR05JQNM",
+      "line": 9,
+      "indent": 0,
+      "content_hash": "sha256:07cd8cf9112c3fffffe97b424f450639e3be96b93554314db6c10f54061206c2",
+      "ref_handle": "blk-05jqnm",
+      "text": "[ ] continuar estudo rust + db"
+    }
+  ],
+  "pipeline_version": 4
+}

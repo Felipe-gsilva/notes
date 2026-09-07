@@ -1,0 +1,129 @@
+{
+  "version": 2,
+  "page_id": "14KFQZXNMK4VKQKGFHK2Z95W0R",
+  "last_synced_hash": "sha256:5601aa22bca11891af4d569c01e752d50666e7fb20f64179329a6917cb7e2605",
+  "last_synced_at": "2026-08-20T16:18:04.810458211-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QV8A157ZTR2PVXE67EGT",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:fb27c07c80411c22e1ab9f22e330d6994fafa96954c53fec410e0a99444c0692",
+      "ref_handle": "blk-e67egt",
+      "text": "A ideia é estudar um pouco acerca de renderização real time pra poder aplicar no meu futuro IC."
+    },
+    {
+      "id": "01M0G9QV8ACBFTWMP9SXSETCW4",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:be755ccaec1a4bec66aa1346e38fa9c9e286288a7b6c328cbaa952aec7ae01fc",
+      "ref_handle": "blk-setcw4",
+      "text": "Pipeline basica de renderização:"
+    },
+    {
+      "id": "01M0G9QV8AJXXE5CMDSZ44WY3Q",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:2167b6e14d143fa3b85b2d8f6777322f44479e569862db843e213a41c84a40d7",
+      "ref_handle": "blk-44wy3q",
+      "text": "aplicação -> vertex shader -> frag shader -> output"
+    },
+    {
+      "id": "01M0G9QV8AGB9H88G161ZMP3KQ",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:2fd9cd75670eeec98d997872cebdf2a985c1677a882493923e5052233cd6bf08",
+      "ref_handle": "blk-zmp3kq",
+      "text": "# Vertex Shading"
+    },
+    {
+      "id": "01M0G9QV8A3H3NRV99FPSYQF46",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:e724a5fc31d396f00ffc851dbbe348c91e6eb5c411c9b8981ed2663495aeaaef",
+      "ref_handle": "blk-syqf46",
+      "text": "Esta parte da Pipeline Grafica basicamente determina a saida normalizada dos vértices de input, passados como túplas, usualmente apenas os vetores padrão em C."
+    },
+    {
+      "id": "01M0G9QV8AGGCEN4XHZ6NBB3E4",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:d42cd41591d0ff3b9f3b058578a6f82b8231258989a03cdcee6b82eef3ca5987",
+      "ref_handle": "blk-nbb3e4",
+      "text": "Cada \"objeto\" no espaço 2D nada mais é do que um conjunto de vértices tranformados. O que isso significa? Que um modelo/objeto tem seu conjunto interno de coordenadas, os quais são transformados para o ambiente (tambem um modelo) no qual ele está presente, para então ser transformado para o visualizador, a camera. Esse processo visa emular um ambiente 3D em um inexoravel ambiente 2D."
+    },
+    {
+      "id": "01M0G9QV8AEE6W8SJGVW0PC0F5",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:5b160000a51a23c51146758657b7941946328d60f10b2d5548dad0a31922d96b",
+      "ref_handle": "blk-0pc0f5",
+      "text": "As coordenadas de um modelo são chamadas de `coordenadas do modelo`, que sao transformadas para as `coordenadas do mundo`."
+    },
+    {
+      "id": "01M0G9QV8A0P2CPEPYKEQDHARB",
+      "line": 8,
+      "indent": 0,
+      "content_hash": "sha256:32aadf0734d2f47c2d26ddbaf454ece9036ae18364985e680e0b2bbdcbe262e8",
+      "ref_handle": "blk-qdharb",
+      "text": "## Transformações opcionais"
+    },
+    {
+      "id": "01M0G9QV8A8ZGB8BD4TKZ7CP6E",
+      "line": 9,
+      "indent": 0,
+      "content_hash": "sha256:e1116f87eeab6658d1436e37a8bffab9e450164b26b94ac2687583f8cbef4ffa",
+      "ref_handle": "blk-z7cp6e",
+      "text": "podemos usar tesselação (que consiste em hull shader, tesselator e domain shader) os quais servem para minimizar o uso de vértices distintos para se criar um objeto circular. Triangulos nao sao especialmente bons com isso, mas sao a unica opcao."
+    },
+    {
+      "id": "01M0G9QV8ARQZVTXV3J9N03CBR",
+      "line": 10,
+      "indent": 0,
+      "content_hash": "sha256:867f547a1711764f8fba1956223988bb8745eb9f0295d9a754b9ce1cae73a9ef",
+      "ref_handle": "blk-n03cbr",
+      "text": "podemos tambem usar o geometry shader, que consegue usar vértices no mundo e formar primitivas mais comuns com conjuntos deles."
+    },
+    {
+      "id": "01M0G9QV8A59NNFZKRCKE3B31B",
+      "line": 11,
+      "indent": 0,
+      "content_hash": "sha256:a70790a36d1853d3e5b3d832ada129df95c13b3e3ef27dca372ba1a392c32e85",
+      "ref_handle": "blk-e3b31b",
+      "text": "# Clipping"
+    },
+    {
+      "id": "01M0G9QV8AA36TP3KSFW03BZ3E",
+      "line": 12,
+      "indent": 0,
+      "content_hash": "sha256:e3e6aebe18bfa1a31f50e059d3436f79a358816789f94bf74cc4c19bd9b04eac",
+      "ref_handle": "blk-03bz3e",
+      "text": "A ideia é simples, apenas recortar o que não aparece na tela, ou seja, o que esta fora da direção e do quadrado de intersecção formado pelos vértices da camera (com, é claro, alguma margem)."
+    },
+    {
+      "id": "01M0G9QV8A91PT3EEWFM4RHSEX",
+      "line": 13,
+      "indent": 0,
+      "content_hash": "sha256:8772fb99f2596e8c1e02d8003b9285d6302404dbba9a9bf36976cf4f12a2a2c4",
+      "ref_handle": "blk-4rhsex",
+      "text": "# screen mapping "
+    },
+    {
+      "id": "01M0G9QV8AJXZ2XNZH932T5V2Y",
+      "line": 14,
+      "indent": 0,
+      "content_hash": "sha256:5f61ea7ac4ee043e2674f8e390c15512498b937de5e513d5f1a1e75030364aa0",
+      "ref_handle": "blk-2t5v2y",
+      "text": "normalizar o valor de posição dado pelo clipping e normaliza-lo de -1 a 1, ou seja, permitir que os valores estajam na tela."
+    },
+    {
+      "id": "01M0G9QV8AMVFFTA09FRQE4H28",
+      "line": 15,
+      "indent": 0,
+      "content_hash": "sha256:bb10ce8f9ff6b781d41e7135d5a086d56c02c8744f0a974e6009c03f5858f9d1",
+      "ref_handle": "blk-qe4h28",
+      "text": "# rasterização"
+    }
+  ],
+  "pipeline_version": 4
+}

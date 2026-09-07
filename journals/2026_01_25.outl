@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "page_id": "7FC30KBC2Y17Z668DCSPAKFK7E",
+  "last_synced_hash": "sha256:adcb7a25f60d41d31fed464039085ce43521ecf8c7a33d78d1e0a5f8d136e593",
+  "last_synced_at": "2026-08-20T16:17:50.024737311-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QCT8Y6T0Q1B698XSBHW2",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:2d48d6672cf4ddb5c549897d4bafcc5ee9f06529292ac682457b09e4defd4e20",
+      "ref_handle": "blk-xsbhw2",
+      "text": "[x]estruturar o projeto de api-server para entender ddd melhor"
+    },
+    {
+      "id": "01M0G9QCT8EERDB6KDGQSJKTJD",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:a72a6cc433db80142d2ac6d5847a40b41d659e1ae22164b6471e4578dfca8051",
+      "ref_handle": "blk-sjktjd",
+      "text": "achar outro objeto de estudo"
+    }
+  ],
+  "pipeline_version": 4
+}

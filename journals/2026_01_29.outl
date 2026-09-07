@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "page_id": "0185F2CK4JR1E8X031QS678BK8",
+  "last_synced_hash": "sha256:a67de962a7f2134e09340f198ee0a0fb9d7425360089c2e081517d699ccf813b",
+  "last_synced_at": "2026-08-20T16:17:49.400587839-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QC6RC5XA1AVBQK3T5GSS",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:650898b98cf4fcf643e17e8499891ab179d223d2cc897dc0a410c337c214fda1",
+      "ref_handle": "blk-3t5gss",
+      "text": "[X] escrever metodologia mais a fundo"
+    },
+    {
+      "id": "01M0G9QC6R0KXXXJWNYJ1XVDP3",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:1b2b67e999800524e07013b5c50e53352a297038c291330a7209a2262d87eb99",
+      "ref_handle": "blk-1xvdp3",
+      "text": "[X] mais issues no trampo"
+    }
+  ],
+  "pipeline_version": 4
+}

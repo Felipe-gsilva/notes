@@ -1,0 +1,369 @@
+{
+  "version": 2,
+  "page_id": "0VJ987YFC7NVAH35CQ42F095GX",
+  "last_synced_hash": "sha256:4f67529b78872b4f243163dbd6f7139893461c473733b2efe471b025f9ea3ac7",
+  "last_synced_at": "2026-08-20T16:18:02.754329389-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QS81T9DMYB529FV3CV27",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:b04c632474c633e0bc841362f68d6522edebce6d49cc9687d0e05617f8d04df3",
+      "ref_handle": "blk-v3cv27",
+      "text": "```Markdown"
+    },
+    {
+      "id": "01M0G9QS81PQPPJ56FE2MJVFMA",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:f09d65ed6679b5e82e5561b9a330d87d2746a11c77080b60b8cac0f456f2b857",
+      "ref_handle": "blk-mjvfma",
+      "text": "## App struct or class"
+    },
+    {
+      "id": "01M0G9QS810CSERV9CFP04TYXM",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:2299a172f323cdc4c65dc99b604dceed9875a36a7588a911533b78e375d95f2c",
+      "ref_handle": "blk-04tyxm",
+      "text": "This holds info on glfw window pointer and on the vulkan instance \"object\" itself, it works as an abstraction for the application."
+    },
+    {
+      "id": "01M0G9QS81Y9JZ0PS7P0ZYTBET",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:52eb17b543b0978d5c3fa523682aa07e5942e9f64fbb004000bb11b1353858b5",
+      "ref_handle": "blk-zytbet",
+      "text": "## Window handler"
+    },
+    {
+      "id": "01M0G9QS81C2340GRZFJ1EYAS0",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:25aa5eac600e837e6d8452371d2f57b5ea088cbf69ffa7a153e438c57a41f15f",
+      "ref_handle": "blk-1eyas0",
+      "text": "Glfw functions, such as `glfwInit`, `glfwWindowHint` and `glfwCreateWindow` (which returns a pointer to the window created). But you can literally use anything you want, like X11, Raylib or Win32."
+    },
+    {
+      "id": "01M0G9QS81WCZ2JZG773DPMTKY",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:c940deb75845015b17919e257b2a2ec8f567558a488a47ad89ff3018531db934",
+      "ref_handle": "blk-dpmtky",
+      "text": "## Instance"
+    },
+    {
+      "id": "01M0G9QS815CX6NWBE4AZAA2W2",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:906d3f27e7ac98e872a974a348a24cc458009be017ea987eab2a8847116826be",
+      "ref_handle": "blk-zaa2w2",
+      "text": "Instances are vulkan subsystems which link the Vulkan libs and the application. Vulkan does not have a global state, so all tracked state must be stored somewhere. This memory region is the `vkInstance` object. Each instance will be soon \"inserted\" with a bunch of logical devices depending on each function you do implement. The `VkInstanceCreateInfo` function creates a bunch of info inside this object (being treated as a struct in this C code) which describes the vulkan instance with .sType(type of struct), with .pNext(point to next) and so on."
+    },
+    {
+      "id": "01M0G9QS81NN87QG9337CR5TKC",
+      "line": 8,
+      "indent": 0,
+      "content_hash": "sha256:e65a52ace09f85284848811a409548043989ab21bfef6c538f8e9913b884b4c0",
+      "ref_handle": "blk-cr5tkc",
+      "text": "## Validation Layers (Optional for basic codes)"
+    },
+    {
+      "id": "01M0G9QS814AHXN23GEYKGN6TK",
+      "line": 9,
+      "indent": 0,
+      "content_hash": "sha256:9c8f772ff1763e4b9b92cd7d3bafd2a37d30d1babf4dab1b4ced7fe2a73b19f1",
+      "ref_handle": "blk-kgn6tk",
+      "text": "Validation layers are the debug layer you, dev, can add to the application. The vulkan docs adds lots of states you can share into your application and you can limit when this code run on the main header file."
+    },
+    {
+      "id": "01M0G9QS81B9H1R65WP9J3BHYK",
+      "line": 10,
+      "indent": 0,
+      "content_hash": "sha256:5c8ca12d24cd7a792e6d4d7baf8315beda5e25966340b768ae9e67ae096eac45",
+      "ref_handle": "blk-j3bhyk",
+      "text": "-Checking the values of parameters against the specification to detect misuse"
+    },
+    {
+      "id": "01M0G9QS8138Z23KKS2PFW0FJQ",
+      "line": 11,
+      "indent": 0,
+      "content_hash": "sha256:299a18bd96acc64c49fef3fac265798bd114faa0f8f8cbc0f47b24aa1305651d",
+      "ref_handle": "blk-fw0fjq",
+      "text": "-Tracking creation and destruction of objects to find resource leaks"
+    },
+    {
+      "id": "01M0G9QS81FN3A9V6ZP2E3302B",
+      "line": 12,
+      "indent": 0,
+      "content_hash": "sha256:931b80d83544e0b176697d744f1832b422e356f2d46f4bcd53d12f8086d9a9f0",
+      "ref_handle": "blk-e3302b",
+      "text": "-Checking thread safety by tracking the threads that calls originate from"
+    },
+    {
+      "id": "01M0G9QS81AVFYSP3S2GT7WV02",
+      "line": 13,
+      "indent": 0,
+      "content_hash": "sha256:fe423e09e36afa863d9c3cebffdae5f919e8fe1442d9527f418dbb764477d1f5",
+      "ref_handle": "blk-t7wv02",
+      "text": "-Logging every call and its parameters to the standard output"
+    },
+    {
+      "id": "01M0G9QS810JAC7SKHX5DJ15V1",
+      "line": 14,
+      "indent": 0,
+      "content_hash": "sha256:acdb9188bebf13057c831776e531dd5d6a810103cfb19089ee20df3dfb5b9e3e",
+      "ref_handle": "blk-dj15v1",
+      "text": "-Tracing Vulkan calls for profiling and replaying"
+    },
+    {
+      "id": "01M0G9QS81A210GK6K3ESBAN56",
+      "line": 15,
+      "indent": 0,
+      "content_hash": "sha256:87c0459759b3fccc6adc723e61f565f558bc8bddc302dd6bab5d46a2515444d4",
+      "ref_handle": "blk-sban56",
+      "text": "## Physical devices and queues families"
+    },
+    {
+      "id": "01M0G9QS81P5ABWCVS3HX379KH",
+      "line": 16,
+      "indent": 0,
+      "content_hash": "sha256:e1a0442f541ea52c112843d861896b68fec3f2972b9972c71d882a82044e1043",
+      "ref_handle": "blk-x379kh",
+      "text": "VkPhysical Devices functiuons can handle the number of devices and the physical device properties and features."
+    },
+    {
+      "id": "01M0G9QS81PW5SNGA7R91WPJ7C",
+      "line": 17,
+      "indent": 0,
+      "content_hash": "sha256:07ba55f3faed554f6e62012bd85602e79edf8dd09e574bea23ef08ec740f5fc1",
+      "ref_handle": "blk-1wpj7c",
+      "text": "It is important to get all gpu properties and features with `vkGetPhysicalDeviceFeatures` or `vkGetPhysicalDeviceProperties` and store this info, so you can pass it to the application later on."
+    },
+    {
+      "id": "01M0G9QS817088R0AG2H72CVNB",
+      "line": 18,
+      "indent": 0,
+      "content_hash": "sha256:5e64109b2f995aeebe08340ea9de1f4c02a68a847f85a1212ac3f58df5807f4e",
+      "ref_handle": "blk-72cvnb",
+      "text": "## Logical devices"
+    },
+    {
+      "id": "01M0G9QS81V2G9AHK795H062FG",
+      "line": 19,
+      "indent": 0,
+      "content_hash": "sha256:506f26ae1def5622f726bfc001108d65c5f42051391a060fccd4e28bfce52040",
+      "ref_handle": "blk-h062fg",
+      "text": "This are the Vulkan Abstraction for the Physical Devices handled before, they will be used in the future as the keepholders of important application info, such as the position where to render things and the gpu info gathered before."
+    },
+    {
+      "id": "01M0G9QS81ZAGH16FVYYVV7FZ3",
+      "line": 20,
+      "indent": 0,
+      "content_hash": "sha256:cc0e379e5129e6a1d1cb5a264acf813a0aaed2405ee83e95af50e0959fad2245",
+      "ref_handle": "blk-vv7fz3",
+      "text": "## Queues"
+    },
+    {
+      "id": "01M0G9QS81MJMN4NNM7YCA020G",
+      "line": 21,
+      "indent": 0,
+      "content_hash": "sha256:df159f18947fc3b8637b8c16856c70e2817980299ee544284c36854675e7573e",
+      "ref_handle": "blk-ca020g",
+      "text": "You may recognize this structure from your algorythims classes. If you are not familiarized with this, I recommend you to study it before continuing. However, the absctraction is pretty much done and you won't need to have a profound knowledge about this subject."
+    },
+    {
+      "id": "01M0G9QS81GR04STJD3MCW69BC",
+      "line": 22,
+      "indent": 0,
+      "content_hash": "sha256:5833c3c52c161b84bf716948df34363e36d8a62d902ac34c6b37ca15058be5a2",
+      "ref_handle": "blk-cw69bc",
+      "text": "// TODO"
+    },
+    {
+      "id": "01M0G9QS81H5DCCE9JGYJ26ZQ3",
+      "line": 23,
+      "indent": 0,
+      "content_hash": "sha256:e4ef5ce559f1472934cdad0eddb32a72f6348de8466e433f1487a60c2f6085bd",
+      "ref_handle": "blk-j26zq3",
+      "text": "## Queues Families"
+    },
+    {
+      "id": "01M0G9QS8108T41QKVG4QENE9Z",
+      "line": 24,
+      "indent": 0,
+      "content_hash": "sha256:44dd00f3aefcd1d4bf1285a46e143f5bd8916aa625cf5442d52a63749a471d5c",
+      "ref_handle": "blk-qene9z",
+      "text": "There are different types of queues that originate from different queue families and each family of queues allows only a subset of commands. For example, there could be a queue family that only allows processing of compute commands or one that only allows memory transfer related commands."
+    },
+    {
+      "id": "01M0G9QS816YVG79JEZKQ7X5VB",
+      "line": 25,
+      "indent": 0,
+      "content_hash": "sha256:0b3c71dde62fb0dbab20f7a1546eac15339e20c0d437ef9349d03ab5f66d24cc",
+      "ref_handle": "blk-q7x5vb",
+      "text": "## Window surface"
+    },
+    {
+      "id": "01M0G9QS81XABDW2M5WJCHABT3",
+      "line": 26,
+      "indent": 0,
+      "content_hash": "sha256:9d0e17a83ca6f6778ba8702d49b31825428a6c868f9ae36443c086d0b3118592",
+      "ref_handle": "blk-chabt3",
+      "text": "A window surface is the vulkan representation of where to render on your screen. Vulkan is an agnostic API, sou it doesn't know where to render and furthermore, it doesn't care which lib you are using for your window managment."
+    },
+    {
+      "id": "01M0G9QS812K4F35RC2S8V54QF",
+      "line": 27,
+      "indent": 0,
+      "content_hash": "sha256:f58d3c82f6405a6b4c993c5b167cb2d68873536e8eea9dd4b732fff619a6d0b9",
+      "ref_handle": "blk-8v54qf",
+      "text": "For that purpose, it uses the WSI (Window System Integration) to limit the area for rendering. You can use `VkSurfaceKHR` for GLFW."
+    },
+    {
+      "id": "01M0G9QS81R1N5692EWY80SAEM",
+      "line": 28,
+      "indent": 0,
+      "content_hash": "sha256:8bef40978774ce756a551a868989c8201b48e7aec8b16dd2db3e53dd73d8d725",
+      "ref_handle": "blk-80saem",
+      "text": "## Swap Chain"
+    },
+    {
+      "id": "01M0G9QS81JF64T5GW52DS2X41",
+      "line": 29,
+      "indent": 0,
+      "content_hash": "sha256:1b4e491a45b9bac89a246d305c85a10d7af224b132b4a78b13e84d5174eb3d3b",
+      "ref_handle": "blk-ds2x41",
+      "text": "## Image Views"
+    },
+    {
+      "id": "01M0G9QS812YRV2ENK6PBHD07S",
+      "line": 30,
+      "indent": 0,
+      "content_hash": "sha256:0f552357079f2d75924e29f06f3532689f21e3ddb8422709ac0060f45ca134bf",
+      "ref_handle": "blk-bhd07s",
+      "text": "## Dynamic states"
+    },
+    {
+      "id": "01M0G9QS8153WY5WJ3XV0S4MXZ",
+      "line": 31,
+      "indent": 0,
+      "content_hash": "sha256:1e12ea9e429e52601f25b51724359e21fbf9d5c94bc220c20d31fd6e1e03a2f6",
+      "ref_handle": "blk-0s4mxz",
+      "text": "## Vertex input"
+    },
+    {
+      "id": "01M0G9QS81TTQ4YYZNB0JEJ0TM",
+      "line": 32,
+      "indent": 0,
+      "content_hash": "sha256:f60b67c5e02c732ff98fc67fdec3caf6769834815b23b5a4c05e00f27a3a32de",
+      "ref_handle": "blk-jej0tm",
+      "text": "## Vertex Buffer"
+    },
+    {
+      "id": "01M0G9QS814PZQ3ANHGX7779YE",
+      "line": 33,
+      "indent": 0,
+      "content_hash": "sha256:31e2c15c64e754057f3c3311aa01152dd821591d009e8046377f431335cd11d8",
+      "ref_handle": "blk-7779ye",
+      "text": "## Input assembly"
+    },
+    {
+      "id": "01M0G9QS81P86F6F8KKSW8V18T",
+      "line": 34,
+      "indent": 0,
+      "content_hash": "sha256:ea20c5901f65bf919a47a5279a16b30f4c0230017bfcb778f4a83f1ebb0465bf",
+      "ref_handle": "blk-w8v18t",
+      "text": "## Viewport"
+    },
+    {
+      "id": "01M0G9QS810F1R16A1HDC6Y71W",
+      "line": 35,
+      "indent": 0,
+      "content_hash": "sha256:a854dd591194f9a7aeb799a29bb2b0cf2692670aa83f94860e9f38d7ca8bf47f",
+      "ref_handle": "blk-c6y71w",
+      "text": "Adjust the pixels shown on the screen, adapting and resizing where they should be outputed. "
+    },
+    {
+      "id": "01M0G9QS810SMVNT2Z0V1TV5MN",
+      "line": 36,
+      "indent": 0,
+      "content_hash": "sha256:c792fcc49c9332604bb1b9a4b576acfbd7b5ca1d762c48da0a19fc9efba40f09",
+      "ref_handle": "blk-1tv5mn",
+      "text": "## Scissors"
+    },
+    {
+      "id": "01M0G9QS812173P9V79MM21N2Z",
+      "line": 37,
+      "indent": 0,
+      "content_hash": "sha256:5f8082d6b1324695b19fd8b0c722193b3a8fd5a2ae0ad8cb5d2a59cf86a17b7f",
+      "ref_handle": "blk-m21n2z",
+      "text": "Just cut the pixels outside some range or ratio you choose, so they are not rasterized and printed later on."
+    },
+    {
+      "id": "01M0G9QS815MV8VGS6193NHR10",
+      "line": 38,
+      "indent": 0,
+      "content_hash": "sha256:56e9c11f9dbc9f9fe4c360d88bc937406d754fb770412bc4ada929592568deb7",
+      "ref_handle": "blk-3nhr10",
+      "text": "## Rasterizer"
+    },
+    {
+      "id": "01M0G9QS81XZ4E8763HD5DS4Z5",
+      "line": 39,
+      "indent": 0,
+      "content_hash": "sha256:b844cd5fe69b03ad9c022be0d89f8382528695b6b37317cf4816d75bd29869ec",
+      "ref_handle": "blk-5ds4z5",
+      "text": "## Multisampling"
+    },
+    {
+      "id": "01M0G9QS81AN4YDFYAEK73AXQZ",
+      "line": 40,
+      "indent": 0,
+      "content_hash": "sha256:c0003a18a3f0253a96616bbf076ee1b9fe25f05feb028aeccdcad5ddf3f2e345",
+      "ref_handle": "blk-73axqz",
+      "text": "## Depth and stencil testing"
+    },
+    {
+      "id": "01M0G9QS81RN065DVY5754QN5N",
+      "line": 41,
+      "indent": 0,
+      "content_hash": "sha256:8337b2ab4cd295e09e44ee2e79a9bace8b90faa5269ec8d24e94ae224ea8d204",
+      "ref_handle": "blk-54qn5n",
+      "text": "## Color blending"
+    },
+    {
+      "id": "01M0G9QS81W831Y20XGG55M8TX",
+      "line": 42,
+      "indent": 0,
+      "content_hash": "sha256:f80385c097ece3f349a4fed7eaa4f6008d280b2e43810c7bbfe09401f71adc49",
+      "ref_handle": "blk-55m8tx",
+      "text": "## Render Pass"
+    },
+    {
+      "id": "01M0G9QS81MHJR6AB71M79S5YM",
+      "line": 43,
+      "indent": 0,
+      "content_hash": "sha256:ae077df4514d870060cfc561a190663e852b3f6e96cd04c6183fe404aee0be26",
+      "ref_handle": "blk-79s5ym",
+      "text": "## Render subpasses"
+    },
+    {
+      "id": "01M0G9QS814R0T8YT9JSCXZ0MF",
+      "line": 44,
+      "indent": 0,
+      "content_hash": "sha256:7281c29243e8abe371bb0a2d66c23f3add616a8f2e31d4efa74ac6dabbba4ed9",
+      "ref_handle": "blk-cxz0mf",
+      "text": "## Recreating the Swap Chain"
+    },
+    {
+      "id": "01M0G9QS81W6BMSZ8N4JPTJNTZ",
+      "line": 45,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-ptjntz",
+      "text": "```"
+    }
+  ],
+  "pipeline_version": 4
+}

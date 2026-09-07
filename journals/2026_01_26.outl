@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "page_id": "4C5R8VK95T0NXZSZSHDVCBR9JZ",
+  "last_synced_hash": "sha256:352824daf33f3f6114cb67e60b2eb3de1a98ae216f0604af3d92a43e315031e6",
+  "last_synced_at": "2026-08-20T16:17:50.964178805-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QDQMV6SNTV29G2M6RYBS",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:bfbeee7c776290beeb628cc1b184f63659f83b45950829262d22401bec1b0820",
+      "ref_handle": "blk-m6rybs",
+      "text": "# Pessoal"
+    },
+    {
+      "id": "01M0G9QDQMQVMW7PF0EBSNAD42",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:97cf0d252b64406616b7381fb562b2bd13be483969cf919fabb91a0d307a83bb",
+      "ref_handle": "blk-snad42",
+      "text": "[X] falar com o chico"
+    },
+    {
+      "id": "01M0G9QDQM2SF0XYE5SGF0A30H",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:b155115ac0832d67bf4f54b0a96b61621b9dd6751975ddd5ee60125d3b429957",
+      "ref_handle": "blk-f0a30h",
+      "text": "# Trampo"
+    },
+    {
+      "id": "01M0G9QDQMV13VB3ZT21CFV3XG",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:4feafea87faa59a2d4fd621813767e99e4d571b8f0392c51c560c5a26df70b78",
+      "ref_handle": "blk-cfv3xg",
+      "text": "[X] Arrumar os erros principais pra depois focar nos tests"
+    },
+    {
+      "id": "01M0G9QDQM7Q87YHEGN1252X88",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "ref_handle": "blk-252x88",
+      "text": ""
+    },
+    {
+      "id": "01M0G9QDQMJTJAG95HZK2YCK2T",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:d5cdc1a9653615120517c01778b63d393ac4c361a1fe24c3f90423d8f1added8",
+      "ref_handle": "blk-2yck2t",
+      "text": "# IC"
+    },
+    {
+      "id": "01M0G9QDQMFD6242XYFATC2GJY",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:ffaa6c6eb44188704174ad7fd4cd6f16e755c3141056ef994810a380ababe163",
+      "ref_handle": "blk-tc2gjy",
+      "text": "hoje nao consigo escrever, to morto, mas o codigo da pra melhorar ainda"
+    },
+    {
+      "id": "01M0G9QDQMJ64RVF07SJCXKM6C",
+      "line": 8,
+      "indent": 1,
+      "content_hash": "sha256:e750de4e74d1d6cfeb1187600cad2eb0cf80260a81942a19343b6ad77880b9f6",
+      "ref_handle": "blk-cxkm6c",
+      "text": "[X] zipar e jogar no server pra treino"
+    },
+    {
+      "id": "01M0G9QDQMA64N9JR42KXDYPCE",
+      "line": 9,
+      "indent": 1,
+      "content_hash": "sha256:f7af5800d67e38fc140f1ccfdb0bd7beced4c3df0becf65fbbb7de6b82eb256d",
+      "ref_handle": "blk-xdypce",
+      "text": "[X] troca de BCELoss para BCELossWithLogitsLoss"
+    },
+    {
+      "id": "01M0G9QDQMFK48K3PPJST4R9QZ",
+      "line": 10,
+      "indent": 2,
+      "content_hash": "sha256:7b2905e8df10addb1188c479f5a1478fe1d19542b0912001330fbc781c5377d7",
+      "ref_handle": "blk-t4r9qz",
+      "text": "somente para tentar evitar o loss de 50.0, ou seja, evitando loss vanishing e colapso de modo (supostamente)"
+    }
+  ],
+  "pipeline_version": 4
+}

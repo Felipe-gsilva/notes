@@ -1,0 +1,481 @@
+{
+  "version": 2,
+  "page_id": "1D07GP08J3RF4M1YT7FKD4NN7M",
+  "last_synced_hash": "sha256:d916afebc7ddcd8422321cc1626cb9d0177b4b1e720164bb888ba93924291291",
+  "last_synced_at": "2026-08-20T16:18:11.648661317-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9R1Y08ZX9DXBTV2909F13",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:959a62e4d2563a85ca573288cc44db3f08dd7c528eed6c4fe7af0779da033533",
+      "ref_handle": "blk-909f13",
+      "text": "All config is set on `config` dir. Every option is documented."
+    },
+    {
+      "id": "01M0G9R1Y0FR14J3NJKE5FAH8Q",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:0fd26bf66c729d33b56283149fa0a38489234b7b687c880dc465a4454061dd79",
+      "ref_handle": "blk-5fah8q",
+      "text": "> [!important]  "
+    },
+    {
+      "id": "01M0G9R1Y0V08FQKTVNJARKN7B",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:318d07072aa470e030e393aeb0e3cf19ec01f9e1fc2623d78876b8c2d11f2f2f",
+      "ref_handle": "blk-arkn7b",
+      "text": "> These configuration files allow you to configure things like your database connection information, your mail server information, as well as various other core configuration values such as your application timezone and encryption key.  "
+    },
+    {
+      "id": "01M0G9R1Y0HTVSHHVNZ3SVM7B2",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:cda089831b70fcc9239885a44745593d5385091b29d1c0dcdaab947b8a46a8d1",
+      "ref_handle": "blk-svm7b2",
+      "text": "You can get a quick overview of your application's configuration, drivers, and environment via the `about` Artisan command:"
+    },
+    {
+      "id": "01M0G9R1Y052Q0WP72C85SYQZ6",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:abfa3cecedc6118101575c7ba11ef28e5af433427f5f9ac86628ea1c15ca084e",
+      "ref_handle": "blk-5syqz6",
+      "text": "```Shell"
+    },
+    {
+      "id": "01M0G9R1Y0FNBJMNDGTR12ASNJ",
+      "line": 6,
+      "indent": 0,
+      "content_hash": "sha256:63e84853cacdb898dc33298611e43072e9e1bef6ff7010dcdbd54e54cf918818",
+      "ref_handle": "blk-12asnj",
+      "text": "php artisan about"
+    },
+    {
+      "id": "01M0G9R1Y014RZZ89QY966Q2S7",
+      "line": 7,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-66q2s7",
+      "text": "```"
+    },
+    {
+      "id": "01M0G9R1Y0EZS9KK4XS9CAQ954",
+      "line": 8,
+      "indent": 0,
+      "content_hash": "sha256:3ed09c08ffd3012a343641a76ee5f88a081633b8e70aa9b5092f4f9076dfc946",
+      "ref_handle": "blk-caq954",
+      "text": "## Env config"
+    },
+    {
+      "id": "01M0G9R1Y0NDFM7VA1G9Z6JDV5",
+      "line": 9,
+      "indent": 0,
+      "content_hash": "sha256:2ad2b1cbd59881ec985e12995969ef29a7efa28590453a3ae9e7ffd3772d6d36",
+      "ref_handle": "blk-z6jdv5",
+      "text": "The environment (.env) uses DotEnv lib."
+    },
+    {
+      "id": "01M0G9R1Y0TCDKCYK3BPN2KQ5Z",
+      "line": 10,
+      "indent": 0,
+      "content_hash": "sha256:1a20da6337f002683921156b95dbb09474a8cf1ef2dd7cc6959c32e6d20ef26f",
+      "ref_handle": "blk-n2kq5z",
+      "text": "The `.env` file is read in `env` function, so you might, as well, set an `.env.example` file for your team to locate differences and what to change."
+    },
+    {
+      "id": "01M0G9R1Y0JMS50CVZAY77D7W8",
+      "line": 11,
+      "indent": 0,
+      "content_hash": "sha256:603a0c53a97c41f06912320a07490988ecfa293679b3545483050c86be32024d",
+      "ref_handle": "blk-77d7w8",
+      "text": "### More env files"
+    },
+    {
+      "id": "01M0G9R1Y08J531JYXRKKT0DMT",
+      "line": 12,
+      "indent": 0,
+      "content_hash": "sha256:c94ba6199072c64c802a81783a647fe3a2ad44cf2d700a1437f8103b11df7a8c",
+      "ref_handle": "blk-kt0dmt",
+      "text": "`.env` is the default file to the app, but you can specify APP_ENV variable provided on `--env` CLI arg."
+    },
+    {
+      "id": "01M0G9R1Y0BP98BQJF9NXFDPZZ",
+      "line": 13,
+      "indent": 0,
+      "content_hash": "sha256:7019b17ae98b0ec9b0c7fc4b1bbfd78dc0ae9b07d5cfda31116afcc1166d1062",
+      "ref_handle": "blk-xfdpzz",
+      "text": "# Environment Var Types"
+    },
+    {
+      "id": "01M0G9R1Y02WAYDF8TQQHA5Z6A",
+      "line": 14,
+      "indent": 0,
+      "content_hash": "sha256:ddbd763efd7143fa8759389ae6b1900b6f9fd2bf6dcf0f0fc69c3da3777f397d",
+      "ref_handle": "blk-ha5z6a",
+      "text": "|              |               |"
+    },
+    {
+      "id": "01M0G9R1Y0WMQ33GTDH45VFBNM",
+      "line": 15,
+      "indent": 0,
+      "content_hash": "sha256:b8324a285bd6a7ed4ab65385478aff5ab455373d05128531b6f88f10c4a5c316",
+      "ref_handle": "blk-5vfbnm",
+      "text": "| ------------ | ------------- |"
+    },
+    {
+      "id": "01M0G9R1Y078ZZRSY60NRC3N14",
+      "line": 16,
+      "indent": 0,
+      "content_hash": "sha256:f8313ef8e97672fdd835e1a12c2e86fb892b572e234e9b111ed3a12a37e122e3",
+      "ref_handle": "blk-rc3n14",
+      "text": "| `.env` Value | `env()` Value |"
+    },
+    {
+      "id": "01M0G9R1Y0Z3ZSBNR47QNSYVXN",
+      "line": 17,
+      "indent": 0,
+      "content_hash": "sha256:0eb97a96dced0f2f5f987a680a8b27909b3fa41d8de682732a7987beb5704c38",
+      "ref_handle": "blk-nsyvxn",
+      "text": "| true         | (bool) true   |"
+    },
+    {
+      "id": "01M0G9R1Y04N00RA4SR00H9W0C",
+      "line": 18,
+      "indent": 0,
+      "content_hash": "sha256:8fdf0aeac9b276caf98c649102d2e25c2714602564a4442fd8ffa642847ddbfe",
+      "ref_handle": "blk-0h9w0c",
+      "text": "| (true)       | (bool) true   |"
+    },
+    {
+      "id": "01M0G9R1Y0CVC34AE5NR54T3GX",
+      "line": 19,
+      "indent": 0,
+      "content_hash": "sha256:fd715b99c6f60b0ee4970e48343306e4e03af910ee604c521f62e1f27817ccdf",
+      "ref_handle": "blk-54t3gx",
+      "text": "| false        | (bool) false  |"
+    },
+    {
+      "id": "01M0G9R1Y0E4BTWRS5JHXB7YPE",
+      "line": 20,
+      "indent": 0,
+      "content_hash": "sha256:c689bcdf8b01d6f073523c417862e7f4eaf350b50cfb33e0db484db8fdf0e473",
+      "ref_handle": "blk-xb7ype",
+      "text": "| (false)      | (bool) false  |"
+    },
+    {
+      "id": "01M0G9R1Y0ZP0GSG0FEHJED2YH",
+      "line": 21,
+      "indent": 0,
+      "content_hash": "sha256:6d1e71dc044ec646863ff6dafe35234d82ce511da2ee46bc8ae5eca64603ace1",
+      "ref_handle": "blk-jed2yh",
+      "text": "| empty        | (string) ''   |"
+    },
+    {
+      "id": "01M0G9R1Y0ZZN79M5W16GYH3GR",
+      "line": 22,
+      "indent": 0,
+      "content_hash": "sha256:55cf6046d4ad768d9b57577d4910dfeacfd16f488880743cbaf405657d5d23c5",
+      "ref_handle": "blk-gyh3gr",
+      "text": "| (empty)      | (string) ''   |"
+    },
+    {
+      "id": "01M0G9R1Y0SN2SP1ZD8DKPZBFZ",
+      "line": 23,
+      "indent": 0,
+      "content_hash": "sha256:1850bd74b9d6f3d105864d2529dd04f75dc7b4fdc5c21e13f570e01ebc5f9359",
+      "ref_handle": "blk-kpzbfz",
+      "text": "| null         | (null) null   |"
+    },
+    {
+      "id": "01M0G9R1Y0H5V660C5C7CSE4XM",
+      "line": 24,
+      "indent": 0,
+      "content_hash": "sha256:f3b5df12ffe2a2173710eda0b7ae4539968bc46d7eade0b22152ae39f20d2500",
+      "ref_handle": "blk-cse4xm",
+      "text": "| (null)       | (null) null   |"
+    },
+    {
+      "id": "01M0G9R1Y07CJNB7E5WJRBRR1N",
+      "line": 25,
+      "indent": 0,
+      "content_hash": "sha256:9a753117c3c41ff5ba10c30c98c54ca30a68bd989a54c070fe1148eba7f243a2",
+      "ref_handle": "blk-rbrr1n",
+      "text": "If you need to define an environment variable with a value that  "
+    },
+    {
+      "id": "01M0G9R1Y00GH3M9FB3ZKCJ91X",
+      "line": 26,
+      "indent": 0,
+      "content_hash": "sha256:2a663dc0fc991cbac4189b6ea5e1100218a2eeff00cf3e74ffcccf8f08ef457d",
+      "ref_handle": "blk-kcj91x",
+      "text": "contains spaces, you may do so by enclosing the value in double quotes:  "
+    },
+    {
+      "id": "01M0G9R1Y01KHN85RR7NTYE9EC",
+      "line": 27,
+      "indent": 0,
+      "content_hash": "sha256:0fd26bf66c729d33b56283149fa0a38489234b7b687c880dc465a4454061dd79",
+      "ref_handle": "blk-tye9ec",
+      "text": "> [!important]  "
+    },
+    {
+      "id": "01M0G9R1Y01QC2J07K2KKTGM73",
+      "line": 28,
+      "indent": 0,
+      "content_hash": "sha256:80715c4f7eab9199dd992298d395dbd24e6c9e392af92c3fc90bccf24e7d670e",
+      "ref_handle": "blk-ktgm73",
+      "text": "> APP_NAME=\"My Application\"  "
+    },
+    {
+      "id": "01M0G9R1Y01PBGWEGX8NZBAGFT",
+      "line": 29,
+      "indent": 0,
+      "content_hash": "sha256:8c14949bc74d0272caf27256ca799b746661e86d120de10fd3735fe09aa842c3",
+      "ref_handle": "blk-zbagft",
+      "text": "# Retrieving Env Config"
+    },
+    {
+      "id": "01M0G9R1Y0YZ0E65ND30BXQFX8",
+      "line": 30,
+      "indent": 0,
+      "content_hash": "sha256:c6e6bdbfbaf5e2bba7d19d3a0ef250014d3a2011571b3994a5f0c52c07989290",
+      "ref_handle": "blk-bxqfx8",
+      "text": "All of the variables listed in the `.env` file will be loaded into the `$_ENV` PHP super-global."
+    },
+    {
+      "id": "01M0G9R1Y0M844S6P9DK1XDK39",
+      "line": 31,
+      "indent": 0,
+      "content_hash": "sha256:666e4a83a6d4a1895cbc927811a61e5788372d870fa54ebc1bb855582cb69e51",
+      "ref_handle": "blk-1xdk39",
+      "text": "`env` function args (’arg1’, false)."
+    },
+    {
+      "id": "01M0G9R1Y00ZJTZ17K9RT0XYFR",
+      "line": 32,
+      "indent": 0,
+      "content_hash": "sha256:2c2e50aa2fe44ae214356b52fb23f975d3316d2e9de5baf72facf85749a94fa9",
+      "ref_handle": "blk-t0xyfr",
+      "text": "## Curr Env"
+    },
+    {
+      "id": "01M0G9R1Y0PGTZTQCT6GP8QQX0",
+      "line": 33,
+      "indent": 0,
+      "content_hash": "sha256:cf8413b149037da31d533419ed58311e68318c73c8ad411807e2c503710f9822",
+      "ref_handle": "blk-p8qqx0",
+      "text": "You can code to a specific `env` by checking `App::environment` value:"
+    },
+    {
+      "id": "01M0G9R1Y08KF768H0QC0JB048",
+      "line": 34,
+      "indent": 0,
+      "content_hash": "sha256:aa60f64c22738558af04695c0dcad6f89af71e8779fccfbf13076812debe04d1",
+      "ref_handle": "blk-0jb048",
+      "text": "```PHP"
+    },
+    {
+      "id": "01M0G9R1Y04HA2C3EKJA24V7WG",
+      "line": 35,
+      "indent": 0,
+      "content_hash": "sha256:49e1ce97f19b5bf7c1e2d5cee65972a1f3bf053e4e82d01cb874d9124a1c956c",
+      "ref_handle": "blk-24v7wg",
+      "text": "if (App::environment('local')) {"
+    },
+    {
+      "id": "01M0G9R1Y0BN9TGFANGWMKZ384",
+      "line": 36,
+      "indent": 0,
+      "content_hash": "sha256:942ba90203b134f7caa7ce3847e9b9858c09372231c728f8025faf5b9da6114f",
+      "ref_handle": "blk-mkz384",
+      "text": "// The environment is local"
+    },
+    {
+      "id": "01M0G9R1Y08W8DZ6YVVK4J0HHA",
+      "line": 37,
+      "indent": 0,
+      "content_hash": "sha256:d10b36aa74a59bcf4a88185837f658afaf3646eff2bb16c3928d0e9335e945d2",
+      "ref_handle": "blk-4j0hha",
+      "text": "}"
+    },
+    {
+      "id": "01M0G9R1Y0QK2PBKN93PTP2MW4",
+      "line": 38,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-tp2mw4",
+      "text": "```"
+    },
+    {
+      "id": "01M0G9R1Y0Q3AWDW6XS40T8RA4",
+      "line": 39,
+      "indent": 0,
+      "content_hash": "sha256:cf6dcc77ff1d6aa1c7316a232f4227b3fa46d743534ff92870343ced70254f0d",
+      "ref_handle": "blk-0t8ra4",
+      "text": "## ENCRYPT ENVIRONMENT"
+    },
+    {
+      "id": "01M0G9R1Y00978C3VH5WJKWTC0",
+      "line": 40,
+      "indent": 0,
+      "content_hash": "sha256:582c76da56e1401e1b94bd4b59d2aedcc14a9180f37e6999435ebe9388070e5b",
+      "ref_handle": "blk-jkwtc0",
+      "text": "# **// TODO**"
+    },
+    {
+      "id": "01M0G9R1Y0ZBKPEHDVGRBGJE10",
+      "line": 41,
+      "indent": 0,
+      "content_hash": "sha256:2943374bc12613acbc57562f7f2d8d0e5f7bb0ccda39b0b8b825288b93857529",
+      "ref_handle": "blk-bgje10",
+      "text": "# Acessing config values"
+    },
+    {
+      "id": "01M0G9R1Y049AQF2AFE02V1QYE",
+      "line": 42,
+      "indent": 0,
+      "content_hash": "sha256:bd71c5c5d81905aaae204d211b9c18052b2631e850902b0b00aeed3ac08c52cc",
+      "ref_handle": "blk-2v1qye",
+      "text": "The `config` will return a specific value from the config or you even can set at runtime a change for the config files by sending an array on this syntax:"
+    },
+    {
+      "id": "01M0G9R1Y0KNRAEGQDQHYXCG8M",
+      "line": 43,
+      "indent": 0,
+      "content_hash": "sha256:aa60f64c22738558af04695c0dcad6f89af71e8779fccfbf13076812debe04d1",
+      "ref_handle": "blk-yxcg8m",
+      "text": "```PHP"
+    },
+    {
+      "id": "01M0G9R1Y09KD9GNBSBCYQ8HJW",
+      "line": 44,
+      "indent": 0,
+      "content_hash": "sha256:bccdf66aa70b5a946fa13279ee542b1594dfcf5015ddca411dd9b4e77ddc0d67",
+      "ref_handle": "blk-yq8hjw",
+      "text": "config(['app.timezone' => 'America/Chicago']);"
+    },
+    {
+      "id": "01M0G9R1Y069FZ6SCP55FRC5W6",
+      "line": 45,
+      "indent": 0,
+      "content_hash": "sha256:f1b901847390b0ed7e374e7c1e464ec17b46a427c487a5ad6cbd2906405083d5",
+      "ref_handle": "blk-frc5w6",
+      "text": "```"
+    },
+    {
+      "id": "01M0G9R1Y0TPDQDREFD3GGK6ZV",
+      "line": 46,
+      "indent": 0,
+      "content_hash": "sha256:662dcec212d64216418e4285034eda4d5cd40aea26d13a431f995130322cb514",
+      "ref_handle": "blk-ggk6zv",
+      "text": "## Caching"
+    },
+    {
+      "id": "01M0G9R1Y00SHZ24V100F6R63W",
+      "line": 47,
+      "indent": 0,
+      "content_hash": "sha256:b1c1f474b7b300eed408e3773c942ef23ac930811ff567f4ee4ecd5f263456c6",
+      "ref_handle": "blk-f6r63w",
+      "text": "Caching is simplified by just running the command `php artisan config:cache` , so, you don’t need to run it on local development."
+    },
+    {
+      "id": "01M0G9R1Y092ZYM3DHZ5FTQ7J0",
+      "line": 48,
+      "indent": 0,
+      "content_hash": "sha256:f621abfddc2d419162b61f578a60e04036104fe8520edbfb952f7414ab8e9020",
+      "ref_handle": "blk-ftq7j0",
+      "text": "> Once the configuration has been cached, your application's .env file will not be loaded by the framework during requests or Artisan commands"
+    },
+    {
+      "id": "01M0G9R1Y0V68VPSQGSXZE1W2K",
+      "line": 49,
+      "indent": 0,
+      "content_hash": "sha256:404688f0f5ee55ace686db3e51f33ae72dbcebe29b358e36b174ac9936eaf5bc",
+      "ref_handle": "blk-ze1w2k",
+      "text": "You can clear the cache by running `php artisan config:clear`"
+    },
+    {
+      "id": "01M0G9R1Y0154Z47JWFK4ED90G",
+      "line": 50,
+      "indent": 0,
+      "content_hash": "sha256:90f0890e0a7460095854d5e98be6a4a8974dead12f3cb9a5f9fe1c19136e7cc5",
+      "ref_handle": "blk-4ed90g",
+      "text": "# Env Modes"
+    },
+    {
+      "id": "01M0G9R1Y0S7Y028DD6KMREG98",
+      "line": 51,
+      "indent": 0,
+      "content_hash": "sha256:38b0d1b4692d1ff2d16d8318dbbcfeba6d5cba7bf6177e5cecc1ebe96b5559e4",
+      "ref_handle": "blk-mreg98",
+      "text": "### DEBUG"
+    },
+    {
+      "id": "01M0G9R1Y0T9WH1TQSJYVH25DN",
+      "line": 52,
+      "indent": 0,
+      "content_hash": "sha256:12bd080576d5cd3dac40b3d16cd83a711fcb99428424cc06ee1987544a917fcf",
+      "ref_handle": "blk-vh25dn",
+      "text": "can be set on `.env` file by changing APP_DEBUG value"
+    },
+    {
+      "id": "01M0G9R1Y0CMC14HGAKCYZV5F1",
+      "line": 53,
+      "indent": 0,
+      "content_hash": "sha256:87d0783f9feb6cba3405471b9364ad4697d4eb81a97237ec5afea34c2e5310ed",
+      "ref_handle": "blk-yzv5f1",
+      "text": "### MAINTENANCE"
+    },
+    {
+      "id": "01M0G9R1Y00D5AEN0DFX8AH5QZ",
+      "line": 54,
+      "indent": 0,
+      "content_hash": "sha256:e6b69bd9f77ef29adc72989fb4dfd372b78519f62cae0288daff2d93ada6477a",
+      "ref_handle": "blk-8ah5qz",
+      "text": "an exception will be thrown for the user when trying to request anything in the application (error code 503)"
+    },
+    {
+      "id": "01M0G9R1Y0SHA56K4QBSB9R2JN",
+      "line": 55,
+      "indent": 0,
+      "content_hash": "sha256:3fcf9aaf87306d90a0fd252b89e402b5c53aa605eb85b29dc973c37b67196238",
+      "ref_handle": "blk-b9r2jn",
+      "text": "it can be activated by running `php artisan down`"
+    },
+    {
+      "id": "01M0G9R1Y01AZF7QGZQYZXSZB0",
+      "line": 56,
+      "indent": 0,
+      "content_hash": "sha256:d11e6bd2979be7cccf36ddc3e608a45fb843dc5ecfb5e2fc5bdd0b2340b75f80",
+      "ref_handle": "blk-zxszb0",
+      "text": "You can make the browser refresh the page automatically for the user by sending `--refreseh=$_value_in_sencods_$`"
+    },
+    {
+      "id": "01M0G9R1Y0YDXXXJHJGPWJCND8",
+      "line": 57,
+      "indent": 0,
+      "content_hash": "sha256:207299c5c60bdacddc167c48de2782af9607b0b4684a7e77d323c78804de3991",
+      "ref_handle": "blk-wjcnd8",
+      "text": "> you can bypass with a code running `php artisan down --secret=\"1630542a-246b-4b66-afa1-dd72a4c43515\"`"
+    },
+    {
+      "id": "01M0G9R1Y0ZE1R8PSW5XC91RSX",
+      "line": 58,
+      "indent": 0,
+      "content_hash": "sha256:759ca280a315447c72dd42b542046755b670950ac9c048e4c399d3f26e9a19a1",
+      "ref_handle": "blk-c91rsx",
+      "text": "you can also `--redirect` or pre `--render` the error for the user."
+    },
+    {
+      "id": "01M0G9R1Y0HV0JRG1A2ZFTK18N",
+      "line": 59,
+      "indent": 0,
+      "content_hash": "sha256:9527179b7757becf627f1481b50b167f2ac99b4dc96dcd9121d2a06c4dd09c23",
+      "ref_handle": "blk-ftk18n",
+      "text": "`php artisan up` will disable maintenance"
+    }
+  ],
+  "pipeline_version": 4
+}

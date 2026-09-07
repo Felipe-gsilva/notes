@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "page_id": "5K5GQ052RA0ABVNXQCXNB3KS3P",
+  "last_synced_hash": "sha256:01de33990e19b79a18e4fc457413ae74bd20f199f79940a49b7e506e30f0e5af",
+  "last_synced_at": "2026-08-20T16:17:53.214483627-03:00",
+  "blocks": [
+    {
+      "id": "01M0G9QFXYC67G1ZJATDB981AJ",
+      "line": 1,
+      "indent": 0,
+      "content_hash": "sha256:357c96e95fa6533668bf76632ac87b72f0f911cb46920da32c1f19e447420759",
+      "ref_handle": "blk-b981aj",
+      "text": "# Vinellu"
+    },
+    {
+      "id": "01M0G9QFXY5EEBM2ND4475PEMZ",
+      "line": 2,
+      "indent": 0,
+      "content_hash": "sha256:4fcc7016c8460cffb349c3e175702950eb35cfb592bd648bf233e92d1ab4df34",
+      "ref_handle": "blk-75pemz",
+      "text": "[ ] falta arrumar o erro de keyboard e finalização do onboarding"
+    },
+    {
+      "id": "01M0G9QFXY1JRZRAX1415DDBBF",
+      "line": 3,
+      "indent": 0,
+      "content_hash": "sha256:6fa5f71ce094a1614fc997ce588910003e08ba34b95cf4720a778c790e2b09ce",
+      "ref_handle": "blk-5ddbbf",
+      "text": "[ ] mais testes unitários e está pronto o projeto"
+    },
+    {
+      "id": "01M0G9QFXY8F3BGPS0SQTXX3YJ",
+      "line": 4,
+      "indent": 0,
+      "content_hash": "sha256:16becee509d67fee07aef96a007fe2dbd1b3ee023dea777bb1654d4a7912055e",
+      "ref_handle": "blk-txx3yj",
+      "text": "# Personal"
+    },
+    {
+      "id": "01M0G9QFXYQ05XE69PP0J0JE4W",
+      "line": 5,
+      "indent": 0,
+      "content_hash": "sha256:ff1cae726fb1ff543d73913c495099f00e8e7b0d6b877269f71c6bb8dbb01561",
+      "ref_handle": "blk-j0je4w",
+      "text": "começar o slide com o J"
+    }
+  ],
+  "pipeline_version": 4
+}
